@@ -1,11 +1,11 @@
 **Patch/Changes 8.8** *(Network Changes)*
 :shiny: [Survival] Fixed the typo in an old broadcast
+:shiny: [Survival] Reduced the price of Confusion Key within voteshop
+:shiny: [Survival] Reduced the price of totem of undying within voteshop
 :shiny: [Survival] Fixed a quick bug with Vitality Relic series item lore
 :shiny: [Survival] Fixed /warp upgrade as it was spawning players in an empty void
 :shiny: [Survival] Beetroot is now a re-newable farming block that regenates every 30s
-:shiny: [Survival] Reduced the price of Confusion Key within voteshop
-:shiny: [Survival] Reduced the price of totem of undying within voteshop
-:shiny: [Survival] 
+:shiny: [Survival] I became a fish 
 :shiny: [Survival] 
 :shiny: [Survival] Dungeon loot will no longer be Placable, E.G Boss Token, Amethyst etc
 :shiny: [Survival] Changed One-Third of the carrot farm into beetroot farm at **[/warp farms]**
