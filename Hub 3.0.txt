@@ -1,0 +1,17 @@
+**Patch/Changes 3.0** *(Hub)*
+:smol: **CHANGED HUB SPAWN THEME** Brand new hub with easier access to NPC's
+:smol: **CHRISTMAS THEMED** Added a nice welcome sign and added snow stuff :D
+:smol: **ADDED IN WEEKLY GAMES IN SERVER SELECTOR**, Now quickly join our bi-weekly event games.
+:smol: **MOVED PARKOUR HOLOGRAM** - Bit more easier to read and interact
+:smol: **MODIFIED ALL HUB INVENTORY** Items names, Bit fancier and easier to read.
+:smol: **MODIFIED WELCOME JOIN** Message and title
+
+**JAVA CHANGE LOGS**
+:smol: Completely modified the way inventory appears
+:smol: Added in brand new escape key menu for java players
+:smol: Added in quick server guidance messages for java players
+:smol: Added in modified server selector menu
+:smol: Added in Parkour Menu that looks good and shows statistics
+:smol: Added in Social Media Menu for java players
+:smol: Added in Social Media inventory item to help players navigate to our social media
+:smol: Added in Parkour tool/menu item in player hotbar
