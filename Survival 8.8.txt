@@ -1,0 +1,46 @@
+**Patch/Changes 8.8** *(Network Changes)*
+:shiny: [Survival] Fixed a quick bug with Vitality Relic series item lore
+:shiny: [Survival] Fixed /warp upgrade as it was spawning players in an empty void
+:shiny: [Survival] Changed One-Third of the carrot farm into beetroot farm at **[/warp farms]**
+:shiny: [Survival] Halloween 2.0 Monthlycrate changes - Removal of Furniture and added in better perks
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+**[@Changelogs]**
+
+| PLACEHOLDER
+
+**DUNGEON WASTELAND CHANGES**
+
+**DUNGEON FROST CHANGES**
+
+**DUNGEON MINE CHANGES**
+
+**DUNGEON VOLCANO CHANGES**
