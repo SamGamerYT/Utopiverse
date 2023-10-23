@@ -4,10 +4,10 @@
 :shiny: [Survival] Reduced the price of totem of undying within voteshop
 :shiny: [Survival] Fixed a quick bug with Vitality Relic series item lore
 :shiny: [Survival] Fixed /warp upgrade as it was spawning players in an empty void
-:shiny: [Survival] Beetroot is now a re-newable farming block that regenates every 30s
 :shiny: [Survival] Death Chest claim price has been reduced to $500 from $2500
 :shiny: [Survival] Death Chest fetch price has been reduced from $5000 to $2500
-:shiny: [Survival] 
+:shiny: [Survival] Beetroot is now a re-newable farming block that regenates every 30s
+:shiny: [Survival] Whenever you vote on all 6 voting sites, you get free 30 minutes of global fly
 :shiny: [Survival] Dungeon loot will no longer be Placable, E.G Boss Token, Amethyst etc
 :shiny: [Survival] Changed One-Third of the carrot farm into beetroot farm at **[/warp farms]**
 :shiny: [Survival] Halloween 2.0 Monthlycrate changes - Removal of Furniture and added in better perks
