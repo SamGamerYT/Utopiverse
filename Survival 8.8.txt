@@ -5,6 +5,7 @@
 :shiny: [Survival] Fixed a quick bug with Vitality Relic series item lore
 :shiny: [Survival] Fixed /warp upgrade as it was spawning players in an empty void
 :shiny: [Survival] Beetroot is now a re-newable farming block that regenates every 30s
+:shiny: [Survival] Death Chest claim price has been reduced to $500 from $2500
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] Dungeon loot will no longer be Placable, E.G Boss Token, Amethyst etc
@@ -13,6 +14,7 @@
 :shiny: [Survival] Updated the old broadcast to ensure players are up to date with the server information
 :shiny: [Survival] Boats will no longer be removed from entity clear however this decision may get reversed
 :shiny: [Survival] Made entity clear announcement a bit more intimidating to make players notice it more often
+:shiny: [Survival] Copper Trader is now working properly, Head over to [/warp blacksmith] to open the new trading menu
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
