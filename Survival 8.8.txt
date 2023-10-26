@@ -7,15 +7,15 @@
 :shiny: [Survival] Death Chest claim price has been reduced to $500 from $2500
 :shiny: [Survival] Death Chest fetch price has been reduced from $5000 to $2500
 :shiny: [Survival] Beetroot is now a re-newable farming block that regenates every 30s
-:shiny: [Survival] Whenever you vote on all 6 voting sites, you get free 30 minutes of global fly
 :shiny: [Survival] Dungeon loot will no longer be Placable, E.G Boss Token, Amethyst etc
 :shiny: [Survival] Changed One-Third of the carrot farm into beetroot farm at **[/warp farms]**
+:shiny: [Survival] Whenever you vote on all 6 voting sites, you get free 30 minutes of global fly
 :shiny: [Survival] Halloween 2.0 Monthlycrate changes - Removal of Furniture and added in better perks
 :shiny: [Survival] Updated the old broadcast to ensure players are up to date with the server information
 :shiny: [Survival] Boats will no longer be removed from entity clear however this decision may get reversed
 :shiny: [Survival] Made entity clear announcement a bit more intimidating to make players notice it more often
 :shiny: [Survival] Copper Trader is now working properly, Head over to [/warp blacksmith] to open the new trading menu
-:shiny: [Survival] 
+:shiny: [Survival] Players will now no longer crash at /spawn, /warp blacksmith, /warp mall ando ther places, This applies to Survival and Oneblock
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
