@@ -1,7 +1,8 @@
 **Patch/Changes 8.9** *(Network Changes)*
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Jade Sword** Purchasable at /warp blacksmith (Dungeon Trader)
+:shiny: [Survival] Added **Kyanite Sword** Purchasable at /warp blacksmith (Dungeon Trader)
+:shiny: [Survival] Added **Lost Miner Gear** Purchasable at /warp blacksmith (Dungeon Trader)
+:shiny: [Survival] Modifications to Daily Broadcast, Elaborating further on how to use it and where to get it
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
