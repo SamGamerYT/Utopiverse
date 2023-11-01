@@ -1,6 +1,6 @@
 **Patch/Changes 8.9** *(Network Changes)*
 :shiny: [Survival] Modified title of Rules UI
-:shiny: [Survival] 
+:shiny: [Survival] Modified Bedrock Dungeon UI
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 

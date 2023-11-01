@@ -1,7 +1,9 @@
 **Patch/Changes 3.1** *(Hub)*
 :butter~1: Disabled Boss Bar
+:butter~1: Added in Defender Realm Banner
+:butter~1: Modified Survival's Banner
+:butter~1: Modified Oneblock's Banner, Temporal name of OneSky (Related to Oneblock 2.0)
 :butter~1: Added Welcome Hologram Player Statistic from Boss Bar
-:butter~1: 
 :butter~1: 
 :butter~1: 
 :butter~1: 
