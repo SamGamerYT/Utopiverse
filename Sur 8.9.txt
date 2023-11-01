@@ -4,9 +4,9 @@
 :shiny: [Survival] Modified Protection Stone UI
 :shiny: [Survival] Modified Guide Menu UI (Added /tagshop)
 :shiny: [Survival] Modified Settings UI (Added Fire Spread Option)
+:shiny: [Survival] Reduced the Size of Chat, ChatMinigames Take (Small Messages)
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] Prestige Tags has been disabled and removed from survival
+:shiny: [Survival] Prestige Tags has been disabled and removed (Won't Come Back Ever)
 :shiny: [Survival] Added **Jade Sword** Purchasable at /warp blacksmith (Dungeon Trader)
 :shiny: [Survival] Added **Kyanite Sword** Purchasable at /warp blacksmith (Dungeon Trader)
 :shiny: [Survival] Added **Lost Miner Gear** Purchasable at /warp blacksmith (Dungeon Trader)
