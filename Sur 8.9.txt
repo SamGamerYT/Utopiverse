@@ -3,7 +3,7 @@
 :shiny: [Survival] Modified Bedrock Dungeon UI
 :shiny: [Survival] Modified Protection Stone UI
 :shiny: [Survival] Modified Guide Menu UI (Added /tagshop)
-:shiny: [Survival] 
+:shiny: [Survival] Modified Settings UI (Added Fire Spread Option)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] Prestige Tags has been disabled and removed from survival
