@@ -22,7 +22,7 @@
 :shiny: [Survival] New **/tagshop** addition to the game where you can buy tags with in-game currency
 :shiny: [Survival] Fixed an issue where *"/psallow"* and *"/psremove"* commands were not working as expected
 :shiny: [Survival] Modifications to Daily Broadcast, Elaborating further on how to use it and where to get it
-:shiny: [Survival] 
+:shiny: [Survival] Added the following spawners to Spawner Crate "Zombie Villager, Hoglin, Ghast & Mooshroom" Spawners
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
