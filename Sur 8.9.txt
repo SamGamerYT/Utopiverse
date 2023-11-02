@@ -2,9 +2,18 @@
 :shiny: [Survival] Modified title of Rules UI
 :shiny: [Survival] Modified Bedrock Dungeon UI
 :shiny: [Survival] Modified Protection Stone UI
+:shiny: [Survival] /PShop is now a registered Command
 :shiny: [Survival] Modified Guide Menu UI (Added /tagshop)
 :shiny: [Survival] Modified Settings UI (Added Fire Spread Option)
 :shiny: [Survival] Reduced the Size of Chat, ChatMinigames Take (Small Messages)
+:shiny: [Survival] Modified Realm Name's within Chat (Smaller and more Appealing)
+:shiny: [Survival] Modified Player Sleeping Requirement, Now if a single player is sleeping it will turn day time.
+
+:shiny: [Survival] Removed Totem of Undying from Copper Trader
+:shiny: [Survival] Added "Plenty" Repair Stone within Copper Trader
+:shiny: [Survival] Added New ways to obtain Copper Medal (One of them is Normal Copper)
+
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] Prestige Tags has been disabled and removed (Won't Come Back Ever)
 :shiny: [Survival] Added **Jade Sword** Purchasable at /warp blacksmith (Dungeon Trader)
