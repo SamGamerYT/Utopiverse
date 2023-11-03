@@ -6,9 +6,9 @@
 :butter~1: Added Two new Build-Boards near the walkway
 :butter~1: Added Arrow Pointing towards the NPC for new players
 :butter~1: Added Welcome Hologram Player Statistic from Boss Bar
-:butter~1: 
-:butter~1: 
-:butter~1: 
+:butter~1: Modified Survival's NPC
+:butter~1: Modified OneSky's NPC
+:butter~1: Added in Defender Minigame NPC
 :butter~1: 
 
 **JAVA CHANGE LOGS**
