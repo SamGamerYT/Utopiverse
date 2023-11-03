@@ -3,7 +3,10 @@
 :butter~1: Added in Defender Realm Banner
 :butter~1: Modified Survival's Banner
 :butter~1: Modified Oneblock's Banner, Temporal name of OneSky (Related to Oneblock 2.0)
+:butter~1: Added Two new Build-Boards near the walkway
+:butter~1: Added Arrow Pointing towards the NPC for new players
 :butter~1: Added Welcome Hologram Player Statistic from Boss Bar
+:butter~1: 
 :butter~1: 
 :butter~1: 
 :butter~1: 
