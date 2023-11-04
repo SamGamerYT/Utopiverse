@@ -9,6 +9,8 @@
 :butter~1: Modified Survival's NPC
 :butter~1: Modified OneSky's NPC
 :butter~1: Added in Defender Minigame NPC
+:butter~1: Major System Update to improve performance and keep out pesky basement dwellers
+:butter~1: 
 :butter~1: 
 
 **JAVA CHANGE LOGS**
