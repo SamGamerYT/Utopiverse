@@ -13,7 +13,7 @@
 :shiny: [Survival] Added "Plenty" Repair Stone within Copper Trader
 :shiny: [Survival] Added New ways to obtain Copper Medal (One of them is Normal Copper)
 
-:shiny: [Survival] 
+
 :shiny: [Survival] Prestige Tags has been disabled and removed (Won't Come Back Ever)
 :shiny: [Survival] Added **Jade Sword** Purchasable at /warp blacksmith (Dungeon Trader)
 :shiny: [Survival] Added **Kyanite Sword** Purchasable at /warp blacksmith (Dungeon Trader)
@@ -23,8 +23,14 @@
 :shiny: [Survival] Fixed an issue where *"/psallow"* and *"/psremove"* commands were not working as expected
 :shiny: [Survival] Modifications to Daily Broadcast, Elaborating further on how to use it and where to get it
 :shiny: [Survival] Added the following spawners to Spawner Crate "Zombie Villager, Hoglin, Ghast & Mooshroom" Spawners
+
+:shiny: [Survival] Major System Update to improve performance and keep out pesky basement dwellers
 :shiny: [Survival] 
-:shiny: [Survival] 
+
+**[@Changelogs]**
+
+
+
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -35,28 +41,7 @@
 :shiny: [Survival] 
 
 **DUNGEON FROST CHANGES**
-:shiny: [Dungeon] 
-:shiny: [Dungeon] 
-:shiny: [Dungeon] 
-:shiny: [Dungeon] 
-:shiny: [Dungeon] 
-
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**[@Changelogs]**
 
 | PLACEHOLDER
 
