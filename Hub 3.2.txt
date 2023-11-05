@@ -1,4 +1,6 @@
 **Patch/Changes 3.2** *(Hub)*
+:butter~1: Disabled Axolotl Spawning, and Fishes Spawning
+:butter~1: Fixed a minor error for /discord, Previously displayed as 
 :butter~1: 
 :butter~1: 
 :butter~1: 
@@ -9,9 +11,7 @@
 :butter~1: 
 :butter~1: 
 :butter~1: 
-:butter~1: 
-:butter~1: 
-:butter~1: 
+:butter~1: Fixed the issue where Java Players were not able to run any sort of commands
 
 **JAVA CHANGE LOGS**
 :butter~1: 
