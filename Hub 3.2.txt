@@ -1,7 +1,7 @@
 **Patch/Changes 3.2** *(Hub)*
 :butter~1: Disabled Axolotl Spawning, and Fishes Spawning
 :butter~1: Fixed a minor error for /discord, Previously displayed as 
-:butter~1: 
+:butter~1: Fixed an issue where java players would get spammed for opening Parkour and Social UI's
 :butter~1: 
 :butter~1: 
 :butter~1: 
