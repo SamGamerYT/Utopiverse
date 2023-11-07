@@ -18,9 +18,9 @@
 :shiny: [Survival] Midas and Necromancer Gear now have unique particles surrounding the players that are wearing them
 
 **BLACKMARKET RELEASE**
-:shiny: [Survival] Blackmarket NPC will now sell Villager Eggs
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] BlackMarket NPC will now sell Villager Eggs
+:shiny: [Survival] BlackMarket NPC will now sell Cozy's Line Furnitures
+:shiny: [Survival] BlackMarket
 :shiny: [Survival]
 :shiny: [Survival] The NPC for blackmarket can now be visited in the hidden location *(Right below PvP Zone)* 
 
