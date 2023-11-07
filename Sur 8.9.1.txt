@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.1** *(Network Changes)*
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] There's a new hidden location within /codex
 :shiny: [Survival] 
 :shiny: [Survival] Fixed Patch CE Not working as expected
 :shiny: [Survival] Fixed Reforge CE Not working as expected
@@ -20,7 +20,7 @@
 **BLACKMARKET RELEASE**
 :shiny: [Survival] BlackMarket NPC will now sell Villager Eggs
 :shiny: [Survival] BlackMarket NPC will now sell Cozy's Line Furnitures
-:shiny: [Survival] BlackMarket
+:shiny: [Survival] BlackMarket NPC will now buy Phone Booth, ATM Machine and Trash Can from players.
 :shiny: [Survival]
 :shiny: [Survival] The NPC for blackmarket can now be visited in the hidden location *(Right below PvP Zone)* 
 
