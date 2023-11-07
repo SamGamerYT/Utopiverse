@@ -1,15 +1,15 @@
 **Patch/Changes 8.9.1** *(Network Changes)*
 :shiny: [Survival] 
-:shiny: [Survival] Fixed Sinister Dagger not working as expected
 :shiny: [Survival] Fixed Patch CE Not working as expected
 :shiny: [Survival] Fixed Reforge CE Not working as expected
 :shiny: [Survival] Fixed Hardened CE Not working as expected
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Sinister Dagger not working as expected
+:shiny: [Survival] Fixed "/fix" repairshop not teleporting you to blacksmith
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] Patched a bug where players couldn't toggle their scoreboard/info board
+:shiny: [Survival] Midas and Necromancer Gear now have unique particles surrounding the players that are wearing them
 
 :shiny: [Survival] 
 :shiny: [Survival] 
