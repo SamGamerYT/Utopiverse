@@ -9,10 +9,13 @@
 :shiny: [Survival] Fixed Sinister Dagger not working as expected
 :shiny: [Survival] Fixed "/fix" repairshop not teleporting you to blacksmith
 :shiny: [Survival] Modified Lore of "/shop" UI, Making it slightly more appealing.
+
+:shiny: [Survival] There is now a chance for players to obtain "SLIME_CLOAK" from Mommy Slimes (D0)
+:shiny: [Survival] There is now a chance for players to obtain "POLAR_BEAR_CLOAK" from Frost Boss (D1)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
+
 :shiny: [Survival] New Anti-Crash system in place to keep the basement dwellers outside
 :shiny: [Survival] Patched a bug where players couldn't toggle their scoreboard/info board
 :shiny: [Survival] Midas and Necromancer Gear now have unique particles surrounding the players that are wearing them
