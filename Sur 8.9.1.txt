@@ -1,10 +1,5 @@
 **Patch/Changes 8.9.1** *(Network Changes)*
-:shiny: [Survival] 
 :shiny: [Survival] **[Important]** Modifications of /rewards UI, Messages and Options
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 :shiny: [Survival] Fixed Patch CE Not working as expected
 :shiny: [Survival] Fixed Reforge CE Not working as expected
 :shiny: [Survival] Fixed Hardened CE Not working as expected
