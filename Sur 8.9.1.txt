@@ -18,7 +18,7 @@
 **BLACKMARKET RELEASE**
 :shiny: [Survival] BlackMarket NPC will now sell Villager Eggs
 :shiny: [Survival] BlackMarket NPC will now sell Cozy's Line Furnitures
-:shiny: [Survival] BlackMarket NPC will now buy Phone Booth, ATM Machine and Trash Can from players.=
+:shiny: [Survival] BlackMarket NPC will now buy Phone Booth, ATM Machine and Trash Can from players.
 :shiny: [Survival] The NPC for blackmarket can now be visited in the hidden location *(Right below PvP Zone)* 
 
 **[@Changelogs]**
