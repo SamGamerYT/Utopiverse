@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.2** *(Network Changes)*
 :shiny: [Survival] New Farming Portal located near the Christmas Hut
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Monarch Reward not changing the icon properly
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
