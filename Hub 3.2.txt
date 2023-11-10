@@ -7,12 +7,4 @@
 :butter~1: Fixed the issue where Java Players were not able to run any sort of commands
 :butter~1: Fixed an issue where java players would get spammed for opening Parkour and Social UI's
 
-**JAVA CHANGE LOGS**
-:butter~1: 
-:butter~1: 
-:butter~1: 
-:butter~1: 
-:butter~1: 
-:butter~1: 
-:butter~1: 
-:butter~1: 
+**[@Changelogs]**
