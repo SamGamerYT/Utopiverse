@@ -1,8 +1,8 @@
 **Patch/Changes 8.9.2** *(Network Changes)*
 :shiny: [Survival] New Farming Portal located near the Christmas Hut
 :shiny: [Survival] Fixed Monarch Reward not changing the icon properly
+:shiny: [Survival] Added "COBWEB" Item within Decoration Shop Category
 :shiny: [Survival] Relocated Blacksmith's Hologram and Upgrader NPC near Blacksmith
-:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
