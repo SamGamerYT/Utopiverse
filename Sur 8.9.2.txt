@@ -4,7 +4,7 @@
 :shiny: [Survival] Fixed Monarch Reward not changing the icon properly
 :shiny: [Survival] Added "COBWEB" Item within Decoration Shop Category
 :shiny: [Survival] Relocated Blacksmith's Hologram and Upgrader NPC near Blacksmith
-:shiny: [Survival] 
+:shiny: [Survival] Fixed "/copper-trader" command not pointing to the new trading station
 :shiny: [Survival] Added the following buckets within Miscellaneous shop (Salmon, Tadpole, Axolotl, Tropical) *(Prices by _BrokenJJ)*
 :shiny: [Survival] Modified Rewards Design again, However we are now also including **FREE WEEKLY AND MONTHLY** Claimable rewards for players
 
