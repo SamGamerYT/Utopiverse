@@ -2,7 +2,9 @@
 :shiny: [Survival] Modified Player Deathmessages
 :shiny: [Survival] New Farming Portal located near the Christmas Hut
 :shiny: [Survival] Fixed Monarch Reward not changing the icon properly
+:shiny: [Survival] 
 :shiny: [Survival] Added "COBWEB" Item within Decoration Shop Category
+:shiny: [Survival] Fixed "/pshop" and "/information" command not working in java
 :shiny: [Survival] Relocated Blacksmith's Hologram and Upgrader NPC near Blacksmith
 :shiny: [Survival] Fixed "/copper-trader" command not pointing to the new trading station
 :shiny: [Survival] Added the following buckets within Miscellaneous shop (Salmon, Tadpole, Axolotl, Tropical) *(Prices by _BrokenJJ)*
