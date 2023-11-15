@@ -2,6 +2,8 @@
 :shiny: [Survival] Modified Player Deathmessages
 :shiny: [Survival] New Farming Portal located near the Christmas Hut
 :shiny: [Survival] Fixed Monarch Reward not changing the icon properly
+:shiny: [Survival] Fixed Music Disc shop category
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] Added "COBWEB" Item within Decoration Shop Category
 :shiny: [Survival] Fixed "/pshop" and "/information" command not working in java
