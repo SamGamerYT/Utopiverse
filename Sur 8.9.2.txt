@@ -12,8 +12,8 @@
 
 :shiny: [Shop] Fixed Music Disc shop category
 :shiny: [Shop] Fixed Horse Armours' in Miscellaneous Category
+:shiny: [UIX] Modified the Shop UI for Java as of right now
 :shiny: [UIX] Brand new UI for Copper Trader, AFKShop and other crafting stations (As of right now for Java Only)
-:shiny: [Survival] 
 
 :shiny: [Survival] 
 :shiny: [Survival] 
