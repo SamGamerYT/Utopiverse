@@ -16,7 +16,7 @@
 :shiny: [UIX] Fixed an issue for bedrock users related to Copper Trader
 :shiny: [UIX] Brand new UI for Copper Trader, AFKShop and other crafting stations (As of right now for Java Only)
 
-:shiny: [Survival] 
+:shiny: [Survival] Players will no longer be able to place Boats, Pets or any other placable vehicles
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
