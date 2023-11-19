@@ -4,7 +4,7 @@
 :shiny: [Survival] Fixed Monarch Reward not changing the icon properly
 :shiny: [Survival] Vote Party has been changed to "VP" on Scoreboard
 :shiny: [Survival] Attribute Points has been changed to "Attribute" on Scoreboard
-:shiny: [Survival] 
+:shiny: [Survival] "/sellwands" command will work as intended for you to toggle sellconfirm
 :shiny: [Survival] Added "COBWEB" Item within Decoration Shop Category
 :shiny: [Survival] Fixed "/pshop" and "/information" command not working in java
 :shiny: [Survival] Relocated Blacksmith's Hologram and Upgrader NPC near Blacksmith
