@@ -22,13 +22,13 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-:shiny: [Tinkerer] Changed "Night Vision Artifact" to "Owl Charm"
 :shiny: [Tinkerer] Added Spider Scrap's Artifacts
 :shiny: [Tinkerer] Added Dragon Repeller's Artifacts
 :shiny: [Tinkerer] Added Bat and Scared Kid Artifacts
+:shiny: [Tinkerer] Changed "Night Vision Artifact" to "Owl Charm"
 :shiny: [Tinkerer] 
-:shiny: [Tinkerer] 
-:shiny: [Tinkerer] 
+
+:shiny: [Armour Set] New Confusion Set that is obtainable through confusion crate *(Special thanks to _Skmasykw)*
 
 **[@Changelogs]**
 
