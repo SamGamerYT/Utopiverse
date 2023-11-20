@@ -12,8 +12,8 @@
 :shiny: [Survival] 
 :shiny: [Survival] Fixed Players not being able to finish "Tutorial Zone" in /codex (Go to /warp tutorial)
 
-:shiny: [Shop] 
-:shiny: [Shop] 
+:shiny: [Christmas] Added 3 Christmas Melodies at **/spawn** Location
+:shiny: [Christmas] 
 :shiny: [UIX] 
 :shiny: [UIX] 
 :shiny: [UIX] 
