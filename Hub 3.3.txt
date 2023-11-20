@@ -1,7 +1,7 @@
 **Patch/Changes 3.3** *(Hub)*
-:butter~1: [UIX] Added in TikTok for Custom UI in hub
+:butter~1: [UIX] Added in TikTok for Custom UI
+:butter~1: [QOL] Modified Server's MOTD Icon
 :butter~1: [QOL] Major Crash issue has been patched up with a bandage that may break
-:butter~1: 
 :butter~1: 
 :butter~1: 
 :butter~1: 
