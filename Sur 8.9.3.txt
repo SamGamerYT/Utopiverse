@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.3** *(Network Changes)*
 :shiny: [Survival] Fixed "/warp dungeons" Banner Board
 :shiny: [Survival] Patched up a glitch with Auction House
-:shiny: [Survival] 
+:shiny: [Survival] Fixed a minor Frost Boss room block glitch (Special thanks to _HardDeclines)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
