@@ -18,7 +18,11 @@
 :shiny: [UIX] 
 :shiny: [UIX] 
 
-:shiny: [Survival] 
+*(Special Thanks to _BrokenJJ6029)*
+:shiny: [Build] Removed Dungeon Portal near AFK Zone
+:shiny: [Build] Modified Spawn's Primary Random Teleportation Portal
+:shiny: [Build] A Merchant Stand has been placed where the dungeon portal was
+:shiny: [Build] 
 
 :shiny: [Tinkerer] 
 :shiny: [Tinkerer] 
