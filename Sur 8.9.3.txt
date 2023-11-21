@@ -19,10 +19,10 @@
 :shiny: [UIX] 
 
 *(Special Thanks to _BrokenJJ6029)*
+:shiny: [Build] Moved the Parkour Portal Area
 :shiny: [Build] Removed Dungeon Portal near AFK Zone
 :shiny: [Build] Modified Spawn's Primary Random Teleportation Portal
 :shiny: [Build] A Merchant Stand has been placed where the dungeon portal was
-:shiny: [Build] Moved the Parkour Portal Area
 :shiny: [Build] Removed the Campfire and carriage near the Spawn's RTP Portal
 :shiny: [Build] Modified Spawn's RTP Portal with a new design that's more welcoming
 :shiny: [Build] 
