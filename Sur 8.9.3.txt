@@ -25,6 +25,7 @@
 :shiny: [Build] Moved the Parkour Portal Area
 :shiny: [Build] Removed the Campfire and carriage near the Spawn's RTP Portal
 :shiny: [Build] Modified Spawn's RTP Portal with a new design that's more welcoming
+:shiny: [Build] 
 
 :shiny: [Tinkerer] 
 :shiny: [Tinkerer] 
