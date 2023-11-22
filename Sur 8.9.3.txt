@@ -4,7 +4,7 @@
 :shiny: [Survival] Changed Elevator Cooldown message layout
 :shiny: [Survival] Fixed a minor Frost Boss room block glitch (Special thanks to _HardDeclines)
 :shiny: [Survival] Auction House tax has been reduced from 12% to 7.5%
-:shiny: [Survival] 
+:shiny: [Survival] Temporally Removed custom texture designed from **Serpant Halberd**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
