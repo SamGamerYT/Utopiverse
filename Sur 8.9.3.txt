@@ -5,7 +5,7 @@
 :shiny: [Survival] Fixed a minor Frost Boss room block glitch (Special thanks to _HardDeclines)
 :shiny: [Survival] Auction House tax has been reduced from 12% to 7.5%
 :shiny: [Survival] Temporally Removed custom texture designed from **Serpant Halberd**
-:shiny: [Survival] 
+:shiny: [Survival] AFK Zone NPC and Jeniffer Exchanger (Crates) NPC has been merged together for their special shop
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -25,6 +25,9 @@
 :shiny: [Build] A Merchant Stand has been placed where the dungeon portal was
 :shiny: [Build] Removed the Campfire and carriage near the Spawn's RTP Portal
 :shiny: [Build] Modified Spawn's RTP Portal with a new design that's more welcoming
+:shiny: [Build] Crates Area has been modified and relocated
+:shiny: [Build] 
+:shiny: [Build] 
 :shiny: [Build] 
 
 :shiny: [Tinkerer] 
