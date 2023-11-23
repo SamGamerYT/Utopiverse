@@ -6,7 +6,7 @@
 :shiny: [Survival] Auction House tax has been reduced from 12% to 7.5%
 :shiny: [Survival] Temporally Removed custom texture designed from **Serpant Halberd**
 :shiny: [Survival] AFK Zone NPC and Jeniffer Exchanger (Crates) NPC has been merged together for their special shop
-:shiny: [Survival] 
+:shiny: [Survival] New Obtainable Relic within AFKShop, View the trader right next to the afk zone
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
