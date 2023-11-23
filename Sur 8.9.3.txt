@@ -10,7 +10,7 @@
 :shiny: [Survival] New Obtainable MAGIC_RELIC within AFKShop, View the trader right next to the afk zone
 :shiny: [Survival] New Obtainable EMERALD_RELIC within AFKShop, View the trader right next to the afk zone
 :shiny: [Survival] Introducing Vote Shard Material that will be obtainable through events and voting shop
-:shiny: [Survival] 
+:shiny: [Survival] Changed Jeniffer's Hologram and added more information about how to obtain certain items
 :shiny: [Survival] 
 :shiny: [Survival] Fixed Players not being able to finish "Tutorial Zone" in /codex (Go to /warp tutorial)
 
