@@ -26,7 +26,7 @@
 :shiny: [Build] Removed the Campfire and carriage near the Spawn's RTP Portal
 :shiny: [Build] Modified Spawn's RTP Portal with a new design that's more welcoming
 :shiny: [Build] Crates Area has been modified and relocated
-:shiny: [Build] 
+:shiny: [Build] Modified Bank Zone and moved over to a new area
 :shiny: [Build] 
 :shiny: [Build] 
 
