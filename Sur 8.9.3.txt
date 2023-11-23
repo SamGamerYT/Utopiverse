@@ -8,6 +8,7 @@
 :shiny: [Survival] AFK Zone NPC and Jeniffer Exchanger (Crates) NPC has been merged together for their special shop
 :shiny: [Survival] New Obtainable MANA_RELIC within AFKShop, View the trader right next to the afk zone
 :shiny: [Survival] New Obtainable MAGIC_RELIC within AFKShop, View the trader right next to the afk zone
+:shiny: [Survival] New Obtainable EMERALD_RELIC within AFKShop, View the trader right next to the afk zone
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
