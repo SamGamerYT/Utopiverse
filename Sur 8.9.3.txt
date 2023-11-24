@@ -22,7 +22,7 @@
 
 :shiny: [Christmas] Added 3 Christmas Melodies at **/spawn** Location
 :shiny: [Christmas] 
-:shiny: [UIX] 
+:shiny: [UIX] Modified Hotbar for Java Players
 :shiny: [UIX] 
 :shiny: [UIX] 
 
