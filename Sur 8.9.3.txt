@@ -6,7 +6,7 @@
 :shiny: [Survival] Fixed a minor Frost Boss room block glitch (Special thanks to _HardDeclines)
 :shiny: [Survival] Auction House tax has been reduced from 12% to 7.5%
 :shiny: [Survival] Changed John-The-Greet Location and Hologram (Moved near Bank Zone)
-:shiny: [Survival] 
+:shiny: [Survival] Fixed "/challenges" command not working properly
 :shiny: [Survival] Introducing a new voting link for players to vote on the server
 :shiny: [Survival] Temporally Removed custom texture designed from **Serpant Halberd**
 :shiny: [Survival] AFK Zone NPC and Jeniffer Exchanger (Crates) NPC has been merged together for their special shop
