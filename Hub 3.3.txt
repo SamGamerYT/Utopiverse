@@ -2,6 +2,10 @@
 :butter~1: [QOL] Modified Server's MOTD Icon
 :butter~1: [UIX] Added in TikTok for Custom UI
 :butter~1: [QOL] Major Crash issue has been patched up with a bandage that may break
+:butter~1: [QOL] Added in a new bannerboard to explain a bit about the server and affliation
+:butter~1: [NPC's] Relocated Elytra Racing, Parkour and Server Selectors NPC
+:butter~1: [NPC's] Server NPC's are now closer to the spawning zone
+:butter~1: 
 :butter~1: 
 :butter~1: 
 :butter~1: 
