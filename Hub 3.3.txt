@@ -5,7 +5,11 @@
 :butter~1: [QOL] Added in a new bannerboard to explain a bit about the server and affliation
 :butter~1: [NPC's] Relocated Elytra Racing, Parkour and Server Selectors NPC
 :butter~1: [NPC's] Server NPC's are now closer to the spawning zone
-:butter~1: 
+:butter~1: [NPC's] Removed pointless barrier from Oneblock's Flying Creature NPC
+:butter~1: [NPC's]
+:butter~1: [NPC's]
+:butter~1: [NPC's]
+:butter~1: [NPC's]
 :butter~1: 
 :butter~1: 
 :butter~1: 
