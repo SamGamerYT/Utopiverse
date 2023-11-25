@@ -34,19 +34,3 @@
 :shiny: [Build] Modified Goliath Portal Zone, Relocated the NPC's and Envoy Chest
 
 **[@Changelogs]**
-
-**DUNGEON FROST CHANGES**
-
-**DUNGEON WASTELAND CHANGES**
-
-**DUNGEON MINE CHANGES**
-
-**DUNGEON VOLCANO CHANGES**
-
-
-:shiny: [Tinkerer] 
-:shiny: [Tinkerer] 
-:shiny: [Tinkerer] 
-:shiny: [Tinkerer] 
-
-:shiny: [Armour Set]
