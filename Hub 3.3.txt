@@ -11,7 +11,7 @@
 :butter~1: [NPC's]
 :butter~1: [NPC's]
 :butter~1: 
-:butter~1: 
+:butter~1: [QOL] Disabled Signs from being able to get edited to avoid immature players writing down slurs
 :butter~1: 
 :butter~1: 
 
