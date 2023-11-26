@@ -1,12 +1,12 @@
-**Patch/Changes 3.3** *(Hub)*
-:butter~1: [UIX] Added in TikTok for Custom UI
-:butter~1: [NPC's] Relocated Elytra Racing, Parkour and Server Selectors NPC
-:butter~1: [NPC's] Server NPC's are now closer to the spawning zone
-:butter~1: [NPC's] Removed pointless barrier from Oneblock's Flying Creature NPC
-:butter~1: [QOL] Modified Server's MOTD Icon
-:butter~1: [QOL] Major Crash issue has been patched up with a bandage that may break
-:butter~1: [QOL] Added in a new bannerboard to explain a bit about the server and affliation
-:butter~1: [QOL] Disabled Signs from being able to get edited to avoid immature players writing down slurs
-:butter~1: [QOL] Added Snow particles and christmas related stuff at spawn
+**Patch/Changes 3.4** *(Hub)*
+:butter~1: [UIX] 
+:butter~1: [NPC's] 
+:butter~1: [NPC's] 
+:butter~1: [NPC's] 
+:butter~1: [QOL] 
+:butter~1: [QOL] 
+:butter~1: [QOL] 
+:butter~1: [QOL] 
+:butter~1: [QOL] 
 
 **[@Changelogs]**

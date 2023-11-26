@@ -8,5 +8,6 @@
 :butter~1: [QOL] Added in a new bannerboard to explain a bit about the server and affliation
 :butter~1: [QOL] Disabled Signs from being able to get edited to avoid immature players writing down slurs
 :butter~1: [QOL] Added Snow particles and christmas related stuff at spawn
+:butter~1: [QOL] Changed the parkour layout a bit, it will no longer disturb elytra race course players
 
 **[@Changelogs]**
