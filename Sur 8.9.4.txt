@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.4** *(Network Changes)*
-:shiny: [Survival] Fixed Exchanger (AFK Zone) trading not working properly
 :shiny: [Survival] Heavily Modified Crates Prices on our webstore
+:shiny: [Survival] Relocated Fishermen and Modified Christmas hut
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -17,7 +17,7 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Exchanger (AFK Zone) trading not working properly
 
 :shiny: [Christmas] 
 :shiny: [GLOBAL UIX] 
