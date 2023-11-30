@@ -4,7 +4,7 @@
 :shiny: [Survival] Fixed Spacing issues in Generic Trader UI (Exchanger, Copper etc)
 :shiny: [Survival] Introducing a brand new Mini Pets System! - You can create your own skin based pets in the server now!
 :shiny: [Survival] Legendary and Dungeon crates has now been modified entirely (Their Chests and Layout)
-:shiny: [Survival] 
+:shiny: [Survival] Dungeon Crate has been modified, Starcaller, Wind Blade and Scorpio has been modified to new design/skin
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
