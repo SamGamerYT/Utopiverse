@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.4** *(Network Changes)*
 :shiny: [Survival] Heavily Modified Crates Prices on our webstore
 :shiny: [Survival] Relocated Fishermen and Modified Christmas hut
-:shiny: [Survival]
+:shiny: [Survival] Fixed Spacing issues in Generic Trader UI (Exchanger, Copper etc)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
