@@ -16,11 +16,12 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
 :shiny: [Survival] Fixed Exchanger (AFK Zone) trading not working properly
 
 :shiny: [Christmas] 
 :shiny: [GLOBAL UIX] Added Server Logo on pack loading screen
+:shiny: [GLOBAL] Votes will now only give rewards in the server you are currently connected to
+
 
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] 

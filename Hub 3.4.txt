@@ -3,7 +3,8 @@
 :butter~1: [NPC's] 
 :butter~1: [NPC's] 
 :butter~1: [NPC's] 
-:butter~1: [QOL] 
+:butter~1: [QOL] Fixed Elytra Race Course Lobby Location
+:butter~1: [QOL] Buffed Elytra Race Course fireworks count from 6 to 10
 :butter~1: [QOL] 
 :butter~1: [QOL] 
 :butter~1: [QOL] 
