@@ -18,6 +18,14 @@
 :shiny: [Survival] 
 :shiny: [Survival] Fixed Exchanger (AFK Zone) trading not working properly
 
+
+:shiny: [Legendary Gear] Gear 2.0 will no longer get destroyed when it reaches 0 durability
+:shiny: [Legendary Gear] 
+:shiny: [Legendary Gear] 
+:shiny: [Legendary Gear] 
+:shiny: [Legendary Gear] 
+:shiny: [Legendary Gear] 
+
 :shiny: [Christmas] 
 :shiny: [GLOBAL UIX] Added Server Logo on pack loading screen
 :shiny: [GLOBAL] Votes will now only give rewards in the server you are currently connected to
