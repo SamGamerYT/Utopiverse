@@ -1,34 +1,27 @@
 **Patch/Changes 8.9.4** *(Network Changes)*
+:shiny: [Survival] **INTRODUCING CHRISTMAS ADVENT** simply go to /warp christmas and talk to santa every single day!
 :shiny: [Survival] Heavily Modified Crates Prices on our webstore
 :shiny: [Survival] Relocated Fishermen and Modified Christmas hut
 :shiny: [Survival] Fixed Spacing issues in Generic Trader UI (Exchanger, Copper etc)
 :shiny: [Survival] Introducing a brand new Mini Pets System! - You can create your own skin based pets in the server now!
 :shiny: [Survival] Legendary and Dungeon crates has now been modified entirely (Their Chests and Layout)
 :shiny: [Survival] Dungeon Crate has been modified, Starcaller, Wind Blade and Scorpio has been modified to new design/skin
-:shiny: [Survival] **INTRODUCING CHRISTMAS ADVENT** simply go to /warp christmas and talk to santa every single day!
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Mini staff pets are available to purchase at /buy (Pets Category), You also also purchase your own personal skin pet
+:shiny: [Survival] Staff pets will roam around spawn and guard the zone, also be smol staff will notify you of random tips and tricks!
 :shiny: [Survival] Fixed Exchanger (AFK Zone) trading not working properly
 
 
 :shiny: [Legendary Gear] Gear 2.0 will no longer get destroyed when it reaches 0 durability
 :shiny: [Legendary Gear] Gear 2.0 has a new skin compare to 1.0
 :shiny: [Legendary Gear] Gear 2.0 will have animations for Java Players but not for bedrock
-:shiny: [Legendary Gear] 
-:shiny: [Legendary Gear] 
-:shiny: [Legendary Gear] 
+ 
+:shiny: [Confusion Gear] Brand near gear called Confusion, Time to get confused :D
 
-:shiny: [Christmas] 
+:shiny: [Christmas] Furnitures and advent, visit /warp christmas
 :shiny: [GLOBAL UIX] Added Server Logo on pack loading screen
-:shiny: [GLOBAL] Votes will now only give rewards in the server you are currently connected to
+:shiny: [GLOBAL] Votes will now only give rewards in the server you are currently playing
+
+**[@Changelogs]**
 
 
 *(Special Thanks to _BrokenJJ6029)*
@@ -41,8 +34,6 @@
 :shiny: [Build] 
 :shiny: [Build] 
 :shiny: [Build] 
-
-**[@Changelogs]**
 
 **DUNGEON FROST CHANGES**
 
