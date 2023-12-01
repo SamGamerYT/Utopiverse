@@ -10,7 +10,6 @@
 :shiny: [Survival] Staff pets will roam around spawn and guard the zone, also be smol staff will notify you of random tips and tricks!
 :shiny: [Survival] Fixed Exchanger (AFK Zone) trading not working properly
 
-
 :shiny: [Legendary Gear] Gear 2.0 will no longer get destroyed when it reaches 0 durability
 :shiny: [Legendary Gear] Gear 2.0 has a new skin compare to 1.0
 :shiny: [Legendary Gear] Gear 2.0 will have animations for Java Players but not for bedrock
@@ -22,31 +21,3 @@
 :shiny: [GLOBAL] Votes will now only give rewards in the server you are currently playing
 
 **[@Changelogs]**
-
-
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
-
-**DUNGEON FROST CHANGES**
-
-**DUNGEON WASTELAND CHANGES**
-
-**DUNGEON MINE CHANGES**
-
-**DUNGEON VOLCANO CHANGES**
-
-
-:shiny: [Tinkerer] 
-:shiny: [Tinkerer] 
-:shiny: [Tinkerer] 
-:shiny: [Tinkerer] 
-
-:shiny: [Armour Set]
