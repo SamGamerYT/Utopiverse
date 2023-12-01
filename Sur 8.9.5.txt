@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.5** *(Network Changes)*
+:shiny: [Survival] Fixed Statistic UI not working properly
 :shiny: [Survival] New tournaments for players to compete against in this year
 :shiny: [Survival] Fixed Graveyard Mob Spawner issue where the mobs spawned inside of a block
-:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
