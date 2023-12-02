@@ -9,7 +9,7 @@
 :shiny: [Survival] Added NPC near Legendary Crate to display the brand new legendary 2.0 armour
 :shiny: [Survival] Added Master rank with 8% chance in legendary crate
 :shiny: [Survival] Buffed the percentage to get Legend Rank from Legendary Crate key from 1% to 4%
-:shiny: [Survival] 
+:shiny: [Survival] Fixed a minor naming issue with Newbie Armour
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] Quests Board has been relocated from the [/spawn] area to [/warp crates] and [/warp afk]
@@ -20,7 +20,11 @@
 :shiny: [Legendary Gear]
 :shiny: [Legendary Gear]
  
-:shiny: [Textures]
+:shiny: [Textures] 
+:shiny: [Textures] 
+:shiny: [Textures] 
+:shiny: [Textures] 
+:shiny: [Textures] 
 :shiny: [Textures] Modified Villager fragment texture
 :shiny: [Textures] Modified Copper Coin, Silver Coin and Gold coin textures
 :shiny: [Textures] Modified Copper Medal, Silver Medal and Gold Medal textures
