@@ -5,6 +5,9 @@
 :shiny: [Survival] Fixed requirement typo in protection shop on Regenade Stone
 :shiny: [Survival] Removed glitched furnitures at /warp blacksmith
 :shiny: [Survival] Fixed Starcaller Staff displaying Common Tier instead of Legendary Tier
+:shiny: [Survival] Removed Money Related Rewards from legendary crate
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] Quests Board has been relocated from the [/spawn] area to [/warp crates] and [/warp afk]
 :shiny: [Survival] Fixed /repairshop and /copper-trader not working (It will now teleport players to Blacksmith Zone)
