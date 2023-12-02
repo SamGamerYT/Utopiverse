@@ -3,7 +3,7 @@
 :shiny: [Survival] New tournaments for players to compete against in this year
 :shiny: [Survival] Fixed Graveyard Mob Spawner issue where the mobs spawned inside of a block
 :shiny: [Survival] Fixed requirement typo in protection shop on Regenade Stone
-:shiny: [Survival] 
+:shiny: [Survival] Removed glitched furnitures at /warp blacksmith
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] Quests Board has been relocated from the [/spawn] area to [/warp crates] and [/warp afk]
@@ -19,7 +19,7 @@
 :shiny: [Textures] Modified Copper Coin, Silver Coin and Gold coin textures
 :shiny: [Textures] Modified Copper Medal, Silver Medal and Gold Medal textures
 
-:shiny: [Christmas]
+:shiny: [Christmas] Advent will now say "/warp christmas" whenever there's a new window
 :shiny: [GLOBAL UIX]
 :shiny: [GLOBAL]
 
