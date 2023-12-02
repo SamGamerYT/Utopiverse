@@ -29,6 +29,9 @@
 :shiny: [Textures] Modified Copper Medal, Silver Medal and Gold Medal textures
 
 :shiny: [Textures] Modified the following Dungeon Loot
+:shiny: [Loot] » Aquamarine, Alexandrite, Amethyst
+:shiny: [Loot] » Aquamarine, 
+:shiny: [Loot] » Aquamarine, 
 :shiny: [Loot] » Aquamarine, 
 
 :shiny: [Christmas] Advent will now say "/warp christmas" whenever there's a new window
