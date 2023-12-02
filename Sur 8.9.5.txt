@@ -24,10 +24,12 @@
 :shiny: [Textures] 
 :shiny: [Textures] 
 :shiny: [Textures] 
-:shiny: [Textures] 
 :shiny: [Textures] Modified Villager fragment texture
 :shiny: [Textures] Modified Copper Coin, Silver Coin and Gold coin textures
 :shiny: [Textures] Modified Copper Medal, Silver Medal and Gold Medal textures
+
+:shiny: [Textures] Modified the following Dungeon Loot
+:shiny: [Loot] » Aquamarine, 
 
 :shiny: [Christmas] Advent will now say "/warp christmas" whenever there's a new window
 :shiny: [GLOBAL UIX]
