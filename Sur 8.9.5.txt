@@ -31,7 +31,7 @@
 :shiny: [Textures] Modified the following Dungeon Loot
 :shiny: [Loot] » Aquamarine, Alexandrite, Amethyst, Amber, Aventurine
 :shiny: [Loot] » Azurite, Kyanite, Citrine, Carnelian, Hematite, Jade
-:shiny: [Loot] » Malachite, Onix, Opal
+:shiny: [Loot] » Malachite, Onix, Opal, Sapphire, Ruby
 :shiny: [Loot] » Aquamarine, 
 
 :shiny: [Christmas] Advent will now say "/warp christmas" whenever there's a new window
