@@ -24,15 +24,15 @@
 :shiny: [Textures] 
 :shiny: [Textures] 
 :shiny: [Textures] 
-:shiny: [Textures] Modified Villager fragment texture
 :shiny: [Textures] Modified Copper Coin, Silver Coin and Gold coin textures
 :shiny: [Textures] Modified Copper Medal, Silver Medal and Gold Medal textures
 
 :shiny: [Textures] Modified the following Dungeon Loot
 :shiny: [Loot] » Aquamarine, Alexandrite, Amethyst, Amber, Aventurine
 :shiny: [Loot] » Azurite, Kyanite, Citrine, Carnelian, Hematite, Jade
-:shiny: [Loot] » Malachite, Onix, Opal, Sapphire, Ruby
-:shiny: [Loot] » Aquamarine, 
+:shiny: [Loot] » Malachite, Onix, Opal, Sapphire, Ruby, Topaz
+:shiny: [Loot] » Villager Fragment, Eye of the sea, Soul of Darkness
+:shiny: [Loot] » 
 
 :shiny: [Christmas] Advent will now say "/warp christmas" whenever there's a new window
 :shiny: [GLOBAL UIX]
