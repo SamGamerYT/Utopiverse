@@ -27,7 +27,7 @@
 :shiny: [Textures] Modified Copper Coin, Silver Coin and Gold coin textures
 :shiny: [Textures] Modified Copper Medal, Silver Medal and Gold Medal textures
 
-:shiny: [Textures] Modified the following Dungeon Loot
+:shiny: [Textures] Modified the following Dungeon Loot:
 :shiny: [Loot] » Aquamarine, Alexandrite, Amethyst, Amber, Aventurine
 :shiny: [Loot] » Azurite, Kyanite, Citrine, Carnelian, Hematite, Jade
 :shiny: [Loot] » Malachite, Onix, Opal, Sapphire, Ruby, Topaz
