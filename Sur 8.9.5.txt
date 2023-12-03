@@ -32,7 +32,7 @@
 :shiny: [Loot] » Azurite, Kyanite, Citrine, Carnelian, Hematite, Jade
 :shiny: [Loot] » Malachite, Onix, Opal, Sapphire, Ruby, Topaz
 :shiny: [Loot] » Villager Fragment, Eye of the sea, Soul of Darkness
-:shiny: [Loot] » 
+:shiny: [Loot] » Wolfur, Death miner fragment, Minotaur Horn Powder, Boss Token
 
 :shiny: [Christmas] Advent will now say "/warp christmas" whenever there's a new window
 :shiny: [GLOBAL UIX]
