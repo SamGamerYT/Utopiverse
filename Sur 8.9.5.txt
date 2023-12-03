@@ -39,12 +39,13 @@
 :shiny: [GLOBAL UIX]
 :shiny: [GLOBAL]
 
+
+*(Special Thanks to _BrokenJJ6029 & _Whispwwh)*
+:shiny: [Build] Modified Banking Area
+:shiny: [Build] Relocated NPC's near the Bank Zone
+:shiny: [Build] 
+
 **[@Changelogs]**
-
-
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-:shiny: [Build] 
 :shiny: [Build] 
 :shiny: [Build] 
 :shiny: [Build] 
