@@ -11,7 +11,7 @@
 :shiny: [Survival] Buffed the percentage to get Legend Rank from Legendary Crate key from 1% to 4%
 :shiny: [Survival] Fixed a minor naming issue with Newbie Armour
 :shiny: [Survival] **UPGRADER** new upgrader setting, allowing you to upgrade your chestprotection limit
-:shiny: [Survival] 
+:shiny: [Survival] Disabled Custom Enchantments from being placed on Midas Gear
 :shiny: [Survival] 
 :shiny: [Survival] Quests Board has been relocated from the [/spawn] area to [/warp crates] and [/warp afk]
 :shiny: [Survival] Fixed /repairshop and /copper-trader not working (It will now teleport players to Blacksmith Zone)
