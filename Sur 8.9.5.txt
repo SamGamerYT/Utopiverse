@@ -15,7 +15,7 @@
 :shiny: [Survival] Updated Codex mobs droptable, showing up to date time
 :shiny: [Survival] Removed Shield from miscellaneous and added cauldron to the category
 :shiny: [Survival] Removed Category option from Auction House
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Issues and errors with Auction House
 :shiny: [Survival] 
 :shiny: [Survival] Quests Board has been relocated from the [/spawn] area to [/warp crates] and [/warp afk]
 :shiny: [Survival] Fixed /repairshop and /copper-trader not working (It will now teleport players to Blacksmith Zone)
