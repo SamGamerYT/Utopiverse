@@ -12,7 +12,7 @@
 :shiny: [Survival] Fixed a minor naming issue with Newbie Armour
 :shiny: [Survival] **UPGRADER** new upgrader setting, allowing you to upgrade your chestprotection limit
 :shiny: [Survival] Disabled Custom Enchantments from being placed on Midas Gear
-:shiny: [Survival] 
+:shiny: [Survival] Updated Codex mobs droptable, showing up to date time
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] Quests Board has been relocated from the [/spawn] area to [/warp crates] and [/warp afk]
