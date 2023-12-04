@@ -13,6 +13,8 @@
 :shiny: [Survival] **UPGRADER** new upgrader setting, allowing you to upgrade your chestprotection limit
 :shiny: [Survival] Disabled Custom Enchantments from being placed on Midas Gear
 :shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] Quests Board has been relocated from the [/spawn] area to [/warp crates] and [/warp afk]
 :shiny: [Survival] Fixed /repairshop and /copper-trader not working (It will now teleport players to Blacksmith Zone)
 
@@ -25,9 +27,9 @@
 :shiny: [Textures] 
 :shiny: [Textures] 
 :shiny: [Textures] 
+
 :shiny: [Textures] Modified Copper Coin, Silver Coin and Gold coin textures
 :shiny: [Textures] Modified Copper Medal, Silver Medal and Gold Medal textures
-
 :shiny: [Textures] Modified the following Dungeon Loot:
 :shiny: [Loot] » Aquamarine, Alexandrite, Amethyst, Amber, Aventurine
 :shiny: [Loot] » Azurite, Kyanite, Citrine, Carnelian, Hematite, Jade
@@ -38,6 +40,8 @@
 :shiny: [Christmas] Advent will now say "/warp christmas" whenever there's a new window
 :shiny: [GLOBAL UIX]
 :shiny: [GLOBAL]
+
+:shiny: [Dungeon] Allowed Dark Elves, Werewolves, Eye of the sea, Death Miners to drop **GOLD COIN**
 
 
 *(Special Thanks to _BrokenJJ6029 & _Whispwwh)*
