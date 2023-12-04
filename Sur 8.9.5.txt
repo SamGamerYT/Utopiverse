@@ -43,6 +43,11 @@
 
 :shiny: [Dungeon] Allowed Dark Elves, Werewolves, Eye of the sea, Death Miners to drop **GOLD COIN**
 
+:shiny: [Codex] Added new bartender codex category in the UI
+:shiny: [Codex] Removed two unknown Volcano Dungeon mobs from the list
+:shiny: [Codex] 
+:shiny: [Codex] 
+
 
 *(Special Thanks to _BrokenJJ6029 & _Whispwwh)*
 :shiny: [Build] Modified Banking Area
@@ -50,13 +55,6 @@
 :shiny: [Build] 
 
 **[@Changelogs]**
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
 
 **DUNGEON FROST CHANGES**
 
@@ -65,11 +63,3 @@
 **DUNGEON MINE CHANGES**
 
 **DUNGEON VOLCANO CHANGES**
-
-
-:shiny: [Tinkerer] 
-:shiny: [Tinkerer] 
-:shiny: [Tinkerer] 
-:shiny: [Tinkerer] 
-
-:shiny: [Armour Set]
