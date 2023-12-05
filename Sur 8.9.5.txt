@@ -41,9 +41,6 @@
 :shiny: [Loot] » Wolfur, Death miner fragment, Minotaur Horn Powder, Boss Token
 
 :shiny: [Christmas] Advent will now say "/warp christmas" whenever there's a new window
-:shiny: [GLOBAL UIX]
-:shiny: [GLOBAL]
-
 :shiny: [Dungeon] Allowed Dark Elves, Werewolves, Eye of the sea, Death Miners to drop **GOLD COIN**
 
 :shiny: [Codex] Added new bartender codex category in the UI
