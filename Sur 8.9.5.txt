@@ -19,7 +19,7 @@
 :shiny: [Survival] Players are able to sell in **AUCTION HOUSE** with /ah sell 1k, 100k, 1m, 1mil and 100mil now
 :shiny: [Survival] Modified Tailor's Shop, it is now merged with the UI of Tinkerer's NPC
 :shiny: [Survival] Modified Welcome Gift UI, It is now a bit more friendly and has more messages and sounds
-:shiny: [Survival] 
+:shiny: [Survival] Removed Guide 1, Guide 2, Guide 3, Guide 4, Guide 5 commands as they were not needed
 :shiny: [Survival] 
 :shiny: [Survival] Quests Board has been relocated from the [/spawn] area to [/warp crates] and [/warp afk]
 :shiny: [Survival] Fixed /repairshop and /copper-trader not working (It will now teleport players to Blacksmith Zone)
