@@ -1,5 +1,6 @@
 **Patch/Changes 8.9.6** *(Network Changes)*
 :shiny: [Survival] The following worlds has been reset: Resource, Nether and End
+:shiny: [Survival] Added **4 NEW UNDISCOVERED** Regions within **[/codex]** UI
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -24,10 +25,6 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
- 
-:shiny: [Halloween]
-:shiny: [Halloween]
 
 :shiny: [Textures]
 :shiny: [Textures]
