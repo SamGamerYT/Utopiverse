@@ -16,13 +16,18 @@
 :shiny: [Survival] Removed Shield from miscellaneous and added cauldron to the category
 :shiny: [Survival] Removed Category option from Auction House
 :shiny: [Survival] Fixed Issues and errors with Auction House
+:shiny: [Survival] Players are able to sell in **AUCTION HOUSE** with /ah sell 1k, 100k, 1m, 1mil and 100mil now
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] Quests Board has been relocated from the [/spawn] area to [/warp crates] and [/warp afk]
 :shiny: [Survival] Fixed /repairshop and /copper-trader not working (It will now teleport players to Blacksmith Zone)
  
-:shiny: [Textures] 
-:shiny: [Textures] 
-:shiny: [Textures] 
+:shiny: [Halloween] Removed Halloween Dungeon
+:shiny: [Halloween] Removed Lena, Prince, Mary and Julie the Halloween NPC
+:shiny: [Halloween] 
+:shiny: [Halloween] 
+
 :shiny: [Textures] Modified the entire Bartender UI, Each of category has it's own texture
 
 :shiny: [Textures] Modified Copper Coin, Silver Coin and Gold coin textures
