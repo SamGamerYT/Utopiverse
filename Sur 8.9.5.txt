@@ -23,17 +23,13 @@
 :shiny: [Survival] Copper trader UI has been revamped to include all medals (Gold, Silver, Bronze and Copper Medals)
 :shiny: [Survival] Reduced the price of scrolls in Medal Trader (formerly known as Copper Trader)
 :shiny: [Survival] Medal Trader has been merged with copper trader and the trading has been fixed
-:shiny: [Survival] 
 :shiny: [Survival] Quests Board has been relocated from the [/spawn] area to [/warp crates] and [/warp afk]
 :shiny: [Survival] Fixed /repairshop and /copper-trader not working (It will now teleport players to Blacksmith Zone)
  
 :shiny: [Halloween] Removed Halloween Dungeon
 :shiny: [Halloween] Removed Lena, Prince, Mary and Julie the Halloween NPC
-:shiny: [Halloween] 
-:shiny: [Halloween] 
 
 :shiny: [Textures] Modified the entire Bartender UI, Each of category has it's own texture
-
 :shiny: [Textures] Modified Copper Coin, Silver Coin and Gold coin textures
 :shiny: [Textures] Modified Copper Medal, Silver Medal and Gold Medal textures
 :shiny: [Textures] Modified the following Dungeon Loot:
@@ -48,9 +44,6 @@
 
 :shiny: [Codex] Added new bartender codex category in the UI
 :shiny: [Codex] Removed two unknown Volcano Dungeon mobs from the list
-:shiny: [Codex] 
-:shiny: [Codex] 
-
 
 *(Special Thanks to _BrokenJJ6029 & _Whispwwh)*
 :shiny: [Build] Modified Banking Area
