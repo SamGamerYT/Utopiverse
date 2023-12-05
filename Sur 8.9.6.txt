@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.6** *(Network Changes)*
-:shiny: [Survival] 
+:shiny: [Survival] The following worlds has been reset: Resource, Nether and End
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
