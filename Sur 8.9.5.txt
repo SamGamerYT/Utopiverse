@@ -50,11 +50,3 @@
 :shiny: [Build] Relocated NPC's near the Bank Zone
 
 **[@Changelogs]**
-
-**DUNGEON FROST CHANGES**
-
-**DUNGEON WASTELAND CHANGES**
-
-**DUNGEON MINE CHANGES**
-
-**DUNGEON VOLCANO CHANGES**
