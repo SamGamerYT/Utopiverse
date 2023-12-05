@@ -22,7 +22,7 @@
 :shiny: [Survival] Removed Guide 1, Guide 2, Guide 3, Guide 4, Guide 5 commands as they were not needed
 :shiny: [Survival] Copper trader UI has been revamped to include all medals (Gold, Silver, Bronze and Copper Medals)
 :shiny: [Survival] Reduced the price of scrolls in Medal Trader (formerly known as Copper Trader)
-:shiny: [Survival] 
+:shiny: [Survival] Medal Trader has been merged with copper trader and the trading has been fixed
 :shiny: [Survival] 
 :shiny: [Survival] Quests Board has been relocated from the [/spawn] area to [/warp crates] and [/warp afk]
 :shiny: [Survival] Fixed /repairshop and /copper-trader not working (It will now teleport players to Blacksmith Zone)
