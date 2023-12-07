@@ -6,8 +6,8 @@
 :shiny: [Survival] Fixed **Experience Bottle** reward issue in Uncommon Crate
 :shiny: [Survival] Fixed an issue with **Necromancer Gear** you will now no longer be able to enchant/smith or anvil it
 :shiny: [Survival] Scopio Cooldown has been increased from 0s to 2s and Mana has been increased from 20 to 35
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added Legendary Sword in Legendary Crate
+:shiny: [Survival] Improved Legendary+ Set in Legendary Crate
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
