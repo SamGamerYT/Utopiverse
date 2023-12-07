@@ -4,7 +4,7 @@
 :shiny: [Survival] New players will now get 1x **TOTEM OF UNDYING**
 :shiny: [Survival] Fixed **ALCHEMIST** bug where players were not able to upgrade their books
 :shiny: [Survival] Fixed **Experience Bottle** reward issue in Uncommon Crate
-:shiny: [Survival] 
+:shiny: [Survival] Fixed an issue with **Necromancer Gear** you will now no longer be able to enchant/smith or anvil it
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
