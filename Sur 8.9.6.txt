@@ -16,7 +16,7 @@
 :shiny: [Survival] Radiant armor previously had "Time" Rune, replaced Time with "Skill"
 :shiny: [Survival] Aquamarine, Rhea, Dionysus and Athena armors previously had "Time" Rune, replaced Time with "Skill"
 :shiny: [Survival] Added Rune of Health and Rune of Mana in Blacksmith's Exchanger trader
-:shiny: [Survival] 
+:shiny: [Survival] Fixed FAQ not showing the information properly for bedrock players
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
