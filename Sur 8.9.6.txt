@@ -9,8 +9,8 @@
 :shiny: [Survival] Added Legendary Sword in Legendary Crate
 :shiny: [Survival] Improved Legendary+ Set in Legendary Crate
 :shiny: [Survival] New **PROTECTION STONE** called **Massive** that protects 70x70x70 - Purchasable at /pshop
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Removed Bracelets from RPGInventory
+:shiny: [Survival] Added 4 Rings slots in RPGInventory and 2 new Amulets slots
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
