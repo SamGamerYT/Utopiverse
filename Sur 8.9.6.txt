@@ -20,7 +20,7 @@
 :shiny: [Survival] Dungeon Ores information has been moved to Fang's NPC
 :shiny: [Survival] Added RPG Inventory information in Fang's NPC
 :shiny: [Survival] Starcaller has been nerfed, Speed is now 3 from 4 and Added Attack Speed of 0.4 from 0.9
-:shiny: [Survival] 
+:shiny: [Survival] Merged "Border" UI with FAQ, Allowing a smooth view of server information
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
