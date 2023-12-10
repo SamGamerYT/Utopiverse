@@ -22,7 +22,7 @@
 :shiny: [Survival] Starcaller has been nerfed, Speed is now 3 from 4 and Added Attack Speed of 0.4 from 0.9
 :shiny: [Survival] Fixed where Starcaller ability was not working as expected
 :shiny: [Survival] Merged "Border" UI with FAQ, Allowing a smooth view of server information
-:shiny: [Survival] 
+:shiny: [Survival] Modified and Fixed **/discord** command not working as expected
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
