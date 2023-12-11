@@ -27,12 +27,14 @@
 :shiny: [Survival] Added Information about Twitch Social media in FAQ UI
 :shiny: [Survival] Reorganized Warps Menu, Added Tinkerer, AFK Zone and other warp zones
 :shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 :shiny: [Survival] Removal of "Tailor Zone" in Guide Gear
 :shiny: [Survival] Removal of Duplicated Quest UI in Guide Gear
 :shiny: [Survival] Renamed "GUI HOME" to "HOME MENU" in Guide Gear
 :shiny: [Survival] Removal of Duplicated Blacksmith Zone in Guide Gear
-:shiny: [Survival] 
+:shiny: [Survival] Removed Warp Events in the Guide Gear
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
