@@ -36,7 +36,7 @@
 :shiny: [Survival] Removal of Duplicated Blacksmith Zone in Guide Gear
 :shiny: [Survival] Removal of Warp Events in the Guide Gear
 :shiny: [Survival] Removal of Social Medias in the Guide gear
-:shiny: [Survival] 
+:shiny: [Survival] Renamed "CLASSES MENU" to "RPG MENU" and added proper information in Guide Gear
 :shiny: [Survival] 
 
 :shiny: [Survival] Vote Crate spawner key reward has now been nerfed from 45% to 25%
