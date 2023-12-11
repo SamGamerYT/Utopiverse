@@ -23,11 +23,18 @@
 :shiny: [Survival] Fixed where Starcaller ability was not working as expected
 :shiny: [Survival] Merged "Border" UI with FAQ, Allowing a smooth view of server information
 :shiny: [Survival] Modified and Fixed **/discord** command not working as expected
+:shiny: [Survival] Merged "Social Media" UI with FAQ UI
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 :shiny: [Survival] Removal of "Tailor Zone" in Guide Gear
 :shiny: [Survival] Removal of Duplicated Quest UI in Guide Gear
 :shiny: [Survival] Renamed "GUI HOME" to "HOME MENU" in Guide Gear
 :shiny: [Survival] Removal of Duplicated Blacksmith Zone in Guide Gear
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 :shiny: [Survival] Vote Crate spawner key reward has now been nerfed from 45% to 25%
 :shiny: [Survival] Vote Crate cake reward will now give 1 crate instead of 2 and chances has been nerfed from 35% to 25%
