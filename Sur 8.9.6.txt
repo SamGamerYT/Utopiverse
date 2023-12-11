@@ -25,6 +25,7 @@
 :shiny: [Survival] Modified and Fixed **/discord** command not working as expected
 :shiny: [Survival] Merged "Social Media" UI with FAQ UI
 :shiny: [Survival] Added Information about Twitch Social media in FAQ UI
+:shiny: [Survival] Reorganized Warps Menu, Added Tinkerer, AFK Zone and other warp zones
 :shiny: [Survival] 
 
 :shiny: [Survival] Removal of "Tailor Zone" in Guide Gear
