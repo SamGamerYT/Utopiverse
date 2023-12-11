@@ -29,7 +29,7 @@
 :shiny: [Survival] Renamed "GUI HOME" to "HOME MENU" in Guide Gear
 :shiny: [Survival] Removal of Duplicated Blacksmith Zone in Guide Gear
 
-:shiny: [Survival] 
+:shiny: [Survival] Vote Crate spawner key reward has now been nerfed from 45% to 25%
 :shiny: [Survival] 
 :shiny: [Survival] 
 
