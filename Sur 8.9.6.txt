@@ -34,8 +34,8 @@
 :shiny: [Survival] Removal of Duplicated Quest UI in Guide Gear
 :shiny: [Survival] Renamed "GUI HOME" to "HOME MENU" in Guide Gear
 :shiny: [Survival] Removal of Duplicated Blacksmith Zone in Guide Gear
-:shiny: [Survival] Removed Warp Events in the Guide Gear
-:shiny: [Survival] 
+:shiny: [Survival] Removal of Warp Events in the Guide Gear
+:shiny: [Survival] Removal of Social Medias in the Guide gear
 :shiny: [Survival] 
 :shiny: [Survival] 
 
