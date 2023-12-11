@@ -24,7 +24,7 @@
 :shiny: [Survival] Merged "Border" UI with FAQ, Allowing a smooth view of server information
 :shiny: [Survival] Modified and Fixed **/discord** command not working as expected
 :shiny: [Survival] Merged "Social Media" UI with FAQ UI
-:shiny: [Survival] 
+:shiny: [Survival] Added Information about Twitch Social media in FAQ UI
 :shiny: [Survival] 
 
 :shiny: [Survival] Removal of "Tailor Zone" in Guide Gear
