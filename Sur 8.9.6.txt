@@ -30,7 +30,7 @@
 :shiny: [Survival] Removal of Duplicated Blacksmith Zone in Guide Gear
 
 :shiny: [Survival] Vote Crate spawner key reward has now been nerfed from 45% to 25%
-:shiny: [Survival] 
+:shiny: [Survival] Vote Crate cake reward will now give 1 crate instead of 2 and chances has been nerfed from 35% to 25%
 :shiny: [Survival] 
 
 :shiny: [Textures]
