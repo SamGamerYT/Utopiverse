@@ -26,6 +26,9 @@
 :shiny: [Survival] Removal of Duplicated Quest UI in Guide Gear
 :shiny: [Survival] Renamed "GUI HOME" to "HOME MENU" in Guide Gear
 :shiny: [Survival] Removal of "Tailor Zone" in Guide Gear
+:shiny: [Survival] Removal of Duplicated Blacksmith Zone in Guide Gear
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 :shiny: [Textures]
