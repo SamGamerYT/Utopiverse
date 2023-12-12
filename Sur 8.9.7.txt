@@ -64,9 +64,9 @@
 :shiny: [Art]
 :shiny: [Art]
 
-*(Special Thanks to _BrokenJJ6029 & _Whispwwh)*
-:shiny: [Build]
-:shiny: [Build]
+*(Special Thanks to _BrokenJJ6029)*
+:shiny: [Build] Connected Spawn's Parkour to Warp Dungeon Area
+:shiny: [Build] Connected Spawn Zone to Warp Farming Area
 
 **[@Changelogs]**
 
