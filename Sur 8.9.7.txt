@@ -2,7 +2,7 @@
 :shiny: [Survival] Created "Arena Rewards" UI that will be displayed at "**/warp dungeons**"
 :shiny: [Survival] Nerfed Daily Streak rewards, as they were bit too much and players were alting
 :shiny: [Survival] Changed Fang from "Click to Join" to "Click to Talk"
-:shiny: [Survival] 
+:shiny: [Survival] Changed the icon for Daily, Weekly and Monthly Rewards UI, Making it bit more appealing
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
