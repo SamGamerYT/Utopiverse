@@ -4,7 +4,7 @@
 :shiny: [Survival] Changed Fang from "Click to Join" to "Click to Talk"
 :shiny: [Survival] Changed the icon for Daily, Weekly and Monthly Rewards UI, Making it bit more appealing
 :shiny: [Survival] Added Social Media UI and Connected it to the Wumpus at Spawn Zone
-:shiny: [Survival] 
+:shiny: [Survival] Nerfed Top voter prices (/vote)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
