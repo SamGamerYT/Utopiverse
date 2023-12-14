@@ -12,24 +12,26 @@
 :shiny: [Survival] Created **ARENA JOIN** UI at /warp dungeons
 :shiny: [Survival] Created **ARENA REWARDS** UI at /warp dungeons
 :shiny: [Survival] New obtainable amulet called "Toddler Amulet"
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+*(Special Thanks to _Skmasykw)*
 :shiny: [Survival] New obtainable glove called "Magic Gloves"
-:shiny: [Survival] New obtainable relics called "
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] New obtainable relics called "Mine Relic", "Frost Relic", "Volcano Relic", "WasteLand Relic" and "Iron Golem Relic"
 :shiny: [Survival] 
 
 :shiny: [Survival] 
