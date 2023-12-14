@@ -11,8 +11,9 @@
 :shiny: [Survival] Created two new NPC's at /warp dungeons
 :shiny: [Survival] Created **ARENA JOIN** UI at /warp dungeons
 :shiny: [Survival] Created **ARENA REWARDS** UI at /warp dungeons
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] New obtainable amulet called "Toddler Amulet"
+:shiny: [Survival] New obtainable glove called "Magic Gloves"
+:shiny: [Survival] New obtainable relics called "
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
