@@ -29,6 +29,9 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+*(Special Thanks to _Whispwe)*
+:shiny: [Survival] New playtime page 3 with special rewards that gives crate keys (Including Legendary Keys)
+
 *(Special Thanks to _Skmasykw)*
 :shiny: [Survival] New obtainable glove called "Magic Gloves"
 :shiny: [Survival] New obtainable relics called "Mine Relic", "Frost Relic", "Volcano Relic", "WasteLand Relic" and "Iron Golem Relic"
