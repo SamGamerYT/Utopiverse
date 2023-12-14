@@ -12,7 +12,7 @@
 :shiny: [Survival] Created **ARENA JOIN** UI at /warp dungeons
 :shiny: [Survival] Created **ARENA REWARDS** UI at /warp dungeons
 :shiny: [Survival] New obtainable amulet called "Toddler Amulet"
-:shiny: [Survival] 
+:shiny: [Survival] Baby Amulet tier has been changed from "Epic" to "Uncommon"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
