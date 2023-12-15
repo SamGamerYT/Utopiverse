@@ -15,7 +15,7 @@
 :shiny: [Survival] Baby Amulet tier has been changed from "Epic" to "Uncommon"
 :shiny: [Survival] Increased Trade Acceptance time from 15s to 30s
 :shiny: [Survival] Modified Trading messages a bit
-:shiny: [Survival] 
+:shiny: [Survival] Updated Server's Dependancies
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -35,7 +35,10 @@
 *(Special Thanks to _Skmasykw)*
 :shiny: [Survival] New obtainable glove called "Magic Gloves"
 :shiny: [Survival] New obtainable relics called "Mine Relic", "Frost Relic", "Volcano Relic", "WasteLand Relic" and "Iron Golem Relic"
-:shiny: [Survival] 
+
+*(Special Thanks to _BrokenJJ6029)*
+:shiny: [Build] Connected Spawn's Parkour to Warp Dungeon Area
+:shiny: [Build] Connected Spawn Zone to Warp Farming Area
 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -70,10 +73,6 @@
 :shiny: [Art] 
 :shiny: [Art]
 :shiny: [Art]
-
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] Connected Spawn's Parkour to Warp Dungeon Area
-:shiny: [Build] Connected Spawn Zone to Warp Farming Area
 
 **[@Changelogs]**
 
