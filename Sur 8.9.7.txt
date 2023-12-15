@@ -17,7 +17,7 @@
 :shiny: [Survival] Modified Trading messages a bit
 :shiny: [Survival] Updated Server's Dependancies
 :shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Statistic Update: Fall Protection > Fall Shield, Magic Damage Reduct > Magic Shield and 5 others stats
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
