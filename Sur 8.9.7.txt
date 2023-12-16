@@ -18,7 +18,7 @@
 :shiny: [Survival] Updated Server's Dependancies
 :shiny: [Survival] 
 :shiny: [Survival] Statistic Update: Fall Protection > Fall Shield, Magic Damage Reduct > Magic Shield and 5 others stats
-:shiny: [Survival] 
+:shiny: [Survival] Enabled Christmas MonthlyCrate on store
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
