@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.7.1** *(Network Changes)*
-:shiny: [Survival] Made changes to Arena UI, instead of instantly joining after clicking on the option, it show info and rewards
-:shiny: [Survival] 
+:shiny: [Survival] Made changes to Arena UI, instead of instantly joining after it will show information
+:shiny: [Survival] Added Information related to Mob drops and Obtainable Underground Rewards 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
