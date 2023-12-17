@@ -7,7 +7,6 @@
 :shiny: [Survival] Nerfed Top voter prices (/vote)
 :shiny: [Survival] Changed Weekly Rewards UI with a new chest design that looks bit more appealing
 :shiny: [Survival] Added Playtime rewards in the EveryDay NPC
-:shiny: [Survival] 
 :shiny: [Survival] Created two new NPC's at /warp dungeons
 :shiny: [Survival] Created **ARENA JOIN** UI at /warp dungeons
 :shiny: [Survival] Created **ARENA REWARDS** UI at /warp dungeons
@@ -16,18 +15,8 @@
 :shiny: [Survival] Increased Trade Acceptance time from 15s to 30s
 :shiny: [Survival] Modified Trading messages a bit
 :shiny: [Survival] Updated Server's Dependancies
-:shiny: [Survival] 
 :shiny: [Survival] Statistic Update: Fall Protection > Fall Shield, Magic Damage Reduct > Magic Shield and 5 others stats
 :shiny: [Survival] Enabled Christmas MonthlyCrate on store
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 *(Special Thanks to _Whispwe)*
 :shiny: [Survival] New playtime page 3 with special rewards that gives crate keys (Including Legendary Keys)
@@ -40,46 +29,4 @@
 :shiny: [Build] Connected Spawn's Parkour to Warp Dungeon Area
 :shiny: [Build] Connected Spawn Zone to Warp Farming Area
 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Textures]
-:shiny: [Textures]
-:shiny: [Textures]
-:shiny: [Textures]
-:shiny: [Loot]
-:shiny: [Loot]
-:shiny: [Loot]
-:shiny: [Loot]
-:shiny: [Loot]
-
-:shiny: [Christmas] 
-:shiny: [Dungeon]
-
-:shiny: [Codex] 
-:shiny: [Codex] 
-
-*(Special Thanks to _Whispwe)*
-:shiny: [Art] 
-:shiny: [Art]
-:shiny: [Art]
-
 **[@Changelogs]**
-
-**DUNGEON FROST CHANGES**
-
-**DUNGEON WASTELAND CHANGES**
-
-**DUNGEON MINE CHANGES**
-
-**DUNGEON VOLCANO CHANGES**
