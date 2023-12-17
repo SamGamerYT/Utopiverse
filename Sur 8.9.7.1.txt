@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.7.1** *(Network Changes)*
 :shiny: [Survival] Made changes to Arena UI, instead of instantly joining after it will show information
 :shiny: [Survival] Added Information related to Mob drops and Obtainable Underground Rewards 
-:shiny: [Survival] 
+:shiny: [Survival] ATM Has been placed at /warp repair and new upcoming features that increases your armour durability
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -37,7 +37,7 @@
 :shiny: [Survival] 
 
 *(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
+:shiny: [Build] Created a new Repair Zone build for player at /warp repair (near /warp blacksmith)
 :shiny: [Build] 
 
 :shiny: [Survival] 
