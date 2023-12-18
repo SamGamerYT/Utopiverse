@@ -34,7 +34,6 @@
 
 *(Special Thanks to _Skmasykw)*
 :shiny: [Survival] 
-:shiny: [Survival] 
 
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] Created a new Repair Zone build for player at /warp repair (near /warp blacksmith)
