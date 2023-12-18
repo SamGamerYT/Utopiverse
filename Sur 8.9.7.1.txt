@@ -10,7 +10,7 @@
 :shiny: [Survival] Removed "Server spawn is under maintenance" hologram
 :shiny: [Survival] Fixed Bank Hologram and Updated the new death chest pricing
 :shiny: [Survival] Fixed PvP Hologram and made it clear if players are to lose items, it is not server's fault
-:shiny: [Survival] 
+:shiny: [Survival] Created Black Cat Helmet that will give stats boost and its adorable
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
