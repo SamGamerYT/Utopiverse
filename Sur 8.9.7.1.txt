@@ -4,8 +4,8 @@
 :shiny: [Survival] ATM Has been placed at /warp repair and new upcoming features that increases your armour durability
 :shiny: [Survival] Fixed Furniture shop at /warp blackmarket
 :shiny: [Survival] Fixed /kit gentleman not working as intended for players
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Changed Tavern to Bartender in Codex and fixed the unlocking requirement
+:shiny: [Survival] Replaced "MINES ZONE" (Unrelated to Mine Dungeon) with a new location called "Seasonal Hut"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
