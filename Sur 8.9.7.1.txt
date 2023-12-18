@@ -12,7 +12,7 @@
 :shiny: [Survival] Fixed PvP Hologram and made it clear if players are to lose items, it is not server's fault
 :shiny: [Survival] Created Black Cat Helmet that will give stats boost and its adorable
 :shiny: [Survival] Disabled Custom NPC's dialog from the server
-:shiny: [Survival] 
+:shiny: [Survival] Added Short /warp tinker for /warp tinkerer
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
