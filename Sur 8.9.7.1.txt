@@ -7,7 +7,7 @@
 :shiny: [Survival] Changed Tavern to Bartender in Codex and fixed the unlocking requirement
 :shiny: [Survival] Replaced "MINES ZONE" (Unrelated to Mine Dungeon) with a new location called "Seasonal Hut"
 :shiny: [Survival] Changed "Halloween Zone" to "Halloween Arena" in Codex under Regions
-:shiny: [Survival] 
+:shiny: [Survival] Removed "Server spawn is under maintenance" hologram
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
