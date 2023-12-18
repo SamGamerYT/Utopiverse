@@ -6,7 +6,7 @@
 :shiny: [Survival] Fixed /kit gentleman not working as intended for players
 :shiny: [Survival] Changed Tavern to Bartender in Codex and fixed the unlocking requirement
 :shiny: [Survival] Replaced "MINES ZONE" (Unrelated to Mine Dungeon) with a new location called "Seasonal Hut"
-:shiny: [Survival] 
+:shiny: [Survival] Changed "Halloween Zone" to "Halloween Arena" in Codex under Regions
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
