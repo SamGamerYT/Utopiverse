@@ -18,7 +18,7 @@
 :shiny: [Survival] Disabled Chat based /baltop purse, /baltop, /baltop bank and added them in /stats
 :shiny: [Survival] Fixed Dungeon Gear lore typos
 :shiny: [Survival] Buffed Aquamarine and Removed Water Damage
-:shiny: [Survival] 
+:shiny: [Survival] New custom Statistic UI for /stats
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
