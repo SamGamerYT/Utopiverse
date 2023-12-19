@@ -20,7 +20,7 @@
 :shiny: [Survival] Buffed Aquamarine and Removed Water Damage
 :shiny: [Survival] New custom Statistic UI for /stats
 :shiny: [Survival] Removed Copper Medal trading option from "Exchanger Stations" at /warp blacksmith
-:shiny: [Survival] 
+:shiny: [Survival] Modified and fixed FAQ's colouring issues
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
