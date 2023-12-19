@@ -16,7 +16,7 @@
 :shiny: [Survival] Fixed Playtime Page 3 Rewards miscalculations
 :shiny: [Survival] Entirely modified design, layout and looks for miscellaneous commands
 :shiny: [Survival] Disabled Chat based /baltop purse, /baltop, /baltop bank and added them in /stats
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Dungeon Gear lore typos
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
