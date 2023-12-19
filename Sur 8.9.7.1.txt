@@ -21,7 +21,7 @@
 :shiny: [Survival] New custom Statistic UI for /stats
 :shiny: [Survival] Removed Copper Medal trading option from "Exchanger Stations" at /warp blacksmith
 :shiny: [Survival] Modified and fixed FAQ's colouring issues
-:shiny: [Survival] 
+:shiny: [Survival] Fixed an error in code related to Wind Blade it had 12 Attack Speed instead of 1.2 Attack Speed
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
