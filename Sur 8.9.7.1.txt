@@ -19,7 +19,7 @@
 :shiny: [Survival] Fixed Dungeon Gear lore typos
 :shiny: [Survival] Buffed Aquamarine and Removed Water Damage
 :shiny: [Survival] New custom Statistic UI for /stats
-:shiny: [Survival] 
+:shiny: [Survival] Removed Copper Medal trading option from "Exchanger Stations" at /warp blacksmith
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
