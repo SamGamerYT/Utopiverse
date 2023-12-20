@@ -25,11 +25,14 @@
 :shiny: [Survival] Fixed a duping bug with Dungeon Rewards
 :shiny: [Survival] Changed Arena Scoreboard, Will now take less space and is more informative
 :shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 :shiny: [Underground Arena] Disabled Enderpearl and Totem of Undying from Underground Arena 
 :shiny: [Underground Arena] Allowed players to pick up items and drop items
 :shiny: [Underground Arena] Reduced mob damage and increased player dealt damage
 :shiny: [Underground Arena] Players are now able to bring their pets in Dungeon Arena to fight alongside with them
+:shiny: [Underground Arena] Replaced Stinger with a new variant of flying mob that haunts your dream
 
 
 *(Special Thanks to _Whispwe)*
