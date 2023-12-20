@@ -1,39 +1,39 @@
-**Patch/Changes 8.9.7.1** *(Network Changes)*
-:shiny: [Survival] Made changes to Arena UI, instead of instantly joining after it will show information
-:shiny: [Survival] Added Information related to Mob drops and Obtainable Underground Rewards 
-:shiny: [Survival] ATM Has been placed at /warp repair and new upcoming features that increases your armour durability
-:shiny: [Survival] Fixed Furniture shop at /warp blackmarket
-:shiny: [Survival] Fixed /kit gentleman not working as intended for players
-:shiny: [Survival] Changed Tavern to Bartender in Codex and fixed the unlocking requirement
-:shiny: [Survival] Replaced "MINES ZONE" (Unrelated to Mine Dungeon) with a new location called "Seasonal Hut"
-:shiny: [Survival] Changed "Halloween Zone" to "Halloween Arena" in Codex under Regions
-:shiny: [Survival] Removed "Server spawn is under maintenance" hologram
-:shiny: [Survival] Fixed Bank Hologram and Updated the new death chest pricing
-:shiny: [Survival] Fixed PvP Hologram and made it clear if players are to lose items, it is not server's fault
-:shiny: [Survival] Created Black Cat Helmet that will give stats boost and its adorable
-:shiny: [Survival] Disabled Custom NPC's dialog from the server
-:shiny: [Survival] Added Short /warp tinker for /warp tinkerer
-:shiny: [Survival] Fixed Playtime Page 3 Rewards miscalculations
-:shiny: [Survival] Entirely modified design, layout and looks for miscellaneous commands
-:shiny: [Survival] Disabled Chat based /baltop purse, /baltop, /baltop bank and added them in /stats
-:shiny: [Survival] Fixed Dungeon Gear lore typos
-:shiny: [Survival] Buffed Aquamarine and Removed Water Damage
-:shiny: [Survival] New custom Statistic UI for /stats
-:shiny: [Survival] Removed Copper Medal trading option from "Exchanger Stations" at /warp blacksmith
-:shiny: [Survival] Modified and fixed FAQ's colouring issues
-:shiny: [Survival] Fixed an error in code related to Wind Blade it had 12 Attack Speed instead of 1.2 Attack Speed
-:shiny: [Survival] Fixed a duping bug with Dungeon Rewards
-:shiny: [Survival] Changed Arena Scoreboard, Will now take less space and is more informative
+**Patch/Changes 8.9.7.2** *(Network Changes)*
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-:shiny: [Underground Arena] Disabled Enderpearl and Totem of Undying from Underground Arena 
-:shiny: [Underground Arena] Allowed players to pick up items and drop items
-:shiny: [Underground Arena] Reduced mob damage and increased player dealt damage
-:shiny: [Underground Arena] Players are now able to bring their pets in Dungeon Arena to fight alongside with them
-:shiny: [Underground Arena] Replaced Stinger with a new variant of flying mob that haunts your dream
-:shiny: [Underground Arena] Bloatfly will drop players random healing items and experience bottle when killed
+:shiny: [Underground Arena] 
+:shiny: [Underground Arena] 
+:shiny: [Underground Arena] 
+:shiny: [Underground Arena] 
+:shiny: [Underground Arena] 
+:shiny: [Underground Arena] 
 
 
 *(Special Thanks to _Whispwe)*
@@ -43,7 +43,6 @@
 :shiny: [Survival] 
 
 *(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] Created a new Repair Zone build for player at /warp repair (near /warp blacksmith)
 :shiny: [Build] 
 
 :shiny: [Survival] 
