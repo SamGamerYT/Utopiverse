@@ -23,7 +23,7 @@
 :shiny: [Survival] Modified and fixed FAQ's colouring issues
 :shiny: [Survival] Fixed an error in code related to Wind Blade it had 12 Attack Speed instead of 1.2 Attack Speed
 :shiny: [Survival] Fixed a duping bug with Dungeon Rewards
-:shiny: [Survival] 
+:shiny: [Survival] Changed Arena Scoreboard, Will now take less space and is more informative
 :shiny: [Survival] 
 
 :shiny: [Underground Arena] Disabled Enderpearl and Totem of Undying from Underground Arena 
