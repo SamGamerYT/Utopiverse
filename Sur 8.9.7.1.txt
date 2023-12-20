@@ -33,6 +33,7 @@
 :shiny: [Underground Arena] Reduced mob damage and increased player dealt damage
 :shiny: [Underground Arena] Players are now able to bring their pets in Dungeon Arena to fight alongside with them
 :shiny: [Underground Arena] Replaced Stinger with a new variant of flying mob that haunts your dream
+:shiny: [Underground Arena] Bloatfly will drop players random healing items and experience bottle when killed
 
 
 *(Special Thanks to _Whispwe)*
