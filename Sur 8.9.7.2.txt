@@ -3,7 +3,7 @@
 :shiny: [Survival] Fixed Bug where players were not receiving **Kyanite Set** from Rare Crate
 :shiny: [Survival] Modified Blacksmith's Medal trader, Elaborated on the fact that its copper and other medal trader in lore
 :shiny: [Survival] Fixed a major bug related to welcomekit, Players were able to claim it constantly
-:shiny: [Survival] 
+:shiny: [Survival] Merged Rules UI with FAQ UI and modified FAQ UI Title + Layout
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
