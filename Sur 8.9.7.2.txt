@@ -31,7 +31,7 @@
 :shiny: [Underground Arena] Added Arena Token Requirement to Underground
 :shiny: [Underground Arena] Modified Queue UI, Added trading stations in the UI
 :shiny: [Underground Arena] Added Underground Consumable Token in the Trader
-:shiny: [Underground Arena] 
+:shiny: [Underground Arena] Arena will no longer spam "The Arena has ended successfully" message in chat
 :shiny: [Underground Arena] 
 :shiny: [Underground Arena] 
 
