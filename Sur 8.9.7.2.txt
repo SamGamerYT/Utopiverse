@@ -9,7 +9,7 @@
 :shiny: [Survival] Moved all of the scrolls trades from unique trader (blacksmith) to scroll trader (enchanter)
 :shiny: [Survival] Reduced Soul Scrolls price from 2,000,000 to 1,000,000
 :shiny: [Survival] Changed Frost Trader, Volcano Trader and Wasteland Trader UI Design and Title name
-:shiny: [Survival] 
+:shiny: [Survival] Added "ITEM BOMB" Level 1 to 3 scroll item, that's available at Frost/Volcano/Wasteland Trader and /warp Enchanter
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
