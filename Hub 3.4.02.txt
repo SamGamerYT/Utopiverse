@@ -1,7 +1,7 @@
 **Patch/Changes 3.4.02** *(Hub)*
 :butter~1: [QOL] Removed 4 Entities NPC to improve performance
 :butter~1: [QOL] Removed Snow effect as players were feeling laggy
-:butter~1: [QOL] 
+:butter~1: [QOL] Added Webhook in Discord to show when the auto reboot happens
 :butter~1: [QOL] 
 :butter~1: [QOL] 
 
