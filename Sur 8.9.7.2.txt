@@ -4,9 +4,9 @@
 :shiny: [Survival] Modified Blacksmith's Medal trader, Elaborated on the fact that its copper and other medal trader in lore
 :shiny: [Survival] Fixed a major bug related to welcomekit, Players were able to claim it constantly
 :shiny: [Survival] Merged Rules UI with FAQ UI and modified FAQ UI Title + Layout
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Modified Auto Helper message for Copper Trader, Removed Auto message for /welcomekit as it spams alot
+:shiny: [Survival] Graveyard's Level Three mobs will have HP Bar
+:shiny: [Survival] Moved all of the scrolls trades from unique trader (blacksmith) to scroll trader (enchanter)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
