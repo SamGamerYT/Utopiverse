@@ -11,8 +11,8 @@
 :shiny: [Survival] Changed Frost Trader, Volcano Trader and Wasteland Trader UI Design and Title name
 :shiny: [Survival] Added "ITEM BOMB" Level 1 to 3 scroll item, that's available at Frost/Volcano/Wasteland Trader and /warp Enchanter
 :shiny: [Survival] Removed Dungeon Trader from Blacksmith NPC, added dungeon weapon stand that opens the trader
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Extremely** hidden easter egg near /warp dungeons and /warp arena (1 Easter Egg)
+:shiny: [Survival] Catacombs NPC has been permanently removed from /warp dungeons
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
