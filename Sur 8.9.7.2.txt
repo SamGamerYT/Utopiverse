@@ -21,7 +21,7 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival]
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
