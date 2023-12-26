@@ -13,8 +13,8 @@
 :shiny: [Survival] Removed Dungeon Trader from Blacksmith NPC, added dungeon weapon stand that opens the trader
 :shiny: [Survival] Added **Extremely** hidden easter egg near /warp dungeons and /warp arena (1 Easter Egg)
 :shiny: [Survival] Catacombs NPC has been permanently removed from /warp dungeons
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Modified "/warp Arena" Moved the NPC's and Added Dungeon Station near the npc's
+:shiny: [Survival] Removed Unique Trader from Blacksmith NPC, added gold bar that opens the trader
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
