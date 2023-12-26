@@ -1,20 +1,20 @@
-**Patch/Changes 8.9.7.2** *(Network Changes)*
-:shiny: [Survival] Modified AFK Zone message, making it readable on bedrock
-:shiny: [Survival] Fixed Bug where players were not receiving **Kyanite Set** from Rare Crate
-:shiny: [Survival] Modified Blacksmith's Medal trader, Elaborated on the fact that its copper and other medal trader in lore
-:shiny: [Survival] Fixed a major bug related to welcomekit, Players were able to claim it constantly
-:shiny: [Survival] Merged Rules UI with FAQ UI and modified FAQ UI Title + Layout
-:shiny: [Survival] Modified Auto Helper message for Copper Trader, Removed Auto message for /welcomekit as it spams alot
-:shiny: [Survival] Graveyard's Level Three mobs will have HP Bar
-:shiny: [Survival] Moved all of the scrolls trades from unique trader (blacksmith) to scroll trader (enchanter)
-:shiny: [Survival] Reduced Soul Scrolls price from 2,000,000 to 1,000,000
-:shiny: [Survival] Changed Frost Trader, Volcano Trader and Wasteland Trader UI Design and Title name
-:shiny: [Survival] Added "ITEM BOMB" Level 1 to 3 scroll item, that's available at Frost/Volcano/Wasteland Trader and /warp Enchanter
-:shiny: [Survival] Removed Dungeon Trader from Blacksmith NPC, added dungeon weapon stand that opens the trader
-:shiny: [Survival] Added **Extremely** hidden easter egg near /warp dungeons and /warp arena (1 Easter Egg)
-:shiny: [Survival] Catacombs NPC has been permanently removed from /warp dungeons
-:shiny: [Survival] Modified "/warp Arena" Moved the NPC's and Added Dungeon Station near the npc's
-:shiny: [Survival] Removed Unique Trader from Blacksmith NPC, added gold bar that opens the trader
+**Patch/Changes 8.9.7.3** *(Network Changes)*
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -28,11 +28,11 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-:shiny: [Underground Arena] Added Arena Token Requirement to Underground
-:shiny: [Underground Arena] Modified Queue UI, Added trading stations in the UI
-:shiny: [Underground Arena] Added Underground Consumable Token in the Trader
-:shiny: [Underground Arena] Arena will no longer spam "The Arena has ended successfully" message in chat
-:shiny: [Underground Arena] 
+:shiny: [Underground Arena]
+:shiny: [Underground Arena]
+:shiny: [Underground Arena]
+:shiny: [Underground Arena]
+:shiny: [Underground Arena]
 :shiny: [Underground Arena] 
 
 

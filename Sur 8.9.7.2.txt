@@ -14,77 +14,11 @@
 :shiny: [Survival] Added **Extremely** hidden easter egg near /warp dungeons and /warp arena (1 Easter Egg)
 :shiny: [Survival] Catacombs NPC has been permanently removed from /warp dungeons
 :shiny: [Survival] Modified "/warp Arena" Moved the NPC's and Added Dungeon Station near the npc's
-:shiny: [Survival] Removed Unique Trader from Blacksmith NPC, added gold bar that opens the trader
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival]
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Removed Unique Trader from Blacksmith NPC, added gold bar that opens the trader 
 
 :shiny: [Underground Arena] Added Arena Token Requirement to Underground
 :shiny: [Underground Arena] Modified Queue UI, Added trading stations in the UI
 :shiny: [Underground Arena] Added Underground Consumable Token in the Trader
 :shiny: [Underground Arena] Arena will no longer spam "The Arena has ended successfully" message in chat
-:shiny: [Underground Arena] 
-:shiny: [Underground Arena] 
-
-
-*(Special Thanks to _Whispwe)*
-:shiny: [Survival] 
-
-*(Special Thanks to _Skmasykw)*
-:shiny: [Survival] 
-
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Textures]
-:shiny: [Textures]
-:shiny: [Textures]
-:shiny: [Textures]
-:shiny: [Loot]
-:shiny: [Loot]
-:shiny: [Loot]
-:shiny: [Loot]
-:shiny: [Loot]
-
-:shiny: [Christmas] 
-:shiny: [Dungeon]
-
-:shiny: [Codex] 
-:shiny: [Codex] 
-
-*(Special Thanks to _Whispwe)*
-:shiny: [Art] 
-:shiny: [Art]
-:shiny: [Art]
 
 **[@Changelogs]**
-
-**DUNGEON FROST CHANGES**
-
-**DUNGEON WASTELAND CHANGES**
-
-**DUNGEON MINE CHANGES**
-
-**DUNGEON VOLCANO CHANGES**
