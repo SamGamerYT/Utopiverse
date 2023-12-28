@@ -5,7 +5,7 @@
 :shiny: [Survival] Added **Item Bomb 1/2/3** within Arena Trading station
 :shiny: [Survival] Relocated "/warp arena" location
 :shiny: [Survival] Santa NPC has been removed from **/warp christmas**
-:shiny: [Survival] 
+:shiny: [Survival] Updated over 50+ Dependencies, Using latest version of Java and Updated server from 1.20.1-STABLE to 1.20.2-STABLE
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
