@@ -7,7 +7,7 @@
 :shiny: [Survival] Santa NPC has been removed from **/warp christmas**
 :shiny: [Survival] Updated over 50+ Dependencies, Using latest version of Java and Updated server from 1.20.1-STABLE to 1.20.2-STABLE
 :shiny: [Survival] New Auction House Webhook for Discord
-:shiny: [Survival] 
+:shiny: [Survival] Items will now have glow on them whenever you drop them on the ground (RPG Related and Java Only)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
