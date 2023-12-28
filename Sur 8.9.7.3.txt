@@ -9,7 +9,7 @@
 :shiny: [Survival] New Auction House Webhook for Discord
 :shiny: [Survival] Items will now have glow on them whenever you drop them on the ground (RPG Related and Java Only)
 :shiny: [Survival] All new auction house anti dupe system
-:shiny: [Survival] 
+:shiny: [Survival] Removed the useless wither skeleton recipe bedrock gets from recipe book
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
