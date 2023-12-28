@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.7.3** *(Network Changes)*
 :shiny: [Survival] **EXPERIMENTAL** All entities will die when you kill a stacked mob
 :shiny: [Survival] Price for **Ultimate Repair Stone** has been buffed and Price of **Abundance Repair Stone** has been nerfed
-:shiny: [Survival] 
+:shiny: [Survival] Prices for **Fly D1, Fly D2, Fly D3** has been nerfed
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
