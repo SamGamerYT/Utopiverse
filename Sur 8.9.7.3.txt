@@ -21,7 +21,7 @@
 :shiny: [Survival] All the staff pets that are available on store will now attack and level up in dungeons
 :shiny: [Survival] 
 :shiny: [Survival] **EXPERIMENTAL** Tournament announcer in discord through webhook system, may or may not work properly ;_;
-:shiny: [Survival] 
+:shiny: [Survival] New tournament GUI, Ensuring it looks good and explains how exactly tournament works.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
