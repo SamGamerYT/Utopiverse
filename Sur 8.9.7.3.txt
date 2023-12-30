@@ -17,7 +17,7 @@
 :shiny: [Survival] Fixed Tax system on the auction house
 :shiny: [Survival] Fixed auction house messages
 :shiny: [Survival] Three new custom pet food available to purchase from Pets Shop soon!
-:shiny: [Survival] 
+:shiny: [Survival] Players will be able to level up their pets by fighting mobs and bosses in the following dungeons (Frost, Volcano, Wasteland and Arenas)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
