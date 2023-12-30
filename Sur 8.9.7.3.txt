@@ -19,7 +19,7 @@
 :shiny: [Survival] Three new custom pet food available to purchase from Pets Shop soon!
 :shiny: [Survival] Players will be able to level up their pets by fighting mobs and bosses in the following dungeons (Frost, Volcano, Wasteland and Arenas)
 :shiny: [Survival] All the staff pets that are available on store will now attack and level up in dungeons
-:shiny: [Survival] 
+
 :shiny: [Survival] **EXPERIMENTAL** Tournament announcer in discord through webhook system, may or may not work properly ;_;
 :shiny: [Survival] New tournament GUI, Ensuring it looks good and explains how exactly tournament works.
 :shiny: [Survival] 
