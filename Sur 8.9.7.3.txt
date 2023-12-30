@@ -16,7 +16,7 @@
 :shiny: [Survival] Modified ENABLED and DISABLED for survival messages to fix ????
 :shiny: [Survival] Fixed Tax system on the auction house
 :shiny: [Survival] Fixed auction house messages
-:shiny: [Survival] 
+:shiny: [Survival] Three new custom pet food available to purchase from Pets Shop soon!
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
