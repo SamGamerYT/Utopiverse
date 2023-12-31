@@ -24,7 +24,7 @@
 :shiny: [Survival] New tournament GUI, Ensuring it looks good and explains how exactly tournament works.
 :shiny: [Survival] All sort of trading totem, vanilla, golden apples and other exchanging has been removed from blacksmith :c
 :shiny: [Survival] Removed Bed Teleportation, Bandages and Deepslate Emerald Ore from Unique Blacksmith Trader
-:shiny: [Survival] 
+:shiny: [Survival] Removed Fly time and Sellwand chargers from Unique Blacksmith Trader
 :shiny: [Survival] 
 :shiny: [Survival] 
 
