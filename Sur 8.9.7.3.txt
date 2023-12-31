@@ -27,6 +27,10 @@
 :shiny: [Survival] Removed Bed Teleportation, Bandages and Deepslate Emerald Ore from Unique Blacksmith Trader
 :shiny: [Survival] Relocated Fly time and Sellwand chargers from Unique Blacksmith Trader to Enchanter's Scroll Shop
 :shiny: [Survival] Created a new trader located at spawn called "Guard Trader" talk to your local guard
+:shiny: [Survival] Unique Trader has been renamed to RPG Gear trader
+:shiny: [Survival] Removed all sort of repair stones from blacksmith and added it to your local (/warp repair) trader
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 :shiny: [Underground Arena]
