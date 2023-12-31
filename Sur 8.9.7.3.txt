@@ -33,65 +33,9 @@
 :shiny: [Survival] Rune Trading shop has been removed from Blacksmith and moved over to Tinkerer's Bench
 :shiny: [Survival] Modified Jeweler UI, Generic UI, Scroll UI and The Forge UI
 :shiny: [Survival] Removed the custom chest (54) UI as it wasn't looking good any longer
-:shiny: [Survival] 
-
-:shiny: [Underground Arena]
-:shiny: [Underground Arena]
-:shiny: [Underground Arena]
-:shiny: [Underground Arena]
-:shiny: [Underground Arena]
-:shiny: [Underground Arena] 
-
-
-*(Special Thanks to _Whispwe)*
-:shiny: [Survival] 
-
-*(Special Thanks to _Skmasykw)*
-:shiny: [Survival] 
 
 *(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Textures]
-:shiny: [Textures]
-:shiny: [Textures]
-:shiny: [Textures]
-:shiny: [Loot]
-:shiny: [Loot]
-:shiny: [Loot]
-:shiny: [Loot]
-:shiny: [Loot]
-
-:shiny: [Christmas] 
-:shiny: [Dungeon]
-
-:shiny: [Codex] 
-:shiny: [Codex] 
-
-*(Special Thanks to _Whispwe)*
-:shiny: [Art] 
-:shiny: [Art]
-:shiny: [Art]
+:shiny: [Build] Changing the /spawn area in the redzone (Coming Soon)
+:shiny: [Build] Changed /warp tinkerer zone (Coming Soon)
 
 **[@Changelogs]**
-
-**DUNGEON FROST CHANGES**
-
-**DUNGEON WASTELAND CHANGES**
-
-**DUNGEON MINE CHANGES**
-
-**DUNGEON VOLCANO CHANGES**
