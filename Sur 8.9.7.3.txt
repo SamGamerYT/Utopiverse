@@ -32,7 +32,7 @@
 :shiny: [Survival] Guard NPC has a new trading station that involves the stuff that were blacksmith trading stations (excluding scroll)
 :shiny: [Survival] Rune Trading shop has been removed from Blacksmith and moved over to Tinkerer's Bench
 :shiny: [Survival] Modified Jeweler UI, Generic UI, Scroll UI and The Forge UI
-:shiny: [Survival] 
+:shiny: [Survival] Removed the custom chest (54) UI as it wasn't looking good any longer
 :shiny: [Survival] 
 
 :shiny: [Underground Arena]
