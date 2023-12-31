@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.7.4** *(Network Changes)*
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Social Menu for Java Players as it was missing "TikTok" Option
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
