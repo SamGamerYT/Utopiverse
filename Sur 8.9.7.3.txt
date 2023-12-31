@@ -22,10 +22,11 @@
 
 :shiny: [Survival] **EXPERIMENTAL** Tournament announcer in discord through webhook system, may or may not work properly ;_;
 :shiny: [Survival] New tournament GUI, Ensuring it looks good and explains how exactly tournament works.
+
 :shiny: [Survival] All sort of trading totem, vanilla, golden apples and other exchanging has been removed from blacksmith :c
 :shiny: [Survival] Removed Bed Teleportation, Bandages and Deepslate Emerald Ore from Unique Blacksmith Trader
-:shiny: [Survival] Removed Fly time and Sellwand chargers from Unique Blacksmith Trader
-:shiny: [Survival] 
+:shiny: [Survival] Relocated Fly time and Sellwand chargers from Unique Blacksmith Trader to Enchanter's Scroll Shop
+:shiny: [Survival] Created a new trader located at spawn called "Guard Trader" talk to your local guard
 :shiny: [Survival] 
 
 :shiny: [Underground Arena]
