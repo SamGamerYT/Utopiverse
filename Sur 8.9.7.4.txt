@@ -8,7 +8,7 @@
 :shiny: [Survival] Added Tier/Rarity on Crystals and Scrolls Vouchers
 :shiny: [Survival] Christmas Melody has been removed from Spawn Zone
 :shiny: [Survival] Attempted to Modify Piglin Drop Rate
-:shiny: [Survival] 
+:shiny: [Survival] Auction House dupe fix
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
