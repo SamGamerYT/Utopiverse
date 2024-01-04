@@ -6,7 +6,7 @@
 :shiny: [Survival] Modified Enchanter NPC's Scroll Shop, All Scrolls will have custom item now
 :shiny: [Survival] Added in Scrolls' Crystal, to allow players to skip their clue quest easily
 :shiny: [Survival] Added Tier/Rarity on Crystals and Scrolls Vouchers
-:shiny: [Survival] 
+:shiny: [Survival] Christmas Melody has been removed from Spawn Zone
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
