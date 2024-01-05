@@ -9,7 +9,7 @@
 :shiny: [Survival] Christmas Melody has been removed from Spawn Zone
 :shiny: [Survival] Attempted to Modify Piglin Drop Rate
 :shiny: [Survival] Auction House dupe fix
-:shiny: [Survival] 
+:shiny: [Survival] Modified spawn's Guard NPC shop UI
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
