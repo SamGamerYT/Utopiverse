@@ -12,7 +12,7 @@
 :shiny: [Survival] Modified spawn's Guard NPC shop UI
 :shiny: [Survival] Modified Arena System/Menu and Hologram, Merged Rewards and Stations NPC together
 :shiny: [Survival] Compacted Arena Underground UI, Making it easier to read for bedrock players
-:shiny: [Survival] 
+:shiny: [Survival] Fixed issue within Enchanter's Scroll trading shop related to "Storm's Scroll"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
