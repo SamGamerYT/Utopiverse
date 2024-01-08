@@ -13,6 +13,21 @@
 :shiny: [Survival] Modified Arena System/Menu and Hologram, Merged Rewards and Stations NPC together
 :shiny: [Survival] Compacted Arena Underground UI, Making it easier to read for bedrock players
 :shiny: [Survival] Fixed issue within Enchanter's Scroll trading shop related to "Storm's Scroll"
+:shiny: [Survival] Removed All sorts of UI Title from Java Players Pack
+:shiny: [Survival] Removed Tutorial NPC
+:shiny: [Survival] Removed Currency NPC
+:shiny: [Survival] Fixed Auction House not broadcasting messages properly
+:shiny: [Survival] Changed Auction House colour theme from pink to aqua
+:shiny: [Survival] 
+
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -20,20 +35,11 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+*(Special Thanks to _BrokenJJ6029)*
+:shiny: [Build] Removed Random Teleport Portal
+:shiny: [Build] Made a new Random Teleportation Jump Portal
+:shiny: [Build] Made a boss showcase platform to show current custom boss you can fight
+:shiny: [Build] 
 
 :shiny: [Underground Arena]
 :shiny: [Underground Arena]
@@ -48,9 +54,6 @@
 
 *(Special Thanks to _Skmasykw)*
 :shiny: [Survival] 
-
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
 
 :shiny: [Survival] 
 :shiny: [Survival] 
