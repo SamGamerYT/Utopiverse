@@ -21,7 +21,7 @@
 :shiny: [Survival] Made /tiktok command open up our social UI
 :shiny: [Survival] Modified Welcome Hologram at the start zone of /spawn
 :shiny: [Survival] Made Codex NPC's eagle animated instead of static npc
-:shiny: [Survival] 
+:shiny: [Survival] Dungeon and Dungeon Join UI's has been removed from the server
 :shiny: [Survival] 
 
 :shiny: [Survival] 
