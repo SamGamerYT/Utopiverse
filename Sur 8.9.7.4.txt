@@ -19,6 +19,8 @@
 :shiny: [Survival] Fixed Auction House not broadcasting messages properly
 :shiny: [Survival] Changed Auction House colour theme from pink to aqua
 :shiny: [Survival] Fixed the issue where within Social UI, TikTok icon was not working as expected
+:shiny: [Survival] Made /tiktok command open up our social UI
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
