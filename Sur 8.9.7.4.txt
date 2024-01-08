@@ -15,13 +15,12 @@
 :shiny: [Survival] Fixed issue within Enchanter's Scroll trading shop related to "Storm's Scroll"
 :shiny: [Survival] Removed All sorts of UI Title from Java Players Pack
 :shiny: [Survival] Removed Tutorial NPC
-:shiny: [Survival] Removed Currency NPC
 :shiny: [Survival] Fixed Auction House not broadcasting messages properly
 :shiny: [Survival] Changed Auction House colour theme from pink to aqua
 :shiny: [Survival] Fixed the issue where within Social UI, TikTok icon was not working as expected
 :shiny: [Survival] Made /tiktok command open up our social UI
 :shiny: [Survival] Modified Welcome Hologram at the start zone of /spawn
-:shiny: [Survival] 
+:shiny: [Survival] Made Codex NPC's eagle animated instead of static npc
 :shiny: [Survival] 
 :shiny: [Survival] 
 
