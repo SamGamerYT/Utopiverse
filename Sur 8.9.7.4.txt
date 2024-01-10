@@ -26,7 +26,7 @@
 :shiny: [Survival] **/dungeon** and **/dungeonjoin** will point towards **/warp dungeons**
 :shiny: [Survival] Fixed an issue where blacksmith's assistance NPC wouldn't open protection shop
 :shiny: [Survival] Fixed an issue where Yeti boss would despawn if someone does not kill the boss within 10 minutes.
-:shiny: [Survival] 
+:shiny: [Survival] Modified Wizard's NPC to a Guard NPC that fits the starting zone a bit more.
 :shiny: [Survival] 
 
 :shiny: [Survival] 
