@@ -16,39 +16,12 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Build] 
 
 :shiny: [Underground Arena] Nerfed **Lifes** from 5 to 1
 :shiny: [Underground Arena] Removed **Totem of Undying** from Banned item list
@@ -56,6 +29,12 @@
 :shiny: [Underground Arena]
 :shiny: [Underground Arena]
 :shiny: [Underground Arena] 
+
+*(Special Thanks to _BrokenJJ6029)*
+:shiny: [Build] 
+:shiny: [Build] 
+:shiny: [Build] 
+:shiny: [Build] 
 
 
 *(Special Thanks to _Whispwe)*
