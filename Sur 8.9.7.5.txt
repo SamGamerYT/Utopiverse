@@ -3,7 +3,7 @@
 :shiny: [Survival] Removed **Border Size** from FAQ UI
 :shiny: [Survival] Added **Border Size** information within /rtp UI
 :shiny: [Survival] Modified **/rtp** UI design (Currently only available for Java)
-:shiny: [Survival] 
+:shiny: [Survival] Dungeon mobs will now drop experience when defeated
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
