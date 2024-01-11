@@ -4,8 +4,8 @@
 :shiny: [Survival] Added **Border Size** information within /rtp UI
 :shiny: [Survival] Modified **/rtp** UI design (Currently only available for Java)
 :shiny: [Survival] Dungeon mobs will now drop experience when defeated
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Ender Dragon Death sound has now been lowered to 100 blocks radius
+:shiny: [Survival] Ender Dragon now has a level modifier, as in the better gear you have the stronger it is
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
