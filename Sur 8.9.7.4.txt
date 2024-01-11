@@ -27,83 +27,10 @@
 :shiny: [Survival] Fixed an issue where blacksmith's assistance NPC wouldn't open protection shop
 :shiny: [Survival] Fixed an issue where Yeti boss would despawn if someone does not kill the boss within 10 minutes.
 :shiny: [Survival] Modified Wizard's NPC to a Guard NPC that fits the starting zone a bit more.
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] Removed Random Teleport Portal
 :shiny: [Build] Made a new Random Teleportation Jump Portal
 :shiny: [Build] Made a boss showcase platform to show current custom boss you can fight
-:shiny: [Build] 
-
-:shiny: [Underground Arena]
-:shiny: [Underground Arena]
-:shiny: [Underground Arena]
-:shiny: [Underground Arena]
-:shiny: [Underground Arena]
-:shiny: [Underground Arena] 
-
-
-*(Special Thanks to _Whispwe)*
-:shiny: [Survival] 
-
-*(Special Thanks to _Skmasykw)*
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Textures]
-:shiny: [Textures]
-:shiny: [Textures]
-:shiny: [Textures]
-:shiny: [Loot]
-:shiny: [Loot]
-:shiny: [Loot]
-:shiny: [Loot]
-:shiny: [Loot]
-
-:shiny: [Christmas] 
-:shiny: [Dungeon]
-
-:shiny: [Codex] 
-:shiny: [Codex] 
-
-*(Special Thanks to _Whispwe)*
-:shiny: [Art] 
-:shiny: [Art]
-:shiny: [Art]
 
 **[@Changelogs]**
-
-**DUNGEON FROST CHANGES**
-
-**DUNGEON WASTELAND CHANGES**
-
-**DUNGEON MINE CHANGES**
-
-**DUNGEON VOLCANO CHANGES**
