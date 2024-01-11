@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.7.5** *(Network Changes)*
-:shiny: [Survival]  
+:shiny: [Survival] Modified Spawn's Yeti to be static and it will no longer follow players (Due to head dunking glitch)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
