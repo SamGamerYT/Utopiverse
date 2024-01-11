@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.7.5** *(Network Changes)*
-:shiny: [Survival] Modified 
+:shiny: [Survival]  
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
