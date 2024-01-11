@@ -6,7 +6,7 @@
 :shiny: [Survival] Dungeon mobs will now drop experience when defeated
 :shiny: [Survival] Ender Dragon Death sound has now been lowered to 100 blocks radius
 :shiny: [Survival] Ender Dragon now has a level modifier, as in the better gear you have the stronger it is
-:shiny: [Survival] 
+:shiny: [Survival] Added **Copper Set** for players to purchase, it is on par with Classic Netherite Gear (Purchasable from your local Guard)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
