@@ -8,8 +8,8 @@
 :shiny: [Survival] Ender Dragon now has a level modifier, as in the better gear you have the stronger it is
 :shiny: [Survival] Added **Copper Set** for players to purchase, it is on par with Classic Netherite Gear (Purchasable from your local Guard)
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+
+:shiny: [Survival] Modified **/warp dungeons** zone, Removed all NPC's and replaced them with waystones
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -25,10 +25,6 @@
 
 :shiny: [Underground Arena] Nerfed **Lifes** from 5 to 1
 :shiny: [Underground Arena] Removed **Totem of Undying** from Banned item list
-:shiny: [Underground Arena]
-:shiny: [Underground Arena]
-:shiny: [Underground Arena]
-:shiny: [Underground Arena] 
 
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] 
