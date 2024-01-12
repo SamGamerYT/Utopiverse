@@ -10,7 +10,7 @@
 :shiny: [Survival] 
 
 :shiny: [Survival] Modified **/warp dungeons** zone, Removed all NPC's and replaced them with waystones
-:shiny: [Survival] 
+:shiny: [Survival] Fixed issue where all the custom model npc's were headbanging non-stop
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
