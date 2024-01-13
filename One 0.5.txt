@@ -1,5 +1,5 @@
 **Patch/Changes 0.5** *(Oneblock)*
-:grass: [QOL] Updated dependencies related to Hub
+:grass: [QOL] Updated dependencies related
 :grass: [QOL] Improved discord to ingame chat connection a bit better
 :grass: [QOL] Changed discord webhook name from "one" to "ONE"
 :grass: [QOL] Updated Server unknown command messages
@@ -8,7 +8,7 @@
 :grass: [QOL] Disabled player collision
 :grass: [QOL] Removed Native Advertisement messages, instead opted for server-wide broadcasts
 :grass: [QOL] Bugged **/warp mine** Dungeon Area - Some areas may not work properly xd
-:grass: [QOL] 
+:grass: [QOL] Updated Crates dependencies
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
