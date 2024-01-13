@@ -11,11 +11,10 @@
 
 :shiny: [Survival] Modified **/warp dungeons** zone, Removed all NPC's and replaced them with waystones
 :shiny: [Survival] Fixed issue where all the custom model npc's were headbanging non-stop
-:shiny: [Survival] 
 :shiny: [Survival] Lightning Rod range has been increased from 8 to 16
-:shiny: [Survival] 
 
-:shiny: [Survival] 
+:shiny: [Survival] Removal of **JOBS SYSTEM** Jobs no longer exist within the server anymore :c
+:shiny: [Survival] Introducing **Deliveries**, Visit /warp farm and talk to you local farmer near his house to start making deliveries
 :shiny: [Survival] 
 
 :shiny: [Survival] 
