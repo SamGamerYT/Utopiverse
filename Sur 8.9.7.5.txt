@@ -13,9 +13,6 @@
 :shiny: [Survival] Fixed issue where all the custom model npc's were headbanging non-stop
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 :shiny: [Survival] 
 :shiny: [Survival] 

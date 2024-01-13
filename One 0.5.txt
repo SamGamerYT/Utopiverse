@@ -1,7 +1,7 @@
 **Patch/Changes 0.5** *(Oneblock)*
 :grass: [QOL] Updated dependencies related to Hub
 :grass: [QOL] Improved discord to ingame chat connection a bit better
-:grass: [QOL] 
+:grass: [QOL] Changed discord webhook name from "one" to "ONE"
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
