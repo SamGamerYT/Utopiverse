@@ -1,5 +1,5 @@
 **Patch/Changes 3.4.03** *(Hub)*
-:butter~1: [QOL] Updated dependencies related
+:butter~1: [QOL] Updated dependencies related features
 :butter~1: [QOL] Improved discord to ingame chat connection a bit better
 :butter~1: [QOL] 
 :butter~1: [QOL] 

@@ -7,7 +7,7 @@
 :shiny: [Survival] Ender Dragon Death sound has now been lowered to 100 blocks radius
 :shiny: [Survival] Ender Dragon now has a level modifier, as in the better gear you have the stronger it is
 :shiny: [Survival] Added **Copper Set** for players to purchase, it is on par with Classic Netherite Gear (Purchasable from your local Guard)
-:shiny: [Survival] 
+:shiny: [Survival] Updated dependencies related features
 
 :shiny: [Survival] Modified **/warp dungeons** zone, Removed all NPC's and replaced them with waystones
 :shiny: [Survival] Fixed issue where all the custom model npc's were headbanging non-stop
