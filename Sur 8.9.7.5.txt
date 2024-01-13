@@ -17,16 +17,17 @@
 :shiny: [Survival] Removal of **JOBS SYSTEM** Jobs no longer exist within the server anymore :c
 :shiny: [Survival] Introducing **DELIVERIES**, Visit /warp farm and talk to you local farmer near his house to start making deliveries
 
+:shiny: [Survival] Added new voting site and removed the one that was not working properly
+
 :shiny: [Survival] Added /warp blacksmith alias as **/blacksmith**
 :shiny: [Survival] Added /warp dungeons alias as **/blacksmith**
-:shiny: [Survival] 
 
 :shiny: [Underground Arena] Nerfed **Lifes** from 5 to 1
 :shiny: [Underground Arena] Removed **Totem of Undying** from Banned item list
 
 *(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-:shiny: [Build] 
+:shiny: [Build] Changed the entire **/warp portals** area
+:shiny: [Build] Created brand new biome teleported (the location is for resource world)
 :shiny: [Build] 
 :shiny: [Build] 
 
