@@ -6,7 +6,7 @@
 :grass: [QOL] Optimized the server severely making it on par with survival optimizations
 :grass: [QOL] Lightning Rod range has been decreased from 128 to 16
 :grass: [QOL] Disabled player collision
-:grass: [QOL] 
+:grass: [QOL] Removed Native Advertisement messages, instead opted for server-wide broadcasts
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
