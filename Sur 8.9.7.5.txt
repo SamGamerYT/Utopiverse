@@ -18,6 +18,7 @@
 :shiny: [Survival] Introducing **DELIVERIES**, Visit /warp farm and talk to you local farmer near his house to start making deliveries
 
 :shiny: [Survival] Added /warp blacksmith alias as **/blacksmith**
+:shiny: [Survival] Added /warp dungeons alias as **/blacksmith**
 :shiny: [Survival] 
 
 :shiny: [Underground Arena] Nerfed **Lifes** from 5 to 1
