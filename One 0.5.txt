@@ -1,4 +1,6 @@
 **Patch/Changes 0.5** *(Oneblock)*
+:grass: [QOL] Updated dependencies related to Hub
+:grass: [QOL] Improved discord to ingame chat connection a bit better
 :grass: 
 :grass: 
 :grass: 
@@ -9,4 +11,5 @@
 :grass: 
 :grass: 
 :grass: 
-:grass: 
+
+**[@Changelogs]**
