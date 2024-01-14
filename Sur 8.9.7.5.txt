@@ -27,9 +27,7 @@
 
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] Changed the entire **/warp portals** area
-:shiny: [Build] Created brand new biome teleported (the location is for resource world)
-:shiny: [Build] 
-:shiny: [Build] 
+:shiny: [Build] Created brand new biome teleported (the location is for primary world)
 
 
 *(Special Thanks to _Whispwe)*
