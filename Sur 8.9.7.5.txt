@@ -22,8 +22,8 @@
 :shiny: [Survival] Added /warp blacksmith alias as **/blacksmith**
 :shiny: [Survival] Added /warp dungeons alias as **/blacksmith**
 
-:shiny: [Survival] Fixed **/shop** not teleporting to blackmarket when you go within a category
 :shiny: [Survival] Fixed **/shop** category button issue
+:shiny: [Survival] Fixed **/shop** not teleporting to blackmarket when you go within a category
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
