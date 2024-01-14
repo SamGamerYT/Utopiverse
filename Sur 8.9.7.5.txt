@@ -30,7 +30,7 @@
 :shiny: [Survival] Fixed **/shop** not teleporting to blackmarket when you go within a category
 :shiny: [Survival] Added **Sell** prices for **Golden Apple** and **Enchanted Golden Apple** within Food Category
 :shiny: [Survival] Removed **Buy** prices for **Golden Apple** and **Enchanted Golden Apple** within Food Category
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Buy** prices for **Strings**, **Rotten Flesh** and **Spider Eye** within Drops Category
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
