@@ -3,15 +3,15 @@
 :grass: [QOL] Improved discord to ingame chat connection a bit better
 :grass: [QOL] Changed discord webhook name from "one" to "ONE"
 :grass: [QOL] Updated Server unknown command messages
-:grass: [QOL] Optimized the server severely making it on par with survival optimizations
 :grass: [QOL] Lightning Rod range has been decreased from 128 to 16
 :grass: [QOL] Disabled player collision
 :grass: [QOL] Removed Native Advertisement messages, instead opted for server-wide broadcasts
-:grass: [QOL] Bugged **/warp mine** Dungeon Area - Some areas may not work properly xd
-:grass: [QOL] Updated Crates dependencies
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
+
+:grass: Optimized the server severely making it on par with survival optimizations
+:grass: Updated Crates dependencies
+:grass: Bugged **/warp mine** Dungeon Area - Some areas may not work properly xd
+:grass: Fixed a major bug with chat where players were not able to chat properly with players
+:grass: 
+:grass: 
  
 **[@Changelogs]**
