@@ -1,4 +1,5 @@
 **Patch/Changes 8.9.7.5** *(Network Changes)*
+:shiny: [Survival] Updated dependencies related features
 :shiny: [Survival] Modified Spawn's Yeti to be static and it will no longer follow players (Due to head dunking glitch)
 :shiny: [Survival] Removed **Border Size** from FAQ UI
 :shiny: [Survival] Added **Border Size** information within /rtp UI
@@ -7,7 +8,7 @@
 :shiny: [Survival] Ender Dragon Death sound has now been lowered to 100 blocks radius
 :shiny: [Survival] Ender Dragon now has a level modifier, as in the better gear you have the stronger it is
 :shiny: [Survival] Added **Copper Set** for players to purchase, it is on par with Classic Netherite Gear (Purchasable from your local Guard)
-:shiny: [Survival] Updated dependencies related features
+:shiny: [Survival] Modified **/warps** UI, Relocated Information item at the bottom
 
 :shiny: [Survival] Modified **/warp dungeons** zone, Removed all NPC's and replaced them with waystones
 :shiny: [Survival] Fixed issue where all the custom model npc's were headbanging non-stop
