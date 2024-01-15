@@ -34,8 +34,9 @@
 :shiny: [Survival] Removed **Buy** prices for **Golden Apple** and **Enchanted Golden Apple** within Food Category
 :shiny: [Survival] Removed **Buy** prices for **Strings**, **Rotten Flesh** and **Spider Eye** within Drops Category
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+
+*(Special Thanks to _WhispyW)*
+:shiny: [Survival] Entirely modified **/vote** UI, More information and added **Cumulative Rewards**
 
 :shiny: [Underground Arena] Nerfed **Lifes** from 5 to 1
 :shiny: [Underground Arena] Removed **Totem of Undying** from Banned item list
@@ -43,10 +44,6 @@
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] Changed the entire **/warp portals** area
 :shiny: [Build] Created brand new biome teleported (the location is for primary world)
-
-
-*(Special Thanks to _Whispwe)*
-:shiny: [Survival] 
 
 *(Special Thanks to _Skmasykw)*
 :shiny: [Survival] 
