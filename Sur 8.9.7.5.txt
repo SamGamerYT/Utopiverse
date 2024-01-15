@@ -10,6 +10,7 @@
 :shiny: [Survival] Added **Copper Set** for players to purchase, it is on par with Classic Netherite Gear (Purchasable from your local Guard)
 :shiny: [Survival] Modified **/warps** UI, Relocated Information item at middle-left corner
 :shiny: [Survival] Added **/warp pond** within **/warps** UI, New location for players to fish in
+:shiny: [Survival] Fixed an issue where **/welcomegift** command was not working properly
 :shiny: [Survival] 
 
 :shiny: [Survival] Modified **/warp dungeons** zone, Removed all NPC's and replaced them with waystones
