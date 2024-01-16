@@ -12,6 +12,7 @@
 :shiny: [Survival] Added **/warp pond** within **/warps** UI, New location for players to fish in
 :shiny: [Survival] Fixed an issue where **/welcomegift** command was not working properly
 :shiny: [Survival] Fixed minor wording errors in Playtime UI
+:shiny: [Survival] Modified Clara's (Ranks NPC) dialog and removed useless dialogs
 :shiny: [Survival] 
 
 :shiny: [Survival] Modified **/warp dungeons** zone, Removed all NPC's and replaced them with waystones
