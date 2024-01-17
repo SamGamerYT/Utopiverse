@@ -11,7 +11,5 @@
 :grass: Updated Crates dependencies
 :grass: Bugged **/warp mine** Dungeon Area - Some areas may not work properly xd
 :grass: Fixed a major bug with chat where players were not able to chat properly with players
-:grass: 
-:grass: 
  
 **[@Changelogs]**
