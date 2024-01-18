@@ -28,6 +28,9 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+:shiny: [Underground Arena] Disabled **Christmas Token** drop from Arena
+:shiny: [Underground Arena] 
+
 **SHOP RELATED CHANGES**
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -37,9 +40,6 @@
 
 *(Special Thanks to _WhispyW)*
 :shiny: [Survival] 
-
-:shiny: [Underground Arena] 
-:shiny: [Underground Arena] 
 
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] 
