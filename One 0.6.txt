@@ -1,5 +1,5 @@
 **Patch/Changes 0.6** *(Oneblock)*
-:grass: [QOL] 
+:grass: [QOL] Keep inventory turned on in **Boss Zone**
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
