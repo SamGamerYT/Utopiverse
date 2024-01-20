@@ -1,6 +1,5 @@
 **Patch/Changes 8.9.7.6** *(Network Changes)*
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Modified "Traveling Mage" hologram design
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
