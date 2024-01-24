@@ -4,7 +4,5 @@
 :butter~1: [QOL] Changed giant Banner Board location
 :butter~1: [QOL] More optimizations
 :butter~1: [QOL] Reduced view distance for Banner Board
-:butter~1: [QOL] 
-:butter~1: [QOL] 
 
 **[@Changelogs]**
