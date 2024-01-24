@@ -38,6 +38,8 @@
 :shiny: [Survival] 
 **DUNGEON WASTELAND CHANGES**
 :shiny: [Survival] Added leveling system for wasteland mobs and did QOL changes to messages/names
+:shiny: [Survival] Death Miner name changed to Dead Miner
+:shiny: [Survival] Changed "Death Miner Fragment" to "Miner Fragment"
 :shiny: [Survival] 
 
 *(Special Thanks to _WhispyW)*
