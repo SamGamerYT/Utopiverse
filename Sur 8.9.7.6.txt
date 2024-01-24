@@ -2,8 +2,8 @@
 :shiny: [Survival] Modified "Traveling Mage" hologram design
 :shiny: [Survival] Modified "The Rewarder" hologram design
 :shiny: [Survival] Players won't be able to damage Codex NPC at spawn
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Modified all of the bosses' death messages
+:shiny: [Survival] Added a new player obtainable loot crate called "Dungeon Lootbox" which are obtainable through killing dungeon bosses (Frost+)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -27,13 +27,17 @@
 :shiny: [Survival] 
 
 :shiny: [Underground Arena] Disabled **Christmas Token** drop from Arena
-:shiny: [Underground Arena] 
 
 **SHOP RELATED CHANGES**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
+
+**DUNGEON VOLCANO CHANGES**
+:shiny: [Survival] Added a minion for King in Flames boss
 :shiny: [Survival] 
+**DUNGEON WASTELAND CHANGES**
+:shiny: [Survival] Added leveling system for wasteland mobs and did QOL changes to messages/names
 :shiny: [Survival] 
 
 *(Special Thanks to _WhispyW)*
