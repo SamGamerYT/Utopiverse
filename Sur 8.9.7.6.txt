@@ -40,6 +40,8 @@
 :shiny: [Survival] Added leveling system for wasteland mobs and did QOL changes to messages/names
 :shiny: [Survival] Death Miner name changed to Dead Miner
 :shiny: [Survival] Changed "Death Miner Fragment" to "Miner Fragment"
+:shiny: [Survival] Decreased Werewolf's movement speed
+:shiny: [Survival] Increased Werewolf's damage from 25 to 30
 :shiny: [Survival] 
 
 *(Special Thanks to _WhispyW)*
