@@ -35,7 +35,7 @@
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Added a minion for King in Flames boss
-:shiny: [Survival] 
+
 **DUNGEON WASTELAND CHANGES**
 :shiny: [Survival] Added leveling system for wasteland mobs and did QOL changes to messages/names
 :shiny: [Survival] Death Miner name changed to Dead Miner
