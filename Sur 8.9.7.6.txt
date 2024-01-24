@@ -42,7 +42,6 @@
 :shiny: [Survival] Changed "Death Miner Fragment" to "Miner Fragment"
 :shiny: [Survival] Decreased Werewolf's movement speed
 :shiny: [Survival] Increased Werewolf's damage from 25 to 30
-:shiny: [Survival] 
 
 *(Special Thanks to _WhispyW)*
 :shiny: [Survival] 
