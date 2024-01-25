@@ -7,7 +7,7 @@
 :shiny: [Survival] Removed "Jobs" UI that was left within the server after jobs removal
 :shiny: [Survival] Removed information related to jobs from "/faq"
 :shiny: [Survival] Modified "/faq" UI design and made the information a little more appealing
-:shiny: [Survival] 
+:shiny: [Survival] Added information related to deliveries within "/faq"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
