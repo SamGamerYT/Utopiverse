@@ -6,7 +6,7 @@
 :shiny: [Survival] Added a new player obtainable loot crate called "Dungeon Lootbox" which are obtainable through killing dungeon bosses (Frost+)
 :shiny: [Survival] Removed "Jobs" UI that was left within the server after jobs removal
 :shiny: [Survival] Removed information related to jobs from "/faq"
-:shiny: [Survival] 
+:shiny: [Survival] Modified "/faq" UI design and made the information a little more appealing
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
