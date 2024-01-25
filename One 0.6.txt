@@ -7,7 +7,7 @@
 :grass: [QOL] 
 :grass: [QOL] 
 
-:grass: 
+:grass: Fixed "/tpa" and "/pay" command not popping up the proper UI
 :grass: 
 :grass: 
 :grass: 
