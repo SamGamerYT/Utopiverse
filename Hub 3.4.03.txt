@@ -4,5 +4,6 @@
 :butter~1: [QOL] Changed giant Banner Board location
 :butter~1: [QOL] More optimizations
 :butter~1: [QOL] Reduced view distance for Banner Board
+:butter~1: [QOL] Major change to permissions system (Staff-End) - Not public change-log
 
 **[@Changelogs]**
