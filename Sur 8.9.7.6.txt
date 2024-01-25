@@ -4,7 +4,7 @@
 :shiny: [Survival] Players won't be able to damage Codex NPC at spawn
 :shiny: [Survival] Modified all of the bosses' death messages
 :shiny: [Survival] Added a new player obtainable loot crate called "Dungeon Lootbox" which are obtainable through killing dungeon bosses (Frost+)
-:shiny: [Survival] 
+:shiny: [Survival] Removed "Jobs" UI that was left within the server after jobs removal
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
