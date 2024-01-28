@@ -8,7 +8,7 @@
 :grass: [QOL] 
 
 :grass: Fixed "/tpa" and "/pay" command not popping up the proper UI
-:grass: 
+:grass: Fixed major issue where players were not able to run certain commands
 :grass: 
 :grass: 
  
