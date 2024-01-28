@@ -3,7 +3,7 @@
 :grass: [QOL] Added the brand new recipes NPC near /spawn area (Talk to the BlackSmith)
 :grass: [QOL] Added netherite smithing upgrade template to smithing NPC recipes
 :grass: [QOL] Added "/warps" ui in oneblock, making the design little more eyepleasing
-:grass: [QOL] 
+:grass: [QOL] Added armour trims to smithing NPC recipes
 :grass: [QOL] 
 :grass: [QOL] 
 
