@@ -2,13 +2,15 @@
 :grass: [QOL] Keep inventory turned on in **Boss Zone**
 :grass: [QOL] Added the brand new recipes NPC near /spawn area (Talk to the BlackSmith)
 :grass: [QOL] Added netherite smithing upgrade template to smithing NPC recipes
-:grass: [QOL] 
+:grass: [QOL] Added "/warps" ui in oneblock, making the design little more eyepleasing
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
 
 :grass: Fixed "/tpa" and "/pay" command not popping up the proper UI
 :grass: Fixed major issue where players were not able to run certain commands
+:grass: Double Warps menu has been removed and Player Warps menu has been merged with "/warps"
+:grass: 
 :grass: 
 :grass: 
  
