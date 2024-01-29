@@ -9,7 +9,7 @@
 :shiny: [Survival] Modified "/faq" UI design and made the information a little more appealing
 :shiny: [Survival] Added information related to deliveries within "/faq"
 :shiny: [Survival] Voting Cumulate rewards bug has been fixed
-:shiny: [Survival] 
+:shiny: [Survival] Fixed "%cumulative%" placeholder problem
 :shiny: [Survival] 
 
 :shiny: [Survival] 
