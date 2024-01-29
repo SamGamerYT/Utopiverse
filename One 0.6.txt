@@ -1,10 +1,10 @@
 **Patch/Changes 0.6** *(Oneblock)*
 :grass: [QOL] Keep inventory turned on in **Boss Zone**
-:grass: [QOL] Added the brand new recipes NPC near /spawn area (Talk to the BlackSmith)
+:grass: [QOL] Added the brand new recipes NPC near /spawn area (Talk to the Smither)
 :grass: [QOL] Added netherite smithing upgrade template to smithing NPC recipes
 :grass: [QOL] Added "/warps" ui in oneblock, making the design little more eyepleasing
 :grass: [QOL] Added armour trims to smithing NPC recipes
-:grass: [QOL] 
+:grass: [QOL] Added the brand new recipes NPC near /spawn area (Talk to the Farmer)
 :grass: [QOL] 
 
 :grass: Fixed "/tpa" and "/pay" command not popping up the proper UI
