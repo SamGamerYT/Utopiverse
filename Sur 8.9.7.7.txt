@@ -19,6 +19,7 @@
 
 :shiny: [Survival] 
 :shiny: [Survival] Statistic name changes: Damage > Main Damage, Weapon Damage > Damage, Magic Damage > Spell Damage
+:shiny: [Survival] Statistic name changes: Max Mana > Mana, Experience Boost > XP Boost, 
 
 :shiny: [Underground Arena]
 
