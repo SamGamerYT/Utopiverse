@@ -6,14 +6,10 @@
 :grass: [QOL] Added armour trims to smithing NPC recipes
 :grass: [QOL] Added the brand new recipes NPC near /spawn area (Talk to the Farmer)
 :grass: [QOL] Added "Cherry Blossom" biome between "Colourful" and "The End"
-:grass: [QOL] 
-:grass: [QOL] 
+:grass: [QOL] Added Minions to Oneblock, As of right now it's only for store purchase
 
 :grass: Fixed "/tpa" and "/pay" command not popping up the proper UI
 :grass: Fixed major issue where players were not able to run certain commands
 :grass: Double Warps menu has been removed and Player Warps menu has been merged with "/warps"
-:grass: 
-:grass: 
-:grass: 
  
 **[@Changelogs]**
