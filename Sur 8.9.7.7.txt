@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.7.7** *(Network Changes)*
-:shiny: [Survival] 
+:shiny: [Survival] New Legendary Crate loot "Legendary Staff" - Powerful Mage based weapon
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
