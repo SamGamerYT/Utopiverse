@@ -18,7 +18,7 @@
 :shiny: [Survival] 
 
 :shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Statistic name changes: Damage > Main Damage, Weapon Damage > Damage, Magic Damage > Spell Damage
 
 :shiny: [Underground Arena]
 
