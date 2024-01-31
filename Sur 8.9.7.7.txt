@@ -24,6 +24,7 @@
 :shiny: [Underground Arena]
 
 **SHOP RELATED CHANGES**
+:shiny: [Survival] Removed "NAME_TAG" item buy option from shop
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
