@@ -25,6 +25,7 @@
 
 **SHOP RELATED CHANGES**
 :shiny: [Survival] Removed "NAME_TAG" item buy option from shop
+:shiny: [Survival] Added "SHROOMLIGHT" block in place of "NAME_TAG" within Miscellaneous category
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
