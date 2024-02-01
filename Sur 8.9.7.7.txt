@@ -6,7 +6,7 @@
 :shiny: [Survival] Made changes to MonthlyCrate's hologram in compliant with Mojang's TOS
 :shiny: [Survival] Added "Keep EXP" Perk to Emperor Rankup
 :shiny: [Survival] Pets should be spawnable again for players through "/pets" UI
-:shiny: [Survival] 
+:shiny: [Survival] Disabled Confirmation method for "/voteshop" UI
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
