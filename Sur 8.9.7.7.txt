@@ -9,7 +9,7 @@
 :shiny: [Survival] Disabled Confirmation method for "/voteshop" UI
 :shiny: [Survival] Fixed "/ce" command not working as intended
 :shiny: [Survival] Top voters will be displayed properly and automatically within discord channel
-:shiny: [Survival] 
+:shiny: [Survival] Top tournament winners will be displayed properly and automatically within discord channel
 :shiny: [Survival] 
 
 :shiny: [Survival] 
