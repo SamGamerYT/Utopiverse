@@ -8,7 +8,7 @@
 :shiny: [Survival] Pets should be spawnable again for players through "/pets" UI
 :shiny: [Survival] Disabled Confirmation method for "/voteshop" UI
 :shiny: [Survival] Fixed "/ce" command not working as intended
-:shiny: [Survival] 
+:shiny: [Survival] Top voters will be displayed properly and automatically within discord channel
 :shiny: [Survival] 
 :shiny: [Survival] 
 
