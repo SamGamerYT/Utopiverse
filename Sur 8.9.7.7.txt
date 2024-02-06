@@ -12,8 +12,8 @@
 :shiny: [Survival] Top tournament winners will be displayed properly and automatically within discord channel
 :shiny: [Survival] Fixed errors in Hot Coffee and Warrior Candy
 :shiny: [Survival] Fixed minor issue with necromancer gear, it will show the proper texture instead of brown coloured leather
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Major dependencies update
+:shiny: [Survival] Fixed minor spam that happens whenever player opens up "/codex"
 
 :shiny: [Survival] 
 :shiny: [Survival] 
