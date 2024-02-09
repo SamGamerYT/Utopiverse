@@ -15,7 +15,7 @@
 :shiny: [Survival] Major dependencies update
 :shiny: [Survival] Fixed minor spam that happens whenever player opens up "/codex"
 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed random sandstone mall shops (old design) coming back due to old players losing their shop (after a year ;_;)
 :shiny: [Survival] 
 
 :shiny: [Survival] 
