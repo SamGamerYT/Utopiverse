@@ -16,13 +16,13 @@
 :shiny: [Survival] Fixed minor spam that happens whenever player opens up "/codex"
 
 :shiny: [Survival] Fixed random sandstone mall shops (old design) coming back due to old players losing their shop (after a year ;_;)
-:shiny: [Survival] 
 
 :shiny: [Survival] 
 :shiny: [Survival] Statistic name changes: Damage > Main Damage, Weapon Damage > Damage, Magic Damage > Spell Damage
 :shiny: [Survival] Statistic name changes: Max Mana > Mana, Experience Boost > XP Boost, 
 
-:shiny: [Underground Arena]
+**DUNGEON FROST CHANGES**
+:shiny: [Survival] Modified Yeti Boss' kill message and loot stable
 
 **SHOP RELATED CHANGES**
 :shiny: [Survival] Removed "NAME_TAG" item buy option from shop
@@ -58,7 +58,8 @@
 
 **[@Changelogs]**
 
-**DUNGEON FROST CHANGES**
+
+:shiny: [Underground Arena]
 
 **DUNGEON WASTELAND CHANGES**
 
