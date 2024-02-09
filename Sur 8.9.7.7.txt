@@ -17,7 +17,11 @@
 
 :shiny: [Survival] Fixed random sandstone mall shops (old design) coming back due to old players losing their shop (after a year ;_;)
 
+:shiny: [Survival] Deleted all of the separate ranking ui's we had
 :shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
 :shiny: [Survival] Statistic name changes: Damage > Main Damage, Weapon Damage > Damage, Magic Damage > Spell Damage
 :shiny: [Survival] Statistic name changes: Max Mana > Mana, Experience Boost > XP Boost, 
 
