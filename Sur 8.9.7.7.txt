@@ -14,6 +14,7 @@
 :shiny: [Survival] Fixed minor issue with necromancer gear, it will show the proper texture instead of brown coloured leather
 :shiny: [Survival] Major dependencies update
 :shiny: [Survival] Fixed minor spam that happens whenever player opens up "/codex"
+:shiny: [Survival] Fixed an issue where players were not able to claim their "Grandfather" rank kit
 
 :shiny: [Survival] Fixed random sandstone mall shops (old design) coming back due to old players losing their shop (after a year ;_;)
 
