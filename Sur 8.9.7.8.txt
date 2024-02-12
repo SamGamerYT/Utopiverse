@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.7.8** *(Network Changes)*
 :shiny: [Survival] Deleted Blacksmith information hologram as now there's an image.
-:shiny: [Survival] 
+:shiny: [Survival] Players will earn $2500 instead of $6000 per vote as we have a lot of voting sites
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
