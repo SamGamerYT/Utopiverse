@@ -1,0 +1,72 @@
+**Patch/Changes 8.9.7.7** *(Network Changes)*
+:shiny: [Survival] New Legendary Crate loot "Legendary Staff" - Powerful Mage based weapon
+:shiny: [Survival] Modified "Bandages" items colour to match their respective tier
+:shiny: [Survival] A New citizen has arrived near Bank Zone that sells exotic items in exchange of Emerald Ores
+:shiny: [Survival] A New citizen has arrived near Portal Zone that exchanges exotic items for Emerald Ores
+:shiny: [Survival] Made changes to MonthlyCrate's hologram in compliant with Mojang's TOS
+:shiny: [Survival] Added "Keep EXP" Perk to Emperor Rankup
+:shiny: [Survival] Pets should be spawnable again for players through "/pets" UI
+:shiny: [Survival] Disabled Confirmation method for "/voteshop" UI
+:shiny: [Survival] Fixed "/ce" command not working as intended
+:shiny: [Survival] Top voters will be displayed properly and automatically within discord channel
+:shiny: [Survival] Top tournament winners will be displayed properly and automatically within discord channel
+:shiny: [Survival] Fixed errors in Hot Coffee and Warrior Candy
+:shiny: [Survival] Fixed minor issue with necromancer gear, it will show the proper texture instead of brown coloured leather
+:shiny: [Survival] Major dependencies update
+:shiny: [Survival] Fixed minor spam that happens whenever player opens up "/codex"
+:shiny: [Survival] Fixed where the issue guard was not moving around spawn properly
+
+:shiny: [Survival] Brand new kits menu to keep the ui up to date with our standards
+:shiny: [Survival] Fixed an issue where players were not able to claim their "Grandfather" rank kit
+:shiny: [Survival] Fixed random sandstone mall shops (old design) coming back due to old players losing their shop (after a year ;_;)
+
+:shiny: [Survival] Deleted all of the separate ranking ui's we had
+:shiny: [Survival] Modified the entire ranking ui and made it little be easier to read and navigate
+:shiny: [Survival] Added motivational quotes near community chest
+:shiny: [Survival] Added Legendary Staff and Red Ring within **Legendary Crate**
+:shiny: [Survival] Added a new Tinkerer NPC near /warp bank that shows you the method to get other rings
+
+:shiny: [Survival] Modified Goliath Zone entry title (PvP Zone)
+:shiny: [Survival] Added a new parkour zone that players can unlock to complete their "/codex" and spend time for minor rewards
+
+:shiny: [Survival] Repairs and Upgrade NPC will now have an UI that can upgrade certain gears with unique material (Offensive or Defensive)
+:shiny: [Survival] Modified Enchanting witch hologram and made it a little bit more compacted
+:shiny: [Survival] Added images within Blacksmith, Enchanter, Tinkerer and Repairer zone, to help players navigate
+
+:shiny: [Survival] Statistic name changes: Damage > Main Damage, Weapon Damage > Damage, Magic Damage > Spell Damage
+:shiny: [Survival] Statistic name changes: Max Mana > Mana, Experience Boost > XP Boost, 
+
+**DUNGEON FROST CHANGES**
+:shiny: [Survival] Modified Yeti Boss' kill message and loot stable
+
+**SHOP RELATED CHANGES**
+:shiny: [Survival] Removed "NAME_TAG" item buy option from shop
+:shiny: [Survival] Added "SHROOMLIGHT" block in place of "NAME_TAG" within Miscellaneous category
+
+**[@Changelogs]**
+
+
+*(Special Thanks to _WhispyW)*
+:shiny: [Art] 
+
+*(Special Thanks to _BrokenJJ6029)*
+:shiny: [Build] 
+
+*(Special Thanks to _Skmasykw)*
+:shiny: [Survival] 
+
+:shiny: [Textures]
+:shiny: [Loot]
+
+:shiny: [Christmas] 
+:shiny: [Dungeon]
+
+:shiny: [Codex] 
+
+
+:shiny: [Underground Arena]
+
+**DUNGEON MINE CHANGES**
+**DUNGEON VOLCANO CHANGES**
+**DUNGEON WASTELAND CHANGES**
+**DUNGEON WASTELAND CHANGES**
