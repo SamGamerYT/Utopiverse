@@ -14,6 +14,7 @@
 :shiny: [Survival] Fixed minor issue with necromancer gear, it will show the proper texture instead of brown coloured leather
 :shiny: [Survival] Major dependencies update
 :shiny: [Survival] Fixed minor spam that happens whenever player opens up "/codex"
+:shiny: [Survival] Fixed where the issue guard was not moving around spawn properly
 
 :shiny: [Survival] Brand new kits menu to keep the ui up to date with our standards
 :shiny: [Survival] Fixed an issue where players were not able to claim their "Grandfather" rank kit
@@ -26,7 +27,10 @@
 :shiny: [Survival] Added Legendary Staff and Red Ring within **Legendary Crate**
 :shiny: [Survival] Added a new Tinkerer NPC near /warp bank that shows you the method to get other rings
 
-:shiny: [Survival] Fixed where the issue guard was not moving around spawn properly
+:shiny: [Survival] Modified Goliath Zone entry title (PvP Zone)
+:shiny: [Survival] Added a new parkour zone that players can unlock to complete their "/codex" and spend time for minor rewards
+:shiny: [Survival] 
+
 
 :shiny: [Survival] Statistic name changes: Damage > Main Damage, Weapon Damage > Damage, Magic Damage > Spell Damage
 :shiny: [Survival] Statistic name changes: Max Mana > Mana, Experience Boost > XP Boost, 
