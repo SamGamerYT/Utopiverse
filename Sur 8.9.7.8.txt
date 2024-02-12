@@ -2,7 +2,7 @@
 :shiny: [Survival] Deleted Blacksmith information hologram as now there's an image.
 :shiny: [Survival] Players will earn $2500 instead of $6000 per vote as we have a lot of voting sites
 :shiny: [Survival] New voting link has been added to utopiverse.net/vote
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Pillager mob not giving players bad omen effect
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
