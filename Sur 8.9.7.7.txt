@@ -30,11 +30,9 @@
 :shiny: [Survival] Modified Goliath Zone entry title (PvP Zone)
 :shiny: [Survival] Added a new parkour zone that players can unlock to complete their "/codex" and spend time for minor rewards
 
+:shiny: [Survival] Repairs and Upgrade NPC will now have an UI that can upgrade certain gears with unique material (Offensive or Defensive)
 :shiny: [Survival] Modified Enchanting witch hologram and made it a little bit more compacted
 :shiny: [Survival] Added images within Blacksmith, Enchanter, Tinkerer and Repairer zone, to help players navigate
-
-:shiny: [Survival] 
-
 
 :shiny: [Survival] Statistic name changes: Damage > Main Damage, Weapon Damage > Damage, Magic Damage > Spell Damage
 :shiny: [Survival] Statistic name changes: Max Mana > Mana, Experience Boost > XP Boost, 
