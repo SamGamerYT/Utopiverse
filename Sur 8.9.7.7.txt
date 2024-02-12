@@ -18,7 +18,6 @@
 
 :shiny: [Survival] Brand new kits menu to keep the ui up to date with our standards
 :shiny: [Survival] Fixed an issue where players were not able to claim their "Grandfather" rank kit
-
 :shiny: [Survival] Fixed random sandstone mall shops (old design) coming back due to old players losing their shop (after a year ;_;)
 
 :shiny: [Survival] Deleted all of the separate ranking ui's we had
