@@ -29,6 +29,9 @@
 
 :shiny: [Survival] Modified Goliath Zone entry title (PvP Zone)
 :shiny: [Survival] Added a new parkour zone that players can unlock to complete their "/codex" and spend time for minor rewards
+
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 
