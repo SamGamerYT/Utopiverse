@@ -6,8 +6,8 @@
 :shiny: [Survival] New tab style for Java Players to experience within TAB
 :shiny: [Survival] Custom help UI for java players as the old UI was left untouched for the past year
 :shiny: [Survival] Changed Portal cloud particles to Totem particles
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed spawn's elevator issue, players were not able to go down but could go up
+:shiny: [Survival] Modified Tutorial UI, Made the information little bit more consistent
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
