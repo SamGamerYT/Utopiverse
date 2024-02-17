@@ -12,7 +12,7 @@
 :shiny: [Survival] Added new reforging station at (/warp repair) NPC - Reforge your lunar gear with this station!
 :shiny: [Survival] Patched up a really important exploit that has been crashing our server.
 :shiny: [Survival] Entirely modified time based permission system we have, it will now accumulate.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed issue with vaults not allowing players to add emerald and diamond ores.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
