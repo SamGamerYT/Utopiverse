@@ -10,7 +10,7 @@
 :shiny: [Survival] Modified Tutorial UI, Made the information little bit more consistent
 :shiny: [Survival] Fixed Auction house icon not appearing in Guide UI for java players
 :shiny: [Survival] Added new reforging station at (/warp repair) NPC - Reforge your lunar gear with this station!
-:shiny: [Survival] 
+:shiny: [Survival] Patched up a really important exploit that has been crashing our server.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
