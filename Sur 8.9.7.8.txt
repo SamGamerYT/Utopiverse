@@ -13,10 +13,10 @@
 :shiny: [Survival] Patched up a really important exploit that has been crashing our server.
 :shiny: [Survival] Entirely modified time based permission system we have, it will now accumulate.
 :shiny: [Survival] Fixed issue with vaults not allowing players to add emerald and diamond ores.
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added two new npc's near spawn zone to showcase the new limited edition gear
+:shiny: [Survival] Added Welcomekit to /kits UI
 
-:shiny: [Survival] 
+:shiny: [Survival] Added Image for /warp farms and a locator sign for players to visit delivery guy smoothly
 :shiny: [Survival] 
 :shiny: [Survival] 
 
