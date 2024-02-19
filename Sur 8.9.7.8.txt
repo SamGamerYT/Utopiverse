@@ -26,8 +26,8 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:Sparkles: [Store] Disabled Rewards category
+:Sparkles: [Store] Moved Weekly and Monthly Premium Rewards over to Perks
 
 :shiny: [Survival] 
 :shiny: [Survival] 
