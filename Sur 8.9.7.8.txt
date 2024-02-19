@@ -18,7 +18,7 @@
 
 :shiny: [Survival] Added Image for /warp farms and a locator sign for players to visit delivery guy smoothly
 :shiny: [Survival] Added Guard Shop's image to advertise to players about the fact that guard has a shop.
-:shiny: [Survival] 
+:shiny: [Survival] Added a new lootbox that gives a random armor trim, obtainable through store and guard's shop
 
 :shiny: [Survival] 
 :shiny: [Survival] 
