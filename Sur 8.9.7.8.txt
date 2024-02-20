@@ -31,6 +31,7 @@
 **CRATES**
 :shiny: [Survival] Added a new crate key design for all crates.
 :shiny: [Survival] Entirely modified Spawner Crate rewards and layout.
+:shiny: [Survival] Entirely modified Uncommon Crate rewards and layout.
 :shiny: [Survival] Entirely modified Confusion Crate rewards and layout.
 :shiny: [Survival] Removed "/crates" UI; /crates command will now teleport you to /warp crates.
 
