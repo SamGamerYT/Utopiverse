@@ -30,6 +30,7 @@
 
 **CRATES**
 :shiny: [Survival] Added a new crate key design for all crates.
+:shiny: [Survival] Entirely modified Vote Crate rewards and layout.
 :shiny: [Survival] Entirely modified Spawner Crate rewards and layout.
 :shiny: [Survival] Entirely modified Uncommon Crate rewards and layout.
 :shiny: [Survival] Entirely modified Confusion Crate rewards and layout.
