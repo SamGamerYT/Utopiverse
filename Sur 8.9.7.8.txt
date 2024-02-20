@@ -24,6 +24,7 @@
 :shiny: [Survival] Added Elder Guardian and Guardian Spawn Egg within Guard Merchant NPC.
 :shiny: [Survival] Modified vote party rewards and added a new information within "/vote" UI regarding VoteParty
 :shiny: [Survival] Modified Permission denied message to elaborate a bit more for players
+:shiny: [Survival] Disabled player's abilities to create a chest shop at spawn and disabled the error message
 
 **JAVA PACK**
 :shiny: [Survival] Added new font lettering design for players to enjoy
