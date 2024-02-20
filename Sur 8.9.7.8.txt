@@ -23,7 +23,7 @@
 :shiny: [Survival] Fixed a glitch with Guard Merchant NPC - Bandage recipes were not working properly
 :shiny: [Survival] Removed 2x Pig, Cow and Iron Golem Spawners from Spawner Crate
 :shiny: [Survival] Added Elder Guardian and Guardian Spawn Egg within Guard Merchant NPC
-:shiny: [Survival] 
+:shiny: [Survival] Entirely modified Spawner Crate rewards and layout
 :shiny: [Survival] 
 
 :Sparkles: [Store] Disabled Rewards category
