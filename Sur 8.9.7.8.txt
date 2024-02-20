@@ -21,7 +21,7 @@
 :shiny: [Survival] Added a new lootbox that gives a random armor trim, obtainable through store and guard's shop and Epic Crate
 
 :shiny: [Survival] Fixed a glitch with Guard Merchant NPC - Bandage recipes were not working properly
-:shiny: [Survival] 
+:shiny: [Survival] Removed 2x Pig, Cow and Iron Golem Spawners from Spawner Crate
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
