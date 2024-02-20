@@ -25,6 +25,9 @@
 :shiny: [Survival] Modified vote party rewards and added a new information within "/vote" UI regarding VoteParty
 :shiny: [Survival] Modified Permission denied message to elaborate a bit more for players
 
+**JAVA PACK**
+:shiny: [Survival] 
+
 **CRATES**
 :shiny: [Survival] Added a new crate key design for all crates.
 :shiny: [Survival] Entirely modified Spawner Crate rewards and layout.
