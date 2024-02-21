@@ -37,6 +37,7 @@
 :shiny: [Survival] Entirely modified Rare Crate rewards and layout.
 :shiny: [Survival] Entirely modified Epic Crate rewards and layout.
 :shiny: [Survival] Entirely modified Spawner Crate rewards and layout.
+:shiny: [Survival] Entirely modified Mythical Crate rewards and layout.
 :shiny: [Survival] Entirely modified Uncommon Crate rewards and layout.
 :shiny: [Survival] Entirely modified Confusion Crate rewards and layout.
 :shiny: [Survival] Removed "/crates" UI; /crates command will now teleport you to /warp crates.
