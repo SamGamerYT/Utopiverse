@@ -27,6 +27,7 @@
 :shiny: [Survival] Disabled player's abilities to create a chest shop at spawn and disabled the error message
 :shiny: [Survival] Welcomer will now only display the first /welcome message but it will still give you the reward for it.
 :shiny: [Survival] Players are no longer able to run /tpa, /tpahere, /tpaccept within "/warp parkour"
+:shiny: [Survival] Created a new plushie called "Goat Helmet" obtainable through Ancient Crate
 
 **JAVA PACK**
 :shiny: [Survival] Added new font lettering design for players to enjoy
@@ -42,7 +43,6 @@
 :shiny: [Survival] Entirely modified Confusion Crate rewards and layout.
 :shiny: [Survival] Removed "/crates" UI; /crates command will now teleport you to /warp crates.
 
-:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
