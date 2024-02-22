@@ -1,6 +1,7 @@
 **Patch/Changes 8.9.7.9** *(Network Changes)*
-:shiny: [Survival] Relocated Guard NPC near Bank
-:shiny: [Survival] Relocated Chat Games Leaderboard near Bank
+:shiny: [Survival] Relocated Guard NPC to near Bank
+:shiny: [Survival] Relocated Chat Games Leaderboard to near Bank
+:shiny: [Survival] Relocated Elevator to Graveyard Zone
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
