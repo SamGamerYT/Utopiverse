@@ -7,7 +7,7 @@
 :shiny: [Survival] Modified and improved Vote Wand, Demolisher I, II and III
 :shiny: [Survival] Modified Gemstone Remover's Lore and added more information on it
 :shiny: [Survival] Fixed "PLETHORA" Repair stone's repair value
-:shiny: [Survival] 
+:shiny: [Survival] Modified Special Rock description, Made it more elaborated on what to do with it.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
