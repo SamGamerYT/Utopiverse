@@ -8,6 +8,7 @@
 :shiny: [Survival] Modified Gemstone Remover's Lore and added more information on it
 :shiny: [Survival] Fixed "PLETHORA" Repair stone's repair value
 :shiny: [Survival] Modified Special Rock description, Made it more elaborated on what to do with it.
+:shiny: [Survival] Modified AFK Dust and AFK Crystal description, Made it more elaborated on what to do with it.
 :shiny: [Survival] Ethereal Essence is now obtainable through welcoming players and exchanging through the tinkerer at /warp bank
 :shiny: [Survival] 
 :shiny: [Survival] 
