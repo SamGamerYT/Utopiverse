@@ -3,7 +3,7 @@
 :shiny: [Survival] Relocated Chat Games Leaderboard to near Bank
 :shiny: [Survival] Relocated Elevator to Graveyard Zone
 :shiny: [Survival] Modified "/crates" teleportation system to a chat message instead.
-:shiny: [Survival] 
+:shiny: [Survival] Allowed Repair Stones, Consumable fruits and other materials to be sold at "**/warp mall**"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
