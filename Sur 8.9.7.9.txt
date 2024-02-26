@@ -13,7 +13,7 @@
 :shiny: [Survival] Fixed "Starcaller Staff" Mana cost in lore
 :shiny: [Survival] Fixed "Enchants Preview" UI not working properly
 :shiny: [Survival] Created over 20+ New rings, Amulets and Artifacts (Will be available in new events)
-:shiny: [Survival] 
+:shiny: [Survival] Vitality Relic has been modified
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
