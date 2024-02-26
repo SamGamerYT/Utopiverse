@@ -14,11 +14,8 @@
 :shiny: [Survival] Fixed "Enchants Preview" UI not working properly
 :shiny: [Survival] Created over 20+ New rings, Amulets and Artifacts (Will be available in new events)
 :shiny: [Survival] Vitality Relic has been modified
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Leveling system for vanilla mobs is now working as intended
+:shiny: [Survival] Relocated dungeons region
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -29,9 +26,17 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+**DUNGEON MINE CHANGES**
+:shiny: [Survival] Entire Mine Dungeon has Health System for mobs
+:shiny: [Survival] 
+:shiny: [Survival] 
+
 :shiny: [Survival] *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] Revamped the entire "**/warp tutorial**" area.
 :shiny: [Build] Added a new waypoint location and a sign at /warp blacksmith
+:shiny: [Build] Changed the entire /warp dungeons
+:shiny: [Build] 
+:shiny: [Build] 
 
 **JAVA PACK**
 :shiny: [Survival] 
@@ -86,7 +91,6 @@
 :shiny: [Codex] 
 :shiny: [Underground Arena]
 
-**DUNGEON MINE CHANGES**
 **DUNGEON FROST CHANGES**
 **DUNGEON VOLCANO CHANGES**
 **DUNGEON WASTELAND CHANGES**
