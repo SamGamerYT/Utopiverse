@@ -16,7 +16,7 @@
 :shiny: [Survival] Vitality Relic has been modified
 :shiny: [Survival] Leveling system for vanilla mobs is now working as intended
 :shiny: [Survival] Relocated dungeons region
-:shiny: [Survival] 
+:shiny: [Survival] Allowed "/tpa" and "/welcome" within /warp mine
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
