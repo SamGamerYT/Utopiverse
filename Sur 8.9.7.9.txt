@@ -12,7 +12,7 @@
 :shiny: [Survival] Ethereal Essence is now obtainable through welcoming players and exchanging them through the tinkerer at /warp bank.
 :shiny: [Survival] Fixed "Starcaller Staff" Mana cost in lore
 :shiny: [Survival] Fixed "Enchants Preview" UI not working properly
-:shiny: [Survival] 
+:shiny: [Survival] Created over 20+ New rings, Amulets and Artifacts (Will be available in new events)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
