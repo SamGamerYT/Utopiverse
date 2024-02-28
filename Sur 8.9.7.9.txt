@@ -17,7 +17,7 @@
 :shiny: [Survival] Leveling system for vanilla mobs is now working as intended
 :shiny: [Survival] Relocated dungeons region
 :shiny: [Survival] Allowed "/tpa" and "/welcome" within /warp mine
-:shiny: [Survival] 
+:shiny: [Survival] Removed "/jobs" command from "/faq" UI
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
