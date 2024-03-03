@@ -20,7 +20,7 @@
 :shiny: [Survival] Removed "/jobs" command from "/faq" UI
 :shiny: [Survival] Removed "/jobs" and "/prestige" from Information Hologram at "/spawn"
 :shiny: [Survival] Fixed information and revamped "/ranks" rankup information
-:shiny: [Survival] 
+:shiny: [Survival] Entirely modified **"Miner Gear"** and now it's upgradable at "/warp repair"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
