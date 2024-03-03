@@ -21,7 +21,7 @@
 :shiny: [Survival] Removed "/jobs" and "/prestige" from Information Hologram at "/spawn"
 :shiny: [Survival] Fixed information and revamped "/ranks" rankup information
 :shiny: [Survival] Entirely modified **"Miner Gear"** and now it's upgradable at "/warp repair"
-:shiny: [Survival] 
+:shiny: [Survival] Added **Three** tags for players to purchase through **Medal Trader** through "/warp blacksmith"
 :shiny: [Survival] 
 :shiny: [Survival] 
 
