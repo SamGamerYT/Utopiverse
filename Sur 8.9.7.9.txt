@@ -22,31 +22,25 @@
 :shiny: [Survival] Fixed information and revamped "/ranks" rankup information
 :shiny: [Survival] Entirely modified **"Miner Gear"** and now it's upgradable at "/warp repair"
 :shiny: [Survival] Added **Three** tags for players to purchase through **Medal Trader** through "/warp blacksmith"
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
 :shiny: [Survival] Entire Mine Dungeon has Health System for mobs
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 :shiny: [Survival] *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] Revamped the entire "**/warp tutorial**" area.
 :shiny: [Build] Added a new waypoint location and a sign at /warp blacksmith
 :shiny: [Build] Changed the entire /warp dungeons
-:shiny: [Build] 
 :shiny: [Survival] Added "Enderchest" around Dungeons Starting Area
 :shiny: [Survival] Added "Spawn's Waystone" around Dungeons Starting Area
-
-**JAVA PACK**
-:shiny: [Survival] 
 
 **WEBSITE**
 :shiny: [Global] Added https://vote.utopiverse.net URL for ease of use.
 :shiny: [Global] Removed Vote Site #2 due to issues with the site
+
 **CRATES**
-:shiny: [Survival] Entirely modified Dungeon Crate rewards and layout.
 :shiny: [Survival] Entirely modified Legendary Crate rewards and layout.
+
+**[@Changelogs]**
 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -74,8 +68,6 @@
 **SHOP RELATED CHANGES**
 :shiny: [Survival] 
 :shiny: [Survival] 
-
-**[@Changelogs]**
 
 
 *(Special Thanks to _WhispyW)*
