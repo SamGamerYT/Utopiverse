@@ -43,7 +43,7 @@
 
 **WEBSITE**
 :shiny: [Global] Added https://vote.utopiverse.net URL for ease of use.
-
+:shiny: [Global] Removed Vote Site #2 due to issues with the site
 **CRATES**
 :shiny: [Survival] Entirely modified Dungeon Crate rewards and layout.
 :shiny: [Survival] Entirely modified Legendary Crate rewards and layout.
