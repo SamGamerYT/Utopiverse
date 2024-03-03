@@ -1,0 +1,15 @@
+**Patch/Changes 0.6.1** *(Oneblock)*
+:grass: [QOL] Modified the entire generic, spawn, warp, kits, and other important messages.
+:grass: [QOL] 
+:grass: [QOL] 
+:grass: [QOL] 
+:grass: [QOL] 
+:grass: [QOL] 
+:grass: [QOL] 
+:grass: [QOL] 
+
+:grass: 
+:grass: 
+:grass: 
+ 
+**[@Changelogs]**
