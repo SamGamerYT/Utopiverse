@@ -2,6 +2,7 @@
 :grass: [QOL] Modified the entire generic, spawn, warp, kits, and other important messages.
 :grass: [QOL] Entire "/help" also known as "/guide" menu has been modified and changed
 :grass: [QOL] Added **Top Purse Balance** and **Top Bank Balance** within "/guide"
+:grass: [QOL] Modified and Fixed Grammar issues related to Oneblock Island Manager
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
