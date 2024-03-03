@@ -1,8 +1,6 @@
 **Patch/Changes 0.6.1** *(Oneblock)*
 :grass: [QOL] Modified the entire generic, spawn, warp, kits, and other important messages.
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
+:grass: [QOL] Entire "/help" also known as "/guide" menu has been modified and changed
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
