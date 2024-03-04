@@ -27,7 +27,7 @@
 :shiny: [Survival] 
 
 :shiny: [Survival] *(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
+:shiny: [Build] Modified "/warp blacksmith" zone
 :shiny: [Build] 
 :shiny: [Build] 
 :shiny: [Survival] 
