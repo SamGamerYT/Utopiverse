@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.1** *(Network Changes)*
 :shiny: [Survival] Removed "Direction" Statistic from "/stats" in Misc category
-:shiny: [Survival] 
+:shiny: [Survival] Removed Weapon Forging Animation for Blacksmith "/warp blacksmith"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
