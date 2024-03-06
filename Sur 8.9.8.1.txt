@@ -2,7 +2,7 @@
 :shiny: [Survival] Removed "Direction" Statistic from "/stats" in Misc category
 :shiny: [Survival] Removed Weapon Forging Animation for Blacksmith "/warp blacksmith"
 :shiny: [Survival] Removed Job Upgrades from "/upgrades" UI
-:shiny: [Survival] 
+:shiny: [Survival] Patched up an exploit where player's pet would target training dummy and gain experience
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
