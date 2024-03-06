@@ -4,7 +4,7 @@
 :shiny: [Survival] Removed Job Upgrades from "/upgrades" UI
 :shiny: [Survival] Patched up an exploit where player's pet would target training dummy and gain experience
 :shiny: [Survival] Disabled "/deliveries" debug command that was left in production server
-:shiny: [Survival] 
+:shiny: [Survival] Merged all Dungeon Forge NPC's Trading shop together
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
