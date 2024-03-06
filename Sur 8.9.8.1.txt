@@ -6,7 +6,7 @@
 :shiny: [Survival] Disabled "/deliveries" debug command that was left in production server
 :shiny: [Survival] Merged all Dungeon Forge NPC's Trading shop together
 :shiny: [Survival] Updated "/rtp" UI for Bedrock Players
-:shiny: [Survival] 
+:shiny: [Survival] New UI for Java and Bedrock players to view and learn from, Simply go to "/dungeons" or Right-Click a dungeon loot
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
