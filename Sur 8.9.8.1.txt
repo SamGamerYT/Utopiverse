@@ -3,7 +3,7 @@
 :shiny: [Survival] Removed Weapon Forging Animation for Blacksmith "/warp blacksmith"
 :shiny: [Survival] Removed Job Upgrades from "/upgrades" UI
 :shiny: [Survival] Patched up an exploit where player's pet would target training dummy and gain experience
-:shiny: [Survival] 
+:shiny: [Survival] Disabled "/deliveries" debug command that was left in production server
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
