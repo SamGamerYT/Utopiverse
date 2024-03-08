@@ -8,8 +8,8 @@
 :shiny: [Survival] Updated "/rtp" UI for Bedrock Players
 :shiny: [Survival] New UI for Java and Bedrock players to view and learn from, Simply go to "/dungeons" or Right-Click a dungeon loot
 :shiny: [Survival] Added Imagery for "/warp bank"
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Removed "/dungeonjoin" and "/dungeonsjoin" alias commands
+:shiny: [Survival] "/repairshop" will now properly point towards "/warp repair"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -25,6 +25,9 @@
 
 **DUNGEON MINE CHANGES**
 :shiny: [Survival] 
+
+:shiny: [Survival] *(Special Thanks to _Kuudere2460)*
+:shiny: [Survival] Modified Chat Games and Improved overall questions
 
 :shiny: [Survival] *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] Modified "/warp blacksmith" zone
