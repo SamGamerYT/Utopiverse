@@ -11,7 +11,7 @@
 :shiny: [Survival] Removed "/dungeonjoin" and "/dungeonsjoin" alias commands.
 :shiny: [Survival] "/repairshop" will now properly point towards "/warp repair."
 :shiny: [Survival] New "/report <issue>" system to alert staff members about an issue or report a bug.
-:shiny: [Survival] 
+:shiny: [Survival] Added "Torch Flower" and "Pitcher Plant" within "/shop" in decorations category
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
