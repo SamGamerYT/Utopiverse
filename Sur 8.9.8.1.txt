@@ -1,16 +1,16 @@
 **Patch/Changes 8.9.8.1** *(Network Changes)*
-:shiny: [Survival] Removed "Direction" Statistic from "/stats" in Misc category
-:shiny: [Survival] Removed Weapon Forging Animation for Blacksmith "/warp blacksmith"
-:shiny: [Survival] Removed Job Upgrades from "/upgrades" UI
-:shiny: [Survival] Patched up an exploit where player's pet would target training dummy and gain experience
-:shiny: [Survival] Disabled "/deliveries" debug command that was left in production server
-:shiny: [Survival] Merged all Dungeon Forge NPC's Trading shop together
-:shiny: [Survival] Updated "/rtp" UI for Bedrock Players
-:shiny: [Survival] New UI for Java and Bedrock players to view and learn from, Simply go to "/dungeons" or Right-Click a dungeon loot
-:shiny: [Survival] Added Imagery for "/warp bank"
-:shiny: [Survival] Removed "/dungeonjoin" and "/dungeonsjoin" alias commands
-:shiny: [Survival] "/repairshop" will now properly point towards "/warp repair"
-:shiny: [Survival] New "/report <issue>" system to alert staff members on an issue or report a bug
+:shiny: [Survival] Removed "Direction" Statistic from "/stats" in Misc category.
+:shiny: [Survival] Removed Weapon Forging Animation for Blacksmith at "/warp blacksmith."
+:shiny: [Survival] Removed Job Upgrades from "/upgrades" UI.
+:shiny: [Survival] Patched up an exploit where a player's pet would target the training dummy and gain experience.
+:shiny: [Survival] Disabled "/deliveries" debug command that was left in the production server.
+:shiny: [Survival] Merged all Dungeon Forge NPC's Trading shop together.
+:shiny: [Survival] Updated "/rtp" UI for Bedrock Players.
+:shiny: [Survival] New UI for Java and Bedrock players to view and learn from. Simply go to "/dungeons" or Right-Click a dungeon loot.
+:shiny: [Survival] Added Imagery for "/warp bank."
+:shiny: [Survival] Removed "/dungeonjoin" and "/dungeonsjoin" alias commands.
+:shiny: [Survival] "/repairshop" will now properly point towards "/warp repair."
+:shiny: [Survival] New "/report <issue>" system to alert staff members about an issue or report a bug.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -21,13 +21,11 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
-
-**DUNGEON MINE CHANGES**
 :shiny: [Survival] 
 
 :shiny: [Survival] *(Special Thanks to _Kuudere2460)*
 :shiny: [Survival] Modified Chat Games and Improved overall questions
+:shiny: [Survival] Added and Fixed Survival's Announcements and typos
 
 :shiny: [Survival] *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] Modified "/warp blacksmith" zone
@@ -85,7 +83,7 @@
 :shiny: [Dungeon]
 :shiny: [Codex] 
 :shiny: [Underground Arena]
-
+**DUNGEON MINE CHANGES**
 **DUNGEON FROST CHANGES**
 **DUNGEON VOLCANO CHANGES**
 **DUNGEON WASTELAND CHANGES**
