@@ -10,7 +10,7 @@
 :shiny: [Survival] Added Imagery for "/warp bank"
 :shiny: [Survival] Removed "/dungeonjoin" and "/dungeonsjoin" alias commands
 :shiny: [Survival] "/repairshop" will now properly point towards "/warp repair"
-:shiny: [Survival] 
+:shiny: [Survival] New "/report <issue>" system to alert staff members on an issue or report a bug
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
