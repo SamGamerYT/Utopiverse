@@ -24,14 +24,12 @@
 :shiny: [Survival] 
 
 :shiny: [Survival] *(Special Thanks to _Kuudere2460)*
-:shiny: [Survival] Modified Chat Games and Improved overall questions
-:shiny: [Survival] Added and Fixed Survival's Announcements and typos
+:shiny: [Survival] Modified Chat Games and improved overall questions.
+:shiny: [Survival] Added and fixed Survival's announcements and typos.
 
 :shiny: [Survival] *(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] Modified "/warp blacksmith" zone
+:shiny: [Build] Modified "/warp blacksmith" zone.
 :shiny: [Build] 
-:shiny: [Build] 
-:shiny: [Survival] 
 :shiny: [Survival] 
 
 **WEBSITE**
