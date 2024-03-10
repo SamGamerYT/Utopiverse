@@ -11,11 +11,11 @@
 :shiny: [Survival] Removed "/dungeonjoin" and "/dungeonsjoin" alias commands.
 :shiny: [Survival] "/repairshop" will now properly point towards "/warp repair."
 :shiny: [Survival] New "/report <issue>" system to alert staff members about an issue or report a bug.
-:shiny: [Survival] Added "Torch Flower" and "Pitcher Plant" within "/shop" in decorations category
-:shiny: [Survival] Added "Compressed Rock" that is obtainable through Ender Dragon, Wither, Dungeon Bosses and Trader Guard
-:shiny: [Survival] Modified "Success Rate" to "Success Chance"
-:shiny: [Survival] Modified "Success Chance" Colour theme to make it stand out more
-:shiny: [Survival] 
+:shiny: [Survival] Added "Torch Flower" and "Pitcher Plant" within "/shop" in the decorations category.
+:shiny: [Survival] Added "Compressed Rock" obtainable through Ender Dragon, Wither, Dungeon Bosses, and Trader Guard.
+:shiny: [Survival] Modified "Success Rate" to "Success Chance."
+:shiny: [Survival] Modified "Success Chance" color theme to make it stand out more.
+:shiny: [Survival] Fixed Runestone tier issue.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
