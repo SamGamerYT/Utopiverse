@@ -17,9 +17,8 @@
 :shiny: [Survival] Modified "Success Chance" color theme to make it stand out more.
 :shiny: [Survival] Fixed Runestone tier issue.
 :shiny: [Survival] Runestone "Tier I" will have a 60% Success Chance for application.
-:shiny: [Survival] Runestone "Tier II" will have an 80% Success Chance for application.
-:shiny: [Survival] Dependencies has been updated
-:shiny: [Survival] 
+:shiny: [Survival] Runestone "Tier II" will have an 80% Success Chance for application.:shiny: [Survival] Dependencies have been updated.
+:shiny: [Survival] Changed the block type for the following **Protection Stone** types: "peace, mermaid, beaconator, Renegade, Mystical, Energetics, Gravitational."
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
