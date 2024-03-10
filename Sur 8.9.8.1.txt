@@ -19,7 +19,7 @@
 :shiny: [Survival] Runestone "Tier I" will have a 60% Success Chance for application.
 :shiny: [Survival] Runestone "Tier II" will have an 80% Success Chance for application.:shiny: [Survival] Dependencies have been updated.
 :shiny: [Survival] Changed the block type for the following **Protection Stone** types: "peace, mermaid, beaconator, Renegade, Mystical, Energetics, Gravitational."
-:shiny: [Survival] 
+:shiny: [Survival] Bed and TNT will now grief "**Nether World**" as expected
 :shiny: [Survival] 
 :shiny: [Survival] 
 
