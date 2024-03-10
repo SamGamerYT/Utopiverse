@@ -18,7 +18,7 @@
 :shiny: [Survival] Fixed Runestone tier issue.
 :shiny: [Survival] Runestone "Tier I" will have a 60% Success Chance for application.
 :shiny: [Survival] Runestone "Tier II" will have an 80% Success Chance for application.
-:shiny: [Survival] 
+:shiny: [Survival] Dependencies has been updated
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
