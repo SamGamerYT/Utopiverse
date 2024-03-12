@@ -22,10 +22,15 @@
 :shiny: [Survival] Bed and TNT will now grief "**Nether World**" as expected
 :shiny: [Survival] 
 :shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 :shiny: [Survival] *(Special Thanks to _Kuudere2460)*
 :shiny: [Survival] Modified Chat Games and improved overall questions.
 :shiny: [Survival] Added and fixed Survival's announcements and typos.
+:shiny: [Survival] Relocated the entire Blacksmith, Enchanter and Tinkerer Zone
+:shiny: [Survival] Modified Enchanter's Billboard, Made it bigger so players can see it.
+:shiny: [Survival] 
 
 :shiny: [Survival] *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] Modified "/warp blacksmith" zone.
