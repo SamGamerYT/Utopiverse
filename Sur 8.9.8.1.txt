@@ -23,6 +23,12 @@
 :shiny: [Survival] Bed and TNT will now grief "**Nether World**" as expected
 :shiny: [Survival] Made the server properly RPG with class statistics being displayed right above players' names.
 :shiny: [Survival] Major dependency updates [2], greatly improving server performance.
+:shiny: [Survival] Modified the stats increment for mob level
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+**DUNGEON MINE CHANGES**
+:shiny: [Survival] Heavily Nerfed mob damage, health and particles.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
