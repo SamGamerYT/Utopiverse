@@ -24,10 +24,13 @@
 :shiny: [Survival] Made the server properly RPG with class statistics being displayed right above players' names.
 :shiny: [Survival] Major dependency updates [2], greatly improving server performance.
 :shiny: [Survival] Modified the stat increment for mob level.
-:shiny: [Survival] 
+:shiny: [Survival] Modified "/codex" to follow the proper mob statistics
 :shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
+:shiny: [Survival] Heavily nerfed mob damage, health, and particles.
+
+**DUNGEON FROST CHANGES**
 :shiny: [Survival] Heavily nerfed mob damage, health, and particles.
 :shiny: [Survival] 
 :shiny: [Survival] 
