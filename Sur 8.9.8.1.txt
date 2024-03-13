@@ -20,7 +20,7 @@
 :shiny: [Survival] Runestone "Tier II" will have an 80% Success Chance for application.:shiny: [Survival] Dependencies have been updated.
 :shiny: [Survival] Changed the block type for the following **Protection Stone** types: "peace, mermaid, beaconator, Renegade, Mystical, Energetics, Gravitational."
 :shiny: [Survival] Bed and TNT will now grief "**Nether World**" as expected
-:shiny: [Survival] 
+:shiny: [Survival] Made the server properly RPG with the class statistics being displayed right above player's name
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
