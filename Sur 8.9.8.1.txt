@@ -17,11 +17,12 @@
 :shiny: [Survival] Modified "Success Chance" color theme to make it stand out more.
 :shiny: [Survival] Fixed Runestone tier issue.
 :shiny: [Survival] Runestone "Tier I" will have a 60% Success Chance for application.
-:shiny: [Survival] Runestone "Tier II" will have an 80% Success Chance for application.:shiny: [Survival] Dependencies have been updated.
+:shiny: [Survival] Runestone "Tier II" will have an 80% Success Chance for application.
+:shiny: [Survival] Dependencies have been updated.
 :shiny: [Survival] Changed the block type for the following **Protection Stone** types: "peace, mermaid, beaconator, Renegade, Mystical, Energetics, Gravitational."
 :shiny: [Survival] Bed and TNT will now grief "**Nether World**" as expected
-:shiny: [Survival] Made the server properly RPG with the class statistics being displayed right above player's name
-:shiny: [Survival] 
+:shiny: [Survival] Made the server properly RPG with class statistics being displayed right above players' names.
+:shiny: [Survival] Major dependency updates [2], greatly improving server performance.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
