@@ -32,7 +32,7 @@
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] Heavily nerfed mob damage, health, and particles.
-:shiny: [Survival] 
+:shiny: [Survival] Added mob health update mechanism 
 :shiny: [Survival] 
 
 :shiny: [Survival] *(Special Thanks to _Kuudere2460)*
