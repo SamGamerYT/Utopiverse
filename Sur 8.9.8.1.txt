@@ -27,8 +27,6 @@
 :shiny: [Survival] Modified "/codex" to follow the proper mob statistics
 :shiny: [Survival] Arena join menu will now get closed whenever you click on "Join" to avoid players spamming Join Now! button
 :shiny: [Survival Java] Modified TAB. Players now have a unique TAB system. Spawn, Arena, and Dungeon will show different types of TABs to fulfill players' needs.
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
 :shiny: [Survival] Heavily nerfed mob damage, health, and particles.
@@ -46,57 +44,4 @@
 :shiny: [Survival] Relocated the entire Blacksmith, Enchanter and Tinkerer Zone
 :shiny: [Survival] Modified Enchanter's Billboard, Made it bigger so players can see it.
 
-**WEBSITE**
-:shiny: [Global] 
-:shiny: [Global] 
-
-**CRATES**
-:shiny: [Survival]
-
 **[@Changelogs]**
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:Sparkles: [Store]
-:Sparkles: [Store]
-
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**SHOP RELATED CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Survival] 
-:shiny: [Textures]
-:shiny: [Loot]
-:shiny: [Christmas] 
-:shiny: [Dungeon]
-:shiny: [Codex] 
-:shiny: [Underground Arena]
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
-**DUNGEON WASTELAND CHANGES**
