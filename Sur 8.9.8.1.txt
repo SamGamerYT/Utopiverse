@@ -26,6 +26,7 @@
 :shiny: [Survival] Modified the stat increment for mob level.
 :shiny: [Survival] Modified "/codex" to follow the proper mob statistics
 :shiny: [Survival] Arena join menu will now get closed whenever you click on "Join" to avoid players spamming Join Now! button
+:shiny: [Survival Java] Modified TAB. Players now have a unique TAB system. Spawn, Arena, and Dungeon will show different types of TABs to fulfill players' needs.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
@@ -34,20 +35,16 @@
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] Heavily nerfed mob damage, health, and particles.
-:shiny: [Survival] Added mob health update mechanism 
-:shiny: [Survival] 
+:shiny: [Survival] Added mob health update mechanism.
 
 :shiny: [Survival] *(Special Thanks to _Kuudere2460)*
 :shiny: [Survival] Modified Chat Games and improved overall questions.
 :shiny: [Survival] Added and fixed Survival's announcements and typos.
-:shiny: [Survival] Relocated the entire Blacksmith, Enchanter and Tinkerer Zone
-:shiny: [Survival] Modified Enchanter's Billboard, Made it bigger so players can see it.
-:shiny: [Survival] 
 
 :shiny: [Survival] *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] Modified "/warp blacksmith" zone.
-:shiny: [Build] 
-:shiny: [Survival] 
+:shiny: [Survival] Relocated the entire Blacksmith, Enchanter and Tinkerer Zone
+:shiny: [Survival] Modified Enchanter's Billboard, Made it bigger so players can see it.
 
 **WEBSITE**
 :shiny: [Global] 
