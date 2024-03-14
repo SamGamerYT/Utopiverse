@@ -26,6 +26,7 @@
 :shiny: [Survival] Modified the stat increment for mob level.
 :shiny: [Survival] Modified "/codex" to follow the proper mob statistics
 :shiny: [Survival] Arena join menu will now get closed whenever you click on "Join" to avoid players spamming Join Now! button
+
 :shiny: [Java] Modified TAB. Players now have a unique TAB system. Spawn, Arena, and Dungeon will show different types of TABs to fulfill players' needs.
 
 **DUNGEON MINE CHANGES**
