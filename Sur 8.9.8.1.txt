@@ -25,6 +25,8 @@
 :shiny: [Survival] Major dependency updates [2], greatly improving server performance.
 :shiny: [Survival] Modified the stat increment for mob level.
 :shiny: [Survival] Modified "/codex" to follow the proper mob statistics
+:shiny: [Survival] Arena join menu will now get closed whenever you click on "Join" to avoid players spamming Join Now! button
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
