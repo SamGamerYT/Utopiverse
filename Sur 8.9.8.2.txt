@@ -5,7 +5,7 @@
 :shiny: [Survival] Fixed "AngelFish" biome not being listed properly issue.
 :shiny: [Survival] Updated server's dependencies.
 :shiny: [Survival] Modified Dungeon Trader Crafting station sign slightly.
-:shiny: [Survival] 
+:shiny: [Survival] Removed "/jobs" Information from Guide UI (Java)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
