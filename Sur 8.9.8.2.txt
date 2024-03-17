@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.2** *(Network Changes)*
 :shiny: [Survival] Added "Buttons" and "Pressure Plates" to Protected Protection blocks
 :shiny: [Survival] Fixed a major bug related to Guardian/Guard based Custom Enchantments
-:shiny: [Survival] 
+:shiny: [Survival] Fixed a bug where witches were able to spawn at "/spawn" zone
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
