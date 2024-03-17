@@ -4,7 +4,7 @@
 :grass: [QOL] Added **Top Purse Balance** and **Top Bank Balance** sections to "/guide."
 :grass: [QOL] Fixed grammar issues in Oneblock Island Manager.
 :grass: [QOL] Major updates to all dependencies for smoother operation of Oneblock.
-:grass: [QOL] 
+:grass: [QOL] Mob spawning will work properly as expected (as long as mobs have enough space to spawn).
 :grass: [QOL] 
 :grass: [QOL] 
 

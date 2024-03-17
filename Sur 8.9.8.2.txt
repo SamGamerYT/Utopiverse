@@ -4,7 +4,7 @@
 :shiny: [Survival] Fixed a bug where witches were able to spawn at "/spawn" zone.
 :shiny: [Survival] Fixed "AngelFish" biome not being listed properly issue.
 :shiny: [Survival] Updated server's dependencies.
-:shiny: [Survival] 
+:shiny: [Survival] Modified Dungeon Trader Crafting station sign slightly.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
