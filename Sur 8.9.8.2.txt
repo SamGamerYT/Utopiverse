@@ -31,7 +31,7 @@
 
 **BEDROCK UPDATE**
 :shiny: [Bedrock] Inventory handling when the client tries to open the player inventory.
-:shiny: [Bedrock] Update protocol lib to resolve command crashing.
+:shiny: [Bedrock] Updated protocol lib to resolve command crashing.
 :shiny: [Bedrock] Fix wooden slabs.
 
 
