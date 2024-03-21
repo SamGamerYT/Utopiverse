@@ -10,10 +10,13 @@
 :shiny: [Survival] Allowed players to run "/pets" command in dungeons.
 :shiny: [Survival] Updated a bunch of dependencies in preparation for 1.20.4 Update from 1.20.2.
 :shiny: [Survival] Added Custom Enchantments warning for players on enchanting books.
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+
+:shiny: [Survival] Fixed on-login health issue
+:shiny: [Survival] Fixed head bobbing
+:shiny: [Survival] Fixed multiple NPE errors
+:shiny: [Survival] Empty nametag bones will no longer be visible now
+
+:shiny: [Survival] Increased Hopper's Transfer rate from 4 to 8
 :shiny: [Survival] 
 :shiny: [Survival] 
 
