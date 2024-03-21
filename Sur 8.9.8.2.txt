@@ -5,11 +5,11 @@
 :shiny: [Survival] Fixed "AngelFish" biome not being listed properly issue.
 :shiny: [Survival] Updated server's dependencies.
 :shiny: [Survival] Modified Dungeon Trader Crafting station sign slightly.
-:shiny: [Survival] Removed "/jobs" Information from Guide UI (Java)
-:shiny: [Survival] Added "Rock" drop to "HUSK" and "DROWNED" entities
-:shiny: [Survival] Allowed players to run "/pets" command in dungeons
-:shiny: [Survival] Updated bunch of dependencies in preparation of 1.20.4 Update from 1.20.2
-:shiny: [Survival] 
+:shiny: [Survival] Removed "/jobs" information from Guide UI (Java).
+:shiny: [Survival] Added "Rock" drop to "HUSK" and "DROWNED" entities.
+:shiny: [Survival] Allowed players to run "/pets" command in dungeons.
+:shiny: [Survival] Updated a bunch of dependencies in preparation for 1.20.4 Update from 1.20.2.
+:shiny: [Survival] Added Custom Enchantments warning for players on enchanting books.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -18,22 +18,21 @@
 :shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
-:shiny: [Survival] Fixed "Skeletal Archer" not attacking players
-:shiny: [Survival] Fixed "Magma Demon" not attacking players
-:shiny: [Survival] Fixed "Skeletal Archer" not attacking players
-:shiny: [Survival] Fixed major miscalculated within Dungeon's Drop table
-:shiny: [Survival] Added Miscellaneous item drops to Dungeon Mobs
+:shiny: [Survival] Fixed "Skeletal Archer" not attacking players.
+:shiny: [Survival] Fixed "Magma Demon" not attacking players.
+:shiny: [Survival] Fixed major miscalculation within Dungeon's drop table.
+:shiny: [Survival] Added miscellaneous item drops to Dungeon mobs.
 
 **DUNGEON FROST CHANGES**
-:shiny: [Survival] Modified "Frost Boss" name to "Frostmaw"
+:shiny: [Survival] Modified "Frost Boss" name to "Frostmaw".
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Added mob health update mechanism.
- 
+
 **BEDROCK UPDATE**
-:shiny: [Bedrock] Inventory handling when client tries to open the player inventory
-:shiny: [Bedrock] update protocol lib to resolve command crashing
-:shiny: [Bedrock] Fix wooden slabs
+:shiny: [Bedrock] Inventory handling when the client tries to open the player inventory.
+:shiny: [Bedrock] Update protocol lib to resolve command crashing.
+:shiny: [Bedrock] Fix wooden slabs.
 
 
 **WEBSITE**
