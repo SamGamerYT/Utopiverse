@@ -6,7 +6,7 @@
 :shiny: [Survival] Updated server's dependencies.
 :shiny: [Survival] Modified Dungeon Trader Crafting station sign slightly.
 :shiny: [Survival] Removed "/jobs" Information from Guide UI (Java)
-:shiny: [Survival] 
+:shiny: [Survival] Added "Rock" drop to "HUSK" and "DROWNED" entities
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
