@@ -29,6 +29,7 @@
 :shiny: [Survival] Fixed "Magma Demon" not attacking players
 :shiny: [Survival] Fixed "Skeletal Archer" not attacking players
 :shiny: [Survival] Fixed major miscalculated within Dungeon's Drop table
+:shiny: [Survival] Added Miscellaneous item drops to Dungeon Mobs
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] Modified "Frost Boss" name to "Frostmaw"
