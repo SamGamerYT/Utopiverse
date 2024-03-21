@@ -23,11 +23,16 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
+
+**DUNGEON MINE CHANGES**
+:shiny: [Survival] Fixed "Skeletal Archer" not attacking players
+:shiny: [Survival] Fixed "Magma Demon" not attacking players
+:shiny: [Survival] Fixed "Skeletal Archer" not attacking players
+:shiny: [Survival] Fixed major miscalculated within Dungeon's Drop table
+
+**DUNGEON FROST CHANGES**
+:shiny: [Survival] Modified "Frost Boss" name to "Frostmaw"
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival]
-:shiny: [Survival]
  
 **BEDROCK UPDATE**
 :shiny: [Bedrock] Inventory handling when client tries to open the player inventory

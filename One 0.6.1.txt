@@ -5,6 +5,9 @@
 :grass: [QOL] Fixed grammar issues in Oneblock Island Manager.
 :grass: [QOL] Major updates to all dependencies for smoother operation of Oneblock.
 :grass: [QOL] Mob spawning will work properly as expected (as long as mobs have enough space to spawn).
+:grass: [QOL] Disabled Farm Trampling
+:grass: [QOL] Allowed Farmland to get moist through water below the block
+:grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
 
@@ -13,3 +16,21 @@
 :grass: 
  
 **[@Changelogs]**
+
+
+
+next-cycle:
+  one_nether: 1
+  one_the_end: 1
+  one: 1
+  
+[21:42:58 WARN]: [AdvancedEnchantments] Failed to parse 5<aoe>radius=8target=mobs</aoe> from String to Integer.
+[21:42:58 WARN]: java.lang.NumberFormatException: For input string: "5<aoe>radius=8target=mobs</aoe>"
+[21:42:58 WARN]:        at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+[21:42:58 WARN]:        at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+[21:42:58 WARN]:        at java.base/java.lang.Double.parseDouble(Double.java:651)
+[21:42:58 WARN]:        at AdvancedEnchantments-9.7.5.jar//net.advancedplugins.ae.impl.utils.ASManager.parseInt(ASManager.java:647)
+[21:42:58 WARN]:        at AdvancedEnchantments-9.7.5.jar//net.advancedplugins.ae.impl.utils.ASManager.parseInt(ASManager.java:637)
+[21:42:58 WARN]:        at AdvancedEnchantments-9.7.5.jar//net.advancedplugins.ae.impl.effects.effects.effects.internal.DoHarmEffect.executeEffect(DoHarmEffect.java:24)
+[21:42:58 WARN]:        at AdvancedEnchantments-9.7.5.jar//net.advancedplugins.ae.impl.effects.effects.actions.execution.ExecutionTask.activate(ExecutionTask.java:200)
+[21:42:58 WARN]:        at AdvancedEnchantments-9.7.5.jar//net.advancedplugins.ae.impl.effects.effects.actions.execution.ExecutionTask.init(ExecutionTask.j
