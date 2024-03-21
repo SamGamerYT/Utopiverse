@@ -39,47 +39,15 @@
 :shiny: [Bedrock] update protocol lib to resolve command crashing
 :shiny: [Bedrock] Fix wooden slabs
 
-:shiny: [Survival] *(Special Thanks to _Kuudere2460)*
-
-:shiny: [Survival] *(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
 
 **WEBSITE**
-:shiny: [Global] 
-:shiny: [Global] 
-
 **CRATES**
-:shiny: [Survival]
 
 **[@Changelogs]**
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
+:shiny: [Global] 
 :Sparkles: [Store]
-:Sparkles: [Store]
-
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **SHOP RELATED CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
 
 *(Special Thanks to _WhispyW)*
 :shiny: [Art] 
