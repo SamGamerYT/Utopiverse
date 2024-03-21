@@ -33,7 +33,9 @@
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] Modified "Frost Boss" name to "Frostmaw"
-:shiny: [Survival] 
+
+**DUNGEON VOLCANO CHANGES**
+:shiny: [Survival] Added mob health update mechanism.
  
 **BEDROCK UPDATE**
 :shiny: [Bedrock] Inventory handling when client tries to open the player inventory
