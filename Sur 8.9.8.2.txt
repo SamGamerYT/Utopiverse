@@ -20,6 +20,7 @@
 :shiny: [Survival] Potentially patched up bank dupe issue.
 :shiny: [Survival] Switched back from Shears to Pickaxes for Protection Stone locator.
 :shiny: [Survival] Fixed "GRASS" decoration not appearing properly in **"/shop"**
+:shiny: [Survival] "Emperor Rankup" has a new perk that allows player to edit their **"Clan Prefix"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
