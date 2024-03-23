@@ -19,6 +19,8 @@
 :shiny: [Survival] Increased Hopper's Transfer rate from 4 to 8.
 :shiny: [Survival] Potentially patched up bank dupe issue.
 :shiny: [Survival] Switched back from Shears to Pickaxes for Protection Stone locator.
+:shiny: [Survival] Fixed "GRASS" decoration not appearing properly in **"/shop"**
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
