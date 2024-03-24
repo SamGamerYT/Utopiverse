@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.8.3** *(Network Changes)*
-:shiny: [Survival] Removed Useless Random Dice, Hello, and Ping auto response from announcer.
+:shiny: [Survival] Removed Useless Helper, Random Dice, Hello, and Ping auto response from announcer.
 :shiny: [Survival] Removed Server IP auto response from announcer.
 :shiny: [Survival] Removed Server Rules auto response from announcer.
 :shiny: [Survival] 
