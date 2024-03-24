@@ -22,6 +22,12 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
 :shiny: [Survival] 
