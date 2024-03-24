@@ -2,7 +2,7 @@
 :shiny: [Survival] Removed Useless Helper, Random Dice, Hello, and Ping auto response from announcer.
 :shiny: [Survival] Removed Server IP auto response from announcer.
 :shiny: [Survival] Removed Server Rules auto response from announcer.
-:shiny: [Survival] 
+:shiny: [Survival] Refined all of the auto responses from announcer, elaborated and highlighted the answers more.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
