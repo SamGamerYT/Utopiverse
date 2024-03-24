@@ -1,54 +1,41 @@
-**Patch/Changes 8.9.8.2** *(Network Changes)*
-:shiny: [Survival] Added "Buttons" and "Pressure Plates" to protected protection blocks.
-:shiny: [Survival] Fixed a major bug related to Guardian/Guard-based Custom Enchantments.
-:shiny: [Survival] Fixed a bug where witches were able to spawn at "/spawn" zone.
-:shiny: [Survival] Fixed "AngelFish" biome not being listed properly issue.
-:shiny: [Survival] Updated server's dependencies.
-:shiny: [Survival] Modified Dungeon Trader Crafting station sign slightly.
-:shiny: [Survival] Removed "/jobs" information from Guide UI (Java).
-:shiny: [Survival] Added "Rock" drop to "HUSK" and "DROWNED" entities.
-:shiny: [Survival] Allowed players to run "/pets" command in dungeons.
-:shiny: [Survival] Updated a bunch of dependencies in preparation for 1.20.4 Update from 1.20.2.
-:shiny: [Survival] Added Custom Enchantments warning for players on enchanting books.
+**Patch/Changes 8.9.8.3** *(Network Changes)*
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
-:shiny: [Survival] Fixed on-login health issue.
-:shiny: [Survival] Fixed head bobbing.
-:shiny: [Survival] Fixed multiple NPE errors.
-:shiny: [Survival] Empty nametag bones will no longer be visible now.
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
-:shiny: [Survival] Increased Hopper's Transfer rate from 4 to 8.
-:shiny: [Survival] Potentially patched up bank dupe issue.
-:shiny: [Survival] Switched back from Shears to Pickaxes for Protection Stone locator.
-:shiny: [Survival] Fixed "GRASS" decoration not appearing properly in **"/shop"**
-:shiny: [Survival] "Emperor Rankup" has a new perk that allows player to edit their **"Clan Prefix"**
-:shiny: [Survival] Added buyable "Hat Perk" at **/warp enchanter** in "Scroll Shop"
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
-:shiny: [Survival] Fixed "Skeletal Archer" not attacking players.
-:shiny: [Survival] Fixed "Magma Demon" not attacking players.
-:shiny: [Survival] Fixed major miscalculation within Dungeon's drop table.
-:shiny: [Survival] Added miscellaneous item drops to Dungeon mobs.
-
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] Modified "Frost Boss" name to "Frostmaw".
-
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] Added mob health update mechanism.
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 **BEDROCK UPDATE**
-:shiny: [Bedrock] Inventory handling when the client tries to open the player inventory.
-:shiny: [Bedrock] Updated protocol lib to resolve command crashing.
-:shiny: [Bedrock] Fix wooden slabs.
-
-
-**WEBSITE**
-**CRATES**
+:shiny: [Bedrock] 
 
 **[@Changelogs]**
 :shiny: [Global] 
 :Sparkles: [Store]
 
-**SHOP RELATED CHANGES**
 
 *(Special Thanks to _WhispyW)*
 :shiny: [Art] 
@@ -62,6 +49,11 @@
 :shiny: [Dungeon]
 :shiny: [Codex] 
 :shiny: [Underground Arena]
+
+
+**SHOP RELATED CHANGES**
+**WEBSITE**
+**CRATES**
 **DUNGEON MINE CHANGES**
 **DUNGEON FROST CHANGES**
 **DUNGEON VOLCANO CHANGES**
