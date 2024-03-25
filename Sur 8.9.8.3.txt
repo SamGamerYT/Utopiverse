@@ -3,8 +3,11 @@
 :shiny: [Survival] Removed Server IP auto response from announcer.
 :shiny: [Survival] Removed Server Rules auto response from announcer.
 :shiny: [Survival] Refined all of the auto responses from announcer, elaborated and highlighted the answers more.
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Entire **Protection Stone** has been changed entirely and normal rankups have proper protection stone options
+
+:shiny: [Java] Modified **Random Teleportation** UI
+:shiny: [Java] Modified **Server Information (Help)** UI, Added more information and custom sounds
+
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
