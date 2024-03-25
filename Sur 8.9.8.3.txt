@@ -5,11 +5,11 @@
 :shiny: [Survival] Refined all of the auto responses from the announcer, elaborated, and highlighted the answers more.
 :shiny: [Survival] Entire **Protection Stone** has been entirely changed, and normal rankups have proper protection stone options.
 
-:shiny: [Java] Modified **Random Teleportation** UI.
-:shiny: [Java] Modified **Server Information (Help)** UI, Added more information and custom sounds.
-
 :shiny: [Survival] Maximum mob stack size is now **1024** to avoid server lag when larger mobs get slain.
 :shiny: [Survival] Entities that are stacked will now only show their stacked size when you hover over them.
+
+:shiny: [Java] Modified **Random Teleportation** UI.
+:shiny: [Java] Modified **Server Information (Help)** UI, Added more information and custom sounds.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
