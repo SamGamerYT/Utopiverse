@@ -20,6 +20,7 @@
 :shiny: [Survival] Modified Vote UI **"/vote"**
 :shiny: [Survival] Modified Faq UI **"/faq"**
 :shiny: [Survival] Modified Tagshop UI **"/tagshop"**
+:shiny: [Survival] Modified Settings UI **"/settings"**
 :shiny: [Survival] 
 
 :shiny: [Survival] Removed Events Trader, Catacombs and Chat Names UI
