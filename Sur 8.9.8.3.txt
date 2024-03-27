@@ -10,7 +10,8 @@
 
 :shiny: [Java] Modified **Random Teleportation** UI.
 :shiny: [Java] Modified **Server Information (Help)** UI, Added more information and custom sounds.
-:shiny: [Survival] 
+
+:shiny: [Survival] Modified **/warps** UI, Made it Neutral
 :shiny: [Survival] 
 :shiny: [Survival] 
 
@@ -32,9 +33,10 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-**DUNGEON MINE CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
+**DUNGEON FROST CHANGES**
+:shiny: [Survival] Fixed mob drop table.
+:shiny: [Survival] Fixed mob damage design.
+:shiny: [Survival] Mob now has a stone axe instead of a diamond axe.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
