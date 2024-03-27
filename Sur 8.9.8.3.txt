@@ -16,7 +16,7 @@
 :shiny: [Survival] Modified Exchanger UI at **"/warp crates"**.
 :shiny: [Survival] Modified Essence Trader UI at **"/warp bank"**.
 :shiny: [Survival] Modified the way **Demolisher** Consumable looks.
-:shiny: [Survival] 
+:shiny: [Survival] Modified Rules UI **"/rules"**
 :shiny: [Survival] 
 
 :shiny: [Survival] 
