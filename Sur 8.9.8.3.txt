@@ -19,6 +19,7 @@
 :shiny: [Survival] Modified Rules UI **"/rules"**
 :shiny: [Survival] Modified Vote UI **"/vote"**
 :shiny: [Survival] Modified Faq UI **"/faq"**
+:shiny: [Survival] Modified Tagshop UI **"/tagshop"**
 :shiny: [Survival] 
 
 :shiny: [Survival] 
