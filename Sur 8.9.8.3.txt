@@ -21,10 +21,9 @@
 :shiny: [Survival] Modified Faq UI **"/faq"**
 :shiny: [Survival] Modified Tagshop UI **"/tagshop"**
 :shiny: [Survival] Modified Settings UI **"/settings"**
-:shiny: [Survival] 
 
 :shiny: [Survival] Removed Events Trader, Catacombs and Chat Names UI
-:shiny: [Survival] 
+:shiny: [Survival] Modified Welcome Hologram, Added information about /actp and made it small caps font
 :shiny: [Survival] 
 
 :shiny: [Survival] 
