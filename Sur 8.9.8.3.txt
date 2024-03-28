@@ -24,6 +24,7 @@
 
 :shiny: [Survival] Removed Events Trader, Catacombs and Chat Names UI
 :shiny: [Survival] Modified Welcome Hologram, Added information about /actp and made it small caps font
+:shiny: [Survival] Added **"/codex"** furniture at /warp blacksmith
 :shiny: [Survival] 
 
 :shiny: [Survival] 
