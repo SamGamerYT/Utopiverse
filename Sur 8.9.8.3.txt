@@ -10,6 +10,8 @@
 
 :shiny: [Java] Modified **Random Teleportation** UI.
 :shiny: [Java] Modified **Server Information (Help)** UI, added more information and custom sounds.
+:shiny: [Java] Optimized Language Files
+:shiny: [Java] Fixed wings inventory sizes
 
 :shiny: [Survival] Modified **/warps** UI, made it neutral.
 :shiny: [Survival] Added a new UI for Warps Menu.
@@ -25,9 +27,8 @@
 :shiny: [Survival] Removed Events Trader, Catacombs and Chat Names UI
 :shiny: [Survival] Modified Welcome Hologram, Added information about /actp and made it small caps font
 :shiny: [Survival] Added **"/codex"** furniture at /warp blacksmith
-:shiny: [Survival] 
+:shiny: [Survival] Fixed settings information for name chat color
 
-:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
