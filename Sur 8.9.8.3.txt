@@ -35,56 +35,10 @@
 
 :shiny: [Survival] Removed "Medal Trader" from /warp blacksmith and made it into a station
 :shiny: [Survival] Merged "Upgrader" from Adventurer NPC to Blacksmith and removed Adventuer NPC
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] Fixed mob drop table.
 :shiny: [Survival] Fixed mob damage design.
 :shiny: [Survival] Mob now has a stone axe instead of a diamond axe.
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**BEDROCK UPDATE**
-:shiny: [Bedrock] 
 
 **[@Changelogs]**
-:shiny: [Global] 
-:Sparkles: [Store]
-
-
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Survival] 
-:shiny: [Textures]
-:shiny: [Loot]
-:shiny: [Christmas] 
-:shiny: [Dungeon]
-:shiny: [Codex] 
-:shiny: [Underground Arena]
-
-
-**SHOP RELATED CHANGES**
-**WEBSITE**
-**CRATES**
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
-**DUNGEON WASTELAND CHANGES**
