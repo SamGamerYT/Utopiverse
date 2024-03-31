@@ -33,6 +33,8 @@
 :shiny: [Survival] Added new set upgrade for Lost Miner Set (Permanent Haste III).
 :shiny: [Survival] Added two new unique boss drops *(Frostmaw Fur, Yeti Snow)* that will be used to craft *(Barebone Wings)*.
 
+:shiny: [Survival] Removed "Medal Trader" from /warp blacksmith and made it into a station
+:shiny: [Survival] Merged "Upgrader" from Adventurer NPC to Blacksmith and removed Adventuer NPC
 :shiny: [Survival] 
 :shiny: [Survival] 
 
