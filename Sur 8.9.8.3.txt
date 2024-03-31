@@ -10,19 +10,19 @@
 
 :shiny: [Java] Modified **Random Teleportation** UI.
 :shiny: [Java] Modified **Server Information (Help)** UI, added more information and custom sounds.
-:shiny: [Java] Optimized Language Files
-:shiny: [Java] Fixed wings inventory sizes
+:shiny: [Java] Optimized language files.
+:shiny: [Java] Fixed wings inventory sizes.
 
-:shiny: [Survival] Modified **/warps** UI, made it neutral.
-:shiny: [Survival] Added a new UI for Warps Menu.
+:shiny: [Survival] Modified **/warps** UI, making it neutral.
+:shiny: [Survival] Added a new UI for the Warps Menu.
 :shiny: [Survival] Modified Exchanger UI at **"/warp crates"**.
 :shiny: [Survival] Modified Essence Trader UI at **"/warp bank"**.
-:shiny: [Survival] Modified the way **Demolisher** Consumable looks.
-:shiny: [Survival] Modified Rules UI **"/rules"**
-:shiny: [Survival] Modified Vote UI **"/vote"**
-:shiny: [Survival] Modified Faq UI **"/faq"**
-:shiny: [Survival] Modified Tagshop UI **"/tagshop"**
-:shiny: [Survival] Modified Settings UI **"/settings"**
+:shiny: [Survival] Modified the appearance of the **Demolisher** Consumable.
+:shiny: [Survival] Modified Rules UI at **"/rules"**.
+:shiny: [Survival] Modified Vote UI at **"/vote"**.
+:shiny: [Survival] Modified FAQ UI at **"/faq"**.
+:shiny: [Survival] Modified Tagshop UI at **"/tagshop"**.
+:shiny: [Survival] Modified Settings UI at **"/settings"**.
 
 :shiny: [Survival] Removed Events Trader, Catacombs, and Chat Names UI.
 :shiny: [Survival] Modified Welcome Hologram, added information about /actp and made it small caps font.
