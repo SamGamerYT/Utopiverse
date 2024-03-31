@@ -29,7 +29,9 @@
 :shiny: [Survival] Added **"/codex"** furniture at /warp blacksmith
 :shiny: [Survival] Fixed settings information for name chat color
 
-:shiny: [Survival] 
+:shiny: [Survival] Added a new material called "Refined Kyanite" craftable at Dungeon Gear station
+:shiny: [Survival] Added new set upgrade for Lost Miner Set (Permanent Haste III)
+:shiny: [Survival] Added two new unique boss drops *(Frostmaw Fur, Yeti Snow)* that will be used to craft *(Barebone Wings)*
 :shiny: [Survival] 
 :shiny: [Survival] 
 
