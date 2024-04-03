@@ -15,6 +15,9 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+**DUNGEON MINE CHANGES**
+:shiny: [Dungeon] Fixed **MOMMY SLIME** and **BABY SLIME** AI problems.
+
 :shiny: [Java] 
 
 **DUNGEON FROST CHANGES**
