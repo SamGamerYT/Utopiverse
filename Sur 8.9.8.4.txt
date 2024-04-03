@@ -8,8 +8,8 @@
 :shiny: [Survival] New Java MOTD Design
 :shiny: [Survival] New Bedrock MOTD Design
 :shiny: [Survival] Modified **Vote Crate** has been modified
-:shiny: [Survival] Fixed **Legendary Blade** and **Legendary Sword** lore in Legendary Crate
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Legendary Blade** and **Legendary Sword** lore in **Legendary Crate**
+:shiny: [Survival] Disabled **Stick**, **Blaze Rod**, **Diamond Sword**, **Netherite Sword**, **Honeycomb**, **Cookie**, **Shield**, and more from **""/hat"** command
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
