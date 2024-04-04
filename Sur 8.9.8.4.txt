@@ -13,6 +13,8 @@
 :shiny: [Survival] Nerfed **Legendary Staff** specialized ability
 :shiny: [Survival] Modified **Projectile Runestone** and Buffed Projectile Damage
 :shiny: [Survival] "Arrow Velocity" has been renamed to "Arrow Speed"
+:shiny: [Survival] Reworked the entire tier system for "Rune Stones"
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
