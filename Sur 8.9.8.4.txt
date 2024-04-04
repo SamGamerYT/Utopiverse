@@ -17,10 +17,10 @@
 :shiny: [Survival] "Arrow Velocity" has been renamed to "Arrow Speed"
 :shiny: [Survival] Reworked the entire tier system for "Rune Stones"
 :shiny: [Survival] Reworked the entire tier system for "Dungeon Loot"
+:shiny: [Survival] Reworked the entire tier system for **Dungeon Gear**
 :shiny: [Survival] Renamed "Cooldown Reduction" to "Skill Cooldown" to "Casting Time"
 :shiny: [Survival] Removed **Demolisher III** from **Essence Trader**
 :shiny: [Survival] Added **Elements** Attack, Defense and Weakness Effects
-:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
