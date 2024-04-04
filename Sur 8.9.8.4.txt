@@ -5,8 +5,10 @@
 :shiny: [Survival] Added ATM Machine at "/warp mall"
 :shiny: [Survival] Added Spawn Waystone at "/warp mall"
 :shiny: [Survival] Disabled Mob Spawning from "/spawn"
-:shiny: [Survival] New Java MOTD Design
-:shiny: [Survival] New Bedrock MOTD Design
+
+:shiny: [Proxy] New Java MOTD Design
+:shiny: [Proxy] New Bedrock MOTD Design
+
 :shiny: [Survival] Modified **Vote Crate** has been modified
 :shiny: [Survival] Fixed **Legendary Blade** and **Legendary Sword** lore in **Legendary Crate**
 :shiny: [Survival] Disabled **Stick**, **Blaze Rod**, **Diamond Sword**, **Netherite Sword**, **Honeycomb**, **Cookie**, **Shield**, and more from **""/hat"** command
