@@ -19,11 +19,14 @@
 :shiny: [Survival] Reworked the entire tier system for "Dungeon Loot"
 :shiny: [Survival] Renamed "Cooldown Reduction" to "Skill Cooldown" to "Casting Time"
 :shiny: [Survival] Removed **Demolisher III** from **Essence Trader**
-:shiny: [Survival] Removed **Demolisher III** from **Legendary Crate**
-:shiny: [Survival] Added more repair stones in **Legendary Crate**
 :shiny: [Survival] Added **Elements** Attack, Defense and Weakness Effects
 :shiny: [Survival] 
 :shiny: [Survival] 
+:shiny: [Survival] 
+
+**CRATES**
+:shiny: [Survival] Removed **Demolisher III** from **Legendary Crate**
+:shiny: [Survival] Added more repair stones in **Legendary Crate**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
