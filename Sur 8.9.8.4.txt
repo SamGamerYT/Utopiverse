@@ -12,7 +12,7 @@
 :shiny: [Survival] Disabled **Stick**, **Blaze Rod**, **Diamond Sword**, **Netherite Sword**, **Honeycomb**, **Cookie**, **Shield**, and more from **""/hat"** command
 :shiny: [Survival] Nerfed **Legendary Staff** specialized ability
 :shiny: [Survival] Modified **Projectile Runestone** and Buffed Projectile Damage
-:shiny: [Survival] 
+:shiny: [Survival] "Arrow Velocity" has been renamed to "Arrow Speed"
 :shiny: [Survival] 
 :shiny: [Survival] 
 
