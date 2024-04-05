@@ -42,7 +42,7 @@
 :shiny: [Font]  Changed "**Uncommon**" font
 :shiny: [Font]  Changed "**Special**"
 :shiny: [Font]  Changed "**Rare**"
-:shiny: [Font]  Changed "****"
+:shiny: [Font]  Changed "**Mythic**" to Mythical
 :shiny: [Font]  Changed "****"
 :shiny: [Font]  Changed "****"
 :shiny: [Font]  Changed "****"
