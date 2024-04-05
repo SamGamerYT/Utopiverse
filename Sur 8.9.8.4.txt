@@ -21,6 +21,8 @@
 :shiny: [Survival] Renamed "Cooldown Reduction" to "Skill Cooldown" to "Casting Time"
 :shiny: [Survival] Removed **Demolisher III** from **Essence Trader**
 :shiny: [Survival] Added **Elements** Attack, Defense and Weakness Effects
+:shiny: [Survival] Fixed a bug with Easter Lootbox
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
