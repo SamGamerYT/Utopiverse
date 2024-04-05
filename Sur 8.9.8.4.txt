@@ -28,19 +28,19 @@
 
 
 **TEXTURES**
-:shiny: [Survival] Changed "**Scroll Shop**" title
-:shiny: [Survival] Changed "**The Forge**" title
-:shiny: [Survival] Changed "**Alchemist**" title
-:shiny: [Survival] Changed "**Blacksmith**" title
-:shiny: [Survival] Changed "**CE Tinkerer**" title
-:shiny: [Survival] Changed "**Quicksell**" title
-:shiny: [Survival] Changed "****" title
-:shiny: [Survival] Changed "****" title
-:shiny: [Survival] Changed "****" title
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Custom UI] Changed "**Scroll Shop**" title
+:shiny: [Custom UI] Changed "**The Forge**" title
+:shiny: [Custom UI] Changed "**Alchemist**" title
+:shiny: [Custom UI] Changed "**Blacksmith**" title
+:shiny: [Custom UI] Changed "**CE Tinkerer**" title
+:shiny: [Custom UI] Changed "**Quicksell**" title
+:shiny: [Custom UI] Changed "**Dungeon**" title
+:shiny: [Custom UI] Changed "**Daily Bonus**" title and GUI
+:shiny: [Custom UI] Changed "****" title
+:shiny: [Custom UI] 
+:shiny: [Custom UI] 
+:shiny: [Custom UI] 
+:shiny: [Custom UI] 
 
 
 **CRATES**
