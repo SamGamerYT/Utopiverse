@@ -44,8 +44,8 @@
 :shiny: [Font]  Changed "**Rare**" font
 :shiny: [Font]  Changed "**Mythic**" to Mythical font
 :shiny: [Font]  Changed "**Legendary**" font
-:shiny: [Font]  Changed "****" font
-:shiny: [Font]  Changed "****" font
+:shiny: [Font]  Changed "**Exotic**" font
+:shiny: [Font]  Changed "**Divine**" font
 :shiny: [Font]  Changed "****" font
 :shiny: [Font]  Changed "****" font
 
