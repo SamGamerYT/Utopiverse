@@ -40,8 +40,8 @@
 :shiny: [Custom UI] Changed "**AFK Shop**" title and added Wait icons
 :shiny: [Custom UI] Changed "**AFK Shop2**" title and added Wait icons
 :shiny: [Font]  Changed "**Uncommon**" font
-:shiny: [Font]  Changed "****"
-:shiny: [Font]  Changed "****"
+:shiny: [Font]  Changed "**Special**"
+:shiny: [Font]  Changed "**Rare**"
 :shiny: [Font]  Changed "****"
 :shiny: [Font]  Changed "****"
 :shiny: [Font]  Changed "****"
