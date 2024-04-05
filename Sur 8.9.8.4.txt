@@ -30,9 +30,13 @@
 **TEXTURES**
 :shiny: [Survival] Changed "**Scroll Shop**" title
 :shiny: [Survival] Changed "**The Forge**" title
-:shiny: [Survival] Changed "** **" title
-:shiny: [Survival] Changed "** **" title
-:shiny: [Survival] Changed "** **" title
+:shiny: [Survival] Changed "**Alchemist**" title
+:shiny: [Survival] Changed "**Blacksmith**" title
+:shiny: [Survival] Changed "**CE Tinkerer**" title
+:shiny: [Survival] Changed "****" title
+:shiny: [Survival] Changed "****" title
+:shiny: [Survival] Changed "****" title
+:shiny: [Survival] Changed "****" title
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
