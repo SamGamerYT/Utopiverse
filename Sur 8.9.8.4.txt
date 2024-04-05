@@ -22,7 +22,7 @@
 :shiny: [Survival] Removed **Demolisher III** from **Essence Trader**
 :shiny: [Survival] Added **Elements** Attack, Defense and Weakness Effects
 :shiny: [Survival] Fixed a bug with Easter Lootbox
-:shiny: [Survival] 
+:shiny: [Survival] Added **Repairstones** at **/warp afk** trader shop
 :shiny: [Survival] 
 :shiny: [Survival] 
 
