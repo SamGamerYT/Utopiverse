@@ -33,7 +33,7 @@
 :shiny: [Survival] Changed "**Alchemist**" title
 :shiny: [Survival] Changed "**Blacksmith**" title
 :shiny: [Survival] Changed "**CE Tinkerer**" title
-:shiny: [Survival] Changed "****" title
+:shiny: [Survival] Changed "**Quicksell**" title
 :shiny: [Survival] Changed "****" title
 :shiny: [Survival] Changed "****" title
 :shiny: [Survival] Changed "****" title
