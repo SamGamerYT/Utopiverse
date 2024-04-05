@@ -36,11 +36,18 @@
 :shiny: [Custom UI] Changed "**Quicksell**" title
 :shiny: [Custom UI] Changed "**Dungeon**" title
 :shiny: [Custom UI] Changed "**Daily Bonus**" title and GUI
-:shiny: [Custom UI] Changed "****" title
-:shiny: [Custom UI] 
-:shiny: [Custom UI] 
-:shiny: [Custom UI] 
-:shiny: [Custom UI] 
+:shiny: [Custom UI] Changed "**The Forge**" title to Trader Menu
+:shiny: [Custom UI] Changed "**AFK Shop**" title and added Wait icons
+:shiny: [Custom UI] Changed "**AFK Shop2**" title and added Wait icons
+:shiny: [Font]  Changed "**Uncommon**" font
+:shiny: [Font]  Changed "****"
+:shiny: [Font]  Changed "****"
+:shiny: [Font]  Changed "****"
+:shiny: [Font]  Changed "****"
+:shiny: [Font]  Changed "****"
+:shiny: [Font]  Changed "****"
+:shiny: [Font]  Changed "****"
+:shiny: [Font]  Changed "****"
 
 
 **CRATES**
