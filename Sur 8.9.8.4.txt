@@ -26,6 +26,19 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+
+**TEXTURES**
+:shiny: [Survival] Changed "**Scroll Shop**" title
+:shiny: [Survival] Changed "**The Forge**" title
+:shiny: [Survival] Changed "** **" title
+:shiny: [Survival] Changed "** **" title
+:shiny: [Survival] Changed "** **" title
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+
 **CRATES**
 :shiny: [Survival] Removed **Demolisher III** from **Legendary Crate**
 :shiny: [Survival] Added more repair stones in **Legendary Crate**
