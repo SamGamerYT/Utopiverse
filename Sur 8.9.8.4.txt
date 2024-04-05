@@ -28,26 +28,29 @@
 
 
 **TEXTURES**
-:shiny: [Custom UI] Changed "**Scroll Shop**" title
-:shiny: [Custom UI] Changed "**The Forge**" title
-:shiny: [Custom UI] Changed "**Alchemist**" title
-:shiny: [Custom UI] Changed "**Blacksmith**" title
-:shiny: [Custom UI] Changed "**CE Tinkerer**" title
-:shiny: [Custom UI] Changed "**Quicksell**" title
-:shiny: [Custom UI] Changed "**Dungeon**" title
-:shiny: [Custom UI] Changed "**Daily Bonus**" title and GUI
-:shiny: [Custom UI] Changed "**The Forge**" title to Trader Menu
-:shiny: [Custom UI] Changed "**AFK Shop**" title and added Wait icons
-:shiny: [Custom UI] Changed "**AFK Shop2**" title and added Wait icons
-:shiny: [Font]  Changed "**Uncommon**" font
-:shiny: [Font]  Changed "**Special**" font
-:shiny: [Font]  Changed "**Rare**" font
-:shiny: [Font]  Changed "**Mythic**" to Mythical font
-:shiny: [Font]  Changed "**Legendary**" font
-:shiny: [Font]  Changed "**Exotic**" font
-:shiny: [Font]  Changed "**Divine**" font
-:shiny: [Font]  Changed "****" font
-:shiny: [Font]  Changed "****" font
+:shiny: [Texture] Changed "**Scroll Shop**" title
+:shiny: [Texture] Changed "**The Forge**" title
+:shiny: [Texture] Changed "**Alchemist**" title
+:shiny: [Texture] Changed "**Blacksmith**" title
+:shiny: [Texture] Changed "**CE Tinkerer**" title
+:shiny: [Texture] Changed "**Quicksell**" title
+:shiny: [Texture] Changed "**Dungeon**" title
+:shiny: [Texture] Changed "**Daily Bonus**" title and GUI
+:shiny: [Texture] Changed "**The Forge**" title to Trader Menu
+:shiny: [Texture] Changed "**AFK Shop**" title and added Wait icons
+:shiny: [Texture] Changed "**AFK Shop2**" title and added Wait icons
+:shiny: [Texture]  Changed "**Uncommon**" font
+:shiny: [Texture]  Changed "**Special**" font
+:shiny: [Texture]  Changed "**Rare**" font
+:shiny: [Texture]  Changed "**Mythic**" to Mythical font
+:shiny: [Texture]  Changed "**Legendary**" font
+:shiny: [Texture]  Changed "**Exotic**" font
+:shiny: [Texture]  Changed "**Divine**" font
+:shiny: [Texture]  Changed "**Cosmetic**" font
+:shiny: [Texture]  Changed "****" font
+:shiny: [Texture]  Changed "****" font
+:shiny: [Texture]  Changed "****" font
+:shiny: [Texture]  Changed "****" font
 
 
 **CRATES**
