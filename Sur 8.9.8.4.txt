@@ -1,62 +1,59 @@
 **Patch/Changes 8.9.8.4** *(Network Changes)*
-:shiny: [Survival] Modified Old Tournament System, Made Static Hostile, Passive and Block Break Tournaments
+:shiny: [Survival] Modified Old Tournament System, Made Static Hostile, Passive, and Block Break Tournaments.
 :shiny: [Survival] Modified "/tournaments" GUI, Custom icons are now being used to show off our custom icons.
 :shiny: [Survival] Added Easter 2024 Lootbox.
-:shiny: [Survival] Added ATM Machine at "/warp mall"
-:shiny: [Survival] Added Spawn Waystone at "/warp mall"
-:shiny: [Survival] Disabled Mob Spawning from "/spawn"
+:shiny: [Survival] Added ATM Machine at "/warp mall".
+:shiny: [Survival] Added Spawn Waystone at "/warp mall".
+:shiny: [Survival] Disabled Mob Spawning from "/spawn".
 
-:shiny: [Proxy] New Java MOTD Design
-:shiny: [Proxy] New Bedrock MOTD Design
+:shiny: [Proxy] New Java MOTD Design.
+:shiny: [Proxy] New Bedrock MOTD Design.
 
-:shiny: [Survival] Modified **Vote Crate** has been modified
-:shiny: [Survival] Fixed **Legendary Blade** and **Legendary Sword** lore in **Legendary Crate**
-:shiny: [Survival] Disabled **Stick**, **Blaze Rod**, **Diamond Sword**, **Netherite Sword**, **Honeycomb**, **Cookie**, **Shield**, and more from **""/hat"** command
-:shiny: [Survival] Nerfed **Legendary Staff** specialized ability
-:shiny: [Survival] Modified **Projectile Runestone** and Buffed Projectile Damage
-:shiny: [Survival] "Arrow Velocity" has been renamed to "Arrow Speed"
-:shiny: [Survival] Reworked the entire tier system for "Rune Stones"
-:shiny: [Survival] Reworked the entire tier system for "Dungeon Loot"
-:shiny: [Survival] Reworked the entire tier system for **Dungeon Gear**
-:shiny: [Survival] Renamed "Cooldown Reduction" to "Skill Cooldown" to "Casting Time"
-:shiny: [Survival] Removed **Demolisher III** from **Essence Trader**
-:shiny: [Survival] Added **Elements** Attack, Defense and Weakness Effects
-:shiny: [Survival] Fixed a bug with Easter Lootbox
-:shiny: [Survival] Added **Repairstones** at **/warp afk** trader shop
+:shiny: [Survival] Modified **Vote Crate**, has been modified.
+:shiny: [Survival] Fixed **Legendary Blade** and **Legendary Sword** lore in **Legendary Crate**.
+:shiny: [Survival] Disabled **Stick**, **Blaze Rod**, **Diamond Sword**, **Netherite Sword**, **Honeycomb**, **Cookie**, **Shield**, and more from **"/hat"** command.
+:shiny: [Survival] Nerfed **Legendary Staff** specialized ability.
+:shiny: [Survival] Modified **Projectile Runestone** and Buffed Projectile Damage.
+:shiny: [Survival] "Arrow Velocity" has been renamed to "Arrow Speed".
+:shiny: [Survival] Reworked the entire tier system for "Rune Stones".
+:shiny: [Survival] Reworked the entire tier system for "Dungeon Loot".
+:shiny: [Survival] Reworked the entire tier system for **Dungeon Gear**.
+:shiny: [Survival] Renamed "Cooldown Reduction" to "Skill Cooldown" to "Casting Time".
+:shiny: [Survival] Removed **Demolisher III** from **Essence Trader**.
+:shiny: [Survival] Added **Elements** Attack, Defense, and Weakness Effects.
+:shiny: [Survival] Fixed a bug with Easter Lootbox.
+:shiny: [Survival] Added **Repairstones** at **/warp afk** trader shop.
 
 **TEXTURES**
-:shiny: [Texture] Changed "**Scroll Shop**" title
-:shiny: [Texture] Changed "**The Forge**" title
-:shiny: [Texture] Changed "**Alchemist**" title
-:shiny: [Texture] Changed "**Blacksmith**" title
-:shiny: [Texture] Changed "**CE Tinkerer**" title
-:shiny: [Texture] Changed "**Quicksell**" title
-:shiny: [Texture] Changed "**Dungeon**" title
-:shiny: [Texture] Changed "**Daily Bonus**" title and GUI
-:shiny: [Texture] Changed "**The Forge**" title to Trader Menu
-:shiny: [Texture] Changed "**AFK Shop**" title and added Wait icons
-:shiny: [Texture] Changed "**AFK Shop2**" title and added Wait icons
-:shiny: [Texture] Changed "**Uncommon**" font
-:shiny: [Texture] Changed "**Special**" font
-:shiny: [Texture] Changed "**Rare**" font
-:shiny: [Texture] Changed "**Mythic**" to Mythical font
-:shiny: [Texture] Changed "**Legendary**" font
-:shiny: [Texture] Changed "**Exotic**" font
-:shiny: [Texture] Changed "**Divine**" font
-:shiny: [Texture] Changed "**Cosmetic**" font
-:shiny: [Texture] Added "**Utility**" font
-
+:shiny: [Texture] Changed "**Scroll Shop**" title.
+:shiny: [Texture] Changed "**The Forge**" title.
+:shiny: [Texture] Changed "**Alchemist**" title.
+:shiny: [Texture] Changed "**Blacksmith**" title.
+:shiny: [Texture] Changed "**CE Tinkerer**" title.
+:shiny: [Texture] Changed "**Quicksell**" title.
+:shiny: [Texture] Changed "**Dungeon**" title.
+:shiny: [Texture] Changed "**Daily Bonus**" title and GUI.
+:shiny: [Texture] Changed "**The Forge**" title to Trader Menu.
+:shiny: [Texture] Changed "**AFK Shop**" title and added Wait icons.
+:shiny: [Texture] Changed "**AFK Shop2**" title and added Wait icons.
+:shiny: [Texture] Changed "**Uncommon**" font.
+:shiny: [Texture] Changed "**Special**" font.
+:shiny: [Texture] Changed "**Rare**" font.
+:shiny: [Texture] Changed "**Mythic**" to Mythical font.
+:shiny: [Texture] Changed "**Legendary**" font.
+:shiny: [Texture] Changed "**Exotic**" font.
+:shiny: [Texture] Changed "**Divine**" font.
+:shiny: [Texture] Changed "**Cosmetic**" font.
+:shiny: [Texture] Added "**Utility**" font.
 
 **CRATES**
-:shiny: [Survival] Removed **Demolisher III** from **Legendary Crate**
-:shiny: [Survival] Added more repair stones in **Legendary Crate**
-:shiny: [Survival] Added a brand new crate called "Exotic"
-:shiny: [Survival] Modified Dungeon, Legendary and Exotic Holograms
+:shiny: [Survival] Removed **Demolisher III** from **Legendary Crate**.
+:shiny: [Survival] Added more repair stones in **Legendary Crate**.
+:shiny: [Survival] Added a brand new crate called "Exotic".
+:shiny: [Survival] Modified Dungeon, Legendary, and Exotic Holograms.
 
 **DUNGEON MINE CHANGES**
 :shiny: [Dungeon] Fixed **MOMMY SLIME** and **BABY SLIME** AI problems.
-
-:shiny: [Java] 
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] 
@@ -68,19 +65,19 @@
 :shiny: [Global] 
 :Sparkles: [Store]
 
-
 *(Special Thanks to _WhispyW)*
 :shiny: [Art] 
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Build] 
 *(Special Thanks to _Skmasykw)*
-:shiny: [Survival] 
-:shiny: [Textures]
 :shiny: [Loot]
-:shiny: [Christmas] 
-:shiny: [Dungeon]
 :shiny: [Codex] 
+:shiny: [Dungeon]
+:shiny: [Christmas] 
 :shiny: [Underground Arena]
+
+:shiny: [Java] 
+:shiny: [Textures]
 
 **SHOP RELATED CHANGES**
 **WEBSITE**
