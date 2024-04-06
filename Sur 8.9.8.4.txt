@@ -39,18 +39,15 @@
 :shiny: [Texture] Changed "**The Forge**" title to Trader Menu
 :shiny: [Texture] Changed "**AFK Shop**" title and added Wait icons
 :shiny: [Texture] Changed "**AFK Shop2**" title and added Wait icons
-:shiny: [Texture]  Changed "**Uncommon**" font
-:shiny: [Texture]  Changed "**Special**" font
-:shiny: [Texture]  Changed "**Rare**" font
-:shiny: [Texture]  Changed "**Mythic**" to Mythical font
-:shiny: [Texture]  Changed "**Legendary**" font
-:shiny: [Texture]  Changed "**Exotic**" font
-:shiny: [Texture]  Changed "**Divine**" font
-:shiny: [Texture]  Changed "**Cosmetic**" font
-:shiny: [Texture]  Changed "****" font
-:shiny: [Texture]  Changed "****" font
-:shiny: [Texture]  Changed "****" font
-:shiny: [Texture]  Changed "****" font
+:shiny: [Texture] Changed "**Uncommon**" font
+:shiny: [Texture] Changed "**Special**" font
+:shiny: [Texture] Changed "**Rare**" font
+:shiny: [Texture] Changed "**Mythic**" to Mythical font
+:shiny: [Texture] Changed "**Legendary**" font
+:shiny: [Texture] Changed "**Exotic**" font
+:shiny: [Texture] Changed "**Divine**" font
+:shiny: [Texture] Changed "**Cosmetic**" font
+:shiny: [Texture] Added "**Utility**" font
 
 
 **CRATES**
