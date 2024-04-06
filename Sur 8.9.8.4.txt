@@ -45,6 +45,7 @@
 :shiny: [Texture] Changed "**Divine**" font.
 :shiny: [Texture] Changed "**Cosmetic**" font.
 :shiny: [Texture] Added "**Utility**" font.
+:shiny: [Texture] Added "**Tools, Gear, Weapons and Misc**" fonts.
 
 **CRATES**
 :shiny: [Survival] Removed **Demolisher III** from **Legendary Crate**.
@@ -55,13 +56,14 @@
 **DUNGEON MINE CHANGES**
 :shiny: [Dungeon] Fixed **MOMMY SLIME** and **BABY SLIME** AI problems.
 
+**[@Changelogs]**
+
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] 
 
 **BEDROCK UPDATE**
 :shiny: [Bedrock] 
 
-**[@Changelogs]**
 :shiny: [Global] 
 :Sparkles: [Store]
 
