@@ -58,11 +58,6 @@
 
 **[@Changelogs]**
 
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] 
-
-**BEDROCK UPDATE**
-:shiny: [Bedrock] 
 
 :shiny: [Global] 
 :Sparkles: [Store]
@@ -75,12 +70,16 @@
 :shiny: [Loot]
 :shiny: [Codex] 
 :shiny: [Dungeon]
+:shiny: [Bedrock]
 :shiny: [Christmas] 
 :shiny: [Underground Arena]
 
 :shiny: [Java] 
 :shiny: [Textures]
 
+**JAVA**
+**BEDROCK**
+**TEXTURES**
 **SHOP RELATED CHANGES**
 **WEBSITE**
 **CRATES**
