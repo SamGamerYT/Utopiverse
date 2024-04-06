@@ -23,9 +23,6 @@
 :shiny: [Survival] Added **Elements** Attack, Defense and Weakness Effects
 :shiny: [Survival] Fixed a bug with Easter Lootbox
 :shiny: [Survival] Added **Repairstones** at **/warp afk** trader shop
-:shiny: [Survival] 
-:shiny: [Survival] 
-
 
 **TEXTURES**
 :shiny: [Texture] Changed "**Scroll Shop**" title
@@ -53,8 +50,8 @@
 **CRATES**
 :shiny: [Survival] Removed **Demolisher III** from **Legendary Crate**
 :shiny: [Survival] Added more repair stones in **Legendary Crate**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added a brand new crate called "Exotic"
+:shiny: [Survival] Modified Dungeon, Legendary and Exotic Holograms
 
 **DUNGEON MINE CHANGES**
 :shiny: [Dungeon] Fixed **MOMMY SLIME** and **BABY SLIME** AI problems.
