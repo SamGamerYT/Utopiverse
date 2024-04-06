@@ -25,27 +25,27 @@
 :shiny: [Survival] Added **Repairstones** at **/warp afk** trader shop.
 
 **TEXTURES**
-:shiny: [Texture] Changed "**Scroll Shop**" title.
-:shiny: [Texture] Changed "**The Forge**" title.
-:shiny: [Texture] Changed "**Alchemist**" title.
-:shiny: [Texture] Changed "**Blacksmith**" title.
-:shiny: [Texture] Changed "**CE Tinkerer**" title.
-:shiny: [Texture] Changed "**Quicksell**" title.
-:shiny: [Texture] Changed "**Dungeon**" title.
-:shiny: [Texture] Changed "**Daily Bonus**" title and GUI.
-:shiny: [Texture] Changed "**The Forge**" title to Trader Menu.
-:shiny: [Texture] Changed "**AFK Shop**" title and added Wait icons.
-:shiny: [Texture] Changed "**AFK Shop2**" title and added Wait icons.
-:shiny: [Texture] Changed "**Uncommon**" font.
-:shiny: [Texture] Changed "**Special**" font.
-:shiny: [Texture] Changed "**Rare**" font.
-:shiny: [Texture] Changed "**Mythic**" to Mythical font.
-:shiny: [Texture] Changed "**Legendary**" font.
-:shiny: [Texture] Changed "**Exotic**" font.
-:shiny: [Texture] Changed "**Divine**" font.
-:shiny: [Texture] Changed "**Cosmetic**" font.
-:shiny: [Texture] Added "**Utility**" font.
-:shiny: [Texture] Added "**Tools, Gear, Weapons and Misc**" fonts.
+:shiny: Changed "**Scroll Shop**" title.
+:shiny: Changed "**The Forge**" title.
+:shiny: Changed "**Alchemist**" title.
+:shiny: Changed "**Blacksmith**" title.
+:shiny: Changed "**CE Tinkerer**" title.
+:shiny: Changed "**Quicksell**" title.
+:shiny: Changed "**Dungeon**" title.
+:shiny: Changed "**Daily Bonus**" title and GUI.
+:shiny: Changed "**The Forge**" title to Trader Menu.
+:shiny: Changed "**AFK Shop**" title and added Wait icons.
+:shiny: Changed "**AFK Shop2**" title and added Wait icons.
+:shiny: Changed "**Uncommon**" font.
+:shiny: Changed "**Special**" font.
+:shiny: Changed "**Rare**" font.
+:shiny: Changed "**Mythic**" to Mythical font.
+:shiny: Changed "**Legendary**" font.
+:shiny: Changed "**Exotic**" font.
+:shiny: Changed "**Divine**" font.
+:shiny: Changed "**Cosmetic**" font.
+:shiny: Added "**Utility**" font.
+:shiny: Added "**Tools, Gear, Weapons and Misc**" fonts.
 
 **CRATES**
 :shiny: [Survival] Removed **Demolisher III** from **Legendary Crate**.
