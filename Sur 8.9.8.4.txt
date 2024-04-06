@@ -57,33 +57,3 @@
 :shiny: [Dungeon] Fixed **MOMMY SLIME** and **BABY SLIME** AI problems.
 
 **[@Changelogs]**
-
-
-:shiny: [Global] 
-:Sparkles: [Store]
-
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Dungeon]
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Underground Arena]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-**JAVA**
-**BEDROCK**
-**TEXTURES**
-**SHOP RELATED CHANGES**
-**WEBSITE**
-**CRATES**
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
