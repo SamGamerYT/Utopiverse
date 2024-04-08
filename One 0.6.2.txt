@@ -1,7 +1,7 @@
 **Patch/Changes 0.6.2** *(Oneblock)*
 :grass: [Oneblock] Multi Dependencies were updated to ensure full compactibility with 1.20.4
 :grass: [Oneblock] Fully up to date with new 1.20.4 Version
-:grass: [Oneblock] 
+:grass: [Oneblock] Fixed Auction House issue
 :grass: [Oneblock] 
 :grass: [Oneblock] 
 :grass: [Oneblock] 
