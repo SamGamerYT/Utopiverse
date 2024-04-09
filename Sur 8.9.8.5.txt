@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.5** *(Network Changes)*
 :shiny: [Survival] Duplicated RPG Equipments will not get activated in **"/rpginv"**
 :shiny: [Survival] Fixed "/alchemist" not working properly issue.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed glitched **Dungeon Menu** where it wouldn't appear properly.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
