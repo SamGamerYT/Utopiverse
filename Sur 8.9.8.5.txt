@@ -5,6 +5,7 @@
 :shiny: [Survival] "/votetop" will no longer show player skulls
 :shiny: [Survival] Modified **Economy** message in chat
 :shiny: [Survival] Added **"Firework Rocket"** in **/shop** within Miscellaneous category.
+:shiny: [Survival] Allowed players to use **"/hat"** command in **Underground Arena**
 :shiny: [Survival] 
 :shiny: [Survival]
 
