@@ -1,8 +1,8 @@
 **Patch/Changes 0.6.2** *(Oneblock)*
-:grass: [Oneblock] Multi Dependencies were updated to ensure full compactibility with 1.20.4
+:grass: [Oneblock] Fixed Auction House issue.
 :grass: [Oneblock] Fully up to date with new 1.20.4 Version
-:grass: [Oneblock] Fixed Auction House issue
-:grass: [Oneblock] 
+:grass: [Oneblock] Allowed players to increase their island size through our webstore.
+:grass: [Oneblock] Multi Dependencies were updated to ensure full compactibility with 1.20.4
 :grass: [Oneblock] 
 :grass: [Oneblock] 
 :grass: [Oneblock] 
