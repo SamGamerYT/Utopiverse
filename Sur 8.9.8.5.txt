@@ -3,6 +3,8 @@
 :shiny: [Survival] Fixed "/alchemist" not working properly issue.
 :shiny: [Survival] Fixed glitched **Dungeon Menu** where it wouldn't appear properly.
 :shiny: [Survival] "/votetop" will no longer show player skulls
+:shiny: [Survival] Modified **Economy** message in chat
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
