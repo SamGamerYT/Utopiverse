@@ -6,7 +6,8 @@
 :shiny: [Survival] Modified **Economy** message in chat
 :shiny: [Survival] Added **"Firework Rocket"** in **/shop** within Miscellaneous category.
 :shiny: [Survival] Allowed players to use **"/hat"** command in **Underground Arena**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Cherry and Bamboo** signs in "/shop" and Decoration Category
+:shiny: [Survival] Added All types of **Hanging Signs** in "/shop" and Decoration Category
 :shiny: [Survival]
 
 :shiny: [Discord] Modified and organized the discord community group.
