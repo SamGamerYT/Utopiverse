@@ -7,6 +7,8 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
+**DUNGEON MINE CHANGES**
+:shiny: [Dungeon] **ENDER BEAST** has been modified and fixed, it will now do damage to players properly.
 
 :shiny: [Proxy] 
 :shiny: [Proxy] 
