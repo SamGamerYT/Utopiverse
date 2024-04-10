@@ -4,7 +4,7 @@
 :shiny: [Survival] Fixed glitched **Dungeon Menu** where it wouldn't appear properly.
 :shiny: [Survival] "/votetop" will no longer show player skulls
 :shiny: [Survival] Modified **Economy** message in chat
-:shiny: [Survival] 
+:shiny: [Survival] Added **"Firework Rocket"** in **/shop** within Miscellaneous category.
 :shiny: [Survival] 
 :shiny: [Survival]
 
