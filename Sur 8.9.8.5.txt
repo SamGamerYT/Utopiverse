@@ -9,7 +9,7 @@
 :shiny: [Survival] Added **Cherry and Bamboo** signs in "/shop" and Decoration Category
 :shiny: [Survival] Added All types of **Hanging Signs** in "/shop" and Decoration Category
 :shiny: [Survival] Changed Automatic Assitance's Response on "Special Rocks"
-:shiny: [Survival] 
+:shiny: [Survival] Added **Lootboxes** Preview at **"/warp crates"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
