@@ -13,6 +13,7 @@
 :shiny: [Survival] Fixed an extra command tag bug
 :shiny: [Survival] Fixed Viscount name from **"VizCount"**
 :shiny: [Survival] Fixed Discord to Ingame chat bug
+:shiny: [Survival] Removed Double space in chat
 :shiny: [Survival] 
 
 :shiny: [Discord] Modified and organized the discord community group.
