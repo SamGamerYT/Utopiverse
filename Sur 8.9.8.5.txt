@@ -28,6 +28,7 @@
 **CRATES**
 :shiny: [Survival] Modified "Vote Crate" Design and Layout
 :shiny: [Survival] Modified "Spawners Crate" Design and Layout
+:shiny: [Survival] Modified "Uncommon Crate" Design and Layout
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
