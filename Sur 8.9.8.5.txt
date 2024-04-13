@@ -10,8 +10,10 @@
 :shiny: [Survival] Added All types of **Hanging Signs** in "/shop" and Decoration Category
 :shiny: [Survival] Changed Automatic Assitance's Response on "Special Rocks"
 :shiny: [Survival] Players will now get **Virtual Keys** if their inventory is full
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed an extra command tag bug
+:shiny: [Survival] Fixed Viscount name from **"VizCount"**
+:shiny: [Survival] Fixed Discord to Ingame chat bug
+:shiny: [Survival] Removed Double space in chat
 :shiny: [Survival] 
 
 :shiny: [Discord] Modified and organized the discord community group.
