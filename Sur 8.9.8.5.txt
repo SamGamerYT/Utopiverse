@@ -29,6 +29,8 @@
 :shiny: [Survival] Modified "Vote Crate" Design and Layout
 :shiny: [Survival] Modified "Spawners Crate" Design and Layout
 :shiny: [Survival] Modified "Uncommon Crate" Design and Layout
+:shiny: [Survival] Modified "Rare Crate" Design and Layout
+:shiny: [Survival] Modified "Confusion Crate" Design and Layout
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
