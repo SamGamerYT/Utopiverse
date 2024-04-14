@@ -32,6 +32,8 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
+:shiny: [Survival] Modified "Legendary Crate" Design and Layout
+:shiny: [Survival] Modified "Exotic Crate" Design and Layout
 
 :shiny: [Proxy] 
 :shiny: [Proxy] 
