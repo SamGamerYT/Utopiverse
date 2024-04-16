@@ -1,0 +1,66 @@
+**Patch/Changes 8.9.8.6** *(Network Changes)*
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+:shiny: [Discord] 
+:shiny: [Discord] 
+
+**CRATES**
+
+:shiny: [Proxy] 
+:shiny: [Proxy] 
+
+
+
+**DUNGEON MINE CHANGES**
+:shiny: [Dungeon] 
+
+**[@Changelogs]**
+
+
+:shiny: [Global] 
+:Sparkles: [Store]
+
+*(Special Thanks to _WhispyW)*
+:shiny: [Art] 
+*(Special Thanks to _BrokenJJ6029)*
+:shiny: [Build] 
+*(Special Thanks to _Skmasykw)*
+:shiny: [Loot]
+:shiny: [Codex] 
+:shiny: [Dungeon]
+:shiny: [Bedrock]
+:shiny: [Christmas] 
+:shiny: [Underground Arena]
+
+:shiny: [Java] 
+:shiny: [Textures]
+
+**JAVA**
+**BEDROCK**
+**TEXTURES**
+**SHOP RELATED CHANGES**
+**WEBSITE**
+**CRATES**
+**DUNGEON MINE CHANGES**
+**DUNGEON FROST CHANGES**
+**DUNGEON VOLCANO CHANGES**
+**DUNGEON WASTELAND CHANGES**
