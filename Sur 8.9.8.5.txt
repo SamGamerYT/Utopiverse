@@ -16,7 +16,7 @@
 :shiny: [Survival] Removed Double space in chat
 :shiny: [Survival] Changed Entire "Auction House" Design and Layout.
 
-:shiny: [Survival] Enabled **Trench, Telepathy, Veinminer and Smelting** again in the main world
+:shiny: [Survival] Permanently Disabled **Trench, Telepathy, Veinminer and Smelting** in all worlds
 :shiny: [Survival] Finally removed and disabled 
 :shiny: [Survival] 
 
