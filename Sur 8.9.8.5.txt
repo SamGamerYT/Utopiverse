@@ -18,7 +18,7 @@
 
 :shiny: [Survival] Permanently Disabled **Trench, Telepathy, Veinminer and Smelting** in all worlds
 :shiny: [Survival] Finally removed and disabled 
-:shiny: [Survival] 
+:shiny: [Survival] **LEGENDARY GEAR** has been buffed and Upgraded slightly *(Old ones won't be replaced :c)*
 
 :shiny: [Discord] Modified and organized the discord community group.
 :shiny: [Discord] Added Official links channel and added majority of our web url
@@ -40,6 +40,9 @@
 :shiny: [Survival] Modified "Ancient Crate" Design and Layout
 :shiny: [Survival] Modified "Legendary Crate" Design and Layout
 :shiny: [Survival] Modified "Exotic Crate" Design and Layout
+
+:shiny: [Survival] Added new rewards to "Legendary Crate"
+:shiny: [Survival] Added new rewards to "Exotic Crate"
 
 :shiny: [Proxy] 
 :shiny: [Proxy] 
