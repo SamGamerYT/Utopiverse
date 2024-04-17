@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.6** *(Network Changes)*
 :shiny: [Survival] "Lost Miner Gear" has been changed to "Lost Mining Gear"
 :shiny: [Survival] Starter/Newbie gear has been removed and deleted (Disbanded)
-:shiny: [Survival] 
+:shiny: [Survival] Added "Metamorphic Rock" Crafted material that can upgrade "Steel Armor"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -22,23 +22,8 @@
 
 :shiny: [Discord] 
 :shiny: [Discord] 
-
-**CRATES**
-
-:shiny: [Proxy] 
-:shiny: [Proxy] 
-
-
-
-**DUNGEON MINE CHANGES**
-:shiny: [Dungeon] 
 
 **[@Changelogs]**
-
-
-:shiny: [Global] 
-:Sparkles: [Store]
-
 *(Special Thanks to _WhispyW)*
 :shiny: [Art] 
 *(Special Thanks to _BrokenJJ6029)*
@@ -46,10 +31,13 @@
 *(Special Thanks to _Skmasykw)*
 :shiny: [Loot]
 :shiny: [Codex] 
+:shiny: [Proxy] 
+:shiny: [Global] 
 :shiny: [Dungeon]
 :shiny: [Bedrock]
 :shiny: [Christmas] 
 :shiny: [Underground Arena]
+:Sparkles: [Store]
 
 :shiny: [Java] 
 :shiny: [Textures]
