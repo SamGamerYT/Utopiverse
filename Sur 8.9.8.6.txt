@@ -2,7 +2,7 @@
 :shiny: [Survival] "Lost Miner Gear" has been changed to "Lost Mining Gear"
 :shiny: [Survival] Starter/Newbie gear has been removed and deleted (Disbanded)
 :shiny: [Survival] Added "Metamorphic Rock" Crafted material that can upgrade "Steel Armor"
-:shiny: [Survival] 
+:shiny: [Survival] Entire "/buy" UI Has been modified
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
