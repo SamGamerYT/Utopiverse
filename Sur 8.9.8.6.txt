@@ -5,16 +5,18 @@
 :shiny: [Survival] Entire "/buy" UI Has been modified
 :shiny: [Survival] Fixed description of "Angelic" Enchantment
 :shiny: [Survival] Fixed "Legendary Bow" issue
+:shiny: [Survival] Protection Stones Cuboid, Hidable and other useless options have been disabled
+:shiny: [Survival] You are now no longer allowed to interact with Redstone, Doors or shoot projectile in pstones.
+:shiny: [Survival] Removed "Christmas Token" Drop from **Underground Arena**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+
+**DUNGEON FROST CHANGES**
+:shiny: [Survival] Disabled "Yeti Boss" Spawn
+:shiny: [Survival] Added Sacrificial Altar to Spawn "Yeti Boss"
+:shiny: [Survival] Added "Glacial Souls" Currency that is obtainable through Yeti Boss
 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -49,6 +51,6 @@
 **WEBSITE**
 **CRATES**
 **DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
+
 **DUNGEON VOLCANO CHANGES**
 **DUNGEON WASTELAND CHANGES**
