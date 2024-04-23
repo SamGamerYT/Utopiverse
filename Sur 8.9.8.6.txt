@@ -18,7 +18,7 @@
 :shiny: [Survival] **Lost Mining Set** price has been nerfed
 :shiny: [Survival] Reduced the price of **Refined Kyanite**
 :shiny: [Survival] Reduced the price of **Upgraded Miner Set**
-:shiny: [Survival] 
+:shiny: [Survival] Players can now run **/codex** in Dungeons
 :shiny: [Survival] 
 :shiny: [Survival] 
 
