@@ -10,6 +10,8 @@
 :shiny: [Survival] Removed "Christmas Token" Drop from **Underground Arena**
 :shiny: [Survival] Modified the entire "Bank UI", Added 20%, 50% and 100% for bank deposit.
 :shiny: [Survival] Added **"Villagers"** Limit of **20** in a chunk
+:shiny: [Survival] Added **"Minecart"** Limit of **25** in a chunk
+:shiny: [Survival] Added **"Hopper"** Limit of **50** in a chunk
 :shiny: [Survival] 
 :shiny: [Survival] 
 
