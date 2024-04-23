@@ -18,7 +18,9 @@
 :shiny: [Survival] **Lost Mining Set** price has been nerfed
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
+
+**REPAIR STONES**
+:shiny: [Survival] Repair stone prices has been reduced and added Experience Levels as requirement.
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] Disabled "Yeti Boss" Spawn
