@@ -17,6 +17,7 @@
 :shiny: [Survival] Silk touch 2 price has been nerfed
 :shiny: [Survival] **Lost Mining Set** price has been nerfed
 :shiny: [Survival] Reduced the price of **Refined Kyanite**
+:shiny: [Survival] Reduced the price of **Upgraded Miner Set**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
