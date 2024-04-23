@@ -16,6 +16,8 @@
 :shiny: [Survival] Added **"Hopper"** Limit of **50** in a chunk
 :shiny: [Survival] Silk touch 2 price has been nerfed
 :shiny: [Survival] **Lost Mining Set** price has been nerfed
+:shiny: [Survival] Reduced the price of **Refined Kyanite**
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
