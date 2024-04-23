@@ -9,7 +9,7 @@
 :shiny: [Survival] You are now no longer allowed to interact with Redstone, Doors or shoot projectile in pstones.
 :shiny: [Survival] Removed "Christmas Token" Drop from **Underground Arena**
 :shiny: [Survival] Modified the entire "Bank UI", Added 20%, 50% and 100% for bank deposit.
-:shiny: [Survival] 
+:shiny: [Survival] Added **"Villagers"** Limit of **20** in a chunk
 :shiny: [Survival] 
 :shiny: [Survival] 
 
