@@ -20,6 +20,8 @@
 :shiny: [Survival] Reduced the price of **Upgraded Miner Set**
 :shiny: [Survival] Players can now run **/codex** in Dungeons
 :shiny: [Survival] Heavily nerfed the price of **Gold Nugget** in **"/shop"**
+:shiny: [Survival] Spawners are now no longer protected if a player is not using silk touch pickaxe
+:shiny: [Survival] You can no longer gather spawners from **Nether** and **End** World
 
 :shiny: [Survival] **CUSTOM NETHER INTRODUCTION** Enjoy a full custom nether experience with our newly generated nether world (9000x9000)
 
@@ -31,7 +33,6 @@
 :shiny: [Survival] Added Sacrificial Altar to Spawn "Yeti Boss"
 :shiny: [Survival] Added "Glacial Souls" Currency that is obtainable through Yeti Boss
 
-:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
