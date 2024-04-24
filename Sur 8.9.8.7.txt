@@ -33,4 +33,38 @@
 :shiny: [Survival] Added Sacrificial Altar to Spawn "Yeti Boss"
 :shiny: [Survival] Added "Glacial Souls" Currency that is obtainable through Yeti Boss
 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+:shiny: [Discord] 
+:shiny: [Discord] 
+
 **[@Changelogs]**
+*(Special Thanks to _WhispyW)*
+:shiny: [Art] 
+*(Special Thanks to _BrokenJJ6029)*
+:shiny: [Build] 
+*(Special Thanks to _Skmasykw)*
+:shiny: [Loot]
+:shiny: [Codex] 
+:shiny: [Proxy] 
+:shiny: [Global] 
+:shiny: [Dungeon]
+:shiny: [Bedrock]
+:shiny: [Christmas] 
+:shiny: [Underground Arena]
+:Sparkles: [Store]
+
+:shiny: [Java] 
+:shiny: [Textures]
+
+**JAVA**
+**BEDROCK**
+**TEXTURES**
+**SHOP RELATED CHANGES**
+**WEBSITE**
+**CRATES**
+**DUNGEON MINE CHANGES**
+
+**DUNGEON VOLCANO CHANGES**
+**DUNGEON WASTELAND CHANGES**
