@@ -1,37 +1,31 @@
-**Patch/Changes 8.9.8.6** *(Network Changes)*
-:shiny: [Survival] "Lost Miner Gear" has been changed to "Lost Mining Gear"
-:shiny: [Survival] Starter/Newbie gear has been removed and deleted (Disbanded)
-:shiny: [Survival] Added "Metamorphic Rock" Crafted material that can upgrade "Steel Armor"
-:shiny: [Survival] Entire "/buy" UI Has been modified
-:shiny: [Survival] Fixed description of "Angelic" Enchantment
-:shiny: [Survival] Fixed "Legendary Bow" issue
-:shiny: [Survival] Protection Stones Cuboid, Hidable and other useless options have been disabled
-:shiny: [Survival] You are now no longer allowed to interact with Redstone, Doors or shoot projectile in pstones.
-:shiny: [Survival] Removed "Christmas Token" Drop from **Underground Arena**
-:shiny: [Survival] Modified the entire "Bank UI", Added 20%, 50% and 100% for bank deposit.
-:shiny: [Survival] Fixed **Clans Prefix** spacing issue in chat
+**Patch/Changes 8.9.8.7** *(Network Changes)*
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
-:shiny: [Survival] Added **"Villagers"** Limit of **20** in a chunk
-:shiny: [Survival] Added **"Minecart"** Limit of **25** in a chunk
-:shiny: [Survival] Added **"Hopper"** Limit of **50** in a chunk
-:shiny: [Survival] Silk touch 2 price has been nerfed
-:shiny: [Survival] **Lost Mining Set** price has been nerfed
-:shiny: [Survival] Reduced the price of **Refined Kyanite**
-:shiny: [Survival] Reduced the price of **Upgraded Miner Set**
-:shiny: [Survival] Players can now run **/codex** in Dungeons
-:shiny: [Survival] Heavily nerfed the price of **Gold Nugget** in **"/shop"**
-:shiny: [Survival] Spawners are now no longer protected if a player is not using silk touch pickaxe
-:shiny: [Survival] You can no longer gather spawners from **Nether** and **End** World
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
-:shiny: [Survival] **CUSTOM NETHER INTRODUCTION** Enjoy a full custom nether experience with our newly generated nether world (9000x9000)
-
-**REPAIR STONES**
-:shiny: [Survival] Repair stone prices has been reduced and added Experience Levels as requirement.
+:shiny: [Survival] 
 
 **DUNGEON FROST CHANGES**
-:shiny: [Survival] Disabled "Yeti Boss" Spawn
-:shiny: [Survival] Added Sacrificial Altar to Spawn "Yeti Boss"
-:shiny: [Survival] Added "Glacial Souls" Currency that is obtainable through Yeti Boss
 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -59,11 +53,12 @@
 :shiny: [Textures]
 
 **JAVA**
-**BEDROCK**
-**TEXTURES**
-**SHOP RELATED CHANGES**
-**WEBSITE**
 **CRATES**
+**BEDROCK**
+**WEBSITE**
+**TEXTURES**
+**REPAIR STONES**
+**SHOP RELATED CHANGES**
 **DUNGEON MINE CHANGES**
 
 **DUNGEON VOLCANO CHANGES**
