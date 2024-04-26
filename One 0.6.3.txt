@@ -1,7 +1,7 @@
 **Patch/Changes 0.6.3** *(Oneblock)*
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
+:grass: [Oneblock] Fixed **Envoy's PvP Hologram** error.
+:grass: [Oneblock] Fixed Envoy Event not happening properly.
+:grass: [Oneblock] Fixed Envoy's Loot table not working properly.
 :grass: [Oneblock] 
 :grass: [Oneblock] 
 :grass: [Oneblock] 
