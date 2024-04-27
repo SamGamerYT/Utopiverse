@@ -2,7 +2,7 @@
 :shiny: [Survival] **INTRODUCING MASS OPEN** System that's available near "/warp crates"
 :shiny: [Survival] Added a new perk for **Warrior Rankup** related to mass-open
 :shiny: [Survival] Fixed an issue with **Scrolls Shop**, Recipe Error.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Torchflower Seeds** sell price in **"/shop"**.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
