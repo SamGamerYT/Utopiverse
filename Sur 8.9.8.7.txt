@@ -4,6 +4,7 @@
 :shiny: [Survival] Fixed an issue with **Scrolls Shop**, Recipe Error.
 :shiny: [Survival] Added **"Torchflower Seeds"** sell price in **"/shop"**.
 :shiny: [Survival] Added **"Flowering Azalea"** and **"Azalea"** in **Decoration Category**
+:shiny: [Survival] Added **"Glow Berries"** in **Food Category**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
