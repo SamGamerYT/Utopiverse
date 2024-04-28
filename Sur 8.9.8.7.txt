@@ -8,7 +8,7 @@
 :shiny: [Survival] Modified **"/tags"** Layout, GUI and messages
 :shiny: [Survival] Added **Delivery Tag** as 1000 Deliveries Reward
 :shiny: [Survival] Disabled Trench and other invasive CE's in Mall Zone
-:shiny: [Survival] 
+:shiny: [Survival] Modified **"/warps"** UI messages and format.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
