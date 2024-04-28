@@ -8,7 +8,7 @@
 :grass: [Oneblock] Fixed **"/trade** trading errors.
 :grass: [Oneblock] Added **"/rewards"** for paid ranks
 :grass: [Oneblock] Added **Rewards NPC** at "/warp info"
-:grass: [Oneblock] 
+:grass: [Oneblock] Fixed **Auction House** limit not working properly for Ranks.
 :grass: [Oneblock] 
 
 :grass: [QOL] 
