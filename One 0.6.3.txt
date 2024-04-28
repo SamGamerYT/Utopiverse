@@ -2,7 +2,7 @@
 :grass: [Oneblock] Fixed **Envoy's PvP Hologram** error.
 :grass: [Oneblock] Fixed Envoy Event not happening properly.
 :grass: [Oneblock] Fixed Envoy's Loot table not working properly.
-:grass: [Oneblock] 
+:shiny: [Oneblock] Modified **"/tags"** Layout, GUI and messages
 :grass: [Oneblock] 
 :grass: [Oneblock] 
 :grass: [Oneblock] 
