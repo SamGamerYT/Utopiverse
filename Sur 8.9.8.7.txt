@@ -9,8 +9,8 @@
 :shiny: [Survival] Added **Delivery Tag** as 1000 Deliveries Reward
 :shiny: [Survival] Disabled Trench and other invasive CE's in Mall Zone
 :shiny: [Survival] Modified **"/warps"** UI messages and format.
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Modified **LUNAR SHOWCASE** at "/spawn" from /buy to unobtainable
+:shiny: [Survival] Fixed **ENDER BEAST** Loot table.
 
 :shiny: [Survival] 
 :shiny: [Survival] 
