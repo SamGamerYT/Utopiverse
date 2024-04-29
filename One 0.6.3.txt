@@ -10,11 +10,8 @@
 :grass: [Oneblock] Added **Rewards NPC** at "/warp info"
 :grass: [Oneblock] Fixed **Auction House** limit not working properly for Ranks.
 :grass: [Oneblock] Modified **CRATES** Hologram and Zone
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
+:grass: [Oneblock] Added Three new Portals for Navigation
+:grass: [Oneblock] Changed the entire spawn zone for our 1.0.0 release!
 
 :grass: [QOL] 
 :grass: [QOL] 
