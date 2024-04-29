@@ -12,7 +12,7 @@
 :shiny: [Survival] Modified **LUNAR SHOWCASE** at "/spawn" from /buy to unobtainable
 :shiny: [Survival] Fixed **ENDER BEAST** Loot table.
 
-:shiny: [Survival] 
+:shiny: [Survival] Removed **DEATH MINER** and **MINOTAUR** Boss Holograms.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
