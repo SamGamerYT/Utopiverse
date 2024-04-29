@@ -1,0 +1,16 @@
+**Patch/Changes 1.0.0** *(Oneblock)* **OFFICIAL OUT OF BETA PHASE**
+:grass: [Oneblock] Fixed **Envoy's PvP Hologram** error.
+:grass: [Oneblock] Fixed Envoy Event not happening properly.
+:grass: [Oneblock] Fixed Envoy's Loot table not working properly.
+:grass: [Oneblock] Modified **"/tags"** Layout, GUI and messages
+:grass: [Oneblock] Modified **"/tagshop"** Layout, GUI and messages
+:grass: [Oneblock] Removed **"/tagsmenu"** GUI as it was unnecessary
+:grass: [Oneblock] Fixed **"/trade** trading errors.
+:grass: [Oneblock] Added **"/rewards"** for paid ranks
+:grass: [Oneblock] Added **Rewards NPC** at "/warp info"
+:grass: [Oneblock] Fixed **Auction House** limit not working properly for Ranks.
+:grass: [Oneblock] Modified **CRATES** Hologram and Zone
+:grass: [Oneblock] Added Three new Portals for Navigation
+:grass: [Oneblock] Changed the entire spawn zone for our 1.0.0 release!
+ 
+**[@Changelogs]**
