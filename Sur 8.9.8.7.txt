@@ -14,8 +14,8 @@
 
 :shiny: [Survival] Removed **DEATH MINER** and **MINOTAUR** Boss Holograms.
 :shiny: [Survival] Fixed **"/ranks"** information and perks list
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Sprite issues for 1.20.2+ Clients on Java (Hotbar error)
+:shiny: [Survival] Added **LOW FIRE** Texture, Fire will no longer disturb players *(Java)*
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
