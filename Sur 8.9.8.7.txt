@@ -17,7 +17,7 @@
 :shiny: [Survival] Fixed Sprite issues for 1.20.2+ Clients on Java (Hotbar error)
 :shiny: [Survival] Added **LOW FIRE** Texture, Fire will no longer disturb players *(Java)*
 :shiny: [Survival] Ancient Crate's Key colouring error has been fixed
-:shiny: [Survival] 
+:shiny: [Survival] You can now **SAFELY** apply custom enchantments to your expensive armor without lore breaking.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
