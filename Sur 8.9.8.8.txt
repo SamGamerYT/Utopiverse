@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.8** *(Network Changes)*
 :shiny: [Survival] Added "/farms" command to allow players to quickly travel to Farm Zone
 :shiny: [Survival] Glacier Trader will now show the amount of points you have at "/dungeons"
-:shiny: [Survival] 
+:shiny: [Survival] Reduced **Experience Cost** of Repair Stones
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
