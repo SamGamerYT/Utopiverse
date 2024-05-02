@@ -20,7 +20,7 @@
 :shiny: [Survival] You can now **SAFELY** apply custom enchantments to your expensive armor without lore breaking.
 :shiny: [Survival] Modified PiggyBank's Design
 :shiny: [Survival] Added PiggyBank in **"Legendary Crate"**
-:shiny: [Survival] 
+:shiny: [Survival] **INTRODUCING MOB BALL** Catch all kind of mobs in Resource, End and Nether World! (Talk to the farmer)
 :shiny: [Survival] 
 :shiny: [Survival] 
 
