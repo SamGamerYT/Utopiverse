@@ -5,7 +5,7 @@
 :shiny: [Survival] Fixed **Boss Cooldown** miscalculation
 :shiny: [Survival] Fixed Tinkerer's Vitality Relic Recipe Error
 :shiny: [Survival] Fixed an error with some of the custom enchantment items not showing the proper material
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Uncommon Axe being an Uncommon Pickaxe
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
