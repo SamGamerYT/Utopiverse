@@ -7,6 +7,7 @@
 :shiny: [Survival] Fixed an error with some of the custom enchantment items not showing the proper material
 :shiny: [Survival] Fixed Uncommon Axe being an Uncommon Pickaxe
 :shiny: [Survival] Fixed Rare Axe being an Rare Pickaxe
+:shiny: [Survival] Replaced Elder Guardian Spawner with Shulker Spawner in **Ancient Crate**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
