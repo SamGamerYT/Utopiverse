@@ -10,8 +10,8 @@
 :shiny: [Survival] "Clan Name" has been changed to "Clan" on scoreboard
 :shiny: [Survival] Replaced **Elder Guardian Spawner** with **Shulker Spawner** in **Ancient Crate**
 :shiny: [Survival] Added "FIRE DRAGON" and "ARCHANGEL SLIME" RPG Pets in **Exotic** and **Legendary Crates**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed "discord.utopiverse.net" URL
+:shiny: [Survival] Fixed auto bot message that was providing the wrong URL
 :shiny: [Survival] 
 
 :shiny: [Survival] 
