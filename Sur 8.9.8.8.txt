@@ -12,7 +12,7 @@
 :shiny: [Survival] Added "FIRE DRAGON" and "ARCHANGEL SLIME" RPG Pets in **Exotic** and **Legendary Crates**
 :shiny: [Survival] Fixed "discord.utopiverse.net" URL
 :shiny: [Survival] Fixed auto bot message that was providing the wrong URL
-:shiny: [Survival] 
+:shiny: [Survival] Fixed "Frost Dungeon" Cobalt Ore not being able to mine or farm
 
 :shiny: [Survival] 
 :shiny: [Survival] 
