@@ -14,7 +14,7 @@
 :shiny: [Survival] Fixed auto bot message that was providing the wrong URL
 :shiny: [Survival] Fixed "Frost Dungeon" Cobalt Ore not being able to mine or farm
 
-:shiny: [Survival] 
+:shiny: [Survival] Reduced "**Yeti Boss**" points requirement
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
