@@ -13,6 +13,9 @@
 :shiny: [Survival] Fixed "discord.utopiverse.net" URL
 :shiny: [Survival] Fixed auto bot message that was providing the wrong URL
 
+:shiny: [Survival] Removed Standalone "/voteshop" GUI
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
