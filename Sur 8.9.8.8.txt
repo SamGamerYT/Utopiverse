@@ -13,9 +13,9 @@
 :shiny: [Survival] Fixed "discord.utopiverse.net" URL
 :shiny: [Survival] Fixed auto bot message that was providing the wrong URL
 
-:shiny: [Survival] Removed Standalone "/voteshop" GUI
-:shiny: [Survival] Created a new command "/voteshop" that points towards "/warp exchanger"
-:shiny: [Survival] Modified Exchanger's Shop to include everything from old "/voteshop"
+:shiny: [Survival] Removed Standalone "**/voteshop**" GUI
+:shiny: [Survival] Created a new command "**/voteshop**" that points towards "**/warp exchanger**"
+:shiny: [Survival] Modified **Exchanger's Shop** to include everything from old "**/voteshop**"
 :shiny: [Survival] 
 :shiny: [Survival] 
 
