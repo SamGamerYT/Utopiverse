@@ -14,7 +14,7 @@
 :shiny: [Survival] Fixed auto bot message that was providing the wrong URL
 
 :shiny: [Survival] Removed Standalone "/voteshop" GUI
-:shiny: [Survival] 
+:shiny: [Survival] Created a new command "/voteshop" that points towards "/warp exchanger"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
