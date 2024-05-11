@@ -19,42 +19,10 @@
 :shiny: [Survival] Fixed a lore bug related to Clan Limit Upgrade in **"/upgrades"**
 :shiny: [Survival] **INTRODUCING SUMMER MONTHLYCRATE**, Available on our store and Valentine is now the new Halloween Crate
 
-:shiny: [Discord] 
-:shiny: [Discord] 
-
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] Fixed "Frost Dungeon" Cobalt Ore not being able to mine or farm
 :shiny: [Survival] Reduced "**Yeti Boss**" points requirement
 
 
 **[@Changelogs]**
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
 **DUNGEON WASTELAND CHANGES**
