@@ -16,8 +16,8 @@
 :shiny: [Survival] Removed Standalone "**/voteshop**" GUI
 :shiny: [Survival] Created a new command "**/voteshop**" that points towards "**/warp exchanger**"
 :shiny: [Survival] Modified **Exchanger's Shop** to include everything from old "**/voteshop**"
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed a lore bug related to Clan Limit Upgrade in **"/upgrades"**
+:shiny: [Survival] **INTRODUCING SUMMER MONTHLYCRATE**, Available on our store and Valentine is now the new Halloween Crate
 
 :shiny: [Discord] 
 :shiny: [Discord] 
