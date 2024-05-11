@@ -17,7 +17,7 @@
 :shiny: [Survival] Created a new command "**/voteshop**" that points towards "**/warp exchanger**"
 :shiny: [Survival] Modified **Exchanger's Shop** to include everything from old "**/voteshop**"
 :shiny: [Survival] Fixed a lore bug related to Clan Limit Upgrade in **"/upgrades"**
-:shiny: [Survival] **INTRODUCING SUMMER MONTHLYCRATE**, Available on our store and Valentine is now the new Halloween Crate
+:shiny: [Survival] **INTRODUCING SUMMER MONTHLYCRATE** Available on our store and Valentine is now the new Halloween Crate
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] Fixed "Frost Dungeon" Cobalt Ore not being able to mine or farm
@@ -25,4 +25,3 @@
 
 
 **[@Changelogs]**
-**DUNGEON WASTELAND CHANGES**
