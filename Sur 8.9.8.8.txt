@@ -1,4 +1,5 @@
 **Patch/Changes 8.9.8.8** *(Network Changes)*
+:shiny: [Survival] **INTRODUCING SUMMER MONTHLYCRATE** Available on our store and Valentine is now the new Halloween Crate
 :shiny: [Survival] Added "/farms" command to allow players to quickly travel to Farm Zone
 :shiny: [Survival] Glacier Trader will now show the amount of points you have at "/dungeons"
 :shiny: [Survival] Reduced **Experience Cost** of Repair Stones
@@ -17,7 +18,6 @@
 :shiny: [Survival] Created a new command "**/voteshop**" that points towards "**/warp exchanger**"
 :shiny: [Survival] Modified **Exchanger's Shop** to include everything from old "**/voteshop**"
 :shiny: [Survival] Fixed a lore bug related to Clan Limit Upgrade in **"/upgrades"**
-:shiny: [Survival] **INTRODUCING SUMMER MONTHLYCRATE** Available on our store and Valentine is now the new Halloween Crate
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] Fixed "Frost Dungeon" Cobalt Ore not being able to mine or farm
