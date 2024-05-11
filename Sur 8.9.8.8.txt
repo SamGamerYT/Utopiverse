@@ -23,5 +23,4 @@
 :shiny: [Survival] Fixed "Frost Dungeon" Cobalt Ore not being able to mine or farm
 :shiny: [Survival] Reduced "**Yeti Boss**" points requirement
 
-
 **[@Changelogs]**
