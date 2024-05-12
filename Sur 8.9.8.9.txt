@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.9** *(Network Changes)*
 :shiny: [Survival] "/hat", "/pv" andd "/rpginv" are now enabled in PvP Zone
-:shiny: [Survival] 
+:shiny: [Survival] Added Mob Level Information on Dungeon Waystones
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
