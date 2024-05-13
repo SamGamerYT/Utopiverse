@@ -4,7 +4,7 @@
 :shiny: [Survival] Entire "/rewards" system has been modified to match the overall server's quality
 :shiny: [Survival] Modified **MonthlyCrates** Rewards and Hologram
 :shiny: [Survival] Modified **Repair Station** Zone
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Region issue for Dungeon Zone
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
