@@ -12,6 +12,7 @@
 :shiny: [Survival] Added "Packed Mud Block" in **Blocks Category** within "/shop"
 :shiny: [Survival] Added "Mud Bricks Block" in **Blocks Category** within "/shop"
 :shiny: [Survival] Added "Slime Block" in **Redstone Category** within "/shop"
+:shiny: [Survival] Added "Honey Block" in **Redstone Category** within "/shop"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
