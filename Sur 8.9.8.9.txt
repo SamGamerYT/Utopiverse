@@ -5,7 +5,7 @@
 :shiny: [Survival] Modified **MonthlyCrates** Rewards and Hologram
 :shiny: [Survival] Modified **Repair Station** Zone
 :shiny: [Survival] Fixed Region issue for Dungeon Zone
-:shiny: [Survival] 
+:shiny: [Survival] Modified Waystone for Blacksmith at "/warp Dungeons"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
