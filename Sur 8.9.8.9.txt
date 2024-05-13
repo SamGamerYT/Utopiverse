@@ -3,7 +3,7 @@
 :shiny: [Survival] Added Mob Level Information on Dungeon Waystones
 :shiny: [Survival] Entire "/rewards" system has been modified to match the overall server's quality
 :shiny: [Survival] Modified **MonthlyCrates** Rewards and Hologram
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Repair Station** Zone
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
