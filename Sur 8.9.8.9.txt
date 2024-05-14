@@ -14,7 +14,7 @@
 :shiny: [Survival] Added "Slime Block" in **Redstone Category** within "/shop"
 :shiny: [Survival] Added "Honey Block" in **Redstone Category** within "/shop"
 :shiny: [Survival] Added "Beehive" in **Miscellaneous Category** within "/shop"
-:shiny: [Survival] 
+:shiny: [Survival] **MOB CAPTURE** Recipes at **Farm NPC** near "/farms" has been finished!
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
