@@ -18,7 +18,7 @@
 :shiny: [Survival] Modified Legendary+ Gear Lore
 :shiny: [Survival] The following commands have been allowed in **Goliath Zone** "/bank, /welcome, /d, /disguise, /pets, /pet"
 :shiny: [Survival] Fixed Beehives and Dyes category in "/shop"
-:shiny: [Survival] 
+:shiny: [Survival] Modified **"/spawn"** Front NPC's to ensure their hologram is matching with overall theme and information
 
 :shiny: [Survival] 
 :shiny: [Survival] 
