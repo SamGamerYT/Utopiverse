@@ -17,7 +17,7 @@
 :shiny: [Survival] **MOB CAPTURE** Recipes at **Farm NPC** near "/farms" has been finished!
 :shiny: [Survival] Modified Legendary+ Gear Lore
 :shiny: [Survival] The following commands have been allowed in **Goliath Zone** "/bank, /welcome, /d, /disguise, /pets, /pet"
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Beehives and Dyes category in "/shop"
 :shiny: [Survival] 
 
 :shiny: [Survival] 
