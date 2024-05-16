@@ -22,7 +22,7 @@
 
 :shiny: [Survival] Heavily Increased **CUSTOM FISHES** Sell price at "/fish shop"
 :shiny: [Survival] Modified the entire "/fish menu" and commands to ensure its matching with overall theme and information
-:shiny: [Survival] 
+:shiny: [Survival] Modified **"Sellwands** and their **"Chargers"**, Make sure to get your wand replaced (New design + Texture)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
