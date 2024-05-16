@@ -21,6 +21,7 @@
 :shiny: [Survival] Modified **"/spawn"** Front NPC's to ensure their hologram is matching with overall theme and information
 
 :shiny: [Survival] Heavily Increased **CUSTOM FISHES** Sell price at "/fish shop"
+:shiny: [Survival] Modified the entire "/fish menu" and commands to ensure its matching with overall theme and information
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
