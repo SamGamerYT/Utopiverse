@@ -24,7 +24,6 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-**[@Changelogs]**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
