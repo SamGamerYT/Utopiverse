@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.10** *(Network Changes)*
 :shiny: [Survival] **LIGHTNING** Deliveries have their cooldown increased from 1 minute to 5 minutes.
-:shiny: [Survival] 
+:shiny: [Survival] Modified **"/warp crates"** Zone information hologram
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
