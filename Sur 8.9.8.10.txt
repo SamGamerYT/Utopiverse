@@ -6,7 +6,7 @@
 :shiny: [Survival] **Legendary Crate** Added new pets, new sellwands and removed Dungeon Lootbox
 :shiny: [Survival] Added **Elemental Defence** for Dungeon Gear
 :shiny: [Survival] Added a new **Frostwyrm Shield** within **Exotic Crate**
-:shiny: [Survival] Potential fix for bedrock users getting blank screen after trade is over
+:shiny: [Survival] Potential trade fix for bedrock users getting blank screen after trade is over
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
