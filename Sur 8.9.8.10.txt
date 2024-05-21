@@ -8,7 +8,7 @@
 :shiny: [Survival] Added a new **Frostwyrm Shield** within **Exotic Crate**
 :shiny: [Survival] Potential trade fix for bedrock users getting a blank screen after the trade is over
 :shiny: [Survival] A lot, a loooot of dependencies updated
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Patcher Enchantment** and **Blacksmith Enchantment**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
