@@ -12,7 +12,7 @@
 :shiny: [Survival] Removed Previously Permission requirement for **Mob Capture**
 :shiny: [Survival] Reduced Chicken and Pig Capture permission price
 :shiny: [Survival] Reduced Yeti's Glacial Requirement from **10** to **7**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Stacking problem for **Dungeon Loot**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
