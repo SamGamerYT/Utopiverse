@@ -13,7 +13,7 @@
 :shiny: [Survival] Reduced Chicken and Pig Capture permission price
 :shiny: [Survival] Reduced Yeti's Glacial Requirement from **10** to **7**
 :shiny: [Survival] Fixed Stacking problem for **Dungeon Loot**
-:shiny: [Survival] 
+:shiny: [Survival] Added "Non Combat" tag on **Yellow Budgie**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
