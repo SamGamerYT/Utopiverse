@@ -1,0 +1,69 @@
+**Patch/Changes 8.9.8.11** *(Network Changes)*
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+:shiny: [Discord] 
+:shiny: [Discord] 
+
+**DUNGEON FROST CHANGES**
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+
+**[@Changelogs]**
+*(Special Thanks to _WhispyW)*
+:shiny: [Art] 
+*(Special Thanks to _BrokenJJ6029)*
+:shiny: [Build] 
+*(Special Thanks to _Skmasykw)*
+:shiny: [Loot]
+:shiny: [Codex] 
+:shiny: [Proxy] 
+:shiny: [Global] 
+:shiny: [Dungeon]
+:shiny: [Bedrock]
+:shiny: [Christmas] 
+:shiny: [Underground Arena]
+:Sparkles: [Store]
+
+:shiny: [Java] 
+:shiny: [Textures]
+
+**JAVA**
+**CRATES**
+**BEDROCK**
+**WEBSITE**
+**TEXTURES**
+**REPAIR STONES**
+**SHOP RELATED CHANGES**
+
+**DUNGEON MINE CHANGES**
+**DUNGEON FROST CHANGES**
+**DUNGEON VOLCANO CHANGES**
+**DUNGEON WASTELAND CHANGES**
