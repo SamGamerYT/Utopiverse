@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.11** *(Network Changes)*
 :shiny: [Survival] Running "/dungeons" will now open up the Dungeons UI
-:shiny: [Survival] 
+:shiny: [Survival] Modified and Change the entire Dungeon Loot (Name, Lore, Data)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
