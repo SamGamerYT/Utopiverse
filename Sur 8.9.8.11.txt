@@ -3,7 +3,7 @@
 :shiny: [Survival] Modified and Change the entire Dungeon Loot (Name, Lore, Data)
 :shiny: [Survival] Modified Scrolls, Old Scrolls may not longer operate or work properly
 :shiny: [Survival] Updated Crate Scroll Rewards to ensure it's up to date
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **"Ancient Crate"** Format, Rewards and Chances
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
