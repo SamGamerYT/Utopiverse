@@ -20,7 +20,8 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-:shiny: [Survival] 
+**TEXTURES**
+:shiny: [Survival] Fixed Generic Merchant UI's Design (Wrong Pixel)
 :shiny: [Survival] 
 :shiny: [Survival] 
 
