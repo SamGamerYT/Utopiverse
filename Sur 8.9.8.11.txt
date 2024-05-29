@@ -21,7 +21,8 @@
 :shiny: [Survival] 
 
 **TEXTURES**
-:shiny: [Survival] Fixed Generic Merchant UI's Design (Wrong Pixel)
+:shiny: [Survival] Fixed Generic 54 Slots UI's Design (Wrong Pixel)
+:shiny: [Survival] Fixed Generic 27 Slots UI's Design (Wrong Pixel)
 :shiny: [Survival] 
 :shiny: [Survival] 
 
