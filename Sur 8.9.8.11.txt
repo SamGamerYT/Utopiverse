@@ -5,7 +5,7 @@
 :shiny: [Survival] Updated Crate Scroll Rewards to ensure it's up to date
 :shiny: [Survival] Fixed **"Ancient Crate"** Format, Rewards and Chances
 :shiny: [Survival] Modified and Fixed typos within **"/stats"** UI
-:shiny: [Survival] 
+:shiny: [Survival] Players are now able to remove someone's perm while they are in the claim
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
