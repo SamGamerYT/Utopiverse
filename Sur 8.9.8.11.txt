@@ -6,7 +6,7 @@
 :shiny: [Survival] Fixed **"Ancient Crate"** Format, Rewards and Chances
 :shiny: [Survival] Modified and Fixed typos within **"/stats"** UI
 :shiny: [Survival] Players are now able to remove someone's perm while they are in the claim
-:shiny: [Survival] 
+:shiny: [Survival] Tournaments has been modified (Recommended by JJ)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
