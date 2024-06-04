@@ -12,6 +12,7 @@
 :shiny: [Survival] Removed Spawners from **Uncommon Crates**
 :shiny: [Survival] Removed Spawners from **Rare Crates**
 :shiny: [Survival] Modified existing tools and added new variants within **Rare Crate**
+:shiny: [Survival] Modified existing tools, Added Hat Perk and Added Temporal Ranks within **Epic Crate**
 :shiny: [Survival] Fixed Dungeon Loot not stacking properly *(Drop it and Pick it up)*
 :shiny: [Survival] 
 :shiny: [Survival] 
