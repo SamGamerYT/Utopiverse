@@ -10,7 +10,7 @@
 :shiny: [Survival] Major Dependencies updated
 :shiny: [Survival] Fixed Scrolls not rewarding anything properly in Medal Trader
 :shiny: [Survival] Removed Spawners from **Rare Crates**
-:shiny: [Survival] 
+:shiny: [Survival] Modified existing tools and added new variants within **Rare Crate**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
