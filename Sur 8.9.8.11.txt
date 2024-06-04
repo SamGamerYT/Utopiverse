@@ -9,6 +9,7 @@
 :shiny: [Survival] Tournaments has been modified (Recommended by JJ)
 :shiny: [Survival] Major Dependencies updated
 :shiny: [Survival] Fixed Scrolls not rewarding anything properly in Medal Trader
+:shiny: [Survival] Removed Spawners from **Uncommon Crates**
 :shiny: [Survival] Removed Spawners from **Rare Crates**
 :shiny: [Survival] Modified existing tools and added new variants within **Rare Crate**
 :shiny: [Survival] 
