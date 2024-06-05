@@ -17,7 +17,7 @@
 :shiny: [Survival] Modified **"/rules"**, Elaborated Rule #11 and Added Rule #18 with more information
 :shiny: [Survival] Added information about certain protection stones that don't provide protection within **"/pshop"**
 :shiny: [Survival] Modified **"/pshop"**'s design slightly for appealing layout
-:shiny: [Survival] 
+:shiny: [Survival] Pointed **"/w"** command properly towards Message System
 :shiny: [Survival] 
 :shiny: [Survival] 
 
