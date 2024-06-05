@@ -16,7 +16,7 @@
 :shiny: [Survival] Fixed Dungeon Loot not stacking properly *(Drop it and Pick it up)*
 :shiny: [Survival] Modified **"/rules"**, Elaborated Rule #11 and Added Rule #18 with more information
 :shiny: [Survival] Added information about certain protection stones that don't provide protection within **"/pshop"**
-:shiny: [Survival] 
+:shiny: [Survival] Modified **"/pshop"**'s design slightly for appealing layout
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
