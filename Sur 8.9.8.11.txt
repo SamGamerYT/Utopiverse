@@ -22,6 +22,7 @@
 :shiny: [Survival] Multiple Statistic Lore Format modified for RPG Gear, Runestones, Consumables and etc
 :shiny: [Survival] Added **Rune of Fortify** and **Rune of Berserker**
 :shiny: [Survival] Added **FOUR NEW** Runestones crafting recipes at **"/warp tinkerer"**
+:shiny: [Survival] Fixed a major issue with pets, they will no longer not despawn after server reboot
 :shiny: [Survival] 
 
 :shiny: [Survival] 
