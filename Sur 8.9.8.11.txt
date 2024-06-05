@@ -18,7 +18,7 @@
 :shiny: [Survival] Added information about certain protection stones that don't provide protection within **"/pshop"**
 :shiny: [Survival] Modified **"/pshop"**'s design slightly for appealing layout
 :shiny: [Survival] Pointed **"/w"** command properly towards Message System
-:shiny: [Survival] 
+:shiny: [Survival] Fixed "Again" word not showing up properly in Chat due to Filter error
 :shiny: [Survival] 
 
 **TEXTURES**
