@@ -21,7 +21,7 @@
 :shiny: [Survival] Fixed "Again" word not showing up properly in Chat due to Filter error
 :shiny: [Survival] Multiple Statistic Lore Format modified for RPG Gear, Runestones, Consumables and etc
 :shiny: [Survival] Added **Rune of Fortify** and **Rune of Berserker**
-:shiny: [Survival] 
+:shiny: [Survival] Added **FOUR NEW** Runestones crafting recipes at **"/warp tinkerer"**
 :shiny: [Survival] 
 
 :shiny: [Survival] 
