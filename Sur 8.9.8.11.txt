@@ -24,7 +24,7 @@
 :shiny: [Survival] Added **FOUR NEW** Runestones crafting recipes at **"/warp tinkerer"**
 :shiny: [Survival] Fixed a major issue with pets, they will no longer not despawn after server reboot
 :shiny: [Survival] Players can now bulk buy up to **35** stacks from **"/shop"**
-:shiny: [Survival] 
+:shiny: [Survival] Added new **Cloak**, and two new **Artifacts** within **"/warp tinkerer"**
 :shiny: [Survival] 
 
 :shiny: [Survival] 
