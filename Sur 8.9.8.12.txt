@@ -1,39 +1,39 @@
-**Patch/Changes 8.9.8.11** *(Network Changes)*
-:shiny: [Survival] Running "/dungeons" will now open up the Dungeons UI
-:shiny: [Survival] Modified and Change the entire Dungeon Loot (Name, Lore, Data)
-:shiny: [Survival] Modified Scrolls, Old Scrolls may not longer operate or work properly
-:shiny: [Survival] Updated Crate Scroll Rewards to ensure it's up to date
-:shiny: [Survival] Fixed **"Ancient Crate"** Format, Rewards and Chances
-:shiny: [Survival] Modified and Fixed typos within **"/stats"** UI
-:shiny: [Survival] Players are now able to remove someone's perm while they are in the claim
-:shiny: [Survival] Tournaments has been modified (Recommended by JJ)
-:shiny: [Survival] Major Dependencies updated
-:shiny: [Survival] Fixed Scrolls not rewarding anything properly in Medal Trader
-:shiny: [Survival] Removed Spawners from **Uncommon Crates**
-:shiny: [Survival] Removed Spawners from **Rare Crates**
-:shiny: [Survival] Modified existing tools, Added Dungeon Lootbox and added new tools variants within **Rare Crate**
-:shiny: [Survival] Modified existing tools, Added Hat Perk and Added Temporal Ranks within **Epic Crate**
-:shiny: [Survival] Fixed Dungeon Loot not stacking properly *(Drop it and Pick it up)*
-:shiny: [Survival] Modified **"/rules"**, Elaborated Rule #11 and Added Rule #18 with more information
-:shiny: [Survival] Added information about certain protection stones that don't provide protection within **"/pshop"**
-:shiny: [Survival] Modified **"/pshop"**'s design slightly for appealing layout
-:shiny: [Survival] Pointed **"/w"** command properly towards Message System
-:shiny: [Survival] Fixed "Again" word not showing up properly in Chat due to Filter error
-:shiny: [Survival] Multiple Statistic Lore Format modified for RPG Gear, Runestones, Consumables and etc
-:shiny: [Survival] Added **Rune of Fortify** and **Rune of Berserker**
-:shiny: [Survival] Added **FOUR NEW** Runestones crafting recipes at **"/warp tinkerer"**
-:shiny: [Survival] Fixed a major issue with pets, they will no longer not despawn after server reboot
-:shiny: [Survival] Players can now bulk buy up to **35** stacks from **"/shop"**
-:shiny: [Survival] Added new **Cloak**, and two new **Artifacts** within **"/warp tinkerer"**
+**Patch/Changes 8.9.8.12** *(Network Changes)*
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 **TEXTURES**
-:shiny: [Survival] Fixed Generic 54 Slots UI's Design (Wrong Pixel)
-:shiny: [Survival] Fixed Generic 27 Slots UI's Design (Wrong Pixel)
-:shiny: [Survival] Modified Statistics and Tournaments UI
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 *(Special Thanks to _BrokenJJ6029)*
-:shiny: [Survival] New Crops Showcase made near **"/spawn"** zone
-:shiny: [Survival] Changes to the entire Spawn Zone :D too much to write down
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 **[@Changelogs]**
 *(Special Thanks to _WhispyW)*
