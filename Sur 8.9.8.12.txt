@@ -1,6 +1,8 @@
 **Patch/Changes 8.9.8.12** *(Network Changes)*
 :shiny: [Survival] Tinkerer Trading UI has been replaced with **Generic 27 UI**
-:shiny: [Survival] 
+:shiny: [Survival] Revamped Tinkerer's UI
+:shiny: [Survival] Revamped Enchanter's UI
+:shiny: [Survival] Added "Potion Trader" within Enchanter's UI
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
