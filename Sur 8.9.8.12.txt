@@ -6,7 +6,7 @@
 :shiny: [Survival] **"Easter Crafting Station"** is now available to use at **"/warp tinkerer"**
 :shiny: [Survival] **Steel Armour** is now craftable at **"/blacksmith"**
 :shiny: [Survival] Fixed **Scroll** Reward in **Confusion Crate**
-:shiny: [Survival] 
+:shiny: [Survival] Removed Currencies NPC at **"/spawn"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
