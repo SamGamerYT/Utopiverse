@@ -10,7 +10,7 @@
 :shiny: [Survival] Modified **AFK Zone** hologram
 :shiny: [Survival] Modified **Exchanger NPC's** hologram
 :shiny: [Survival] Merged **Currencies UI** and **Community UI** Together
-:shiny: [Survival] Added proper information regarding **Media, Youtuber and Streamer** ranks requirements
+:shiny: [Survival] Added proper information regarding **Media, Youtuber and Streamer** ranks requirements within **Community UI**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
