@@ -37,6 +37,8 @@
 :shiny: [Survival] Relocated AFK Zone
 :shiny: [Survival] Relocated Exchanger NPC
 :shiny: [Survival] Moved Bank Zone
+:shiny: [Survival] Moved Crates and Lootboxes
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **[@Changelogs]**
