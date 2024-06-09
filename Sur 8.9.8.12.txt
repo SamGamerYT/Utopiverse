@@ -7,7 +7,7 @@
 :shiny: [Survival] **Steel Armour** is now craftable at **"/blacksmith"**
 :shiny: [Survival] Fixed **Scroll** Reward in **Confusion Crate**
 :shiny: [Survival] Removed Currencies NPC at **"/spawn"**
-:shiny: [Survival] 
+:shiny: [Survival] Modified AFK Zone hologram
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
