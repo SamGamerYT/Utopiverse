@@ -14,7 +14,7 @@
 :shiny: [Survival] Major Texture Corruptions has been fixed, Textures will be a lot more smoother for Java Players
 :shiny: [Survival] Removed Dungeon Key reward from **Ancient Crate**
 :shiny: [Survival] **Key Fragment Exchanger** available at **"/blacksmith"**, Allowing players to exchange unused Amulet, Scrolls and Rings
-:shiny: [Survival] 
+:shiny: [Survival] Added Deliveries Warning for Staff and Weapons within Deliveries UI
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
