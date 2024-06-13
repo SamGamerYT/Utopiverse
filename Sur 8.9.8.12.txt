@@ -17,7 +17,7 @@
 :shiny: [Survival] Added Deliveries Warning for Staff and Weapons within Deliveries UI
 :shiny: [Survival] Added Rule #19 in **"/rules"**
 :shiny: [Survival] Fixed **Monthly Reward** not giving players **Scroll Reward**.
-:shiny: [Survival] 
+:shiny: [Survival] Major Dependencies Updated (6/13/2024)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
