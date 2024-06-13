@@ -11,13 +11,13 @@
 :shiny: [Survival] Modified **Exchanger NPC's** hologram.
 :shiny: [Survival] Merged **Currencies UI** and **Community UI** together.
 :shiny: [Survival] Added proper information regarding **Media, Youtuber, and Streamer** rank requirements within **Community UI**.
-:shiny: [Survival] Major Texture Corruptions has been fixed, Textures will be a lot more smoother for Java Players.
+:shiny: [Survival] Major texture corruptions have been fixed; textures will be much smoother for Java players.
 :shiny: [Survival] Removed Dungeon Key reward from **Ancient Crate**.
-:shiny: [Survival] **Key Fragment Exchanger** available at **"/blacksmith"**, Allowing players to exchange unused Amulet, Scrolls and Rings.
-:shiny: [Survival] Added Deliveries Warning for Staff and Weapons within Deliveries UI
-:shiny: [Survival] Added Rule #19 in **"/rules"**
-:shiny: [Survival] Fixed **Monthly Reward** not giving players **Scroll Reward**.
-:shiny: [Survival] Major Dependencies Updated (6/13/2024)
+:shiny: [Survival] **Key Fragment Exchanger** is now available at **"/blacksmith"**, allowing players to exchange unused amulets, scrolls, and rings.
+:shiny: [Survival] Added delivery warnings for staff and weapons within the Deliveries UI.
+:shiny: [Survival] Added Rule #19 in **"/rules"**.
+:shiny: [Survival] Fixed **Monthly Reward** not giving players the **Scroll Reward**.
+:shiny: [Survival] Major dependencies updated (6/13/2024).
 
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Survival] Relocated AFK Zone
