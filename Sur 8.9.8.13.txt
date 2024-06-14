@@ -2,6 +2,7 @@
 :shiny: [Survival] ChestProtect's Alias will work next reboot.
 :shiny: [Survival] Added **Spooder Altar** near Spooder Boss' Lair.
 :shiny: [Survival] Added **Spooder Boss** within "/codex"
+:shiny: [Survival] Added **Boss Exclusive** loot drop obtainable through killing **Spooder Boss**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
