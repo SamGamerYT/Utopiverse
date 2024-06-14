@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.13** *(Network Changes)*
 :shiny: [Survival] ChestProtect's Alias will work next reboot.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Spooder Altar** near Spooder Boss' Lair.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
