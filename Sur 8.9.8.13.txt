@@ -7,7 +7,6 @@
 :shiny: [Survival] Added **13** new tags within **Medal Trader**. *(Tags suggested by xSilence9503)*
 :shiny: [Survival] Disabled Custom Nether due to massive issues with performance
 :shiny: [Survival] Disabled Player Menu from appearing in Death Chest
-:shiny: [Survival] 
 :shiny: [Survival] Added **Artic Owl Pickaxe** within **Exotic Crate**
 :shiny: [Survival] Errors fixed within MonthlyCrate code
 :shiny: [Survival] Fixed border issues within the Main World, Nether World, The End World and Resource World.
