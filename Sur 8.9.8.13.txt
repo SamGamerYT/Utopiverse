@@ -11,6 +11,7 @@
 :shiny: [Survival] Added **Artic Owl Pickaxe** within **Exotic Crate**
 :shiny: [Survival] Errors fixed within MonthlyCrate code
 :shiny: [Survival] Fixed border issues within the Main World, Nether World, The End World and Resource World.
+:shiny: [Survival] Disabled Creeper Spawning within **Dungeons**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
