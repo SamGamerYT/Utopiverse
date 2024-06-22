@@ -23,7 +23,13 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
+
+**DUNGEON CHANGES**
+:shiny: [Survival] Experimental double damage fix within **Frost Dungeon**
 :shiny: [Survival] 
+
+**DUNGEON VOLCANO CHANGES**
+:shiny: [Survival] **Volcano Boss** will now drop a soul called "Scorch Soul" whenever it's killed (Usable in Crafting or Summoning)
 :shiny: [Survival] 
 :shiny: [Survival] 
 
