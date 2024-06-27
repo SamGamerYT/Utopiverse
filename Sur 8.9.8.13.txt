@@ -1,20 +1,21 @@
 **Patch/Changes 8.9.8.13** *(Network Changes)*
-:shiny: [Survival] ChestProtect's Alias will work next reboot.
+:shiny: [Survival] ChestProtect's alias will work after the next reboot.
 :shiny: [Survival] Added **Spooder Altar** near Spooder Boss' Lair.
-:shiny: [Survival] Added **Spooder Boss** within "/codex"
-:shiny: [Survival] Added **Boss Exclusive** loot drop obtainable through killing **Spooder Boss**
-:shiny: [Survival] Added **GUARD NPC TAG NAME** to allow players to find him more easily
-:shiny: [Survival] Added **13** new tags within **Medal Trader**. *(Tags suggested by xSilence9503)*
-:shiny: [Survival] Disabled Custom Nether due to massive issues with performance
-:shiny: [Survival] Disabled Player Menu from appearing in Death Chest
-:shiny: [Survival] Added **Artic Owl Pickaxe** within **Exotic Crate**
-:shiny: [Survival] Errors fixed within MonthlyCrate code
-:shiny: [Survival] Fixed border issues within the Main World, Nether World, The End World and Resource World.
-:shiny: [Survival] Disabled Creeper Spawning within **Dungeons**
-:shiny: [Survival] Disabled block damage from certain custom enchantments
-:shiny: [Survival] Fixed **"/trade"** not working properly
-:shiny: [Survival] Revamped Mini Pets, Elaborative lore and proper design
-:shiny: [Survival] Modified **"/rtp"** border size information to match the accurate limit
+:shiny: [Survival] Added **Spooder Boss** within "/codex".
+:shiny: [Survival] Added **Boss Exclusive** loot drop obtainable through killing **Spooder Boss**.
+:shiny: [Survival] Added **GUARD NPC TAG NAME** to allow players to find him more easily.
+:shiny: [Survival] Added **13** new tags within **Medal Trader**. *(Tags suggested by xSilence9503)*.
+:shiny: [Survival] Disabled Custom Nether due to massive issues with performance.
+:shiny: [Survival] Disabled Player Menu from appearing in Death Chest.
+:shiny: [Survival] Added **Arctic Owl Pickaxe** within **Exotic Crate**.
+:shiny: [Survival] Errors fixed within MonthlyCrate code.
+:shiny: [Survival] Fixed border issues within the Main World, Nether World, The End World, and Resource World.
+:shiny: [Survival] Disabled Creeper Spawning within **Dungeons**.
+:shiny: [Survival] Disabled block damage from certain custom enchantments.
+:shiny: [Survival] Fixed **"/trade"** not working properly.
+:shiny: [Survival] Revamped Mini Pets with elaborative lore and proper design.
+:shiny: [Survival] Modified **"/rtp"** border size information to match the accurate limit.
+:shiny: [Survival] Fixed the PlayerSit feature.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -25,11 +26,11 @@
 :shiny: [Survival] 
 
 **DUNGEON CHANGES**
-:shiny: [Survival] Experimental double damage fix within **Frost Dungeon**
-:shiny: [Survival] 
+:shiny: [Survival] Experimental double damage fix within **Frost Dungeon**.
 
 **DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] **Volcano Boss** will now drop a soul called "Scorch Soul" whenever it's killed (Usable in Crafting or Summoning)
+:shiny: [Survival] **Volcano Boss** will now drop a soul called "Scorch Soul" whenever it's killed (usable in crafting or summoning).
+
 :shiny: [Survival] 
 :shiny: [Survival] 
 
