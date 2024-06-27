@@ -14,7 +14,7 @@
 :shiny: [Survival] Disabled block damage from certain custom enchantments
 :shiny: [Survival] Fixed **"/trade"** not working properly
 :shiny: [Survival] Revamped Mini Pets, Elaborative lore and proper design
-:shiny: [Survival] 
+:shiny: [Survival] Modified **"/rtp"** border size information to match the accurate limit
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
