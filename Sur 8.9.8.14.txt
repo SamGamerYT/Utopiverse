@@ -29,9 +29,7 @@
 :shiny: [Survival] 
 
 **TEXTURES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Global] Added **"Low Fire"**, No more heavy fire for players to get tortured with.
 
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Survival] 
