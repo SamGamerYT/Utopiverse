@@ -30,6 +30,7 @@
 
 **TEXTURES**
 :shiny: [Global] Added **"Low Fire"**, No more heavy fire for players to get tortured with.
+:shiny: [Global] Added **Crates Preview** texture
 
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Survival] 
