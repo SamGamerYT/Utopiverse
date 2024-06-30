@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.14** *(Network Changes)*
 :shiny: [Survival] Improved **Spooder Boss** drop rate.
-:shiny: [Survival] Entirely revamped **"/codex"** allowing you to navigate properly now
+:shiny: [Survival] Entirely revamped **"/codex"** allowing you to navigate properly now [1 Line of Change but 2 days of work :c]
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
