@@ -22,11 +22,11 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] Updated Statistics within **Player Profile UI**, Allowing players to use **"/profile"** command or view other player's stats properly.
+:shiny: [Survival] The Following recipes at Guard NPC has been locked behind **Mine Dungeon Codex**, **Totem**, **Enchanted Golden Apple**, **Bandage [5]** and **Compressed Rock**
 
 **TEXTURES**
 :shiny: [Global] Added **Crates Preview** texture
