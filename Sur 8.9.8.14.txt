@@ -3,7 +3,7 @@
 :shiny: [Survival] Fixed **"/codex"** not working properly in **Mine Dungeon**
 :shiny: [Survival] **Bandaged 2" healing has been increased from **10** to **25**
 :shiny: [Survival] **Compressed Rock** armour repairing amount has been increased from **20** to **50** matching menders
-:shiny: [Survival] 
+:shiny: [Survival] Buffed the price of **Blast Furnace** in **"/shop"** from **$75** to **$750**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
