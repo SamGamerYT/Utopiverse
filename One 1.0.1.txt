@@ -1,16 +1,5 @@
 **Patch/Changes 1.0.1** *[Oneblock]*
 :grass: [Oneblock] "/phases" and "/phase" command are now properly working
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
+:grass: [Oneblock] Added **Block Counter** on scoreboard, allowing players to view their phase counter *(Suggested by _TH_Jakee)*
  
 **[@Changelogs]**
