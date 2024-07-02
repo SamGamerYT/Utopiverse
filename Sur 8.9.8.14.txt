@@ -4,7 +4,7 @@
 :shiny: [Survival] **Bandaged 2" healing has been increased from **10** to **25**
 :shiny: [Survival] **Compressed Rock** armour repairing amount has been increased from **20** to **50** matching menders
 :shiny: [Survival] Buffed the price of **Blast Furnace** in **"/shop"** from **$75** to **$750**
-:shiny: [Survival] 
+:shiny: [Survival] Buffed all three bandages, They will now regen more health and mana
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
