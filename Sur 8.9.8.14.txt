@@ -20,7 +20,7 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] Within **Frost, Volcano** Dungeon, Enabled Instant respawning, Disabled Pillager pat
+:shiny: [Survival] Within **Frost, Volcano** Dungeon, Enabled Instant respawning, Disabled Pillager patrol and disabled creeper griefing
 
 :shiny: [Survival] 
 :shiny: [Survival] 
