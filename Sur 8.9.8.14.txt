@@ -1,12 +1,12 @@
 **Patch/Changes 8.9.8.14** *(Network Changes)*
 :shiny: [Survival] Improved **Spooder Boss** drop rate.
-:shiny: [Survival] Fixed **"/codex"** not working properly in **Mine Dungeon**
-:shiny: [Survival] **Bandaged 2" healing has been increased from **10** to **25**
-:shiny: [Survival] **Compressed Rock** armour repairing amount has been increased from **20** to **50** matching menders
-:shiny: [Survival] Buffed the price of **Blast Furnace** in **"/shop"** from **$75** to **$750**
-:shiny: [Survival] Buffed all three bandages, They will now regen more health and mana
-:shiny: [Survival] Disabled **Spooder Boss** summoning announcement
-:shiny: [Survival] Added **Auction House** price confirmation
+:shiny: [Survival] Fixed **"/codex"** not working properly in **Mine Dungeon**.
+:shiny: [Survival] **Bandaged 2** healing has been increased from **10** to **25**.
+:shiny: [Survival] **Compressed Rock** armor repairing amount has been increased from **20** to **50** matching menders.
+:shiny: [Survival] Buffed the price of **Blast Furnace** in **"/shop"** from **$75** to **$750**.
+:shiny: [Survival] Buffed all three bandages. They will now regen more health and mana.
+:shiny: [Survival] Disabled **Spooder Boss** summoning announcement.
+:shiny: [Survival] Added **Auction House** price confirmation.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -20,17 +20,17 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] Within **Frost, Volcano** Dungeon, Enabled Instant respawning, Disabled Pillager patrol and disabled creeper griefing
+:shiny: [Survival] Within **Frost** and **Volcano Dungeons**, enabled instant respawning, disabled Pillager patrol, and disabled creeper griefing.
 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] Entirely revamped **"/codex"** allowing you to navigate properly now [1 Line of Change but 2 days of work :c]
-:shiny: [Survival] Updated Statistics within **Player Profile UI**, Allowing players to use **"/profile"** command or view other player's stats properly.
-:shiny: [Survival] The Following recipes at Guard NPC has been locked behind **Mine Dungeon Codex**, **Totem**, **Enchanted Golden Apple**, **Bandage [5]** and **Compressed Rock**
+:shiny: [Survival] Entirely revamped **"/codex"**, allowing you to navigate properly now [1 line of change but 2 days of work :c].
+:shiny: [Survival] Updated statistics within **Player Profile UI**, allowing players to use the **"/profile"** command or view other players' stats properly.
+:shiny: [Survival] The following recipes at Guard NPC have been locked behind **Mine Dungeon Codex**: **Totem**, **Enchanted Golden Apple**, **Bandage [5]**, and **Compressed Rock**.
 
 **TEXTURES**
-:shiny: [Global] Added **Crates Preview** texture
-:shiny: [Global] Added **"Low Fire"**, No more heavy fire for players to get tortured with.
+:shiny: [Global] Added **Crates Preview** texture.
+:shiny: [Global] Added **"Low Fire"** texture, so no more heavy fire for players to get tortured with.
 
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Survival] 
