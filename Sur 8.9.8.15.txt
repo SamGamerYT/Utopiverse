@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.15** *(Network Changes)*
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Disabled **Dungeon** Popup whenever you visit the **Dungeon Zone**
+:shiny: [Survival] Fixed "/codex" region category not displaying **Dungeon Zone**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
