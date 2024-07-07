@@ -10,20 +10,8 @@
 :shiny: [Survival] Modified "Easter Eggs" claim sound and already claimed sound!
 :shiny: [Survival] Reduced **"Spawn Easter Eggs"** claim prize from **$10,000** to **$2,500**.
 :shiny: [Survival] Added **"Green Ring"** as reward for **Easter Egg [Dungeon]** reward.
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 :shiny: [Survival] Within **Frost** and **Volcano Dungeons**, enabled instant respawning, disabled Pillager patrol, and disabled creeper griefing.
 
-:shiny: [Survival] 
-:shiny: [Survival] 
 :shiny: [Survival] Entirely revamped **"/codex"**, allowing you to navigate properly now [1 line of change but 2 days of work :c].
 :shiny: [Survival] Updated statistics within **Player Profile UI**, allowing players to use the **"/profile"** command or view other players' stats properly.
 :shiny: [Survival] The following recipes at Guard NPC have been locked behind **Mine Dungeon Codex**: **Totem**, **Enchanted Golden Apple**, **Bandage [5]**, and **Compressed Rock**.
@@ -34,41 +22,5 @@
 
 *(Special Thanks to _BrokenJJ6029)*
 :shiny: [Survival] Added **60** Easter Eggs location throughout **Mine, Frost, Volcano and Wasteland** Dungeon
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **[@Changelogs]**
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
