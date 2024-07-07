@@ -7,7 +7,7 @@
 :shiny: [Survival] Buffed all three bandages. They will now regen more health and mana.
 :shiny: [Survival] Disabled **Spooder Boss** summoning announcement.
 :shiny: [Survival] Added **Auction House** price confirmation.
-:shiny: [Survival] 
+:shiny: [Survival] Modified "Easter Eggs" claim sound and already claimed sound!
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
