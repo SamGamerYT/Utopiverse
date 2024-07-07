@@ -6,7 +6,7 @@
 :shiny: [Survival] Buffed the price of **Blast Furnace** in **"/shop"** from **$75** to **$750**.
 :shiny: [Survival] Buffed all three bandages. They will now regen more health and mana.
 :shiny: [Survival] Disabled **Spooder Boss** summoning announcement.
-:shiny: [Survival] Added **Auction House** price confirmation.
+:shiny: [Survival] Added **"Auction House"** selling price confirmation.
 :shiny: [Survival] Modified "Easter Eggs" claim sound and already claimed sound!
 :shiny: [Survival] 
 :shiny: [Survival] 
