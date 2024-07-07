@@ -33,7 +33,7 @@
 :shiny: [Global] Added **"Low Fire"** texture, so no more heavy fire for players to get tortured with.
 
 *(Special Thanks to _BrokenJJ6029)*
-:shiny: [Survival] 
+:shiny: [Survival] Added **60** Easter Eggs location throughout **Mine, Frost, Volcano and Wasteland** Dungeon
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
