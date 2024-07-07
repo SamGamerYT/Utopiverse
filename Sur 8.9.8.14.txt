@@ -9,7 +9,7 @@
 :shiny: [Survival] Added **"Auction House"** selling price confirmation.
 :shiny: [Survival] Modified "Easter Eggs" claim sound and already claimed sound!
 :shiny: [Survival] Reduced **"Spawn Easter Eggs"** claim prize from **$10,000** to **$2,500**.
-:shiny: [Survival] 
+:shiny: [Survival] Added **"Green Ring"** as reward for **Easter Egg [Dungeon]** reward.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
