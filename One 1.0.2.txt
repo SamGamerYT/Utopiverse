@@ -2,9 +2,9 @@
 :grass: [Oneblock] Deleted useless dependencies.
 :grass: [Oneblock] Updated server's dependencies for smoother performance.
 :grass: [Oneblock] Modified **"Chat Games"** to match **Survival's Standards**.
-:grass: [Oneblock] Added **"/warp mine"** as **"/warp dungeons"**
-:grass: [Oneblock] Modified entire **"/bank"** style, UI and messages
-:grass: [Oneblock] Modified **piggybank**'s style and layout
+:grass: [Oneblock] Added **"/warp mine"** as **"/warp dungeons"**.
+:grass: [Oneblock] Modified entire **"/bank"** style, UI, and messages.
+:grass: [Oneblock] Modified **piggybank**'s style and layout.
 :grass: [Oneblock] 
 :grass: [Oneblock] 
 :grass: [Oneblock] 
