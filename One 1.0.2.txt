@@ -5,7 +5,7 @@
 :grass: [Oneblock] Added **"/warp mine"** as **"/warp dungeons"**.
 :grass: [Oneblock] Modified entire **"/bank"** style, UI, and messages.
 :grass: [Oneblock] Modified **piggybank**'s style and layout.
-:grass: [Oneblock] 
+:grass: [Oneblock] Added **Sell Confirmation** to **"/ah sell <price>"**.
 :grass: [Oneblock] 
 :grass: [Oneblock] 
 :grass: [Oneblock] 
