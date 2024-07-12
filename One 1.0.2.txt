@@ -6,7 +6,7 @@
 :grass: [Oneblock] Modified entire **"/bank"** style, UI, and messages.
 :grass: [Oneblock] Modified **piggybank**'s style and layout.
 :grass: [Oneblock] Added **Sell Confirmation** to **"/ah sell <price>"**.
-:grass: [Oneblock] 
+:grass: [Oneblock] Modified entire **Auction House** style, UI, and messages.
 :grass: [Oneblock] 
 :grass: [Oneblock] 
 :grass: [Oneblock] 
