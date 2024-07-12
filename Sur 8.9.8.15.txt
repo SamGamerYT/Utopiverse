@@ -3,7 +3,7 @@
 :shiny: [Survival] Disabled **Dungeon** Popup whenever you visit the **Dungeon Zone**
 :shiny: [Survival] Added **Two New Rules** within **"/rules"**
 :shiny: [Survival] Updated **Player Starter Book**, Removed information related to jobs and added moneymaking faq
-:shiny: [Survival] 
+:shiny: [Survival] Chat Games, RPG Messages and Janitor messages will have the same starting prefix to avoid looking "odd"
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
