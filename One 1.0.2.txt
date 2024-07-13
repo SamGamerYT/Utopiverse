@@ -11,8 +11,8 @@
 :grass: [Oneblock] Modified **Portal Holograms**, Styled it up and modified design.
 :grass: [Oneblock] Disabled **Double Damage** notifications.
 :shiny: [Survival] Modified **Settings Cog**.
-:grass: [Oneblock] Major dependencies updated [7/12/2024]
-:grass: [Oneblock] 
+:grass: [Oneblock] Major dependencies updated **[7/12/2024]**
+:grass: [Oneblock] Added **Two Island Helpful** holograms at **"/warp info"**
 :grass: [Oneblock] 
 :grass: [Oneblock] 
 :grass: [Oneblock] 
