@@ -10,6 +10,7 @@
 :grass: [Oneblock] Modified **Welcome Hologram**, Added proper information.
 :grass: [Oneblock] Modified **Portal Holograms**, Styled it up and modified design.
 :grass: [Oneblock] Disabled **Double Damage** notifications.
+:shiny: [Survival] Modified **Settings Cog**
 :grass: [Oneblock] 
 :grass: [Oneblock] 
 :grass: [Oneblock] 
