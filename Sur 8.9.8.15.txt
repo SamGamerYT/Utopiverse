@@ -4,7 +4,7 @@
 :shiny: [Survival] Added **Two New Rules** within **"/rules"**
 :shiny: [Survival] Updated **Player Starter Book**, Removed information related to jobs and added moneymaking faq
 :shiny: [Survival] Chat Games, RPG Messages and Janitor messages will have the same starting prefix to avoid looking "odd"
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Settings Cog**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
