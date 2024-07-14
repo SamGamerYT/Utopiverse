@@ -1,7 +1,7 @@
 **Patch/Changes 1.0.3** *[Oneblock]*
 :grass: [Oneblock] Updated Dependencies [7/14/2024]
 :grass: [Oneblock] Added **"/welcomegift"** for new players
-:grass: [Oneblock] 
+:grass: [Oneblock] Modified **"/kits"** to match survival's style
 :grass: [Oneblock] 
 :grass: [Oneblock] 
 :grass: [Oneblock] 
