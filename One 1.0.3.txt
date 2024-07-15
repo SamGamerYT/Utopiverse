@@ -2,7 +2,7 @@
 :grass: [QOL] Updated Dependencies [7/14/2024]
 :grass: [QOL] Added **"/welcomegift"** for new players
 :grass: [QOL] Modified **"/kits"** to match survival's style
-:shiny: [QOL] Added **"/pvp"** command that teleports you to **PvP Zone**
+:grass: [QOL] Added **"/pvp"** command that teleports you to **PvP Zone**
 :grass:  
 :grass:  
 :grass:  
@@ -10,7 +10,6 @@
 :grass:  
 :grass:  
 :grass:  
-:shiny:  
 :grass:  
 :grass:  
  
