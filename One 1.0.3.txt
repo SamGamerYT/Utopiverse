@@ -1,17 +1,17 @@
 **Patch/Changes 1.0.3** *[Oneblock]*
-:grass: [Oneblock] Updated Dependencies [7/14/2024]
-:grass: [Oneblock] Added **"/welcomegift"** for new players
-:grass: [Oneblock] Modified **"/kits"** to match survival's style
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
-:shiny: [Survival] 
-:grass: [Oneblock] 
-:grass: [Oneblock] 
+:grass: [QOL] Updated Dependencies [7/14/2024]
+:grass: [QOL] Added **"/welcomegift"** for new players
+:grass: [QOL] Modified **"/kits"** to match survival's style
+:shiny: [QOL] Added **"/pvp"** command that teleports you to **PvP Zone**
+:grass:  
+:grass:  
+:grass:  
+:grass:  
+:grass:  
+:grass:  
+:grass:  
+:shiny:  
+:grass:  
+:grass:  
  
 **[@Changelogs]**
