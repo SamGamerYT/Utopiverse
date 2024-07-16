@@ -1,5 +1,5 @@
 **Patch/Changes 1.0.4** *[Oneblock]*
-:grass: [QOL] 
+:grass: [QOL] Bank will now use **decimals** for formatting reasons
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
