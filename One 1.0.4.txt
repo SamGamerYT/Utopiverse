@@ -5,7 +5,7 @@
 :grass: [QOL] 
 :grass: Fixed **Banking Bug**, You should have your proper balance now.
 :grass: Fixed **Welcome Kit** bug where it wasn't allowing you to claim your one-time kit.
-:grass: 
+:grass: Fixed an issue where players were not able to see chat games
 :grass: 
 :grass: 
 :grass: 
