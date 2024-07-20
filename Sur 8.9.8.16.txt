@@ -2,7 +2,7 @@
 :shiny: [Survival] Added **"/warp Spawn"** as a command for players to use.
 :shiny: [Survival] Fixed **"Uses"** not working properly (Spent 6 hours on this ;_; pain!)
 :shiny: [Survival] Added **Volcano Discovery Reward** within **"/codex"**
-:shiny: [Survival] 
+:shiny: [Survival] Buffed **Crafting Material** required for **Phoenix Cloak**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
