@@ -7,6 +7,7 @@
 :shiny: [Survival] Modified Lore of **Ethereal Essence**, Made it easier to understand.
 :shiny: [Survival] Modified **"/ranks"** style and design
 :shiny: [Survival] Added new **Subscriptional Rank** called "Liege"
+:shiny: [Survival] Modified Rank Images on **Webstore**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
