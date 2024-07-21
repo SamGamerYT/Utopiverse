@@ -3,7 +3,7 @@
 :shiny: [Survival] Fixed **"Uses"** not working properly (Spent 6 hours on this ;_; pain!)
 :shiny: [Survival] Added **Volcano Discovery Reward** within **"/codex"**
 :shiny: [Survival] Buffed **Crafting Material** required for **Phoenix Cloak**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Ancient Crate** not working properly
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
