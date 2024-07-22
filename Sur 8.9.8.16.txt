@@ -9,7 +9,7 @@
 :shiny: [Survival] Added new **Subscriptional Rank** called "Liege"
 :shiny: [Survival] Modified Rank Images on **Webstore**
 :shiny: [Survival] Added **Liege** rank in TAB
-:shiny: [Survival] 
+:shiny: [Survival] Buffed **Artic Owl** and **Frostwyrm** gear set.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
