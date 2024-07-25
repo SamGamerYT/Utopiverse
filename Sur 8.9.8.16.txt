@@ -12,7 +12,7 @@
 :shiny: [Survival] Buffed **Artic Owl** and **Frostwyrm** gear set.
 :shiny: [Survival] Modified **Balance** Messages in chat, more formatted.
 :shiny: [Survival] Fixed **Uncommon Crate** not giving Canvas or Easel
-:shiny: [Survival] 
+:shiny: [Survival] Added **Ender Chest** in **Frost Dungeon**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
