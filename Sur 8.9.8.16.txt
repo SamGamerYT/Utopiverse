@@ -13,7 +13,7 @@
 :shiny: [Survival] Modified **Balance** Messages in chat, more formatted.
 :shiny: [Survival] Fixed **Uncommon Crate** not giving Canvas or Easel
 :shiny: [Survival] Added **Ender Chest** in **Frost Dungeon**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Runestone slot not using the proper format
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
