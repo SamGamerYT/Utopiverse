@@ -15,6 +15,8 @@
 :shiny: [Survival] Added **Ender Chest** in **Frost Dungeon**
 :shiny: [Survival] Fixed Runestone slot not using the proper format
 :shiny: [Survival] **Armorstand Entity Activation** range has been increased to **16** from **10**
+:shiny: [Survival] Fixed **Confusion Crate** not giving the proper rewards
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
