@@ -1,15 +1,9 @@
 **Patch/Changes 1.0.4** *[Oneblock]*
 :grass: [QOL] Bank will now use **decimals** for formatting reasons
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
 :grass: Fixed **Banking Bug**, You should have your proper balance now.
 :grass: Fixed **Welcome Kit** bug where it wasn't allowing you to claim your one-time kit.
 :grass: Fixed an issue where players were not able to see chat games
 :grass: Modified the entire crate system *(Thanks to WhispyW)*
 :grass: Players are now able to kill animals at **"/spawn"**
-:grass: 
-:grass: 
-:grass: 
- 
+
 **[@Changelogs]**
