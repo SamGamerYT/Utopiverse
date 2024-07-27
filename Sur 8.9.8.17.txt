@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.17** *(Network Changes)*
 :shiny: [Survival] Fixed **Owl Charm** name from Nightvision Artifact for **Scared Kid Artifact Recipe**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Spirits** Custom Enchantment 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
