@@ -14,6 +14,7 @@
 :shiny: [Survival] Fixed **Uncommon Crate** not giving Canvas or Easel
 :shiny: [Survival] Added **Ender Chest** in **Frost Dungeon**
 :shiny: [Survival] Fixed Runestone slot not using the proper format
+:shiny: [Survival] **Armorstand Entity Activation** range has been increased to **16** from **10**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
