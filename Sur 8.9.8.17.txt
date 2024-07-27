@@ -1,0 +1,74 @@
+**Patch/Changes 8.9.8.16** *(Network Changes)*
+:shiny: [Survival] Added **"/warp Spawn"** as a command for players to use.
+:shiny: [Survival] Fixed **"Uses"** not working properly (Spent 6 hours on this ;_; pain!)
+:shiny: [Survival] Added **Volcano Discovery Reward** within **"/codex"**
+:shiny: [Survival] Buffed **Crafting Material** required for **Phoenix Cloak**
+:shiny: [Survival] Fixed **Ancient Crate** not working properly
+:shiny: [Survival] Modified Lore of **Ethereal Essence**, Made it easier to understand.
+:shiny: [Survival] Modified **"/ranks"** style and design
+:shiny: [Survival] Added new **Subscriptional Rank** called "Liege"
+:shiny: [Survival] Modified Rank Images on **Webstore**
+:shiny: [Survival] Added **Liege** rank in TAB
+:shiny: [Survival] Buffed **Artic Owl** and **Frostwyrm** gear set.
+:shiny: [Survival] Modified **Balance** Messages in chat, more formatted.
+:shiny: [Survival] Fixed **Uncommon Crate** not giving Canvas or Easel
+:shiny: [Survival] Added **Ender Chest** in **Frost Dungeon**
+:shiny: [Survival] Fixed Runestone slot not using the proper format
+:shiny: [Survival] **Armorstand Entity Activation** range has been increased to **16** from **10**
+:shiny: [Survival] Fixed **Confusion Crate** not giving the proper rewards
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+**BOSS ZONE CHANGES**
+:shiny: [Survival] Buffed **Baby Spooder** drop rate
+:shiny: [Survival] **Spooder Boss** now have a guaranteed **Special Drop**
+:shiny: [Survival] **Spooder Boss** will now always give players $
+
+**DUNGEON MINE CHANGES**
+:shiny: [Survival] Enabled **Purple Portal** near the **"/warp mine"** teleportation zone.
+:shiny: [Survival] Moved **Spawn Teleportation Waypoint** towards the **Diamond Zone** entrance
+:shiny: [Survival] Modified **"/warp mine"**, Added Furnitures, ATM, Codex and etc
+
+**DUNGEON VOLCANO CHANGES**
+:shiny: [Survival] Increased the amount of **Element of Fire** within the **Dungeon**
+:shiny: [Survival] Volcano Mobs will no longer take **Lava Damage** and **Magma Block Damage** 
+
+**TEXTURES**
+:shiny: [Global] 
+
+*(Special Thanks to _BrokenJJ6029)*
+:shiny: [Survival] 
+
+**[@Changelogs]**
+*(Special Thanks to _WhispyW)*
+:shiny: [Art] 
+*(Special Thanks to _BrokenJJ6029)*
+:shiny: [Build] 
+*(Special Thanks to _Skmasykw)*
+:shiny: [Loot]
+:shiny: [Codex] 
+:shiny: [Proxy] 
+:shiny: [Global] 
+:shiny: [Dungeon]
+:shiny: [Discord] 
+:shiny: [Bedrock]
+:shiny: [Christmas] 
+:shiny: [Underground Arena]
+:Sparkles: [Store]
+
+:shiny: [Java] 
+:shiny: [Textures]
+
+**JAVA**
+**CRATES**
+**BEDROCK**
+**WEBSITE**
+**TEXTURES**
+**REPAIR STONES**
+**SHOP RELATED CHANGES**
+
+**DUNGEON MINE CHANGES**
+**DUNGEON FROST CHANGES**
+**DUNGEON VOLCANO CHANGES**
+**DUNGEON WASTELAND CHANGES**
