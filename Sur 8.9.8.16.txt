@@ -25,6 +25,7 @@
 **DUNGEON MINE CHANGES**
 :shiny: [Survival] Enabled **Purple Portal** near the **"/warp mine"** teleportation zone.
 :shiny: [Survival] Moved **Spawn Teleportation Waypoint** towards the **Diamond Zone** entrance
+:shiny: [Survival] Modified **"/warp mine"**, Added Furnitures, ATM, Codex and etc
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Increased the amount of **Element of Fire** within the **Dungeon**
