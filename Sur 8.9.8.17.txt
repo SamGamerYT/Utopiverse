@@ -3,7 +3,7 @@
 :shiny: [Survival] Fixed **Spirits** Custom Enchantment 
 :shiny: [Survival] Fixed **Dinosaurus Helmets** not having a durability
 :shiny: [Survival] Fixed **Artic Owl** not giving the proper statistics
-:shiny: [Survival] 
+:shiny: [Survival] Added new **Dungeon Furniture Lootbox**, Available on /buy
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
