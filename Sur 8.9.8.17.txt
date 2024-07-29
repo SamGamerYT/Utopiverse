@@ -4,7 +4,7 @@
 :shiny: [Survival] Fixed **Dinosaurus Helmets** not having a durability
 :shiny: [Survival] Fixed **Artic Owl** not giving the proper statistics
 :shiny: [Survival] Added new **Dungeon Furniture Lootbox**, Available on /buy
-:shiny: [Survival] 
+:shiny: [Survival] Coinflip limit has been increased to **$50,000,000** from **$10,000,000**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
