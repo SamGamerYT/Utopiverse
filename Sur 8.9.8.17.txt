@@ -7,7 +7,7 @@
 :shiny: [Survival] Coinflip limit has been increased to **$50,000,000** from **$10,000,000**
 :shiny: [Survival] Added **Auction House** Priority System
 :shiny: [Survival] Liege Rank now have the **Highest Priority** in **Auction House**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Grammar errors for **Graveyard Zone** information hologram
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
