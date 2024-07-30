@@ -9,7 +9,7 @@
 :shiny: [Survival] Liege Rank now have the **Highest Priority** in **Auction House**
 :shiny: [Survival] Fixed Grammar errors for **Graveyard Zone** information hologram
 :shiny: [Survival] Added **Fishing Level** and **Fishing Entrophy** Statistics at /warp pond
-:shiny: [Survival] 
+:shiny: [Survival] Added **Fishing Tournaments**, Over 8 Different Fishing Tournament to allow players to enjoy!
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
