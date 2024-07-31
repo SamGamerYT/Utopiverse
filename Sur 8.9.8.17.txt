@@ -12,7 +12,7 @@
 :shiny: [Survival] Added **Fishing Tournaments**, Over 8 Different Fishing Tournament to allow players to enjoy!
 :shiny: [Survival] Added **Guard NPC** in the **Guard Post**
 :shiny: [Survival] Added Ability to sit on players for **Liege Rank**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Gutting System** at **"/warp pond"** - Allowing players to earn **Entrophy**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
