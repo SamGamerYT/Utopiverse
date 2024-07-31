@@ -10,7 +10,7 @@
 :shiny: [Survival] Fixed Grammar errors for **Graveyard Zone** information hologram
 :shiny: [Survival] Added **Fishing Level** and **Fishing Entrophy** Statistics at /warp pond
 :shiny: [Survival] Added **Fishing Tournaments**, Over 8 Different Fishing Tournament to allow players to enjoy!
-:shiny: [Survival] 
+:shiny: [Survival] Added **Guard NPC** in the **Guard Post**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
