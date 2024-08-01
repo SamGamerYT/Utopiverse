@@ -14,7 +14,7 @@
 :shiny: [Survival] Added Ability to sit on players for **Liege Rank**
 :shiny: [Survival] Added **Gutting System** at **"/warp pond"** - Allowing players to earn **Entrophy**
 :shiny: [Survival] Added a new mob called **Crab**! Crab is extremely adorable and fierce!
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Arena Rewards** not giving out Mythical Key
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 

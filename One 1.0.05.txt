@@ -1,5 +1,5 @@
 **Patch/Changes 1.0.05** *[Oneblock]*
-:grass: [QOL] 
+:grass: [QOL] Staff Ranks have been updated to use Custom UI Design
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
