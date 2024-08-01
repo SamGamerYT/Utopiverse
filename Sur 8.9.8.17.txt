@@ -16,7 +16,7 @@
 :shiny: [Survival] Added a new mob called **Crab**! Crab is extremely adorable and fierce!
 :shiny: [Survival] Fixed **Arena Rewards** not giving out Mythical Key
 :shiny: [Survival] Entirely Revamped **Arena Menu**, **Arena Info** and **Arena Rewards**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Two New** upcoming Arena Worlds in Arena Menu
 :shiny: [Survival] 
 
 **BOSS ZONE CHANGES**
