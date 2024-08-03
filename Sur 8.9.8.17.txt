@@ -24,6 +24,10 @@
 :grass: [Survival] Updated Dependencies (8/2/2024)
 :shiny: [Survival] Modified **Fishing GUI** Added Custom icons and Layout
 :shiny: [Survival] Enabled **Auction House** within **The End**
+:shiny: [Survival] Extended **Arena Zone** Build Section, Room for Forgery
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **BOSS ZONE CHANGES**
