@@ -3,7 +3,7 @@
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
-:grass: 
+:grass: Fixed Bug related to "/rewards" not giving keys out
 :grass: 
 :grass: 
 :grass: 
