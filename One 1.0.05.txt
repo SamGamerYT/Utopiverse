@@ -4,7 +4,8 @@
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: Fixed Bug related to "/rewards" not giving keys out
-:grass: 
+:grass: Fixed blacklist with shulker box in Auction House
+:grass: Fixed memory leak issue with category system
 :grass: 
 :grass: 
 :grass: 
