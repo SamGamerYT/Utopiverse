@@ -21,6 +21,8 @@
 :shiny: [Survival] 
 :shiny: [Survival] Fixed blacklist with shulker box in Auction House
 :shiny: [Survival] Fixed memory leak issue with category system
+:grass: [Survival] Updated Dependencies (8/2/2024)
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **BOSS ZONE CHANGES**

@@ -6,7 +6,7 @@
 :grass: Fixed Bug related to "/rewards" not giving keys out
 :grass: Fixed blacklist with shulker box in Auction House
 :grass: Fixed memory leak issue with category system
-:grass: 
+:grass: Updated Dependencies (8/2/2024)
 :grass: 
 :grass: 
 :grass: 
