@@ -23,6 +23,7 @@
 :shiny: [Survival] Fixed memory leak issue with category system in Auction House
 :grass: [Survival] Updated Dependencies (8/2/2024)
 :shiny: [Survival] Modified **Fishing GUI** Added Custom icons and Layout
+:shiny: [Survival] Enabled **Auction House** within **The End**
 :shiny: [Survival] 
 
 **BOSS ZONE CHANGES**
