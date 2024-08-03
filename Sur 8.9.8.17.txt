@@ -25,7 +25,7 @@
 :shiny: [Survival] Modified **Fishing GUI** Added Custom icons and Layout
 :shiny: [Survival] Enabled **Auction House** within **The End**
 :shiny: [Survival] Extended **Arena Zone** Build Section, Room for Forgery
-:shiny: [Survival] 
+:shiny: [Survival] Enabled **Ender Pearl** at **Spawn Zone**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
