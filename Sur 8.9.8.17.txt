@@ -18,7 +18,7 @@
 :shiny: [Survival] Entirely Revamped **Arena Menu**, **Arena Info** and **Arena Rewards**
 :shiny: [Survival] Added **Two New** upcoming Arena Worlds in Arena Menu
 :shiny: [Survival] Modified **Medals** Design and Tier, Updated to newer style.
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Warp Messages** to **Waystone** message.
 :shiny: [Survival] Fixed blacklist with shulker box in Auction House
 :shiny: [Survival] Fixed memory leak issue with category system in Auction House
 :grass: [Survival] Updated Dependencies (8/2/2024)
