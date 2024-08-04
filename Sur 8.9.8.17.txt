@@ -29,6 +29,7 @@
 :shiny: [Survival] Major Memory Leak fixed with **Bosses Souls**
 :shiny: [Survival] Optimized the network a little bit more in performance aspect (8/4/2024)
 :shiny: [Survival] Fixed some console errors that were putting strain on CPU
+:shiny: [Survival] Removed **Fishing Profession** from **Player Stats UI**
 :shiny: [Survival] 
 
 **BOSS ZONE CHANGES**
