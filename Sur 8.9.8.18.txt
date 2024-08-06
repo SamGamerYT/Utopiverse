@@ -3,7 +3,7 @@
 :shiny: [Survival] Removed "}" Icon from punishments that shows up every now and then
 :shiny: [Survival] Removed Random space from player warning punishments
 :shiny: [Survival] Players will be able to toggle private messages properly in settings
-:shiny: [Survival] 
+:shiny: [Survival] Added Lower version of **Spawner Picker** in **Guard Shop**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
