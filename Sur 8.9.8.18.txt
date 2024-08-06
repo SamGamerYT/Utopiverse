@@ -34,7 +34,6 @@
 
 **TEXTURES**
 :shiny: [Java] Added new **Help UI**
-:shiny: [Java] Added new **Settings UI**
 :shiny: [Java] Optimized **Settings UI** to match new server **Style and Design**
 :shiny: [Java] Optimized **Rules UI** to match new server **Style and Design**
 :shiny: [Java] 
