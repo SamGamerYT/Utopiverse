@@ -32,6 +32,11 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+**TEXTURES**
+:shiny: [Java] Added new **Help UI**
+:shiny: [Java] 
+:shiny: [Java] 
+
 **BOSS ZONE CHANGES**
 :shiny: [Survival] 
 :shiny: [Survival] 
