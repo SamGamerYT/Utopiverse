@@ -34,6 +34,7 @@
 
 **TEXTURES**
 :shiny: [Java] Added new **Help UI**
+:shiny: [Java] Added new **Settings UI**
 :shiny: [Java] 
 :shiny: [Java] 
 
