@@ -7,7 +7,7 @@
 :shiny: [Survival] Added **Codex Zones** reward claim in **"/codex"**
 :shiny: [Survival] Modified **Arena Trader** switched to 27 Slots from 54 Slots
 :shiny: [Survival] Added **Hypogeum** and **Aztec** Access Token in **Arena Trader**
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Access Tokens** lore, No longer showing cooldown period (10s)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
