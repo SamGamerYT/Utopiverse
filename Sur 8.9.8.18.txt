@@ -6,7 +6,7 @@
 :shiny: [Survival] Added Lower version of **Spawner Picker** in **Guard Shop**
 :shiny: [Survival] Added **Codex Zones** reward claim in **"/codex"**
 :shiny: [Survival] Modified **Arena Trader** switched to 27 Slots from 54 Slots
-:shiny: [Survival] 
+:shiny: [Survival] Added **Hypogeum** and **Aztec** Access Token in **Arena Trader**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
