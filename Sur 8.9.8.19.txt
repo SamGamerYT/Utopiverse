@@ -25,14 +25,15 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **AUTO RESPONSE**
 :shiny: [Survival] Removed "can sell" and "to sell" phrase
 :shiny: [Survival] Merged "how to sell" of auction house with /sellg's message
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 **TEXTURES**
 :shiny: [Java] Added new **Help UI**
