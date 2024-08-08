@@ -10,7 +10,7 @@
 :shiny: [Survival] Modified **Access Tokens** lore, No longer showing cooldown period (10s)
 :shiny: [Survival] Experimental Removal, Removed **JANITOR** for performance test purposes
 :shiny: [Survival] Added **Arena Trader** label image, Fancy :D
-:shiny: [Survival] 
+:shiny: [Survival] Added **Spawn's Border**, Reported by _xSilence9503
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
