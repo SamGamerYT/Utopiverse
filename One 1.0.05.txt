@@ -1,16 +1,9 @@
 **Patch/Changes 1.0.05** *[Oneblock]*
 :grass: [QOL] Staff Ranks have been updated to use Custom UI Design
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
+:grass: [QOL] Added **Silky Pickaxe** at **"/warp smither"** - (WhispyW)
 :grass: Fixed Bug related to "/rewards" not giving keys out
 :grass: Fixed blacklist with shulker box in Auction House
 :grass: Fixed memory leak issue with category system
 :grass: Updated Dependencies (8/2/2024)
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
  
 **[@Changelogs]**
