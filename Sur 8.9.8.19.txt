@@ -11,8 +11,7 @@
 :shiny: [Survival] Experimental Removal, Removed **JANITOR** for performance test purposes
 :shiny: [Survival] Added **Arena Trader** label image, Fancy :D
 :shiny: [Survival] Added **Spawn's Border**, Reported by _xSilence9503
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **New Waystones** for Dungeon Teleportation
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -37,8 +36,8 @@
 
 **TEXTURES**
 :shiny: [Java] Added new **Help UI**
-:shiny: [Java] Optimized **Settings UI** to match new server **Style and Design**
 :shiny: [Java] Optimized **Rules UI** to match new server **Style and Design**
+:shiny: [Java] Optimized **Settings UI** to match new server **Style and Design**
 :shiny: [Java] 
 :shiny: [Java] 
 
