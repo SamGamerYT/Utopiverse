@@ -16,8 +16,7 @@
 :shiny: [Survival] Increased **Warden, Wither Skeleton, and Zoglin** durability from **2048** to **4096**
 
 :shiny: [Survival] Modified Recipe for **Arena Entrance** tokens
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Bandages** Items
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
