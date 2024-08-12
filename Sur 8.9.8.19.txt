@@ -17,6 +17,7 @@
 
 :shiny: [Survival] Modified Recipe for **Arena Entrance** tokens
 :shiny: [Survival] Modified **Bandages** Items
+:shiny: [Survival] Modified **Bombs** Items and Lore
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
