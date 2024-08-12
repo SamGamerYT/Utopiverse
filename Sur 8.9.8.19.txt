@@ -15,7 +15,7 @@
 :shiny: [Survival] Modified **Dungeon Waystones** entry message and title (Less cluttered now)
 :shiny: [Survival] Increased **Warden, Wither Skeleton, and Zoglin** durability from **2048** to **4096**
 
-:shiny: [Survival] 
+:shiny: [Survival] Modified Recipe for **Arena Entrance** tokens
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
