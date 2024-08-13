@@ -21,6 +21,7 @@
 :shiny: [Survival] Extremely Buffed **Mangekyou Sharingan**.
 :shiny: [Survival] Changed "Craft Item" to "Upgrade Item" for Upgrade Recipes
 :shiny: [Survival] Players can now craft **Copper Medal** by putting 2x **Special Rocks** in crafting table!
+:shiny: [Survival] Dependencies Updated (8/13/2024)
 
 **AUTO RESPONSE**
 :shiny: [Survival] Removed "can sell" and "to sell" phrase
