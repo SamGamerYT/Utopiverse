@@ -19,7 +19,7 @@
 :shiny: [Survival] Modified **Bandages** Items
 :shiny: [Survival] Modified **Bombs** Items and Lore
 :shiny: [Survival] Extremely Buffed **Mangekyou Sharingan**.
-:shiny: [Survival] 
+:shiny: [Survival] Changed "Craft Item" to "Upgrade Item" for Upgrade Recipes
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
