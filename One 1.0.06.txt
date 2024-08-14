@@ -1,7 +1,7 @@
 **Patch/Changes 1.0.06** *[Oneblock]*
 :grass: [QOL] Modified **Envoy's** claiming message
 :grass: [QOL] Modified **Warp Messages** to Waystone message.
-:grass: [QOL] 
+:grass: [QOL] Fixed and added new **Envoy Rewards** *(WhispyW)*
 :grass: 
 :grass: 
 :grass: 
