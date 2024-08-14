@@ -3,7 +3,7 @@
 :grass: [QOL] Modified **Warp Messages** to Waystone message.
 :grass: [QOL] Fixed and added new **Envoy Rewards** *(WhispyW)*
 :grass: [QOL] Fixed Spaces between **"Sky Prefix"** and **Rankup Rank** in Chat
-:grass: [QOL] 
+:grass: [QOL] Added New **Tutorial** UI and Wumpus NPC for players to easily navigate and learn the ropes.
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: 
