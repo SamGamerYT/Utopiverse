@@ -15,7 +15,8 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-:shiny: [Survival] 
+**RPG LEVEL CHANGES**
+:shiny: [Survival] **Scorched Ember Armour** level requirement has been set to **Level 14**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
