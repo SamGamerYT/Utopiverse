@@ -1,4 +1,5 @@
 **Patch/Changes 1.0.06** *[Oneblock]*
+:grass: [QOL] Modified **Envoy's** claiming message
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: 
