@@ -20,7 +20,7 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] **Creeper Plushie** level requirement has been set to **Level 13**
+:shiny: [Survival] **Creeper, Pufferfish Plushie** level requirement has been set to **Level 13**
 :shiny: [Survival] **Bat Plushie** level requirement has been set to **Level 12**
 :shiny: [Survival] **Wither Skeleton Plushie** level requirement has been set to **Level 16**
 :shiny: [Survival] **Zoglin Plushie** level requirement has been set to **Level 23**
