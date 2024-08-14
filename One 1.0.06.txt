@@ -1,6 +1,6 @@
 **Patch/Changes 1.0.06** *[Oneblock]*
 :grass: [QOL] Modified **Envoy's** claiming message
-:grass: [QOL] 
+:grass: [QOL] Modified **Warp Messages** to Waystone message.
 :grass: [QOL] 
 :grass: 
 :grass: 
