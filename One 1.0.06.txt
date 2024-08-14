@@ -6,7 +6,7 @@
 :grass: [QOL] Added New **Tutorial** UI and Wumpus NPC for players to easily navigate and learn the ropes.
 :grass: [QOL] **Crates Rewards** output command issue fixed *(SmartName)*
 :grass: [QOL] Modified **Chat Games** chat message to match server's format
-:grass: [QOL] 
+:grass: [QOL] Modified **Envoy Event** messages to match server's format
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: 
