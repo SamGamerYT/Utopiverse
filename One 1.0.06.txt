@@ -5,7 +5,7 @@
 :grass: [QOL] Fixed Spaces between **"Sky Prefix"** and **Rankup Rank** in Chat
 :grass: [QOL] Added New **Tutorial** UI and Wumpus NPC for players to easily navigate and learn the ropes.
 :grass: [QOL] **Crates Rewards** output command issue fixed *(SmartName)*
-:grass: [QOL] 
+:grass: [QOL] Modified **Chat Games** chat message to match server's format
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
