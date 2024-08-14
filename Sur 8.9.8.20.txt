@@ -2,7 +2,7 @@
 :shiny: [Survival] Changed **Scroll Bomb** name to **Throwable Bomb**
 :shiny: [Survival] Disabled the ability to rename **Dungeon Loot**
 :shiny: [Survival] Modified **Fishing Tournament** starting chat broadcast
-:shiny: [Survival] 
+:shiny: [Survival] Buffed **Creeper Plushie** added +30 Earth Defense
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
