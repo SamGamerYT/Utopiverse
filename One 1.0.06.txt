@@ -2,6 +2,10 @@
 :grass: [QOL] Modified **Envoy's** claiming message
 :grass: [QOL] Modified **Warp Messages** to Waystone message.
 :grass: [QOL] Fixed and added new **Envoy Rewards** *(WhispyW)*
+:grass: [QOL] 
+:grass: [QOL] 
+:grass: [QOL] 
+:grass: [QOL] 
 :grass: 
 :grass: 
 :grass: 
