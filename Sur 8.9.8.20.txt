@@ -3,7 +3,7 @@
 :shiny: [Survival] Disabled the ability to rename **Dungeon Loot**
 :shiny: [Survival] Modified **Fishing Tournament** starting chat broadcast
 :shiny: [Survival] Buffed **Creeper Plushie** added **+30 Earth Defense**
-:shiny: [Survival] Disabled **Healing** number popup
+:shiny: [Survival] Disabled **Healing** number popup when healed or regenerated
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
