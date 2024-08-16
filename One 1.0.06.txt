@@ -8,11 +8,6 @@
 :grass: [QOL] Modified **Chat Games** chat message to match server's format
 :grass: [QOL] Modified **Envoy Event** messages to match server's format
 :grass: [QOL] Modified **Guide NPC** to showcase our custom npc's a bit :D
-:grass: [QOL] 
-:grass: 
 :grass: Dependencies Updated [8/15/2024]
-:grass: 
-:grass: 
-:grass: 
  
 **[@Changelogs]**
