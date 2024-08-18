@@ -7,7 +7,7 @@
 :shiny: [Survival] Dependencies Updated [8/15/2024]
 :shiny: [Survival] Created **Bartender Zone** near **"/blacksmith"**
 :shiny: [Survival] Added a new command **"/bar"** that teleports you to **Bartender**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Volcano Codex** miscalculation
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
