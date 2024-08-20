@@ -3,7 +3,7 @@
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
-:grass: [QOL] 
+:grass: [QOL] Added **"/blacksmith"** command to teleport players to **Blacksmith**
 :grass: Fixed a bug where custom npc's were turning into a cow after restart.
 :grass: Added **Mini Staff Team** around the **"/spawn"** zone
 :grass: 
