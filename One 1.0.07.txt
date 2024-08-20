@@ -4,7 +4,7 @@
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
-:grass: 
+:grass: Fixed a bug where custom npc's were turning into a cow after restart.
 :grass: 
 :grass: 
 :grass: 
