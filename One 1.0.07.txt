@@ -1,7 +1,7 @@
 **Patch/Changes 1.0.07** *[Oneblock]*
 :grass: [QOL] 
 :grass: [QOL] 
-:grass: [QOL] 
+:grass: [QOL] Confirmation timer for Kick, Leave and reset has been increased from **10** to **30**
 :grass: [QOL] Added **"/blacksmith"** command to teleport players to **Blacksmith**
 :grass: [QOL] Modified **"/ob phases"** to be more modern, textured and easy on the eyes
 
