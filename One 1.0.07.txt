@@ -5,7 +5,7 @@
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: Fixed a bug where custom npc's were turning into a cow after restart.
-:grass: 
+:grass: Added **Mini Staff Team** around the **"/spawn"** zone
 :grass: 
 :grass: 
 :grass: 
