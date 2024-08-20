@@ -2,8 +2,9 @@
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
-:grass: [QOL] 
 :grass: [QOL] Added **"/blacksmith"** command to teleport players to **Blacksmith**
+:grass: [QOL] Modified **"/ob phases"** to be more modern, textured and easy on the eyes
+
 :grass: Fixed a bug where custom npc's were turning into a cow after restart.
 :grass: Added **Mini Staff Team** around the **"/spawn"** zone
 :grass: Fixed **Desert Phase** switch in **"/ob phases"** menu
