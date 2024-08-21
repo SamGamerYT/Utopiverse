@@ -9,7 +9,7 @@
 :shiny: [Survival] Added a new command **"/bar"** that teleports you to **Bartender**
 :shiny: [Survival] Fixed **Volcano Codex** miscalculation
 :shiny: [Survival] **Energy Stone** has been fixed in **"/pshop"**
-:shiny: [Survival] 
+:shiny: [Survival] Dependencies Updated [8/21/2024]
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
