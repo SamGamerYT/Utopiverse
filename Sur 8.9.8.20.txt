@@ -10,47 +10,15 @@
 :shiny: [Survival] Fixed **Volcano Codex** miscalculation
 :shiny: [Survival] **Energy Stone** has been fixed in **"/pshop"**
 :shiny: [Survival] Dependencies Updated [8/21/2024]
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **RPG LEVEL CHANGES**
 :shiny: [Survival] **Scorched Ember Armour** level requirement has been set to **Level 14**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 :shiny: [Survival] **Creeper, Pufferfish Plushie** level requirement has been set to **Level 13**
 :shiny: [Survival] **Bat Plushie** level requirement has been set to **Level 12**
 :shiny: [Survival] **Goat Plushie** level requirement has been set to **Level 7**
 :shiny: [Survival] **Wither Skeleton Plushie** level requirement has been set to **Level 16**
 :shiny: [Survival] **Zoglin Plushie** level requirement has been set to **Level 23**
 :shiny: [Survival] **Warden Plushie** level requirement has been set to **Level 30**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**AUTO RESPONSE**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**TEXTURES**
-:shiny: [Java] 
-:shiny: [Java] 
-:shiny: [Java] 
-:shiny: [Java] 
-:shiny: [Java] 
-
-**BOSS ZONE CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**TEXTURES**
-:shiny: [Global] 
-
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Survival] 
 
 **[@Changelogs]**
 *(Special Thanks to _WhispyW)*
@@ -72,6 +40,9 @@
 :shiny: [Java] 
 :shiny: [Textures]
 
+
+**BOSS ZONE CHANGES**
+**AUTO RESPONSE**
 **JAVA**
 **CRATES**
 **BEDROCK**
