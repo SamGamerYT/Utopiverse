@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.21** *(Network Changes)*
 :shiny: [Survival] Removed **Mine Dungeon Codex** requirement from **Compressed Rock**
-:shiny: [Survival] 
+:shiny: [Survival] Buffed **Repair Stone** to repair 2x the initial amount & added textured icon
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
