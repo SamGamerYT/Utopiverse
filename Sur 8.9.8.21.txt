@@ -3,7 +3,7 @@
 :shiny: [Survival] Buffed **Repair Stone** to repair 2x the initial amount & added textured icon
 :shiny: [Survival] Modified **Golden Apple** and **Enchanted Golden Apple**'s crafting recipe at **Guard Trader**
 :shiny: [Survival] Revamped **Money Pouches** and **Experience Pouches**, Textured and Stylish.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed minor issue in **Rankup System**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
