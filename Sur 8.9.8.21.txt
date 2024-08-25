@@ -8,7 +8,7 @@
 :shiny: [Survival] Modified **Chat Games** rewards and reward message
 :shiny: [Survival] Increased **Opal's Gear** Durability to match **Netherite Gear**
 :shiny: [Survival] Increased **Jade's Gear** Durability to match **Netherite Gear**
-:shiny: [Survival] 
+:shiny: [Survival] Added **"/pwarp Crates"** as players were typing /pwarp a lot.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
