@@ -9,7 +9,7 @@
 :shiny: [Survival] Increased **Opal's Gear** Durability to match **Netherite Gear**
 :shiny: [Survival] Increased **Jade's Gear** Durability to match **Netherite Gear**
 :shiny: [Survival] Added **"/pwarp Crates"** as players were typing /pwarp a lot.
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Jade Gear** from Diamond to Netherite and Added netherite ingot as crafting recipe.
 :shiny: [Survival] 
 
 **RPG LEVEL CHANGES**
