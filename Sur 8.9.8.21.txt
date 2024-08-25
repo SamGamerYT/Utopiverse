@@ -5,7 +5,7 @@
 :shiny: [Survival] Revamped **Money Pouches** and **Experience Pouches**, Textured and Stylish.
 :shiny: [Survival] Fixed minor issue in **Rankup System**
 :shiny: [Survival] Revamped **Statistics** and **Tournaments** User Interface Texture.
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Chat Games** rewards and reward message
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
