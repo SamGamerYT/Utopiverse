@@ -12,7 +12,7 @@
 :shiny: [Survival] Modified **Jade Gear** from Diamond to Netherite and Added netherite ingot as crafting recipe.
 :shiny: [Survival] Buffed **Copper Gear**, Simple gear for players to obtain.
 :shiny: [Survival] Modified **Scoreboard** to allow bedrock players to see details properly.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **"/stats"** menu not showing stats properly.
 :shiny: [Survival] 
 
 **RPG LEVEL CHANGES**
