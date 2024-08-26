@@ -11,7 +11,7 @@
 :shiny: [Survival] Added **"/pwarp Crates"** as players were typing /pwarp a lot.
 :shiny: [Survival] Modified **Jade Gear** from Diamond to Netherite and Added netherite ingot as crafting recipe.
 :shiny: [Survival] Buffed **Copper Gear**, Simple gear for players to obtain.
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Scoreboard** to allow bedrock players to see details properly.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
