@@ -13,6 +13,9 @@
 :shiny: [Survival] Buffed **Copper Gear**, Simple gear for players to obtain.
 :shiny: [Survival] Modified **Scoreboard** to allow bedrock players to see details properly.
 :shiny: [Survival] Fixed **"/stats"** menu not showing stats properly.
+:shiny: [Survival] Fixed double space issue in **TAB** for Java Player
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **RPG LEVEL CHANGES**
