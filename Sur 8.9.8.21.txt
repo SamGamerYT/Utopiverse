@@ -14,7 +14,7 @@
 :shiny: [Survival] Modified **Scoreboard** to allow bedrock players to see details properly.
 :shiny: [Survival] Fixed **"/stats"** menu not showing stats properly.
 :shiny: [Survival] Fixed double space issue in **TAB** for Java Player
-:shiny: [Survival] 
+:shiny: [Survival] Knight Rank will no longer be assigned globally to players
 :shiny: [Survival] 
 :shiny: [Survival] 
 
