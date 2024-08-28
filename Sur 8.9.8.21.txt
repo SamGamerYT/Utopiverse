@@ -15,6 +15,7 @@
 :shiny: [Survival] Fixed **"/stats"** menu not showing stats properly.
 :shiny: [Survival] Fixed double space issue in **TAB** for Java Player
 :shiny: [Survival] Knight Rank will no longer be assigned globally to players
+
 :shiny: [Survival] Major Dependencies Updated [8/28/2024]
 :shiny: [Survival] Removed **"Chat Games"** Leaderboard near **Crates Zone**
 :shiny: [Survival] Added **Chat Games** Leaderboard in **"/stats"**
@@ -23,7 +24,7 @@
 :shiny: [Survival] **"/help"** command will now bring up the **Guide Menu**
 :shiny: [Survival] Modified **Fly Perk Prices** at **"/warp enchanter"** added **Silver Coins**
 :shiny: [Survival] Added Ability for **Liege Rank** to select their **Rank Colour** in **/namesettings**
-:shiny: [Survival] 
+:shiny: [Survival] Updated **Liege Rank** information in **"/ranks"**
 :shiny: [Survival] 
 
 **RPG LEVEL CHANGES**
