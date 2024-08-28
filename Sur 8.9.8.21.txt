@@ -20,6 +20,9 @@
 :shiny: [Survival] Added **Chat Games** Leaderboard in **"/stats"**
 :shiny: [Survival] Modified **"/stats"** information colour of **baltop** and **baltop bank**
 :shiny: [Survival] Improved **"/settings"** option for **Name Colour** in chat, it will display your nick now.
+:shiny: [Survival] **"/help"** command will now bring up the **Guide Menu**
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
