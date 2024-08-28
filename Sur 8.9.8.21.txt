@@ -15,6 +15,7 @@
 :shiny: [Survival] Fixed **"/stats"** menu not showing stats properly.
 :shiny: [Survival] Fixed double space issue in **TAB** for Java Player
 :shiny: [Survival] Knight Rank will no longer be assigned globally to players
+:shiny: [Survival] Major Dependencies Updated [8/28/2024]
 :shiny: [Survival] 
 :shiny: [Survival] 
 
