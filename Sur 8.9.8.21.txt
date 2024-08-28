@@ -18,6 +18,8 @@
 :shiny: [Survival] Major Dependencies Updated [8/28/2024]
 :shiny: [Survival] Removed **"Chat Games"** Leaderboard near **Crates Zone**
 :shiny: [Survival] Added **Chat Games** Leaderboard in **"/stats"**
+:shiny: [Survival] Modified **"/stats"** information colour of **baltop** and **baltop bank**
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **RPG LEVEL CHANGES**
