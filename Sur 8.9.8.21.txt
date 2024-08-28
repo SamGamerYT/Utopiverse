@@ -22,7 +22,7 @@
 :shiny: [Survival] Improved **"/settings"** option for **Name Colour** in chat, it will display your nick now.
 :shiny: [Survival] **"/help"** command will now bring up the **Guide Menu**
 :shiny: [Survival] Modified **Fly Perk Prices** at **"/warp enchanter"** added **Silver Coins**
-:shiny: [Survival] 
+:shiny: [Survival] Added Ability for **Liege Rank** to select their **Rank Colour** in **/namesettings**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
