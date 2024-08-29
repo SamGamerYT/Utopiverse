@@ -2,7 +2,7 @@
 :shiny: [Survival] Added new **Packet Manager**
 :shiny: [Survival] Added more **Optimizations** and **Exploit Fixes**
 :shiny: [Survival] Added **Repeater** and **Comparator** limit of 15 in a chunk
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **AFK Pool** giving players **600 XP Levels**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
