@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.22** *(Network Changes)*
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added new **Packet Manager**
+:shiny: [Survival] Added more **Optimizations** and **Exploit Fixes**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
