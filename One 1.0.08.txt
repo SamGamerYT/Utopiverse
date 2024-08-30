@@ -3,7 +3,7 @@
 :grass: [QOL] 
 :grass: [QOL] 
 
-:grass: 
+:grass: Fixed **Light Blue Shulker** welcome kit not being given to players when claimed in **"/welcomekit"**
 :grass: 
 :grass: 
 :grass: 
