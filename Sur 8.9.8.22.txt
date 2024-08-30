@@ -5,6 +5,7 @@
 :shiny: [Survival] Fixed **AFK Pool** giving players **600 XP Levels**
 :shiny: [Survival] Debugged **Liege Rank** Chat issue
 :shiny: [Survival] Relocated **Community Chest** Hologram near **"/warp crates"**
+:shiny: [Survival] Added **Random Tips** around **Spawn Area**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
