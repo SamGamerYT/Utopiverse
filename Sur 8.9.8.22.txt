@@ -8,9 +8,7 @@
 :shiny: [Survival] Added **Random Tips** around **Spawn Area**
 :shiny: [Survival] Fixed **Frostwyrm Shield** ability, Should work properly now.
 :shiny: [Survival] **Frostwyrm Shield**'s model is now 0.8 times bigger.
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Codex Hologram** at **"/warp mine"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
