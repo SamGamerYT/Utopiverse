@@ -10,6 +10,7 @@
 :shiny: [Survival] **Frostwyrm Shield**'s model is now 0.8 times bigger.
 :shiny: [Survival] Added **Codex Hologram** at **"/warp mine"**
 :shiny: [Survival] Modified **Mine Dungeon** entrance hologram
+:shiny: [Survival] Modified **"/warp exchanger"** hologram and added a tip
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
