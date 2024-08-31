@@ -7,7 +7,7 @@
 :shiny: [Survival] Relocated **Community Chest** Hologram near **"/warp crates"**
 :shiny: [Survival] Added **Random Tips** around **Spawn Area**
 :shiny: [Survival] Fixed **Frostwyrm Shield** ability, Should work properly now.
-:shiny: [Survival] 
+:shiny: [Survival] **Frostwyrm Shield**'s model is now 0.8 times bigger.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
