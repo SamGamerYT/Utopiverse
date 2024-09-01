@@ -13,6 +13,7 @@
 :shiny: [Survival] Modified **"/warp exchanger"** hologram and added a tip
 :shiny: [Survival] Relocated **Sarnak Trader** near the House at **"/spawn"**
 :shiny: [Survival] **Tournaments Announcement** are completing automatic now :D
+:shiny: [Survival] The following **Tournaments** are modified: **Passive**, **Hostile** and **Blocks**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
