@@ -12,7 +12,7 @@
 :shiny: [Survival] Modified **Mine Dungeon** entrance hologram
 :shiny: [Survival] Modified **"/warp exchanger"** hologram and added a tip
 :shiny: [Survival] Relocated **Sarnak Trader** near the House at **"/spawn"**
-:shiny: [Survival] 
+:shiny: [Survival] **Tournaments Announcement** are completing automatic now :D
 :shiny: [Survival] 
 :shiny: [Survival] 
 
