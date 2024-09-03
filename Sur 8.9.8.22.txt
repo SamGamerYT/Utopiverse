@@ -16,7 +16,7 @@
 :shiny: [Survival] The following **Tournaments** are modified: **Passive**, **Hostile** and **Blocks**
 :shiny: [Survival] Modified **Halloween Monthlycrate** as per player suggestion
 :shiny: [Survival] Disabled BlackMarket's **Greeting Title**
-:shiny: [Survival] 
+:shiny: [Survival] Sell and Buy Icons in **"/shop"** will work properly now.
 :shiny: [Survival] 
 
 :shiny: [Survival] Modified Tinkerer NPC's placement below **Bank Zone**
