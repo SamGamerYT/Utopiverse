@@ -24,6 +24,7 @@
 :shiny: [Survival] Fixed **Vote Shop** doing nothing in **"/guide"** menu for bedrock players
 :shiny: [Survival] Removed old **"/rules"** menu, Added Better styled UI
 :shiny: [Survival] Added new **"/help"** menu, Textured and Stylish
+:shiny: [Survival] Added new **"/settings"** menu, Textured and Stylish
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
