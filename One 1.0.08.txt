@@ -3,7 +3,7 @@
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: Fixed **Light Blue Shulker** welcome kit not being given to players when claimed in **"/welcomekit"**
-:grass: 
+:grass: Fixed issue with **Chat Filter** filtering the messages wrong.
 :grass: 
 :grass: 
 
