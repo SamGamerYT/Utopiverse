@@ -20,6 +20,7 @@
 :shiny: [Survival] 
 
 :shiny: [Survival] Modified Tinkerer NPC's placement below **Bank Zone**
+:shiny: [Survival] Opened up a big room for community rented building zone
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
