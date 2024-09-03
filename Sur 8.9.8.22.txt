@@ -35,11 +35,7 @@
 :shiny: [Survival] 
 
 **AUTO RESPONSE**
-:shiny: [Survival] Added New response for **I lost my stuff!**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added New response for **I lost my stuff!** and 6 other common questions!
 
 **[@Changelogs]**
 *(Special Thanks to _WhispyW)*
