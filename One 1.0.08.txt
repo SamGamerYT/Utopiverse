@@ -1,7 +1,7 @@
 **Patch/Changes 1.0.08** *[Oneblock]*
 :grass: [QOL] 
 :grass: [QOL] 
-:grass: [QOL] 
+:grass: [QOL] **Dungeon** Portal is now working properly, Will transfer to **"/spawn"**
 :grass: Fixed **Light Blue Shulker** welcome kit not being given to players when claimed in **"/welcomekit"**
 :grass: Fixed issue with **Chat Filter** filtering the messages wrong.
 :grass: 
