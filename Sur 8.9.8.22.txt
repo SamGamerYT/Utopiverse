@@ -15,10 +15,11 @@
 :shiny: [Survival] **Tournaments Announcement** are completing automatic now :D
 :shiny: [Survival] The following **Tournaments** are modified: **Passive**, **Hostile** and **Blocks**
 :shiny: [Survival] Modified **Halloween Monthlycrate** as per player suggestion
+:shiny: [Survival] Disabled
+:shiny: [Survival] 
 :shiny: [Survival] 
 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Modified Tinkerer NPC's placement below **Bank Zone**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
