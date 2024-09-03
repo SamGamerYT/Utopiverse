@@ -23,6 +23,7 @@
 :shiny: [Survival] Opened up a big room for community rented building zone
 :shiny: [Survival] Fixed **Vote Shop** doing nothing in **"/guide"** menu for bedrock players
 :shiny: [Survival] Removed old **"/rules"** menu, Added Better styled UI
+:shiny: [Survival] Added new **"/help"** menu, Textured and Stylish
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
