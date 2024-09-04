@@ -30,7 +30,7 @@
 :shiny: [Survival] Separated **Medal Trader** from Blacksmith, Medal Trader is now located near **Blacksmith Zone**
 :shiny: [Survival] **Medal Trader NPC** will purchase your AFK Dust and Enchanted Dust *(Suggestion by **SKMASYKW**)*
 :shiny: [Survival] **Exchanger NPC** Trading UI has been expanded for future items.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Experience Pouches** in **Exchanger NPC**
 :shiny: [Survival] 
 
 **RPG LEVEL CHANGES**
