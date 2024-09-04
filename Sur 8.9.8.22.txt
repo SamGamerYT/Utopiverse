@@ -17,7 +17,6 @@
 :shiny: [Survival] Modified **Halloween Monthlycrate** as per player suggestion
 :shiny: [Survival] Disabled BlackMarket's **Greeting Title**
 :shiny: [Survival] Sell and Buy Icons in **"/shop"** will work properly now.
-:shiny: [Survival] 
 
 :shiny: [Survival] Modified Tinkerer NPC's placement below **Bank Zone**
 :shiny: [Survival] Opened up a big room for community rented building zone
@@ -31,47 +30,8 @@
 :shiny: [Survival] **Medal Trader NPC** will purchase your AFK Dust and Enchanted Dust *(Suggestion by **SKMASYKW**)*
 :shiny: [Survival] **Exchanger NPC** Trading UI has been expanded for future items.
 :shiny: [Survival] Added **Experience Pouches** in **Exchanger NPC**
-:shiny: [Survival] 
-
-**RPG LEVEL CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **AUTO RESPONSE**
 :shiny: [Survival] Added New response for **I lost my stuff!** and 6 other common questions!
 
 **[@Changelogs]**
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
