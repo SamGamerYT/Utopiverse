@@ -27,6 +27,7 @@
 :shiny: [Survival] Added new **"/settings"** menu, Textured and Stylish
 :shiny: [Survival] Added new **"/namesettings"** menu, Textured and Stylish
 :shiny: [Survival] Modified **Essence Trader's** GUI Title
+:shiny: [Survival] Separated **Medal Trader** from Blacksmith, Medal Trader is now located near **Blacksmith Zone**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
