@@ -33,6 +33,9 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+**ARENA CHANGES**
+:shiny: [Survival] Changed **Arena Menu** chance wording from **1 live** to **1 life**
+
 **UNDERGROUND ARENA CHANGES**
 :shiny: [Survival] Decreased spawners amount
 :shiny: [Survival] Updated the system, some things that werent working before should be working now
