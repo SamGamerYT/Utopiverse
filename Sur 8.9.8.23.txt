@@ -3,8 +3,8 @@
 :shiny: [Survival] Fixed a bug with **Repair Stones**, When right-clicked they wont get consumed.
 :shiny: [Survival] Fixed a major backend error that has been terrorizing me for the past 5 months.
 :shiny: [Survival] Fixed an issue with NPC's not despawning on **Server Reboot**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Disabled **"/vault"** command in **Arena**
+:shiny: [Survival] Modified **Item Cooldown** and **Skill Casting** text, compacted and easier to read now.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
