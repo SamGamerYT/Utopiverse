@@ -6,7 +6,7 @@
 :shiny: [Survival] Disabled **"/vault"** command in **Arena**
 :shiny: [Survival] Modified **Item Cooldown** and **Skill Casting** text, compacted and easier to read now.
 :shiny: [Survival] Modified **"/back"** command error message
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Dungeon Crate Key** from the **Exchanger** NPC
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -19,7 +19,7 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-:shiny: [Survival] 
+:shiny: [Network] Recoded the entire **UtopiverseUI** System, optimized and stole from RJ's (SmartName's) code. (Hours of Work)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
