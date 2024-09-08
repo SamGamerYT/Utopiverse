@@ -24,6 +24,9 @@
 :shiny: [Survival] Modified **Deliveries Rewards** UI, Added option for 7 new rewards.
 :shiny: [Survival] Modified **Confirm Your Action** UI, Fixed Pixal Error
 :shiny: [Survival] Modified **Arena Rewards** UI, Added static back button
+:shiny: [Survival] Modified **SellGUI** UI, Made it compatible with other UI's
+:shiny: [Survival] Added **Protection Settings** UI
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
