@@ -26,7 +26,7 @@
 :shiny: [Survival] Modified **Arena Rewards** UI, Added static back button
 :shiny: [Survival] Modified **SellGUI** UI, Made it compatible with other UI's
 :shiny: [Survival] Added **Protection Settings** UI
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Daily Bonus** UI, Made it compatible with other UI's
 :shiny: [Survival] 
 :shiny: [Survival] 
 
