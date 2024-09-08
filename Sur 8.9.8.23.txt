@@ -27,8 +27,7 @@
 :shiny: [Survival] Modified **SellGUI** UI, Made it compatible with other UI's
 :shiny: [Survival] Added **Protection Settings** UI
 :shiny: [Survival] Modified **Daily Bonus** UI, Made it compatible with other UI's
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] **MAJOR** Bug faced related to GUI's showing stacked number in item lores (Auction House Etc)
 
 **ARENA CHANGES**
 :shiny: [Survival] Changed **Arena Menu** chance wording from **1 live** to **1 life**
