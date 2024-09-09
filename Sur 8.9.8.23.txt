@@ -7,7 +7,7 @@
 :shiny: [Survival] Modified **Item Cooldown** and **Skill Casting** text, compacted and easier to read now.
 :shiny: [Survival] Modified **"/back"** command error message
 :shiny: [Survival] Removed **Dungeon Crate Key** from the **Exchanger** NPC
-:shiny: [Survival] 
+:shiny: [Survival] Fixed a bug where players could **"/pay"** themselves endlessly.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
