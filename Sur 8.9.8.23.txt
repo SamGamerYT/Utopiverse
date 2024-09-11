@@ -35,7 +35,8 @@
 **UNDERGROUND ARENA CHANGES**
 :shiny: [Survival] Decreased spawners amount
 :shiny: [Survival] Updated the system, some things that werent working before should be working now
-:shiny: [Survival] Minimum player requirement increase 2 > 4
+:shiny: [Survival] Minimum player requirement increase 2 > 3
+:shiny: [Survival] Re-Enabled **"/vault"** command as a temp fix
 
 **RPG LEVEL CHANGES**
 :shiny: [Survival] 
