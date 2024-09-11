@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.24** *(Network Changes)*
 :shiny: [Survival] Added a new **Tournament** in **"/tournaments"** related to Dungeons and Arena
-:shiny: [Survival] 
+:shiny: [Survival] New **Discounted** Perk for **King Rankup**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
