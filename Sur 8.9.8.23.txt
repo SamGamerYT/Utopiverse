@@ -12,7 +12,7 @@
 :shiny: [Survival] Added **Protection Settings** and Removed old **"/pshop"** UI, Protection Settings and Protection Shop has been merged.
 :shiny: [Survival] Added **Sea Pickle** in **Decoration Category** of **"/shop"**
 :shiny: [Survival] Increased **Rock** drop rate from **Zombies**
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Lost Miner's** Mine Dungeon Codex requirement
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
