@@ -5,7 +5,7 @@
 :grass: [QOL] Added **"/report"** system
 :grass: [QOL] Modified **"/stats"** menu, added more information and better styling
 :grass: [QOL] Added **Elevator System**, create your Elevator at your island today!
-:grass: [QOL] 
+:grass: [QOL] Added **Elevator Showcase** at **"/warp info"**
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
