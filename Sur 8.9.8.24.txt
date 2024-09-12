@@ -3,7 +3,7 @@
 :shiny: [Survival] New **Discounted** Perk for **King Rankup**
 :shiny: [Survival] **Scrolls** now will require the player to Right-Click them to redeem the rewards after **completion**.
 :shiny: [Survival] Modified **Deliveries** Messages and Fixed some **Deliveries errors**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed Double GUI problem in **"/report"** menu
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
