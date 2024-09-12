@@ -3,7 +3,7 @@
 :grass: Fixed **Light Blue Shulker** welcome kit not being given to players when claimed in **"/welcomekit"**
 :grass: Fixed issue with **Chat Filter** filtering the messages wrong.
 :grass: [QOL] Added **"/report"** system
-:grass: [QOL] Modified **"/stats"** menu, added more information and better styling
+:grass: [QOL] Modified **"/rules"** menu
 :grass: [QOL] Modified **Name Settings** menu, allows you to modify your username colour!
 :grass: [QOL] Added **Elevator System**, create your Elevator at your island today!
 :grass: [QOL] Added **Elevator Showcase** at **"/warp info"**
@@ -12,6 +12,7 @@
 :grass: [QOL] 
 :grass: Modified **"/warp"** menu code, more optimized and faster response
 :grass: Modified **"/settings"** menu code, more optimized, faster response and more options
+:grass: Modified **"/stats"** menu, added more information and better styling
 :grass: 
 :grass: 
 :grass: 
