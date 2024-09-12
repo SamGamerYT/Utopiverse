@@ -4,6 +4,14 @@
 :grass: [QOL] **Dungeon** Portal is now working properly, Will transfer to **"/spawn"**
 :grass: Fixed **Light Blue Shulker** welcome kit not being given to players when claimed in **"/welcomekit"**
 :grass: Fixed issue with **Chat Filter** filtering the messages wrong.
+:grass: [QOL] Added **"/report"** system
+:grass: 
+:grass: 
+:grass: 
+:grass: 
+:grass: 
+:grass: 
+:grass: 
 :grass: 
 :grass: 
 
