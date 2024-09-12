@@ -7,7 +7,7 @@
 :shiny: [Survival] Back button now works properly on **"/stats"** menu
 :shiny: [Survival] Added **GUI Opening** sound for **"/help"** menu
 :shiny: [Survival] Increased **Elevator's** Teleportation blocks from **28** to **30**
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Custom Crops** showcase at **"/spawn"** zone
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
