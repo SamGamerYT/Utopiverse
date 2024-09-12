@@ -7,8 +7,8 @@
 :grass: [QOL] Modified **Name Settings** menu, allows you to modify your username colour!
 :grass: [QOL] Added **Elevator System**, create your Elevator at your island today!
 :grass: [QOL] Added **Elevator Showcase** at **"/warp info"**
-:grass: [QOL] guaranteed four **Deepslate Emerald Ore's** to appear in Deepslate Phase
-:grass: [QOL] 
+:grass: [QOL] Guaranteed four **Deepslate Emerald Ore's** to appear in Deepslate Phase
+:grass: [QOL] Added **"/info"** command that will teleport you to **"/warp info"**
 :grass: [QOL] 
 :grass: Modified **"/warp"** menu code, more optimized and faster response
 :grass: Modified **"/settings"** menu code, more optimized, faster response and more options
