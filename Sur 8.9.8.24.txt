@@ -6,7 +6,7 @@
 :shiny: [Survival] Fixed Double GUI problem in **"/report"** menu
 :shiny: [Survival] Back button now works properly on **"/stats"** menu
 :shiny: [Survival] Added **GUI Opening** sound for **"/help"** menu
-:shiny: [Survival] 
+:shiny: [Survival] Increased **Elevator's** Teleportation blocks from **28** to **30**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
