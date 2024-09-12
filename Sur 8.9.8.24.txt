@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.24** *(Network Changes)*
 :shiny: [Survival] Added a new **Tournament** in **"/tournaments"** related to Dungeons and Arena
 :shiny: [Survival] New **Discounted** Perk for **King Rankup**
-:shiny: [Survival] 
+:shiny: [Survival] **Scrolls** now will require the player to Right-Click them to redeem the rewards after **completion**.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
