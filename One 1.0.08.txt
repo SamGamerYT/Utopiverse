@@ -20,6 +20,6 @@
 :grass: 
 
 **AUTO RESPONSE**
-:grass: [QOL] Added New response for **I lost my stuff!** and 6 other common questions!
+:grass: [QOL] Added New response for **how do i team!** and 6 other common questions!
  
 **[@Changelogs]**
