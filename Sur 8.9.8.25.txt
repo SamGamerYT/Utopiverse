@@ -1,11 +1,11 @@
 **Patch/Changes 8.9.8.25** *(Network Changes)*
-:shiny: [Survival] Fixed **"/pets"** menu not showing up properly
-:shiny: [Survival] **Dungeon Tournament** will only get increased within **Dungeons**
-:shiny: [Survival] **Opal Armour** Durability has been increased from **400** to **2560**
-:shiny: [Survival] **Jade Armour** Durability has been increased from **400** to **2560**
-:shiny: [Survival] **Aquamarine Armour** Durability has been increased from **500** to **2560**
-:shiny: [Survival] **Amethyst Armour** Durability has been increased from **600** to **4096**
-:shiny: [Survival] Fixed Description error on **Opal Armour**
+:shiny: [Survival] Fixed **"/pets"** menu not showing up properly.
+:shiny: [Survival] **Dungeon Tournament** will only get increased within **Dungeons**.
+:shiny: [Survival] **Opal Armour** durability has been increased from **400** to **2560**.
+:shiny: [Survival] **Jade Armour** durability has been increased from **400** to **2560**.
+:shiny: [Survival] **Aquamarine Armour** durability has been increased from **500** to **2560**.
+:shiny: [Survival] **Amethyst Armour** durability has been increased from **600** to **4096**.
+:shiny: [Survival] Fixed description error on **Opal Armour**.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
