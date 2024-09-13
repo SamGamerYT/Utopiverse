@@ -7,7 +7,8 @@
 :shiny: [Survival] **Amethyst Armour** durability has been increased from **600** to **4096**.
 :shiny: [Survival] Fixed description error on **Opal Armour**.
 :shiny: [Survival] Fixed description error on **Lost Mining Armour**.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed description error on **Upgraded Mining Armour**.
+:shiny: [Survival] Added an upgraded form of **Mining Armour** in **"/blacksmith"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
