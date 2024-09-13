@@ -2,6 +2,8 @@
 :shiny: [Survival] Fixed **"/pets"** menu not showing up properly
 :shiny: [Survival] **Dungeon Tournament** will only get increased within **Dungeons**
 :shiny: [Survival] **Opal's Armour** Durability has been increased from **400** to **2560**
+:shiny: [Survival] **Jade's Armour** Durability has been increased from **400** to **2560**
+:shiny: [Survival] **Amethyst's Armour** Durability has been increased from **600** to **4096**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
