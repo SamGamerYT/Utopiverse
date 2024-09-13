@@ -6,6 +6,7 @@
 :shiny: [Survival] **Aquamarine Armour** durability has been increased from **500** to **2560**.
 :shiny: [Survival] **Amethyst Armour** durability has been increased from **600** to **4096**.
 :shiny: [Survival] Fixed description error on **Opal Armour**.
+:shiny: [Survival] Fixed description error on **Lost Mining Armour**.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
