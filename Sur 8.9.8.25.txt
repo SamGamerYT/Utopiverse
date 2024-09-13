@@ -11,6 +11,7 @@
 :shiny: [Survival] Added an upgraded form of **Mining Armour** in **"/blacksmith"**
 :shiny: [Survival] Removed **Aquamarine** drop from **Ender Beast**
 :shiny: [Survival] Added **Exclusive Ender Beast** drop, a scale called **"Dragon's Scale"** that will be used in recipes
+:shiny: [Survival] Changed **Mining** to **Miner** for **Mine Dungeon Gear**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
