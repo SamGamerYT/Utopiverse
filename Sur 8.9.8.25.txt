@@ -20,6 +20,10 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
+
+**TEXTURES**
+:shiny: [Survival] Fixed **"/pets"** ui error
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
