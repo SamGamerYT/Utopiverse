@@ -28,6 +28,7 @@
 :shiny: [Survival] Fixed **"/upgrades"** ui error
 :shiny: [Survival] Fixed **"Parkour"** uis error
 :shiny: [Survival] Fixed **"/daily"** ui error
+:shiny: [Survival] Fixed **"/shop"** uis error
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
