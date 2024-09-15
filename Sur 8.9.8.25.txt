@@ -14,7 +14,7 @@
 :shiny: [Survival] Changed **Mining** to **Miner** for **Mine Dungeon Gear**
 :shiny: [Survival] Removed **Iron Tools/Gear** from **Ender Beast** loot drop table
 :shiny: [Survival] Dependencies Updates **[09/14/2024]**
-:shiny: [Survival] 
+:shiny: [Survival] Relocated **Historian Trader** at the **Guard Outpost**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
