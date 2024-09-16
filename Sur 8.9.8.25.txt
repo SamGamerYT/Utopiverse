@@ -31,6 +31,7 @@
 :shiny: [Survival] Fixed **"/shop"** uis error
 :shiny: [Survival] Fixed **"Arena"** uis error
 :shiny: [Survival] Fixed **15 Separate** crafting stations ui error
+:shiny: [Survival] Fixed **"Crates"** ui error
 :shiny: [Survival] 
 :shiny: [Survival] 
 
