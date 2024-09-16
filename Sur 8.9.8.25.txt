@@ -18,7 +18,7 @@
 :shiny: [Survival] Due to duping issue, we have deleted all old **Vote Shard** and Changed their ID to **Vote Crystal**
 :shiny: [Survival] **Vote Points** are now a physical currency, Virtual currency has been abandoned.
 :shiny: [Survival] Removed **Vote Points** from scoreboard
-:shiny: [Survival] 
+:shiny: [Survival] Changed **Attributes** to **Attrib** on scoreboard so players can read it.
 :shiny: [Survival] 
 
 **TEXTURES**
