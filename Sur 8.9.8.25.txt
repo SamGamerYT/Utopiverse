@@ -23,6 +23,8 @@
 :shiny: [Survival] Relocated **"/warp portal"** command location
 :shiny: [Survival] Dependencies Updates **[09/17/2024]**
 
+:shiny: [Build] Spawn is undergoing minor changes, changes that we need.
+
 **TEXTURES**
 :shiny: [Survival] Fixed **"/pets"** ui error
 :shiny: [Survival] Fixed **"/kits"** ui error
@@ -35,50 +37,4 @@
 :shiny: [Survival] Fixed **15 Separate** crafting stations ui error
 :shiny: [Survival] Fixed **"Crates"** ui error
 
-**ARENA CHANGES**
-:shiny: [Survival] 
-
-**UNDERGROUND ARENA CHANGES**
-:shiny: [Survival] 
-
-**RPG LEVEL CHANGES**
-:shiny: [Survival] 
-
-**AUTO RESPONSE**
-:shiny: [Survival] 
-
 **[@Changelogs]**
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
