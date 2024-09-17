@@ -22,7 +22,6 @@
 :shiny: [Survival] Removed **Portal Hologram**, sadly it was bit useless.
 :shiny: [Survival] Relocated **"/warp portal"** command location
 :shiny: [Survival] Dependencies Updates **[09/17/2024]**
-:shiny: [Survival] 
 
 **TEXTURES**
 :shiny: [Survival] Fixed **"/pets"** ui error
@@ -35,8 +34,6 @@
 :shiny: [Survival] Fixed **"Arena"** uis error
 :shiny: [Survival] Fixed **15 Separate** crafting stations ui error
 :shiny: [Survival] Fixed **"Crates"** ui error
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **ARENA CHANGES**
 :shiny: [Survival] 
