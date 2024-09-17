@@ -19,6 +19,9 @@
 :shiny: [Survival] **Vote Points** are now a physical currency, Virtual currency has been abandoned.
 :shiny: [Survival] Removed **Vote Points** from scoreboard
 :shiny: [Survival] Changed **Attributes** to **Attrib** on scoreboard so players can read it.
+:shiny: [Survival] Removed **Portal Hologram**, sadly it was bit useless.
+:shiny: [Survival] Relocated **"/warp portal"** command location
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **TEXTURES**
