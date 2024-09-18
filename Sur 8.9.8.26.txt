@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.26** *(Network Changes)*
 :shiny: [Survival] Removed old **Mall NPC** GUI
 :shiny: [Survival] Relocated **Mall's Waystone** and added more information related to **Chest Shop/Mall**
-:shiny: [Survival] 
+:shiny: [Survival] Playtime will now give **Vote Crystals** instead of **Vote Shards**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
