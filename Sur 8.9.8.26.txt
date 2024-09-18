@@ -16,7 +16,7 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Heavily buffed **Wraith Revenant Armour**, It should be able to handle Volcano Mobs.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
