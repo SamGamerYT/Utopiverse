@@ -7,9 +7,10 @@
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
+
+:grass: Fixed **Guide NPC** not working properly
 :grass: 
-
-
+:grass: 
 :grass: 
 :grass: 
  
