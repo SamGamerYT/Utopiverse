@@ -4,7 +4,7 @@
 :shiny: [Survival] Playtime will now give **Vote Crystals** instead of **Vote Shards**
 :shiny: [Survival] **Vamp** has been changed to **Vampirism** in special potions
 :shiny: [Survival] Lowered down **Render Distance** from 7 to 6
-:shiny: [Survival] 
+:shiny: [Survival] Relocated **Codex NPC**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
