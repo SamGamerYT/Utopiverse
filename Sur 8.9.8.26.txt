@@ -5,8 +5,8 @@
 :shiny: [Survival] **Vamp** has been changed to **Vampirism** in special potions
 :shiny: [Survival] Lowered down **Render Distance** from 7 to 6
 :shiny: [Survival] Relocated **Codex NPC**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Typos** and errors within **"/codex"** Mine Dungeon Category
+:shiny: [Survival] Created **Death Chest Scoreboard** to ensure new players will see and know that their loot is secured
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
