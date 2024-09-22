@@ -36,6 +36,7 @@
 :shiny: [Survival] 
 
 **ARENA CHANGES**
+:shiny: [Survival] Added **Kill Streaks** and rewards for killing multiple enemies at once!
 :shiny: [Survival] 
 
 **UNDERGROUND ARENA CHANGES**
