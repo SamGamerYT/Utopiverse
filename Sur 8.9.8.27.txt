@@ -4,6 +4,7 @@
 :shiny: [Survival] **Biome Teleportation** portals have been made a little deeper to ensure players don't get stuck in tp sequence
 :shiny: [Survival] Major Optimizations in **Furniture Code**
 :shiny: [Survival] Added **Sounds** to Furniture when you break them or place them.
+:shiny: [Survival] Removed **Unused** assets from the RP *(Java)*
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
