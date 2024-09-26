@@ -5,7 +5,7 @@
 :shiny: [Survival] Major Optimizations in **Furniture Code**
 :shiny: [Survival] Added **Sounds** to Furniture when you break them or place them.
 :shiny: [Survival] Removed **Unused** assets from the RP *(Java)*
-:shiny: [Survival] 
+:shiny: [Survival] Furnitures will now show up properly on **Item frames**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
