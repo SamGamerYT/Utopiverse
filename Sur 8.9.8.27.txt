@@ -2,9 +2,7 @@
 :shiny: [Survival] Optimizations of Java's Resourcepack related to GUI's (Faster Load)
 :shiny: [Survival] Fixed code error in **"/shop"**
 :shiny: [Survival] **Biome Teleportation** portals have been made a little deeper to ensure players don't get stuck in tp sequence
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Major Optimizations in **Furniture Code**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
