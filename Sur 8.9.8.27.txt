@@ -10,7 +10,7 @@
 :shiny: [Survival] Removed **Double Notification** for Waystone Teleportation.
 :shiny: [Survival] Modified **Waystone** and **"/warp"** teleportation message.
 :shiny: [Survival] Fixed and Optimized pets system, 6 hours of pain and suffering.
-:shiny: [Survival] 
+:shiny: [Survival] Pet **Sam** has received it's own special healing/damage ability.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
