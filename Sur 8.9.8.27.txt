@@ -14,12 +14,10 @@
 :shiny: [Survival] **Second Floor** mall shops can now be merged together
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+
+**FISHING**
+:shiny: [Survival] Added **3 New** bait system for Fishing!
+:shiny: [Survival] Added **42 New** fishes and new prices for fishes!
 :shiny: [Survival] 
 :shiny: [Survival] 
 
