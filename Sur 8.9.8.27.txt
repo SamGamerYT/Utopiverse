@@ -1,23 +1,25 @@
 **Patch/Changes 8.9.8.27** *(Network Changes)*
-:shiny: [Survival] Optimizations of Java's Resourcepack related to GUI's (Faster Load).
+:shiny: [Survival] Optimized Java's Resourcepack related to GUI's (Faster Load).
 :shiny: [Survival] Fixed code error in **"/shop"**.
-:shiny: [Survival] **Biome Teleportation** portals have been made a little deeper to ensure players don't get stuck in tp sequence.
-:shiny: [Survival] Major Optimizations in **Furniture Code**.
-:shiny: [Survival] Added **Sounds** to Furniture when you break them or place them.
-:shiny: [Survival] Removed **Unused** assets from the RP *(Java)*.
-:shiny: [Survival] Furnitures will now show up properly on **Item frames**.
-:shiny: [Survival] Modified **Death Chest** scoreboard colour to make it stand out.
-:shiny: [Survival] Removed **Double Notification** for Waystone Teleportation.
+:shiny: [Survival] **Biome Teleportation** portals have been made a little deeper to ensure players don't get stuck in the tp sequence.
+:shiny: [Survival] Major optimizations in **Furniture Code**.
+:shiny: [Survival] Added **sounds** to furniture when you break or place them.
+:shiny: [Survival] Removed **unused** assets from the RP *(Java)*.
+:shiny: [Survival] Furniture will now show up properly on **item frames**.
+:shiny: [Survival] Modified **Death Chest** scoreboard color to make it stand out.
+:shiny: [Survival] Removed **double notification** for Waystone Teleportation.
 :shiny: [Survival] Modified **Waystone** and **"/warp"** teleportation message.
-:shiny: [Survival] Fixed and Optimized pets system, 6 hours of pain and suffering.
-:shiny: [Survival] Pet **Sam** has received it's own special healing/damage ability.
-:shiny: [Survival] **Second Floor** mall shops can now be merged together
+:shiny: [Survival] Fixed and optimized pets system, 6 hours of pain and suffering.
+:shiny: [Survival] Pet **Sam** has received its own special healing/damage ability.
+:shiny: [Survival] **Second Floor** mall shops can now be merged together.
+:shiny: [Survival] Reduced **Crafting Price** of **Iridium Shard**.
+:shiny: [Survival] Modified **Iridium** loot lore information.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
 **FISHING**
-:shiny: [Survival] Added **3 New** bait system for Fishing!
-:shiny: [Survival] Added **42 New** fishes and new prices for fishes!
+:shiny: [Survival] Added **3 new** bait systems for fishing!
+:shiny: [Survival] Added **42 new** fishes and new prices for fishes!
 :shiny: [Survival] 
 :shiny: [Survival] 
 
