@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.8.28** *(Network Changes)*
-:shiny: [Survival] 
+:shiny: [Survival] **New Machine** has been added at **"/warp tinkerer"** that crushes your geodes!
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
