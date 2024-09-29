@@ -14,14 +14,10 @@
 :shiny: [Survival] **Second Floor** mall shops can now be merged together.
 :shiny: [Survival] Reduced **Crafting Price** of **Iridium Shard**.
 :shiny: [Survival] Modified **Iridium** loot lore information.
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **FISHING**
 :shiny: [Survival] Added **3 new** bait systems for fishing!
 :shiny: [Survival] Added **42 new** fishes and new prices for fishes!
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **TEXTURES**
 :shiny: [Survival] 
