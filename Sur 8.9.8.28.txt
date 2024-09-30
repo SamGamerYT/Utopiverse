@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.28** *(Network Changes)*
 :shiny: [Survival] **New Machine** has been added at **"/warp tinkerer"** that crushes your geodes!
 :shiny: [Survival] Modified **CE's** special scrolls lore to include "& Drop" wording
-:shiny: [Survival] 
+:shiny: [Survival] You can now sit in **Dungeon Skeleton Chair**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
