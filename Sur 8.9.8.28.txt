@@ -7,7 +7,7 @@
 :shiny: [Survival] Relocated **PvP and AFK Waystones** new other waystones.
 :shiny: [Survival] Added **New Mob** in **Volcano Codex** in **"/codex"**
 :shiny: [Survival] Fixed **"/codex"** typos in **Dungeon Codexes**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed an issue with **Wasteland's Codex** where Minotaur would not get **"Discovered"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
