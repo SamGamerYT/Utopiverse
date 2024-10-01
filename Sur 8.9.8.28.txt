@@ -31,6 +31,7 @@
 :shiny: [Survival] **Dead Miner Leader** health has been buffed to **5,120** from **2,048**
 :shiny: [Survival] Added **Vanilla Drops** to **Eye of the Sea** droptable.
 :shiny: [Survival] Added **Sound Effects** to **Wasteland Mobs**
+:shiny: [Survival] Heavily debuffed **Werewolf's** defense (60% to 20%)
 :shiny: [Survival] 
 
 **FISHING**
