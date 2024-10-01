@@ -37,6 +37,7 @@
 **BUILD**
 :shiny: [Survival] Added **Bridge** that connects **Farm Zone** with **Spawn Zone**
 :shiny: [Survival] Added **Floating Bridge** that connects **Spooder Zone** with **Farm Zone**
+:shiny: [Survival] Pet Chicken is now floating on top of a broom!
 :shiny: [Survival] 
 :shiny: [Survival] 
 
