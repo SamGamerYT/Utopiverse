@@ -18,8 +18,8 @@
 **DUNGEON DROPTABLE**
 :shiny: [Survival] Removed **Metamorphic Rock** from **Ender Beast** loot table
 :shiny: [Survival] Removed **Volcano Dungeon** drops from **Wasteland Mobs**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Both **Aventurine** and **Alexandrite** drops has been removed from **Volcano Mobs**, They been relocated to Wasteland
+:shiny: [Survival] **Possessed Villagers** drops has been heavily nerfed, will only include ores and special drop.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
