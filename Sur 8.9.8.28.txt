@@ -28,6 +28,8 @@
 :shiny: [Survival] Fixed a bug where players wouldn't get drop from **Miner Leader** or **Minotaur**
 :shiny: [Survival] **Miner Leader** name has been changed to **Dead Miner Leader**
 :shiny: [Survival] **Dead Miner Leader** health has been buffed to **5,120** from **2,048**
+:shiny: [Survival] Added **Vanilla Drops** to **Eye of the Sea** droptable.
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **FISHING**
