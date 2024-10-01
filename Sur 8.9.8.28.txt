@@ -33,6 +33,7 @@
 :shiny: [Survival] Added **Sound Effects** to **Wasteland Mobs**
 :shiny: [Survival] Heavily debuffed **Werewolf's** defense (60% to 20%)
 :shiny: [Survival] Heavily debuffed **Dark Elf's** defense (40% to 20%)
+:shiny: [Survival] Heavily debuffed **Dead Miner's** defense (30% to 10%)
 :shiny: [Survival] 
 
 **FISHING**
