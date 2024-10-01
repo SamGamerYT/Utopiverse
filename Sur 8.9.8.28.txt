@@ -20,6 +20,8 @@
 :shiny: [Survival] Removed **Volcano Dungeon** drops from **Wasteland Mobs**
 :shiny: [Survival] Both **Aventurine** and **Alexandrite** drops has been removed from **Volcano Mobs**, They been relocated to Wasteland
 :shiny: [Survival] Removed **Carnelian** drop from droptable below **Wasteland**
+:shiny: [Survival] Major **Optimizations** in **Dungeon Mobs** money rewarding system
+:shiny: [Survival] 
 
 :shiny: [Survival] **Possessed Villagers** drops has been heavily nerfed, will only include ores and special drop.
 :shiny: [Survival] You can now damage **Wasteland Mobs** with your **Bow** however they have Projectile Protection.
