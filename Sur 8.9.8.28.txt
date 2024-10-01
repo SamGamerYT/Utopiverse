@@ -5,7 +5,7 @@
 :shiny: [Survival] Removed **Wasteland** welcomer hologram
 :shiny: [Survival] Added **Parkour Waystone** hologram
 :shiny: [Survival] Relocated **PvP and AFK Waystones** new other waystones.
-:shiny: [Survival] 
+:shiny: [Survival] Added **New Mob** in **Volcano Codex** in **"/codex"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
