@@ -19,8 +19,10 @@
 :shiny: [Survival] Removed **Metamorphic Rock** from **Ender Beast** loot table
 :shiny: [Survival] Removed **Volcano Dungeon** drops from **Wasteland Mobs**
 :shiny: [Survival] Both **Aventurine** and **Alexandrite** drops has been removed from **Volcano Mobs**, They been relocated to Wasteland
+
 :shiny: [Survival] **Possessed Villagers** drops has been heavily nerfed, will only include ores and special drop.
 :shiny: [Survival] You can now damage **Wasteland Mobs** with your **Bow** however they have Projectile Protection.
+:shiny: [Survival] Fixed a bug where players wouldn't get drop from **Death Miner Leader** or **Minotaur**
 :shiny: [Survival] 
 
 **FISHING**
