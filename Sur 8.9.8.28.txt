@@ -41,6 +41,7 @@
 :shiny: [Survival] Added **Floating Bridge** that connects **Spooder Zone** with **Farm Zone**
 :shiny: [Survival] Pet Chicken is now floating on top of a broom!
 :shiny: [Survival] Two New **Floating Islands** for **PvP** and **AFK** Waystones
+:shiny: [Survival] Moved **Sand Island** near the Spawn and built a bridge that connects **Farm Zone** to **Desert Zone**
 :shiny: [Survival] 
 
 **TEXTURES**
