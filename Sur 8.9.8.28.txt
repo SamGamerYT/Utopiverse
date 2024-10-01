@@ -22,7 +22,7 @@
 :shiny: [Survival] Removed **Carnelian** drop from droptable below **Wasteland**
 :shiny: [Survival] Major **Optimizations** in **Dungeon Mobs** money rewarding system
 :shiny: [Survival] Fixed **Burnt Bones** and **Arrogant's** leveling system
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Stone Tools & Weapon** from **Mine Dungeon** droptable.
 
 :shiny: [Survival] **Possessed Villagers** drops has been heavily nerfed, will only include ores and special drop.
 :shiny: [Survival] You can now damage **Wasteland Mobs** with your **Bow** however they have Projectile Protection.
