@@ -32,6 +32,7 @@
 :shiny: [Survival] Added **Vanilla Drops** to **Eye of the Sea** droptable.
 :shiny: [Survival] Added **Sound Effects** to **Wasteland Mobs**
 :shiny: [Survival] Heavily debuffed **Werewolf's** defense (60% to 20%)
+:shiny: [Survival] Heavily debuffed **Dark Elf's** defense (40% to 20%)
 :shiny: [Survival] 
 
 **FISHING**
