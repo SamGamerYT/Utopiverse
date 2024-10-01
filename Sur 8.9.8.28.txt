@@ -16,8 +16,8 @@
 :shiny: [Survival] 
 
 **DUNGEON DROPTABLE**
-:shiny: [Survival] Removed **Volcano Dungeon** drops from **Wasteland Mobs**
 :shiny: [Survival] Removed **Metamorphic Rock** from **Ender Beast** loot table
+:shiny: [Survival] Removed **Volcano Dungeon** drops from **Wasteland Mobs**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
