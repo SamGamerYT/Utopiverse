@@ -14,6 +14,7 @@
 **DUNGEON DROPTABLE**
 :shiny: [Survival] Fixed an issue in **"Arrogant's"** Droptable
 :shiny: [Survival] All Wasteland mobs will drop money for being killed.
+:shiny: [Survival] Increased the drop of **"Eyes of the Sea"** mob from **1** to **3** maximum drop
 :shiny: [Survival] 
 
 **FISHING**
