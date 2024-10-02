@@ -13,7 +13,7 @@
 
 **DUNGEON DROPTABLE**
 :shiny: [Survival] Fixed an issue in **"Arrogant's"** Droptable
-:shiny: [Survival] 
+:shiny: [Survival] All Wasteland mobs will drop money for being killed.
 :shiny: [Survival] 
 
 **FISHING**
