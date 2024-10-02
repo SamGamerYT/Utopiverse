@@ -21,6 +21,8 @@
 :shiny: [Survival] 
 
 **BUILD**
+:shiny: [Survival] Road that connects **Green Zone** with **White Zone** has been re-designed
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **TEXTURES**
