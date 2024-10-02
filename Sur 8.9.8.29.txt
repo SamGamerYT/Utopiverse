@@ -22,6 +22,9 @@
 
 **BUILD**
 :shiny: [Survival] Road that connects **Green Zone** with **White Zone** has been re-designed
+:shiny: [Survival] Improved the Bridge that connects **Green Zone** with **Farm Zone**
+:shiny: [Survival] Removed old **Bee Hive** from **Green Zone**
+:shiny: [Survival] Added a big tree right behind **Spawn Zone** with a new **Bee Hive**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
