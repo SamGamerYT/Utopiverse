@@ -10,10 +10,6 @@
 :shiny: [Survival] Fixed an issue with **Wasteland's Codex** where Minotaur would not get **"Discovered"**
 :shiny: [Survival] Maintenance and Optimizations **[10/2/2024]**
 :shiny: [Survival] Modification of the auction categories system to improve performance (categories are now 20 to 30 times more efficient)
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **DUNGEON DROPTABLE**
 :shiny: [Survival] Removed **Metamorphic Rock** from **Ender Beast** loot table
@@ -35,8 +31,6 @@
 :shiny: [Survival] Heavily debuffed **Dark Elf's** defense (40% to 20%)
 :shiny: [Survival] Heavily debuffed **Dead Miner's** defense (30% to 10%)
 :shiny: [Survival] Added **Health Bar** on all **Wasteland Mobs**
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **FISHING**
 :shiny: [Survival] 
