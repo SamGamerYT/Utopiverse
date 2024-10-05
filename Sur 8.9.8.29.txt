@@ -17,6 +17,7 @@
 :shiny: [Survival] All Wasteland mobs will drop money for being killed.
 :shiny: [Survival] Increased the drop of **"Eyes of the Sea"** mob from **1** to **3** maximum drop
 :shiny: [Survival] **Minotaur** has a guaranteed drop of atleast **1 Minotaur Horn Powder**
+:shiny: [Survival] Spent 8+ Hours fixing backend errors related to Dungeons
 :shiny: [Survival] 
 
 **FISHING**
