@@ -18,6 +18,10 @@
 :shiny: [Survival] Increased the drop of **"Eyes of the Sea"** mob from **1** to **3** maximum drop
 :shiny: [Survival] **Minotaur** has a guaranteed drop of atleast **1 Minotaur Horn Powder**
 :shiny: [Survival] Spent 8+ Hours fixing backend errors related to Dungeons
+:shiny: [Survival] Fixed **Frost Dungeon** codex for **droptable**
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **FISHING**
