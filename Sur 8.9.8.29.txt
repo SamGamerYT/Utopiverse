@@ -4,12 +4,6 @@
 :shiny: [Survival] Fixed **Unreachable Easter Eggs** at **Spawn Zone**
 :shiny: [Survival] Major **Pack Technical Changes** Fixed - Quote by RJ
 :shiny: [Survival] Fixed **"Dr Evil"** not appearing properly in **"/tags"**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **DUNGEON DROPTABLE**
 :shiny: [Survival] Fixed an issue in **"Arrogant's"** Droptable
@@ -19,70 +13,11 @@
 :shiny: [Survival] **Minotaur** has a guaranteed drop of atleast **1 Minotaur Horn Powder**
 :shiny: [Survival] Spent 8+ Hours fixing backend errors related to Dungeons
 :shiny: [Survival] Fixed **Frost Dungeon** codex for **droptable**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**FISHING**
-:shiny: [Survival] 
 
 **BUILD**
 :shiny: [Survival] Road that connects **Green Zone** with **White Zone** has been re-designed
 :shiny: [Survival] Improved the Bridge that connects **Green Zone** with **Farm Zone**
 :shiny: [Survival] Removed old **Bee Hive** from **Green Zone**
 :shiny: [Survival] Added a big tree right behind **Spawn Zone** with a new **Bee Hive**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**TEXTURES**
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**UNDERGROUND ARENA CHANGES**
-:shiny: [Survival] 
-
-**RPG LEVEL CHANGES**
-:shiny: [Survival] 
-
-**AUTO RESPONSE**
-:shiny: [Survival] 
 
 **[@Changelogs]**
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
