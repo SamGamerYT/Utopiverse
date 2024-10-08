@@ -12,7 +12,7 @@
 :shiny: [Survival] 
 
 **DUNGEON DROPTABLE**
-:shiny: [Survival] 
+:shiny: [Survival] Buffed **Volcano Boss's** drop table from maximum of 3 to maximum of 6.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
