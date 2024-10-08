@@ -1,8 +1,8 @@
 **Patch/Changes 8.9.8.30** *(Network Changes)*
 :shiny: [Survival] Fixed **Auction House** broken colour code messages
 :shiny: [Survival] Fixed an issue in **Frost Dungeon** where skeleton's weren't holding a bow.
-:shiny: [Survival] Fixed **Exchanger** trading "Vote Shards" instead of "Vote Crystal"
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Exchanger** trading **Vote Shards** instead of **Vote Crystal**
+:shiny: [Survival] Fixed **Arena Rewards** giving **Vote Shards** instead of **Vote Crystals**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
