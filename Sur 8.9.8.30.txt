@@ -28,6 +28,9 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+**LOBBY**
+:shiny: [Lobby] Modified Server's Message of the Day (MOTD)
+
 **FISHING**
 :shiny: [Survival] 
 
