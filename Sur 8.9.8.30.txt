@@ -30,6 +30,7 @@
 
 **LOBBY**
 :shiny: [Lobby] Modified Server's Message of the Day (MOTD)
+:shiny: [Lobby] Added **Newer Java Version** support
 
 **FISHING**
 :shiny: [Survival] 
