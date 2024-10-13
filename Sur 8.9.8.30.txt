@@ -5,7 +5,7 @@
 :shiny: [Survival] Fixed **Arena Rewards** giving **Vote Shards** instead of **Vote Crystals**
 :shiny: [Survival] Added **5 Minutes** cooldown to **"/suicide"** command
 :shiny: [Survival] Slight modifications made to **Unique Welcome Message** *(Message that appears one time)*
-:shiny: [Survival] 
+:shiny: [Survival] Added **Furniture Shop** NPC at **"/spawn"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
