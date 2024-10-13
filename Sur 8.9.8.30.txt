@@ -7,8 +7,8 @@
 :shiny: [Survival] Slight modifications made to **Unique Welcome Message** *(Message that appears one time)*
 :shiny: [Survival] Added **Furniture Shop** NPC at **"/spawn"**
 :shiny: [Survival] Added **Furniture Zone** in **"/codex"**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Furniture Fragment** obtainable through **Dead Miner Leader** in Wasteland Dungeon
+:shiny: [Survival] You can trade in **Furniture Fragment** for Furniture Lootboxes at **Furniture Shop**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
