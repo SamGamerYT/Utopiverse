@@ -10,6 +10,8 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 **SPOODER**
 :shiny: [Survival] Fixed an issue with **Spooder Babies** when they will attack **Spooder Boss**
@@ -18,6 +20,7 @@
 
 **DUNGEON DROPTABLE**
 :shiny: [Survival] Buffed **Volcano Boss's** drop table from maximum of 3 to maximum of 6.
+:shiny: [Survival] Modified **Wasteland's Codex**, Added chances and better visibility of Rarity
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
