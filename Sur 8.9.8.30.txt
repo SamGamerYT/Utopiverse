@@ -39,6 +39,7 @@
 :shiny: [Lobby] Added **Newer Java Version** support
 
 **FISHING**
+:shiny: [Survival] Added 34 New Textured Fishes! *(Viewable at "/pond")*
 
 **BUILD**
 :shiny: [Survival] Relocated **Bee Hive** to a new place
