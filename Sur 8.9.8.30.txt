@@ -11,6 +11,7 @@
 :shiny: [Survival] You can trade in **Furniture Fragment** for Furniture Lootboxes at **Furniture Shop**
 :shiny: [Survival] Modified **Silk Touch II** Recipe in **Guard NPC**, Instead of repeating the same blocks it will now show them combined.
 :shiny: [Survival] Switched **Exotic Crate**'s NPC Skin
+:shiny: [Survival] **Cozy Chair, Arm Chair and Bench** will now have proper sitting offset.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
