@@ -13,6 +13,7 @@
 :shiny: [Survival] Switched **Exotic Crate**'s NPC Skin
 :shiny: [Survival] **Cozy Chair, Arm Chair and Bench** will now have proper sitting offset.
 :shiny: [Survival] Added **Help** NPC at **"/spawn"**
+:shiny: [Survival] Added a quick navigation command for **"/warp pond"** which is now **"/pond"**
 :shiny: [Survival] 
 
 **SPOODER**
@@ -38,7 +39,6 @@
 :shiny: [Lobby] Added **Newer Java Version** support
 
 **FISHING**
-:shiny: [Survival] 
 
 **BUILD**
 :shiny: [Survival] Relocated **Bee Hive** to a new place
