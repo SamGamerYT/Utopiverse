@@ -18,7 +18,7 @@
 
 **SPOODER**
 :shiny: [Survival] Fixed an issue with **Spooder Babies** when they will attack **Spooder Boss**
-:shiny: [Survival] 
+:shiny: [Survival] **Random**, **Basic** fishes in Bronze Category has been disabled.
 :shiny: [Survival] 
 
 **DUNGEON DROPTABLE**
