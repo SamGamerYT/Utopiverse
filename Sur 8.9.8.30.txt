@@ -14,7 +14,7 @@
 :shiny: [Survival] **Cozy Chair, Arm Chair and Bench** will now have proper sitting offset.
 :shiny: [Survival] Added **Help** NPC at **"/spawn"**
 :shiny: [Survival] Added a quick navigation command for **"/warp pond"** which is now **"/pond"**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed an issue where player's were able to visit **Dungeons** without Ranking Up
 
 **SPOODER**
 :shiny: [Survival] Fixed an issue with **Spooder Babies** when they will attack **Spooder Boss**
