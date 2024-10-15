@@ -19,20 +19,10 @@
 **SPOODER**
 :shiny: [Survival] Fixed an issue with **Spooder Babies** when they will attack **Spooder Boss**
 :shiny: [Survival] **Random**, **Basic** fishes in Bronze Category has been disabled.
-:shiny: [Survival] 
 
 **DUNGEON DROPTABLE**
 :shiny: [Survival] Buffed **Volcano Boss's** drop table from maximum of 3 to maximum of 6.
 :shiny: [Survival] Modified **Wasteland's Codex**, Added chances and better visibility of Rarity
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **LOBBY**
 :shiny: [Lobby] Modified Server's Message of the Day (MOTD)
@@ -48,58 +38,5 @@
 **BUILD** *(Whispy & _DrxR3fl3x_3)*
 :shiny: [Survival] Modified **Seasonal House**, and added Second Floor
 :shiny: [Survival] Modified the entire **Fishing Zone**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**TEXTURES**
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**UNDERGROUND ARENA CHANGES**
-:shiny: [Survival] 
-
-**RPG LEVEL CHANGES**
-:shiny: [Survival] 
-
-**AUTO RESPONSE**
-:shiny: [Survival] 
 
 **[@Changelogs]**
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
