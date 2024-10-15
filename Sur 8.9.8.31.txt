@@ -8,6 +8,10 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+**REDSTONE**
+:shiny: [Survival] Increased **Armour Stand** limit from **20** to **30**
+:shiny: [Survival] 
+
 **SPOODER**
 :shiny: [Survival] 
 
