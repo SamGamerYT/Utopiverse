@@ -2,7 +2,7 @@
 :shiny: [Survival] Fixed **Golden Apple** recipe at **Guard NPC** at **"/spawn"**
 :shiny: [Survival] Modified **Rare Key** and **Epic Key** recipes at **Exchanger NPC** near **"/warp bank"**
 :shiny: [Survival] Removed the following warps: Leaderboard, LB, Scrolls, RTP, 
-:shiny: [Survival] Fixed location of the following warps: Art, BS, Elevator
+:shiny: [Survival] Fixed location of the following warps: Art, BS, Elevator, Reward, Rewards, Daily
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
