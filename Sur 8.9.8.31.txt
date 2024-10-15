@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.31** *(Network Changes)*
 :shiny: [Survival] Fixed **Golden Apple** recipe at **Guard NPC** at **"/spawn"**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Rare Key** recipe at **Exchanger NPC** near **"/warp bank"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
