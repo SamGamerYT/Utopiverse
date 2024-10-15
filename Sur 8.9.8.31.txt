@@ -1,8 +1,8 @@
 **Patch/Changes 8.9.8.31** *(Network Changes)*
 :shiny: [Survival] Fixed **Golden Apple** recipe at **Guard NPC** at **"/spawn"**
 :shiny: [Survival] Modified **Rare Key** and **Epic Key** recipes at **Exchanger NPC** near **"/warp bank"**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Removed the following warps: Leaderboard, LB, Scrolls, RTP, 
+:shiny: [Survival] Fixed location of the following warps: Art
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
