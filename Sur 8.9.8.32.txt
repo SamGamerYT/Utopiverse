@@ -1,21 +1,21 @@
-**Patch/Changes 8.9.8.31** *(Network Changes)*
-:shiny: [Survival] Fixed **Golden Apple** recipe at **Guard NPC** at **"/spawn"**
-:shiny: [Survival] Modified **Rare Key** and **Epic Key** recipes at **Exchanger NPC** near **"/warp bank"**
-:shiny: [Survival] Removed the following warps: Leaderboard, LB, Scrolls, RTP, Quests
-:shiny: [Survival] Fixed location of the following warps: Art, BS, Elevator, Reward, Rewards, Daily
-:shiny: [Survival] **Removed** floating power orbs around **Dungeons**
-:shiny: [Survival] **Removed** Underground's Reward Chest (Re-Working on the crate)
+**Patch/Changes 8.9.8.32** *(Network Changes)*
+:shiny: [Survival]
+:shiny: [Survival]
+:shiny: [Survival]
+:shiny: [Survival]
+:shiny: [Survival]
+:shiny: [Survival]
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
 **HUB REALM**
-:shiny: [Lobby] Major Dependencies Updated (10/17/2024)
+:shiny: [Lobby] 
 :shiny: [Lobby] 
 
 **REDSTONE**
-:shiny: [Survival] Increased **Armour Stand** limit from **20** to **30**
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **SPOODER**
