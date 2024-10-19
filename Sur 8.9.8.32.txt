@@ -22,6 +22,7 @@
 :shiny: [Survival] 
 
 **DUNGEON DROPTABLE**
+:shiny: [Survival] Fixed **Wasteland Dungeon** droptable for **Possessed Villagers**
 :shiny: [Survival] 
 
 **LOBBY**
