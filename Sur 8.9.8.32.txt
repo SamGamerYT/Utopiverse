@@ -3,7 +3,7 @@
 :shiny: [Survival] Added **Dungeon Gear** helmet skins to **Blacksmith Trader**
 :shiny: [Survival] Revamped **Arena Token's**, Modified the style and layout.
 :shiny: [Survival] Added Dialogs to **Help NPC**, **Warps NPC** and **Essence Trader** NPC
-:shiny: [Survival] 
+:shiny: [Survival] Added **Bartender NPC** near Blacksmith at Potion Shop with random dialogs greeting you!
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
