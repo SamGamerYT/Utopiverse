@@ -5,7 +5,7 @@
 :shiny: [Survival] Added Dialogs to **Help NPC**, **Warps NPC** and **Essence Trader** NPC
 :shiny: [Survival] Added **Bartender NPC** near Blacksmith at Potion Shop with random dialogs greeting you!
 :shiny: [Survival] Fixed **Metamorphic Rock** recipe not working properly at **"/blacksmith"**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Language Issues** within **"/shop"** interface.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
