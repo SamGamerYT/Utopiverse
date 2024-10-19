@@ -6,7 +6,7 @@
 :shiny: [Survival] Added **Bartender NPC** near Blacksmith at Potion Shop with random dialogs greeting you!
 :shiny: [Survival] Fixed **Metamorphic Rock** recipe not working properly at **"/blacksmith"**
 :shiny: [Survival] Fixed **Language Issues** within **"/shop"** interface.
-:shiny: [Survival] 
+:shiny: [Survival] **Repair Stones** will no longer get "consumed" when you interact with items while holding them
 :shiny: [Survival] 
 :shiny: [Survival] 
 
