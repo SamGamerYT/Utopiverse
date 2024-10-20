@@ -7,6 +7,7 @@
 :shiny: [Survival] Fixed **Metamorphic Rock** recipe not working properly at **"/blacksmith"**
 :shiny: [Survival] Fixed **Language Issues** within **"/shop"** interface.
 :shiny: [Survival] **Repair Stones** will no longer get "consumed" when you interact with items while holding them
+:shiny: [Survival] Fixed **Reforge** UI showing the wrong description for every reforge station except Lunar
 :shiny: [Survival] 
 :shiny: [Survival] 
 
