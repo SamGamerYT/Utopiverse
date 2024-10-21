@@ -8,6 +8,8 @@
 :shiny: [Survival] Fixed **Language Issues** within **"/shop"** interface.
 :shiny: [Survival] **Repair Stones** will no longer get "consumed" when you interact with items while holding them
 :shiny: [Survival] Fixed **Reforge** UI showing the wrong description for every reforge station except Lunar
+:shiny: [Survival] **Spooder Helmet, Arms and Sword** is now craftable at **Spooder Altar**
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
