@@ -3,7 +3,7 @@
 :shiny: [Survival] Fixed **Christmas Furnitures** models on **Java Edition**
 :shiny: [Survival] Added **Personalized Pet** showcase at **"/warp crates"**
 :shiny: [Survival] Removed **BrokenJJ's** pet exploring the spawn NPC
-:shiny: [Survival] 
+:shiny: [Survival] Added **Light Level of 10** to Dungeon Torch
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
