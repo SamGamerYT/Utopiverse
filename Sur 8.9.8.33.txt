@@ -17,6 +17,10 @@
 :shiny: [Lobby] 
 :shiny: [Lobby] 
 
+**WEBSTORE**
+:shiny: [Website] Removed **BrokenJJ's** pet showcase in the homepage.
+:shiny: [Website] 
+
 **REDSTONE**
 :shiny: [Survival] 
 :shiny: [Survival] 
