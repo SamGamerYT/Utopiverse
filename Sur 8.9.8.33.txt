@@ -5,7 +5,7 @@
 :shiny: [Survival] Removed **BrokenJJ's** pet exploring the spawn NPC
 :shiny: [Survival] Added **Light Level of 10** to Dungeon Torch
 :shiny: [Survival] Disabled **You can't use that here!!!** message from **Frost Dungeon**
-:shiny: [Survival] 
+:shiny: [Survival] Players will no longer able to take **Fire Damage** at **"/spawn"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
