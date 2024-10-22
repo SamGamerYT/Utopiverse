@@ -18,7 +18,7 @@
 :shiny: [Lobby] 
 
 **WEBSTORE**
-:shiny: [Website] Removed **BrokenJJ's** pet showcase in the homepage.
+:shiny: [Website] Removed **BrokenJJ's** pet showcase on the homepage.
 :shiny: [Website] Disabled **Donation Center** category
 :shiny: [Website] Limited time placed on **BrokenJJ's** pet
 
