@@ -19,6 +19,7 @@
 
 **WEBSTORE**
 :shiny: [Website] Removed **BrokenJJ's** pet showcase in the homepage.
+:shiny: [Website] Disabled **Donation Center** category
 :shiny: [Website] 
 
 **REDSTONE**
