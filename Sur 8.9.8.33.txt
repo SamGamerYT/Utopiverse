@@ -2,7 +2,7 @@
 :shiny: [Survival] Modified **Furniture Shop's** Sign location
 :shiny: [Survival] Fixed **Christmas Furnitures** models on **Java Edition**
 :shiny: [Survival] Added **Personalized Pet** showcase at **"/warp crates"**
-:shiny: [Survival] 
+:shiny: [Survival] Removed **BrokenJJ's** pet exploring the spawn NPC
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
