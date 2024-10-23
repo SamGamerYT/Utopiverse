@@ -8,8 +8,8 @@
 :shiny: [Survival] Players will no longer able to take **Fire Damage** at **"/spawn"**
 :shiny: [Survival] **Bait Shop** furniture is now working properly at **"/pond"**
 :shiny: [Survival] Added **Milestones** NPC at **"/spawn"**
-:shiny: [Survival] Added Custom UI for **Milestones** NPC
-:shiny: [Survival] 
+:shiny: [Survival] Added Custom Interface for **Milestones** NPC
+:shiny: [Survival] Added **Milestones** in **"/help"** Interface
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
