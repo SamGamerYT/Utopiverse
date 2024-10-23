@@ -6,7 +6,7 @@
 :shiny: [Survival] Added **Light Level of 10** to Dungeon Torch
 :shiny: [Survival] Disabled **You can't use that here!!!** message from **Frost Dungeon**
 :shiny: [Survival] Players will no longer able to take **Fire Damage** at **"/spawn"**
-:shiny: [Survival] 
+:shiny: [Survival] **Bait Shop** furniture is now working properly at **"/pond"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
