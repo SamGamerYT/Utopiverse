@@ -11,7 +11,7 @@
 :shiny: [Survival] Added Custom Interface for **Milestones** NPC
 :shiny: [Survival] Added **Milestones** in **"/help"** Interface
 :shiny: [Survival] Changed **Community Wumpus** code to be more efficient.
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Forge** Layout and Assignments.
 :shiny: [Survival] 
 
 **TEXTURES**
