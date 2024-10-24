@@ -27,6 +27,10 @@
 :shiny: [Lobby] 
 :shiny: [Lobby] 
 
+**MODIFIED** (FOR RJ)
+- "rpg:l_menu_on"
+- "rpg:l_menu_off"
+
 **WEBSTORE**
 :shiny: [Website] 
 :shiny: [Website] 
