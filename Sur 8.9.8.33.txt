@@ -16,6 +16,7 @@
 
 **TEXTURES**
 :shiny: [Survival] Modified Blacksmith's **Forge Interface**
+:shiny: [Survival] Modified Help's **Settings Interface**
 :shiny: [Survival] 
 
 **HUB REALM**
