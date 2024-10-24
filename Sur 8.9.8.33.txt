@@ -12,6 +12,9 @@
 :shiny: [Survival] Added **Milestones** in **"/help"** Interface
 :shiny: [Survival] 
 :shiny: [Survival] 
+
+**TEXTURES**
+:shiny: [Survival] Modified Blacksmith's **Forge Interface**
 :shiny: [Survival] 
 
 **HUB REALM**
@@ -44,9 +47,6 @@
 :shiny: [Survival] 
 
 **BUILD** *(Whispy & _DrxR3fl3x_3)*
-:shiny: [Survival] 
-
-**TEXTURES**
 :shiny: [Survival] 
 
 **ARENA CHANGES**
