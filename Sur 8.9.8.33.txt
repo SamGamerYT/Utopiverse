@@ -104,3 +104,5 @@
 **DUNGEON WASTELAND CHANGES**
 
 **MODIFIED** (FOR RJ)
+- "rpg:l_menu_on"
+- "rpg:l_menu_off"
