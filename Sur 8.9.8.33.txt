@@ -24,7 +24,7 @@
 :shiny: [Survival] 
 
 **HUB REALM**
-:shiny: [Lobby] 
+:shiny: [Lobby] Added **Friend** Connection method support to **Utopiverse Network**
 :shiny: [Lobby] 
 
 **WEBSTORE**
