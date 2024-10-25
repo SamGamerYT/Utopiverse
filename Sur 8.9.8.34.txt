@@ -24,7 +24,7 @@
 :shiny: [Survival] 
 
 **HUB REALM**
-:shiny: [Lobby] Supporting Version **1.21.2** and **1.21.3** for Java
+:shiny: [Lobby] Added Support for Version **1.21.2** and **1.21.3** for Java
 :shiny: [Lobby] 
 
 **MODIFIED** (FOR RJ)
