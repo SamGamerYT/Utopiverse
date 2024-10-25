@@ -30,6 +30,8 @@
 **MODIFIED** (FOR RJ)
 - "rpg:l_menu_on"
 - "rpg:l_menu_off"
+- "rpg:crusher_button" *(Updated Texture File)*
+- "rpg:crusher_button_anim" *(Updated Texture File)*
 
 **WEBSTORE**
 :shiny: [Website] 
