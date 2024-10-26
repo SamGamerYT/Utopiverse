@@ -2,7 +2,7 @@
 :shiny: [Survival] Modified **Farm Zone** Deliveries Milestone UI, Better Format applied.
 :shiny: [Survival] Registered **"/ms"** and **"/milestones"** command
 :shiny: [Survival] Major Server Maintenance on Dependencies (10/26/2024)
-:shiny: [Survival] 
+:shiny: [Survival] Added **Milestones** NPC Hologram at **"/spawn"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
