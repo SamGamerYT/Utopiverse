@@ -9,7 +9,7 @@
 :grass: [QOL] 
 
 :grass: Fixed **Guide NPC** not working properly
-:grass: 
+:grass: Major Server Maintenance on Dependencies (10/26/2024)
 :grass: 
 :grass: 
 :grass: 
