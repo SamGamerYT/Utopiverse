@@ -4,7 +4,7 @@
 :shiny: [Survival] Major Server Maintenance on Dependencies (10/26/2024)
 :shiny: [Survival] Added **Milestones** NPC Hologram at **"/spawn"**
 :shiny: [Survival] Data Optimization to Deliveries Milestones & Stone Milestones.
-:shiny: [Survival] 
+:shiny: [Survival] Added **HOTFIXER** as a recipe for **Stone Milestone #2**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
