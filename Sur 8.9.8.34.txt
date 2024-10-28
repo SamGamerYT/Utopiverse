@@ -17,7 +17,7 @@
 :shiny: [Survival] View distance has been reduced from **5** to **4**
 :shiny: [Survival] Disabled **Legacy Ender Dragon** checker
 :shiny: [Survival] Maximum chunks been reduced to **400** from **500**
-:shiny: [Survival] 
+:shiny: [Survival] Doubled the amount of **Concurrent send**
 :shiny: [Survival] 
 
 **TEXTURES**
