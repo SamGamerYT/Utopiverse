@@ -7,8 +7,8 @@
 :shiny: [Survival] Added **HOTFIXER** as a recipe for **Stone Milestone #2**
 :shiny: [Survival] Added **Money Requirement** in Materials Copper, Silver and Gold Crafting recipe
 :shiny: [Survival] Added **Money Requirement** in Consumable Gapple, EGapple and Totem Crafting recipe
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Nerfed **Master** and **Legend** kits
+:shiny: [Survival] Added **Liege** Kit
 :shiny: [Survival] 
 :shiny: [Survival] 
 
