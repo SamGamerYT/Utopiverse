@@ -9,7 +9,7 @@
 :shiny: [Survival] Added **Money Requirement** in Consumable Gapple, EGapple and Totem Crafting recipe
 :shiny: [Survival] Nerfed **Master** and **Legend** kits
 :shiny: [Survival] Added **Liege** Kit
-:shiny: [Survival] 
+:shiny: [Survival] Major Network Maintenance (10/30/2024)
 :shiny: [Survival] 
 
 **OPTIMIZATION**
