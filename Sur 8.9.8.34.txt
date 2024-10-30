@@ -22,37 +22,6 @@
 **HUB REALM**
 :shiny: [Lobby] Added Support for Version **1.21.2** and **1.21.3** for Java
 
-**WEBSTORE**
-:shiny: [Website] 
-:shiny: [Website] 
-:shiny: [Website] 
-
-**DUNGEON DROPTABLE**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**FISHING**
-:shiny: [Survival]
-
-**BUILD**
-:shiny: [Survival] 
-
-**BUILD** *(Whispy & _DrxR3fl3x_3)*
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**UNDERGROUND ARENA CHANGES**
-:shiny: [Survival] 
-
-**RPG LEVEL CHANGES**
-:shiny: [Survival] 
-
-**AUTO RESPONSE**
-:shiny: [Survival] 
-
 **[@Changelogs]**
 *(Special Thanks to _WhispyW)*
 :shiny: [Art] 
