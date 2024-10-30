@@ -10,7 +10,7 @@
 :shiny: [Survival] Nerfed **Master** and **Legend** kits
 :shiny: [Survival] Added **Liege** Kit
 :shiny: [Survival] Major Network Maintenance (10/30/2024)
-:shiny: [Survival] 
+:shiny: [Survival] Added **Starter** Milestone at **"/spawn"**
 
 **OPTIMIZATION**
 :shiny: [Survival] Increased **Furniture**, **Armorstands** and **Item Frames** view range from **12** to **14** blocks.
