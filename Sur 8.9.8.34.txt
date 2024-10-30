@@ -18,23 +18,9 @@
 :shiny: [Survival] Disabled **Legacy Ender Dragon** checker
 :shiny: [Survival] Maximum chunks been reduced to **400** from **500**
 :shiny: [Survival] Doubled the amount of **Concurrent send**
-:shiny: [Survival] 
-
-**TEXTURES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **HUB REALM**
 :shiny: [Lobby] Added Support for Version **1.21.2** and **1.21.3** for Java
-:shiny: [Lobby] 
-
-**MODIFIED** (FOR RJ)
-- "rpg:l_menu_on"
-- "rpg:l_menu_off"
-- "rpg:crusher_button" *(Updated Texture File)*
-- "rpg:crusher_button_anim" *(Updated Texture File)*
 
 **WEBSTORE**
 :shiny: [Website] 
