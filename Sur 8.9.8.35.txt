@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.35** *(Network Changes)*
 :shiny: [Survival] Relocated **Farmer NPC** near his house.
 :shiny: [Survival] Fixed **Farmer NPC** Duplication Glitch
-:shiny: [Survival] 
+:shiny: [Survival] Added **Dialogs** to **Farmer NPC**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
