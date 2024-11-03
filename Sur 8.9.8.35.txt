@@ -27,6 +27,8 @@
 - "rpg:crusher_button" *(Updated Texture File)*
 - "rpg:crusher_button_anim" *(Updated Texture File)*
 
+- "rpg:2024/crafting_table"
+
 **WEBSTORE**
 :shiny: [Website] 
 :shiny: [Website] 
