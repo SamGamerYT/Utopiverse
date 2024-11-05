@@ -2,7 +2,7 @@
 :shiny: [Survival] Relocated **Farmer NPC** near his house.
 :shiny: [Survival] Fixed **Farmer NPC** Duplication Glitch
 :shiny: [Survival] Added **Dialogs** to **Farmer NPC**
-:shiny: [Survival] 
+:shiny: [Survival] Re-enabled **Underground Crate** at **"/warp arena"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -27,7 +27,14 @@
 - "rpg:crusher_button" *(Updated Texture File)*
 - "rpg:crusher_button_anim" *(Updated Texture File)*
 
-- "rpg:2024/crafting_table"
+- "all_furnitures:2024/crafting_table"
+- "all_furnitures:2024/blacksmith_anvil"
+- "all_furnitures:2024/blacksmith_forge"
+- "all_furnitures:2024/blacksmith_grinding_wheel"
+- "all_furnitures:2024/blacksmith_shield_wall_rack"
+- "all_furnitures:2024/blacksmith_sword_wall_rack"
+- "all_furnitures:2024/blacksmith_water_bath"
+- "all_furnitures:2024/blacksmith_weapon_stand"
 
 **WEBSTORE**
 :shiny: [Website] 
