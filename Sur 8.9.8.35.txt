@@ -6,7 +6,7 @@
 :shiny: [Survival] Increased **Silk Touch I** Durability from **256** to **512**
 :shiny: [Survival] Fixed **Rarity Symbol** for **Spawner Picker** Tier I and Tier II
 :shiny: [Survival] Increased **Furniture Fragment** drop rate for **Dead Miner Leader**
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Dead Miner Pickaxe** to be RPG.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
