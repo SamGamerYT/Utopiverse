@@ -3,8 +3,8 @@
 :shiny: [Survival] Fixed **Farmer NPC** Duplication Glitch
 :shiny: [Survival] Added **Dialogs** to **Farmer NPC**
 :shiny: [Survival] Re-enabled **Underground Crate** at **"/warp arena"**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Increased **Silk Touch I** Durability from **256** to **512**
+:shiny: [Survival] Fixed **Rarity Symbol** for **Spawner Picker** Tier I and Tier II
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
