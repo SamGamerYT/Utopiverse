@@ -20,7 +20,7 @@
 
 **HUB REALM**
 :shiny: [Lobby] Added **BlockParty** minigame in hub! *(Hours of work!)*
-:shiny: [Lobby] 
+:shiny: [Lobby] Added **BlockParty** minigame in **Server Selector** UI
 :shiny: [Lobby] 
 
 **MODIFIED** (FOR RJ)
