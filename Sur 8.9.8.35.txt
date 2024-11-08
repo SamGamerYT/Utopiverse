@@ -8,7 +8,7 @@
 :shiny: [Survival] Increased **Furniture Fragment** drop rate for **Dead Miner Leader**
 :shiny: [Survival] Modified **Dead Miner Pickaxe** to be RPG.
 :shiny: [Survival] Pre-Existing **Milestones** improvement
-:shiny: [Survival] 
+:shiny: [Survival] Added **Ores Milestones**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
@@ -19,6 +19,8 @@
 :shiny: [Survival] 
 
 **HUB REALM**
+:shiny: [Lobby] Added **BlockParty** minigame in hub! *(Hours of work!)*
+:shiny: [Lobby] 
 :shiny: [Lobby] 
 
 **MODIFIED** (FOR RJ)
