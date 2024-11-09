@@ -21,7 +21,7 @@
 :shiny: [Survival] 
 
 **HUB REALM**
-:shiny: [Lobby] 
+:shiny: [Lobby] Fixed a bug where player's were able to take books out of bookshelves.
 :shiny: [Lobby] 
 
 **MODIFIED** (FOR RJ)
