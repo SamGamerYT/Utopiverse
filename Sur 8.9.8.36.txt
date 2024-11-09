@@ -3,7 +3,7 @@
 :shiny: [Survival] Modified **"/warp tinkerer"**, Added more room for Geode Crusher
 :shiny: [Survival] Modified **Easter Egg Crafting Station** from puffer fish to Rabbit
 :shiny: [Survival] Added **Geode Crusher** picture of geode's at **"Tinkerer NPC"**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Spacing** and **Placement** issues in **Ores Milstone #1**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
