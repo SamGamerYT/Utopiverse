@@ -1,7 +1,6 @@
 **Patch/Changes 8.9.8.36** *(Network Changes)*
 :shiny: [Survival] Added **Spooder Scroll** in **Exotic Crate**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Modified **"/warp tinkerer"**, Added more room for Geode Crusher
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
