@@ -21,8 +21,8 @@
 :shiny: [Survival] 
 
 **HUB REALM**
-:shiny: [Lobby] Fixed a bug where player's were able to take books out of bookshelves.
-:shiny: [Lobby] 
+:sdragon: [Lobby] Maintenance, Updated dependencies.
+:sdragon: [Lobby] Fixed a bug where player's were able to take books out of bookshelves.
 
 **MODIFIED** (FOR RJ)
 - "rpg:l_menu_on"
