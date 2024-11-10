@@ -3,7 +3,7 @@
 :grass: [QOL] Added **"/pets"**, **Mini Staff** pets and **Personalized Mini Pets**
 :grass: [QOL] Registered **"/settings"** command
 :grass: [QOL] Added **Custom Interface** for Crates
-:grass: [QOL] 
+:grass: [QOL] Increased rows from **3** to **6** for **Orchid** and **Cherry**
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
