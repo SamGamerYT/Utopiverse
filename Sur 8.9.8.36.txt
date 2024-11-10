@@ -28,7 +28,7 @@
 :spaceheart1: [Network] Dependencies Updated [11/10/2024]
 :spaceheart1: [Network] 
 :spaceheart1: [Network] 
-:spaceheart1: [Network] 
+:spaceheart1: [Network] Re-Enabled **/hub, /survival, /oneblock** and other network based commands in **Command Suggestions**
 
 **MODIFIED** (FOR RJ)
 - "rpg:l_menu_on"
