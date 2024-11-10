@@ -10,6 +10,7 @@
 :grass: [QOL] Added **Custom Interface** for Crates
 :grass: [QOL] Added **Drowned**, **Turtle** and **Pillager** Spawners in **Spawner Crate**
 :grass: [QOL] Heavily buffed **Lavender Crate**
+:grass: [QOL] Heavily buffed **Orchid Crate**
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
