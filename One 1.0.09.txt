@@ -28,5 +28,3 @@
 :grass: Fixed **Cherry** crate giving **Diamond Shovel** as **Cherry Crossbow**
  
 **[@Changelogs]**
-
-**AUTO RESPONSE**
