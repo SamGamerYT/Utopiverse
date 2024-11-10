@@ -14,7 +14,8 @@
 :grass: [QOL] Increased rows from **3** to **6** for **Orchid** and **Cherry**
 :grass: Fixed **Vote Crate** rewards and item's enchantments will now follow **Roman numerals**
 :grass: Fixed **Spawner Crate** vindicator, evoker spawner rewards not working properly.
-:grass: 
+:grass: Spawners in **Spawner Crate** will be in **Alphabetical Order**
+:grass: Fixed **Lavender Crate** rewards and item's enchantments will now follow **Roman numerals**
 :grass: 
 :grass: 
 :grass: Fixed **Cherry** crate giving **Diamond Shovel** as **Cherry Crossbow**
