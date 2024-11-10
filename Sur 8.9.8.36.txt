@@ -25,8 +25,9 @@
 :sdragon: [Lobby] Fixed a bug where player's were able to take books out of bookshelves.
 
 **SYSTEM NETWORK**
-:spaceheart1: [Network] Dependencies Updated [11/10/2024]
 :spaceheart1: [Network] Disabled **Metric's**
+:spaceheart1: [Network] Dependencies Updated [11/10/2024]
+:spaceheart1: [Network] Punishments will now have a **Darker Red** colour instead of **Pink/Purple**
 :spaceheart1: [Network] Re-Enabled **/hub, /survival, /oneblock** and other network based commands in **Command Suggestions**
 
 **MODIFIED** (FOR RJ)
