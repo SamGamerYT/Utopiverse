@@ -26,9 +26,9 @@
 
 **SYSTEM NETWORK**
 :spaceheart1: [Network] Disabled **Metric's**
+:spaceheart1: [Network] Disabled needless system checks
 :spaceheart1: [Network] Dependencies Updated [11/10/2024]
 :spaceheart1: [Network] Warnings will now expire in **5 Days** instead of **7 Days**
-:spaceheart1: [Network] 
 :spaceheart1: [Network] Punishments will now have a **Darker Red** colour instead of **Pink/Purple**
 :spaceheart1: [Network] Nameless Punishment will now show up as "Administrator" instead of "Console"
 :spaceheart1: [Network] Re-Enabled **/hub, /survival, /oneblock** and other network based commands in **Command Suggestions**
