@@ -16,6 +16,7 @@
 :grass: 
 :grass: 
 :grass: 
+:grass: Updated **System** to match **Survival's Network Pack** *(TDLR; Furnitures incoming)*
  
 **[@Changelogs]**
 
