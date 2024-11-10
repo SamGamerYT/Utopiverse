@@ -6,6 +6,17 @@
 :grass: [QOL] 
 :grass: [QOL] 
 
+:grass: Fixed **Guide NPC** not working properly
+:grass: Major Server Maintenance on Dependencies (10/26/2024)
+:grass: Fixed **"/buy"** command not working properly.
+:grass: Removed **Death Chests** from oneblock **(????)**
+:grass: Oneblock Minions will no longer give **Survival's** tips and tricks.
+:grass: Fixed **"/settings"** not showing the toggle buttons properly.
+:grass: 
+:grass: 
+:grass: 
+:grass: Updated **System** to match **Survival's Network Pack** *(TDLR; Furnitures incoming)*
+
 **CRATES**
 :grass: [QOL] Added **Custom Interface** for Crates
 :grass: [QOL] Added **Drowned**, **Turtle** and **Pillager** Spawners in **Spawner Crate**
@@ -25,17 +36,6 @@
 :grass: Fixed **Cherry** crate giving **Diamond Shovel** as **Cherry Crossbow**
 :grass: 
 :grass: 
-
-:grass: Fixed **Guide NPC** not working properly
-:grass: Major Server Maintenance on Dependencies (10/26/2024)
-:grass: Fixed **"/buy"** command not working properly.
-:grass: Removed **Death Chests** from oneblock **(????)**
-:grass: Oneblock Minions will no longer give **Survival's** tips and tricks.
-:grass: Fixed **"/settings"** not showing the toggle buttons properly.
-:grass: 
-:grass: 
-:grass: 
-:grass: Updated **System** to match **Survival's Network Pack** *(TDLR; Furnitures incoming)*
  
 **[@Changelogs]**
 
