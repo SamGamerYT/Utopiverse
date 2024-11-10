@@ -20,7 +20,7 @@
 :grass: Spawners in **Spawner Crate** will be in **Alphabetical Order**
 :grass: Fixed **Lavender Crate** rewards and item's enchantments will now follow **Roman numerals**
 :grass: Fixed typos in **Orchid Crate**
-:grass: 
+:grass: Fixed **Crate Keys** star rating on all crate keys.
 :grass: 
 :grass: 
 :grass: Fixed **Cherry** crate giving **Diamond Shovel** as **Cherry Crossbow**
