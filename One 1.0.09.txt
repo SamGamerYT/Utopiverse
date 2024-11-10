@@ -1,7 +1,7 @@
 **Patch/Changes 1.0.09** *[Oneblock]*
 :grass: [QOL] Added **"/recipes"** that points to **Recipes NPC**
 :grass: [QOL] Added **"/pets"**, **Mini Staff** pets and **Personalized Mini Pets**
-:grass: [QOL] 
+:grass: [QOL] Registered **"/settings"** command
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
@@ -13,7 +13,7 @@
 :grass: Fixed **"/buy"** command not working properly.
 :grass: Removed **Death Chests** from oneblock **(????)**
 :grass: Oneblock Minions will no longer give **Survival's** tips and tricks.
-:grass: 
+:grass: Fixed **"/settings"** not showing the toggle buttons properly.
 :grass: 
 :grass: 
 :grass: Updated **System** to match **Survival's Network Pack** *(TDLR; Furnitures incoming)*
