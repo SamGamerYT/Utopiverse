@@ -12,7 +12,7 @@
 :grass: Major Server Maintenance on Dependencies (10/26/2024)
 :grass: Fixed **"/buy"** command not working properly.
 :grass: Removed **Death Chests** from oneblock **(????)**
-:grass: 
+:grass: Oneblock Minions will no longer give **Survival's** tips and tricks.
 :grass: 
 :grass: 
 :grass: 
