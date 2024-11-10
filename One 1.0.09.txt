@@ -11,6 +11,9 @@
 :grass: Fixed **Guide NPC** not working properly
 :grass: Major Server Maintenance on Dependencies (10/26/2024)
 :grass: Fixed **"/buy"** command not working properly.
+:grass: Removed **Death Chests** from oneblock **(????)**
+:grass: 
+:grass: 
 :grass: 
 :grass: 
  
