@@ -2,6 +2,7 @@
 :grass: [QOL] Added **"/recipes"** that points to **Recipes NPC**
 :grass: [QOL] Added **"/pets"**, **Mini Staff** pets and **Personalized Mini Pets**
 :grass: [QOL] Registered **"/settings"** command
+:grass: [QOL] Added **DISCORD LINKING BONUS**, Link your discord today and get free permanent **OPAL RANK**
 
 :grass: Fixed **Guide NPC** not working properly
 :grass: Major Server Maintenance on Dependencies (10/26/2024)
