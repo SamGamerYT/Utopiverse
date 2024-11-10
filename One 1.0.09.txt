@@ -18,6 +18,8 @@
 :grass: Fixed **Spawner Crate** vindicator, evoker spawner rewards not working properly.
 :grass: Spawners in **Spawner Crate** will be in **Alphabetical Order**
 :grass: Fixed **Lavender Crate** rewards and item's enchantments will now follow **Roman numerals**
+:grass: Fixed typos in **Orchid Crate**
+:grass: 
 :grass: 
 :grass: 
 :grass: Fixed **Cherry** crate giving **Diamond Shovel** as **Cherry Crossbow**
