@@ -8,7 +8,7 @@
 
 **CRATES**
 :grass: [QOL] Added **Custom Interface** for Crates
-:grass: [QOL] Added **Drowned** and **Turtle** Spawner in **Spawner Crate**
+:grass: [QOL] Added **Drowned**, **Turtle** and **Pillager** Spawners in **Spawner Crate**
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] Increased rows from **3** to **6** for **Orchid** and **Cherry**
