@@ -9,6 +9,10 @@
 **CRATES**
 :grass: [QOL] Added **Custom Interface** for Crates
 :grass: [QOL] Increased rows from **3** to **6** for **Orchid** and **Cherry**
+:grass: Fixed **Vote Crate** rewards and item's enchantments will now follow **Roman numerals**
+:grass: 
+:grass: 
+:grass: 
 :grass: Fixed **Cherry** crate giving **Diamond Shovel** as **Cherry Crossbow**
 :grass: 
 :grass: 
