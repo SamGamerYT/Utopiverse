@@ -11,10 +11,9 @@
 :grass: [QOL] Added **Drowned**, **Turtle** and **Pillager** Spawners in **Spawner Crate**
 :grass: [QOL] Heavily buffed **Lavender Crate**
 :grass: [QOL] Heavily buffed **Orchid Crate**
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
+:grass: [QOL] Heavily buffed **Cherry Crate**
 :grass: [QOL] Increased rows from **3** to **6** for **Orchid** and **Cherry**
+
 :grass: Fixed **Vote Crate** rewards and item's enchantments will now follow **Roman numerals**
 :grass: Fixed **Spawner Crate** vindicator, evoker spawner rewards not working properly.
 :grass: Spawners in **Spawner Crate** will be in **Alphabetical Order**
