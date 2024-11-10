@@ -2,9 +2,6 @@
 :grass: [QOL] Added **"/recipes"** that points to **Recipes NPC**
 :grass: [QOL] Added **"/pets"**, **Mini Staff** pets and **Personalized Mini Pets**
 :grass: [QOL] Registered **"/settings"** command
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
 
 :grass: Fixed **Guide NPC** not working properly
 :grass: Major Server Maintenance on Dependencies (10/26/2024)
@@ -12,9 +9,6 @@
 :grass: Removed **Death Chests** from oneblock **(????)**
 :grass: Oneblock Minions will no longer give **Survival's** tips and tricks.
 :grass: Fixed **"/settings"** not showing the toggle buttons properly.
-:grass: 
-:grass: 
-:grass: 
 :grass: Updated **System** to match **Survival's Network Pack** *(TDLR; Furnitures incoming)*
 
 **CRATES**
@@ -31,11 +25,7 @@
 :grass: Fixed **Lavender Crate** rewards and item's enchantments will now follow **Roman numerals**
 :grass: Fixed typos in **Orchid Crate**
 :grass: Fixed **Crate Keys** star rating on all crate keys.
-:grass: 
-:grass: 
 :grass: Fixed **Cherry** crate giving **Diamond Shovel** as **Cherry Crossbow**
-:grass: 
-:grass: 
  
 **[@Changelogs]**
 
