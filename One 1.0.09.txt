@@ -1,5 +1,5 @@
 **Patch/Changes 1.0.09** *[Oneblock]*
-:grass: [QOL] Added **"/recipes"** for players
+:grass: [QOL] Added **"/recipes"** that points to **Recipes NPC**
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
