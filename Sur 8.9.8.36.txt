@@ -19,7 +19,7 @@
 :shiny: [Survival] Heavily decreased the update time for **ITEM_FRAME**
 :shiny: [Survival] **Hopper Check** has been modified
 :shiny: [Survival] Fixed **View Distance** error 
-:shiny: [Survival] 
+:shiny: [Survival] Changed **Max Chunk** save from **x** to **xx**
 :shiny: [Survival] 
 
 **TEXTURES**
