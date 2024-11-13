@@ -6,7 +6,7 @@
 :shiny: [Survival] Fixed **Spacing** and **Placement** issues in **Ores Milstone #1**
 :shiny: [Survival] Fixed **Valentine Furniture** being oversized on **Item Frames** for Java Players
 :shiny: [Survival] Switched from **32** Maximum Letters to **16** letters for Clan Name
-:shiny: [Survival] 
+:shiny: [Survival] Redefined **Farming Zone** region radius
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
