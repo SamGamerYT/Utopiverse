@@ -11,12 +11,12 @@
 :shiny: [Survival] Mysterious **Winter island** has appeared behind **Seasonal Event House**
 :shiny: [Survival] You will now be able to catch **tamed mobs** within Resource World with **Mob Catcher**
 :shiny: [Survival] Mysterious **Islands** has appeared in **Desert Island** location!
-:shiny: [Survival] Heavily decreased the update time for **ITEM_FRAME**
-:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
 **OPTIMIZATION**
+:shiny: [Survival] Heavily decreased the update time for **ITEM_FRAME**
+:shiny: [Survival] **Hopper Check** has been modified
 :shiny: [Survival] 
 
 **TEXTURES**
