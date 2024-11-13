@@ -17,6 +17,7 @@
 **OPTIMIZATION**
 :shiny: [Survival] Heavily decreased the update time for **ITEM_FRAME**
 :shiny: [Survival] **Hopper Check** has been modified
+:shiny: [Survival] Fixed **View Distance** error 
 :shiny: [Survival] 
 
 **TEXTURES**
