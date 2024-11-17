@@ -12,6 +12,8 @@
 :shiny: [Survival] You will now be able to catch **tamed mobs** within Resource World with **Mob Catcher**
 :shiny: [Survival] Mysterious **Islands** has appeared in **Desert Island** location!
 :shiny: [Survival] **World Regions** are now completely up to date with new database
+:shiny: [Survival] Fixed **"/farms"** not working properly.
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **OPTIMIZATION**
