@@ -13,7 +13,7 @@
 :shiny: [Survival] Mysterious **Islands** has appeared in **Desert Island** location!
 :shiny: [Survival] **World Regions** are now completely up to date with new database
 :shiny: [Survival] Fixed **"/farms"** not working properly.
-:shiny: [Survival] 
+:shiny: [Survival] Added new **Christmas Plushies** in **"/buy"** and within Event House **"/warp events"**
 :shiny: [Survival] 
 
 **OPTIMIZATION**
