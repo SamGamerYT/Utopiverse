@@ -39,22 +39,4 @@
 :spaceheart1: [Network] Nameless Punishment will now show up as "Administrator" instead of "Console"
 :spaceheart1: [Network] Re-Enabled **/hub, /survival, /oneblock** and other network based commands in **Command Suggestions**
 
-**MODIFIED** (FOR RJ)
-- "rpg:l_menu_on"
-- "rpg:l_menu_off"
-- "rpg:crusher_button" *(Updated Texture File)*
-- "rpg:crusher_button_anim" *(Updated Texture File)*
-
-- "all_furnitures:2024/crafting_table"
-- "all_furnitures:2024/blacksmith_anvil"
-- "all_furnitures:2024/blacksmith_forge"
-- "all_furnitures:2024/blacksmith_grinding_wheel"
-- "all_furnitures:2024/blacksmith_shield_wall_rack"
-- "all_furnitures:2024/blacksmith_sword_wall_rack"
-- "all_furnitures:2024/blacksmith_water_bath"
-- "all_furnitures:2024/blacksmith_weapon_stand"
-
-- "plushies:christmas/plushie_elf_flyn"
-- "plushies:christmas/plushie_elf_queen"
-- "plushies:christmas/plushie_santa_smart"
-- "plushies:christmas/plushie_santa_whippy"
+**[@Changelogs]**
