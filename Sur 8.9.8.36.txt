@@ -59,6 +59,11 @@
 - "all_furnitures:2024/blacksmith_water_bath"
 - "all_furnitures:2024/blacksmith_weapon_stand"
 
+- "plushies:christmas/plushie_elf_flyn"
+- "plushies:christmas/plushie_elf_queen"
+- "plushies:christmas/plushie_santa_smart"
+- "plushies:christmas/plushie_santa_whippy"
+
 **WEBSTORE**
 :shiny: [Website] 
 :shiny: [Website] 
