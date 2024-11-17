@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.37** *(Network Changes)*
 :shiny: [Survival] Added **Christmas Melody** in **Events/Seasonal House**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Christmas Art work** at **Events/Seasonal House**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
