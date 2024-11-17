@@ -32,7 +32,7 @@
 :sdragon: [Lobby] Fixed a bug where player's were able to take books out of bookshelves.
 :sdragon: [Lobby] Maintenance, Updated dependencies. (11/11/2024)
 :sdragon: [Lobby] Disabled **Sit, Ride, Lay and other** system in **BlockParty**
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Fixed **Pack** not loading properly for **Java Players**
 :sdragon: [Lobby] 
 
 **SYSTEM NETWORK**
