@@ -22,10 +22,6 @@
 :shiny: [Survival] **Hopper Check** has been modified
 :shiny: [Survival] Fixed **View Distance** error 
 :shiny: [Survival] Changed **Max Chunk** save from **x** to **xx**
-:shiny: [Survival] 
-
-**TEXTURES**
-:shiny: [Survival] 
 
 **HUB REALM**
 :sdragon: [Lobby] Maintenance, Updated dependencies.
@@ -33,7 +29,6 @@
 :sdragon: [Lobby] Maintenance, Updated dependencies. (11/11/2024)
 :sdragon: [Lobby] Disabled **Sit, Ride, Lay and other** system in **BlockParty**
 :sdragon: [Lobby] Fixed **Pack** not loading properly for **Java Players**
-:sdragon: [Lobby] 
 
 **SYSTEM NETWORK**
 :spaceheart1: [Network] Disabled **Metric's**
@@ -63,70 +58,3 @@
 - "plushies:christmas/plushie_elf_queen"
 - "plushies:christmas/plushie_santa_smart"
 - "plushies:christmas/plushie_santa_whippy"
-
-**WEBSTORE**
-:shiny: [Website] 
-:shiny: [Website] 
-:shiny: [Website] 
-
-**DUNGEON DROPTABLE**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**FISHING**
-:shiny: [Survival]
-
-**BUILD**
-:shiny: [Survival] 
-
-**BUILD** *(Whispy & _DrxR3fl3x_3)*
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**UNDERGROUND ARENA CHANGES**
-:shiny: [Survival] 
-
-**RPG LEVEL CHANGES**
-:shiny: [Survival] 
-
-**AUTO RESPONSE**
-:shiny: [Survival] 
-
-**[@Changelogs]**
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
