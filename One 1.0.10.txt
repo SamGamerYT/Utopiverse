@@ -7,7 +7,7 @@
 :grass: [QOL] 
 
 :grass: Added **Christmas Plushies**, Buyable from **"/buy"**
-:grass: 
+:grass: Added **Plushie** Showcase + Hologram near **"/spawn"**
 :grass: 
 :grass: 
 :grass: 
