@@ -6,7 +6,7 @@
 :grass: [QOL] 
 :grass: [QOL] 
 
-:grass: 
+:grass: Added **Christmas Plushies**, Buyable from **"/buy"**
 :grass: 
 :grass: 
 :grass: 
