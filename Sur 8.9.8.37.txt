@@ -25,26 +25,6 @@
 **SYSTEM NETWORK**
 :spaceheart1: [Network] 
 
-**MODIFIED** (FOR RJ)
-- "rpg:l_menu_on"
-- "rpg:l_menu_off"
-- "rpg:crusher_button" *(Updated Texture File)*
-- "rpg:crusher_button_anim" *(Updated Texture File)*
-
-- "all_furnitures:2024/crafting_table" FEATHER:10003
-- "all_furnitures:2024/blacksmith_anvil" FEATHER:10002
-- "all_furnitures:2024/blacksmith_forge" FEATHER:10054
-- "all_furnitures:2024/blacksmith_grinding_wheel" FEATHER:10056
-- "all_furnitures:2024/blacksmith_shield_wall_rack" FEATHER:10057
-- "all_furnitures:2024/blacksmith_sword_wall_rack" FEATHER:10058
-- "all_furnitures:2024/blacksmith_water_bath" FEATHER:10059
-- "all_furnitures:2024/blacksmith_weapon_stand" FEATHER:10060
-
-- "plushies:christmas/plushie_elf_flyn" DIAMOND_HORSE_ARMOR:10060
-- "plushies:christmas/plushie_elf_queen" DIAMOND_HORSE_ARMOR:10060
-- "plushies:christmas/plushie_santa_smart" DIAMOND_HORSE_ARMOR:10060
-- "plushies:christmas/plushie_santa_whippy" DIAMOND_HORSE_ARMOR:10060
-
 **WEBSTORE**
 :shiny: [Website] 
 :shiny: [Website] 
