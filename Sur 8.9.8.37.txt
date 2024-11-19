@@ -40,10 +40,10 @@
 - "all_furnitures:2024/blacksmith_water_bath" FEATHER:10059
 - "all_furnitures:2024/blacksmith_weapon_stand" FEATHER:10060
 
-- "plushies:christmas/plushie_elf_flyn"
-- "plushies:christmas/plushie_elf_queen"
-- "plushies:christmas/plushie_santa_smart"
-- "plushies:christmas/plushie_santa_whippy"
+- "plushies:christmas/plushie_elf_flyn" DIAMOND_HORSE_ARMOR:10060
+- "plushies:christmas/plushie_elf_queen" DIAMOND_HORSE_ARMOR:10060
+- "plushies:christmas/plushie_santa_smart" DIAMOND_HORSE_ARMOR:10060
+- "plushies:christmas/plushie_santa_whippy" DIAMOND_HORSE_ARMOR:10060
 
 **WEBSTORE**
 :shiny: [Website] 
