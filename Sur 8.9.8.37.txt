@@ -19,7 +19,7 @@
 
 **HUB REALM**
 :sdragon: [Lobby] Major Dependencies Update *(11/18/2024)*
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Fixed **"/spawn"** not working properly
 :sdragon: [Lobby] 
 
 **SYSTEM NETWORK**
