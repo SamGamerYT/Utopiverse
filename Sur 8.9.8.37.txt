@@ -4,6 +4,7 @@
 :shiny: [Survival] Phantoms will spawn again in **Resource World**
 :shiny: [Survival] Modified **Plushie** hologram with more information
 :shiny: [Survival] **"/pshop"** will now show up on suggested commands.
+:shiny: [Survival] **"/psettings"** will now show up on suggested commands.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
