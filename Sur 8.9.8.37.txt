@@ -10,9 +10,6 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-**TO DO LIST**
-New Protection Stone Flags (By today)
-
 **OPTIMIZATION**
 :shiny: [Survival] 
 
