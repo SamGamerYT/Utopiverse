@@ -6,7 +6,7 @@
 :shiny: [Survival] **"/pshop"** will now show up on suggested commands.
 :shiny: [Survival] **"/psettings"** will now show up on suggested commands.
 :shiny: [Survival] Made changes to **"/pshop"**, Stone settings will have it's own page now.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Default Setting** status to protection flags/settings.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
