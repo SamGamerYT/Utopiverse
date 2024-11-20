@@ -104,3 +104,5 @@ New Protection Stone Flags (By today)
 - "plushies:christmas/plushie_santa_drx" DIAMOND_HORSE_ARMOR:10051
 - "plushies:christmas/plushie_santa_idiom" DIAMOND_HORSE_ARMOR:10052
 - "plushies:christmas/plushie_santa_whispy" DIAMOND_HORSE_ARMOR:10053
+- "plushies:plushie_elf_whfeyk" DIAMOND_HORSE_ARMOR:10054
+- "plushies:plushie_santa_whispyw" DIAMOND_HORSE_ARMOR:10055
