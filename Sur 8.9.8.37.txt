@@ -91,3 +91,15 @@
 **DUNGEON FROST CHANGES**
 **DUNGEON VOLCANO CHANGES**
 **DUNGEON WASTELAND CHANGES**
+
+
+**UPDATE THEIR MODEL FILE**
+- "plushies:christmas/plushie_elf_flyn" DIAMOND_HORSE_ARMOR:10046
+- "plushies:christmas/plushie_elf_queen" DIAMOND_HORSE_ARMOR:10047
+- "plushies:christmas/plushie_santa_smart" DIAMOND_HORSE_ARMOR:10048
+- "plushies:christmas/plushie_santa_whippy" DIAMOND_HORSE_ARMOR:10049
+**NEWLY ADDED**
+- "plushies:christmas/plushie_elf_hasty" DIAMOND_HORSE_ARMOR:10050
+- "plushies:christmas/plushie_santa_drx" DIAMOND_HORSE_ARMOR:10051
+- "plushies:christmas/plushie_santa_idiom" DIAMOND_HORSE_ARMOR:10052
+- "plushies:christmas/plushie_santa_whispy" DIAMOND_HORSE_ARMOR:10053
