@@ -10,6 +10,9 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+TO DO LIST:
+Fix Menders not working with chest hop
+
 **OPTIMIZATION**
 :shiny: [Survival] 
 
