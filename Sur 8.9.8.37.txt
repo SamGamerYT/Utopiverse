@@ -7,6 +7,9 @@
 :shiny: [Survival] **"/psettings"** will now show up on suggested commands.
 :shiny: [Survival] Made changes to **"/pshop"**, Stone settings will have it's own page now.
 :shiny: [Survival] Added **Default Setting** status to protection flags/settings.
+:shiny: [Survival] Disabled **Outdated Arena Tokens**, If your old tokens are not working, buy new ones.
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
