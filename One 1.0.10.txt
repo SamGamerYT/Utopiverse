@@ -5,11 +5,12 @@
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
+:grass: [QOL] Major Dependencies Update *(11/21/2024)*
 
 :grass: Added **Christmas Plushies**, Buyable from **"/buy"**
 :grass: Added **Plushie** Showcase + Hologram near **"/spawn"**
-:grass: 
-:grass: 
+:grass: Fixed **"/sell all"** command not working properly
+:grass: Fixed a major issue where Damage and Health holograms weren't getting "deleted"
 :grass: 
 :grass: 
 :grass: 
