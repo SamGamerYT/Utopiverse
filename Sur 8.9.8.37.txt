@@ -14,7 +14,7 @@
 :shiny: [Survival] 
 
 TO DO LIST:
-Fix Menders not working with chest hop
+Fix Menders not working with chest shop
 
 **OPTIMIZATION**
 :shiny: [Survival] 
