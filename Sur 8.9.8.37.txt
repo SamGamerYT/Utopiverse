@@ -110,3 +110,4 @@ Fix Menders not working with chest shop
 - "plushies:christmas/plushie_santa_whispy" DIAMOND_HORSE_ARMOR:10053
 - "plushies:plushie_elf_whfeyk" DIAMOND_HORSE_ARMOR:10054
 - "plushies:plushie_santa_whispyw" DIAMOND_HORSE_ARMOR:10055
+- "plushies:plushie_elf_spring" DIAMOND_HORSE_ARMOR:10056
