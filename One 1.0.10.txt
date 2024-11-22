@@ -1,5 +1,5 @@
 **Patch/Changes 1.0.10** *[Oneblock]*
-:grass: [QOL] 
+:grass: [QOL] Added **Art Map** System! Learn more about it on our wiki!
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
