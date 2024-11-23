@@ -112,3 +112,17 @@ Fix Menders not working with chest shop
 - "plushies:plushie_elf_whfeyk" DIAMOND_HORSE_ARMOR:10054
 - "plushies:plushie_santa_whispyw" DIAMOND_HORSE_ARMOR:10055
 - "plushies:plushie_elf_spring" DIAMOND_HORSE_ARMOR:10056
+
+**NEWLY ADDED**
+- "rpg:menu/abilities" YELLOW_DYE:500
+- "rpg:menu/ability" YELLOW_DYE:501
+- "rpg:menu/close" YELLOW_DYE:502
+- "rpg:menu/info" YELLOW_DYE:503
+- "rpg:menu/locked" YELLOW_DYE:504
+- "rpg:menu/locked_2" YELLOW_DYE:505
+- "rpg:menu/unlocked" YELLOW_DYE:506
+- "rpg:menu/manability" YELLOW_DYE:507
+- "rpg:menu/statplayer" YELLOW_DYE:508
+- "rpg:menu/progress" YELLOW_DYE:509
+- "rpg:menu/next" YELLOW_DYE:510
+- "rpg:menu/previous" YELLOW_DYE:511
