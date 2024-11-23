@@ -25,6 +25,7 @@ Fix Menders not working with chest shop
 **HUB REALM**
 :sdragon: [Lobby] Major Dependencies Update *(11/18/2024)*
 :sdragon: [Lobby] Fixed **"/spawn"** not working properly
+:sdragon: [Lobby] Added **Block Party** Image and made it popout a bit more.
 :sdragon: [Lobby] 
 
 **SYSTEM NETWORK**
