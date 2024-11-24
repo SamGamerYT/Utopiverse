@@ -11,6 +11,8 @@
 :shiny: [Survival] Removed **Crab Catching/Killing** Tournament from **Fishing Tournament**
 :shiny: [Survival] Added new tags **Furniture, Food and Other**
 :shiny: [Survival] Added a special tag available from Store "Celestial"
+:shiny: [Survival] Disabled **Weather Cycle** in **Frost Dungeon**
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 TO DO LIST:
