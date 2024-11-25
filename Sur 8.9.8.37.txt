@@ -15,6 +15,13 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+
+#Christmas
+- "rpg:cfuture" YELLOW_DYE#505501
+- "rpg:cmiss" YELLOW_DYE#505502
+- "rpg:cclaimed" YELLOW_DYE#505503
+- "rpg:cunclaim" YELLOW_DYE#505504
+
 TO DO LIST:
 Fix Menders not working with chest shop
 
