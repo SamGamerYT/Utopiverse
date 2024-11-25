@@ -12,6 +12,8 @@
 :shiny: [Survival] Added new tags **Furniture, Food and Other**
 :shiny: [Survival] Added a special tag available from Store "Celestial"
 :shiny: [Survival] Disabled **Weather Cycle** in **Frost Dungeon**
+:shiny: [Survival] Added **ATM** at **"/warp arena"**
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
