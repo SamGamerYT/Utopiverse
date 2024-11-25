@@ -36,6 +36,7 @@ Fix Menders not working with chest shop
 :sdragon: [Lobby] Fixed **"/spawn"** not working properly
 :sdragon: [Lobby] Added **Block Party** Image and made it popout a bit more.
 :sdragon: [Lobby] **Block Party** will have permanent day cycle.
+:sdragon: [Lobby] Added **PERMANENT** Night vision potion to **Block Party** Gamemode
 
 **SYSTEM NETWORK**
 :spaceheart1: [Network] 
