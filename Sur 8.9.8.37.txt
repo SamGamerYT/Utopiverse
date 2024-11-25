@@ -14,7 +14,7 @@
 :shiny: [Survival] Disabled **Weather Cycle** in **Frost Dungeon**
 :shiny: [Survival] Added **ATM** at **"/warp arena"**
 :shiny: [Survival] Updated **RUNESTONES** Data, Drop and pick up your gemstones to update.
-:shiny: [Survival] 
+:shiny: [Survival] Heavily lowered **Throwable Bomb** mana requirement.
 :shiny: [Survival] 
 
 
