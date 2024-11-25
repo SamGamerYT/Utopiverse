@@ -13,7 +13,7 @@
 :shiny: [Survival] Added a special tag available from Store "Celestial"
 :shiny: [Survival] Disabled **Weather Cycle** in **Frost Dungeon**
 :shiny: [Survival] Added **ATM** at **"/warp arena"**
-:shiny: [Survival] 
+:shiny: [Survival] Updated **RUNESTONES** Data, Drop and pick up your gemstones to update.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
