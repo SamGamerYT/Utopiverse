@@ -16,6 +16,8 @@
 :shiny: [Survival] Updated **RUNESTONES** Data, Drop and pick up your gemstones to update.
 :shiny: [Survival] Heavily lowered **Throwable Bomb** mana requirement.
 :shiny: [Survival] **Magma Cube** will no longer "kill all" however their **Spawner Speed** has been heavily nerfed
+:shiny: [Survival] **Magma Cubes** and **Slimes** will no longer reward players with money.
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
