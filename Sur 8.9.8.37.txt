@@ -28,6 +28,10 @@
 - "rpg:cclaimed" YELLOW_DYE#505503
 - "rpg:cunclaim" YELLOW_DYE#505504
 
+# Pluyshies
+- "plushies:christmas/plushie_santa_nuclear" #DIAMOND_HORSE_ARMOR:10057
+- "plushies:christmas/plushie_santa_samgameryt" #DIAMOND_HORSE_ARMOR:10058
+
 # Christmas Special
 - "plushies:snowball_boots" DIAMOND_HORSE_ARMOR#11000
 - "plushies:snowball_candy_cane" DIAMOND_HORSE_ARMOR#11001
