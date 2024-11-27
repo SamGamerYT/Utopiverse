@@ -12,7 +12,7 @@
 :grass: Fixed **"/sell all"** command not working properly
 :grass: Fixed a major issue where Damage and Health holograms weren't getting "deleted"
 :grass: Fixed an issue with plushies being able to get stolen from the Showcase.
-:grass: 
+:grass: Fixed **Sell Minions** not selling sellable items.
 :grass: 
 :grass: 
 
