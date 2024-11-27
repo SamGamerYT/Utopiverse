@@ -21,26 +21,6 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-
-#Christmas
-- "rpg:cfuture" YELLOW_DYE#505501
-- "rpg:cmiss" YELLOW_DYE#505502
-- "rpg:cclaimed" YELLOW_DYE#505503
-- "rpg:cunclaim" YELLOW_DYE#505504
-
-# Pluyshies
-- "plushies:christmas/plushie_santa_nuclear" #DIAMOND_HORSE_ARMOR:10057
-- "plushies:christmas/plushie_santa_samgameryt" #DIAMOND_HORSE_ARMOR:10058
-
-# Christmas Special
-- "plushies:snowball_boots" DIAMOND_HORSE_ARMOR#11000
-- "plushies:snowball_candy_cane" DIAMOND_HORSE_ARMOR#11001
-- "plushies:snowball_christmas_tree" DIAMOND_HORSE_ARMOR#11002
-- "plushies:snowball_deer" DIAMOND_HORSE_ARMOR#11003
-- "plushies:snowball_penguin" DIAMOND_HORSE_ARMOR#11004
-- "plushies:snowball_present" DIAMOND_HORSE_ARMOR#11005
-- "plushies:snowball_snowman" DIAMOND_HORSE_ARMOR#11006
-
 TO DO LIST:
 Fix Menders not working with chest shop
 
