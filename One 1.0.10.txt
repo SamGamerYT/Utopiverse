@@ -19,7 +19,7 @@
 :grass: Fixed **Error** where Help NPC wasn't spawning properly.
 :grass: Fixed **Error** where Wumpus NPC wasn't spawning properly.
 :grass: Removed **Useless** usages from the bedrock forms.
-:grass: 
+:grass: Fixed over **100+** RPG Errors and Outdated System
 :grass: 
 :grass: 
 :grass: 
