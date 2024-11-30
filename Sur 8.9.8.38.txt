@@ -1,8 +1,6 @@
 **Patch/Changes 8.9.8.38** *(Network Changes)*
 :shiny: [Survival] Changed **Advent NPC** from **Armorstand** to **Player** NPC
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Placing** and **Breaking** sounds to **Christmas Furnitures**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
