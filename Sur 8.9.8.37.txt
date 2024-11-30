@@ -21,16 +21,6 @@
 :shiny: [Survival] Added **Advent NPC** in **Season House**!
 :shiny: [Survival] Added **Elf NPC** at **"/spawn"** location
 :shiny: [Survival] Added **7** Rare Globes, Find the ways to collect all **seven** of them!
-:shiny: [Survival] 
-
-TO DO LIST:
-Fix Menders not working with chest shop
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**TEXTURES**
-:shiny: [Survival] 
 
 **HUB REALM**
 :sdragon: [Lobby] Major Dependencies Update *(11/18/2024)*
@@ -39,106 +29,9 @@ Fix Menders not working with chest shop
 :sdragon: [Lobby] **Block Party** will have permanent day cycle.
 :sdragon: [Lobby] Added **PERMANENT** Night vision potion to **Block Party** Gamemode
 :sdragon: [Lobby] Added **Christmas Music** in **Spawn Zone**
-:sdragon: [Lobby] 
-:sdragon: [Lobby] 
-
-**SYSTEM NETWORK**
-:spaceheart1: [Network] 
 
 **WEBSTORE**
 :shiny: [Website] Added **TIME LIMIT** on all of the **Limited Edition Plushies**
 :shiny: [Website] Added **Four UI** Tags in **Global Category**
-:shiny: [Website] 
-:shiny: [Website] 
-:shiny: [Website] 
-
-**DUNGEON DROPTABLE**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**FISHING**
-:shiny: [Survival]
-
-**BUILD**
-:shiny: [Survival] 
-
-**BUILD** *(Whispy & _DrxR3fl3x_3)*
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**UNDERGROUND ARENA CHANGES**
-:shiny: [Survival] 
-
-**RPG LEVEL CHANGES**
-:shiny: [Survival] 
-
-**AUTO RESPONSE**
-:shiny: [Survival] 
 
 **[@Changelogs]**
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
-
-
-**UPDATE THEIR MODEL FILE**
-- "plushies:christmas/plushie_elf_flyn" DIAMOND_HORSE_ARMOR:10046
-- "plushies:christmas/plushie_elf_queen" DIAMOND_HORSE_ARMOR:10047
-- "plushies:christmas/plushie_santa_smart" DIAMOND_HORSE_ARMOR:10048
-- "plushies:christmas/plushie_santa_whippy" DIAMOND_HORSE_ARMOR:10049
-**NEWLY ADDED**
-- "plushies:christmas/plushie_elf_hasty" DIAMOND_HORSE_ARMOR:10050
-- "plushies:christmas/plushie_santa_drx" DIAMOND_HORSE_ARMOR:10051
-- "plushies:christmas/plushie_santa_idiom" DIAMOND_HORSE_ARMOR:10052
-- "plushies:christmas/plushie_santa_whispy" DIAMOND_HORSE_ARMOR:10053
-- "plushies:plushie_elf_whfeyk" DIAMOND_HORSE_ARMOR:10054
-- "plushies:plushie_santa_whispyw" DIAMOND_HORSE_ARMOR:10055
-- "plushies:plushie_elf_spring" DIAMOND_HORSE_ARMOR:10056
-
-**NEWLY ADDED**
-- "rpg:menu/abilities" YELLOW_DYE:500
-- "rpg:menu/ability" YELLOW_DYE:501
-- "rpg:menu/close" YELLOW_DYE:502
-- "rpg:menu/info" YELLOW_DYE:503
-- "rpg:menu/locked" YELLOW_DYE:504
-- "rpg:menu/locked_2" YELLOW_DYE:505
-- "rpg:menu/unlocked" YELLOW_DYE:506
-- "rpg:menu/manability" YELLOW_DYE:507
-- "rpg:menu/statplayer" YELLOW_DYE:508
-- "rpg:menu/progress" YELLOW_DYE:509
-- "rpg:menu/next" YELLOW_DYE:510
-- "rpg:menu/previous" YELLOW_DYE:511
