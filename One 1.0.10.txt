@@ -3,6 +3,8 @@
 :grass: [QOL] Major Dependencies Update *(11/21/2024)*
 :grass: [QOL] Re-Enabled **Totem** working from **Inventory**
 :grass: [QOL] Added **Advent** at **"/spawn"**
+:grass: [QOL] Updated **Cyanide** Custom Armour
+:grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
