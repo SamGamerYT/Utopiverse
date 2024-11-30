@@ -20,7 +20,7 @@
 :grass: Fixed **Error** where Wumpus NPC wasn't spawning properly.
 :grass: Removed **Useless** usages from the bedrock forms.
 :grass: Fixed over **100+** RPG Errors and Outdated System
-:grass: 
+:grass: Fixed **Discord Prefix** showing up double in chat
 :grass: 
 :grass: 
 
