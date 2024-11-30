@@ -1,7 +1,7 @@
 **Patch/Changes 1.0.10** *[Oneblock]*
 :grass: [QOL] Added **Art Map** System! Learn more about it on our wiki!
 :grass: [QOL] Major Dependencies Update *(11/21/2024)*
-:grass: [QOL] 
+:grass: [QOL] Re-Enabled **Totem** working from **Inventory**
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
