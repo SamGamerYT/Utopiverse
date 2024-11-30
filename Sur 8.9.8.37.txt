@@ -20,7 +20,7 @@
 :shiny: [Survival] Entire **Spawn Zone** has faced a quick blizzard and snow is now everywhere!
 :shiny: [Survival] Added **Advent NPC** in **Season House**!
 :shiny: [Survival] Added **Elf NPC** at **"/spawn"** location
-:shiny: [Survival] 
+:shiny: [Survival] Added **7** Rare Globes, Find the ways to collect all **seven** of them!
 :shiny: [Survival] 
 
 TO DO LIST:
