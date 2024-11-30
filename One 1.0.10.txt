@@ -15,6 +15,7 @@
 :grass: Fixed **Sell Minions** not selling sellable items.
 :grass: **Spawn Zone** is now fully covered in **Snow!**
 :grass: Fixed **Error** where Help NPC wasn't spawning properly.
+:grass: Fixed **Error** where Wumpus NPC wasn't spawning properly.
 :grass: 
 :grass: 
 :grass: 
