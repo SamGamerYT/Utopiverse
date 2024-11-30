@@ -19,7 +19,7 @@
 :shiny: [Survival] **Magma Cubes** and **Slimes** will no longer reward players with money.
 :shiny: [Survival] Entire **Spawn Zone** has faced a quick blizzard and snow is now everywhere!
 :shiny: [Survival] Added **Advent NPC** in **Season House**!
-:shiny: [Survival] 
+:shiny: [Survival] Added **Elf NPC** at **"/spawn"** location
 :shiny: [Survival] 
 :shiny: [Survival] 
 
