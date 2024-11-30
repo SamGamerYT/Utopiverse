@@ -13,6 +13,8 @@
 :grass: Fixed a major issue where Damage and Health holograms weren't getting "deleted"
 :grass: Fixed an issue with plushies being able to get stolen from the Showcase.
 :grass: Fixed **Sell Minions** not selling sellable items.
+:grass: **Spawn Zone** is now fully covered in **Snow!**
+:grass: 
 :grass: 
 :grass: 
 
