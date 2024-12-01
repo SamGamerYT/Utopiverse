@@ -10,6 +10,11 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
+
+:shiny: [Codex] Added a new **Mob** in **Volcano Codex**
+:shiny: [Codex] 
+:shiny: [Codex] 
+
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -85,7 +90,6 @@ Fix Menders not working with chest shop
 :shiny: [Build] 
 *(Special Thanks to _Skmasykw)*
 :shiny: [Loot]
-:shiny: [Codex] 
 :shiny: [Proxy] 
 :shiny: [Global] 
 :shiny: [Dungeon]
