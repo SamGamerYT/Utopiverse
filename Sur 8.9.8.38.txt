@@ -36,7 +36,7 @@ Fix Menders not working with chest shop
 :sdragon: [Lobby] 
 
 **SYSTEM NETWORK**
-:spaceheart1: [Network] 
+:spaceheart1: [Network] Fixed **Friends Login** method not working properly.
 :spaceheart1: [Network] 
 :spaceheart1: [Network] 
 
