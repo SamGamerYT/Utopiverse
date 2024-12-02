@@ -17,7 +17,7 @@
 :shiny: [Codex] 
 
 :shiny: [Textures] Fixed **Missing Textures** in **Bartender Codex**
-:shiny: [Textures] 
+:shiny: [Textures] Added **Runestone Interface** in **Runestone Upgrader** UI
 :shiny: [Textures] 
 :shiny: [Textures] 
 
