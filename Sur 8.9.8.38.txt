@@ -3,7 +3,7 @@
 :shiny: [Survival] Added **Placing** and **Breaking** sounds to **Christmas Furnitures**
 :shiny: [Survival] Added **Proper Name** and **Lore** to **Christmas Furnitures**
 :shiny: [Survival] Revamped old furnitures to our new styling.
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Original Tinkerer** Bench model and added **Crafting Station** at **"/warp tinkerer"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
