@@ -16,6 +16,11 @@
 :shiny: [Codex] 
 :shiny: [Codex] 
 
+:shiny: [Textures] Fixed **Missing Textures** in **Bartender Codex**
+:shiny: [Textures] 
+:shiny: [Textures] 
+:shiny: [Textures] 
+
 TO DO LIST:
 Fix Menders not working with chest shop
 
