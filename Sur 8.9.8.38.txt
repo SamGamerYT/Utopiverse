@@ -18,10 +18,12 @@
 
 :shiny: [Textures] Fixed **Missing Textures** in **Bartender Codex**
 :shiny: [Textures] Added **Runestone Interface** in **Runestone Upgrader** UI
-:shiny: [Textures] Merged **Two packs** for **Optimizations** (UtopiverseUI and UtopiverseESC)
 :shiny: [Textures] 
 :shiny: [Textures] 
 :shiny: [Textures] 
+
+:shiny: [Bedrock] Merged **Two packs** for **Optimizations** (UtopiverseUI and UtopiverseESC)
+:shiny: [Bedrock] 
 
 TO DO LIST:
 Fix Menders not working with chest shop
