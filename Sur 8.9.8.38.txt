@@ -7,7 +7,7 @@
 :shiny: [Survival] Modified **Opening Sound** for **The Forge** at **"/blacksmith"**
 :shiny: [Survival] Added **Four** new zones for **Baby Spooders** to Spawn
 :shiny: [Survival] Reduced **Baby Spooder** Respawning timer
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **HOSTILE TOURNAMENT** not working as intended.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
