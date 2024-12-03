@@ -5,7 +5,7 @@
 :shiny: [Survival] Revamped old furnitures to our new styling.
 :shiny: [Survival] Removed **Original Tinkerer** Bench model and added **Crafting Station** at **"/warp tinkerer"**
 :shiny: [Survival] Modified **Opening Sound** for **The Forge** at **"/blacksmith"**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Four** new zones for **Baby Spooders** to Spawn
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
