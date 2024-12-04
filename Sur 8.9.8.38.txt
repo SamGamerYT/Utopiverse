@@ -36,7 +36,7 @@ Fix Menders not working with chest shop
 
 **HUB REALM**
 :sdragon: [Lobby] **Portal Model** has been removed
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Rotated the **Elephant Statue** -90 Degree
 :sdragon: [Lobby] 
 :sdragon: [Lobby] 
 :sdragon: [Lobby] 
