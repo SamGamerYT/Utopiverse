@@ -35,7 +35,7 @@ Fix Menders not working with chest shop
 :shiny: [Survival] 
 
 **HUB REALM**
-:sdragon: [Lobby] 
+:sdragon: [Lobby] **Portal Model** has been removed
 :sdragon: [Lobby] 
 :sdragon: [Lobby] 
 :sdragon: [Lobby] 
