@@ -9,7 +9,7 @@
 :shiny: [Survival] Reduced **Baby Spooder** Respawning timer
 :shiny: [Survival] Fixed **HOSTILE TOURNAMENT** not working as intended.
 :shiny: [Survival] Fixed Special Sets of **Frost, Volcano and Wasteland**, Not increasing damage properly.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Wasteland Relic** not providing damage boost
 :shiny: [Survival] 
 
 :shiny: [Codex] Added a new **Mob** in **Volcano Codex**
