@@ -84,6 +84,34 @@ Fix Menders not working with chest shop
 :shiny: [Survival] 
 
 **[@Changelogs]**
+
+**OLD ID**
+[PAPER]
+#semusarmor:flamos_head: 10047
+#semusarmor:glacia_head: 10048
+#semusarmor:null_head: 10049
+#semusarmor:thor_head: 10050
+#semusarmor:zephyr_head: 10051
+#semusarmor:abyssion_head: 10074
+[KELP]
+#rpg_sets:christmas_2023-hat: 10000
+#rpg_sets:christmas_2023-key: 10001
+#rpg_sets:christmas_2023-wings: 10002
+
+**OLD ID**
+[GOLDEN_HORSE_ARMOR]
+#semusarmor:flamos_head: 10047
+#semusarmor:glacia_head: 10048
+#semusarmor:null_head: 10049
+#semusarmor:thor_head: 10050
+#semusarmor:zephyr_head: 10051
+#semusarmor:abyssion_head: 10074
+[KELP]
+#rpg_sets:christmas_2023-hat: 10000
+#rpg_sets:christmas_2023-key: 10001
+#rpg_sets:christmas_2023-wings: 10002
+
+
 *(Special Thanks to _WhispyW)*
 :shiny: [Art] 
 *(Special Thanks to _BrokenJJ6029)*
