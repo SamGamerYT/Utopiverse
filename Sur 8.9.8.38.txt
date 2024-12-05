@@ -11,6 +11,10 @@
 :shiny: [Survival] Fixed Special Sets of **Frost, Volcano and Wasteland**, Not increasing damage properly.
 :shiny: [Survival] Fixed **Wasteland Relic** not providing damage boost
 :shiny: [Survival] **HEAVILY** buffed **YETI BOSS** in **Frost Dungeon**
+
+**BLACKSMITH**
+:shiny: [Survival] Tools will now follow the proper **Rarity Sequence**
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
