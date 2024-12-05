@@ -21,6 +21,7 @@
 :shiny: [Codex] 
 :shiny: [Codex] 
 
+**TEXTURES**
 :shiny: [Textures] Fixed **Missing Textures** in **Bartender Codex**
 :shiny: [Textures] Added **Runestone Interface** in **Runestone Upgrader** UI
 :shiny: [Textures] 
@@ -28,7 +29,6 @@
 :shiny: [Textures] 
 
 :shiny: [Bedrock] Merged **Two packs** for **Optimizations** (UtopiverseUI and UtopiverseESC)
-:shiny: [Bedrock] 
 
 TO DO LIST:
 Fix Menders not working with chest shop
@@ -36,13 +36,10 @@ Fix Menders not working with chest shop
 **OPTIMIZATION**
 :shiny: [Survival] 
 
-**TEXTURES**
-:shiny: [Survival] 
-
 **HUB REALM**
 :sdragon: [Lobby] **Portal Model** has been removed
 :sdragon: [Lobby] Rotated the **Elephant Statue** -90 Degree
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Added a new **NPC** right in the middle for a secret gamemode.
 :sdragon: [Lobby] 
 :sdragon: [Lobby] 
 :sdragon: [Lobby] 
