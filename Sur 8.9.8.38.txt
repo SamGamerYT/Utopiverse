@@ -13,6 +13,10 @@
 :shiny: [Survival] **HEAVILY** buffed **YETI BOSS** in **Frost Dungeon**
 :shiny: [Survival] 
 
+**DUNGEON VOLCANO CHANGES**
+:shiny: [Survival] Allowed players to **Drop Items** on the ground in Volcano
+:shiny: [Survival] 
+
 :shiny: [Codex] Added a new **Mob** in **Volcano Codex**
 :shiny: [Codex] 
 :shiny: [Codex] 
