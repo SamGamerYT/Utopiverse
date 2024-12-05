@@ -53,7 +53,7 @@ Fix Menders not working with chest shop
 **SYSTEM NETWORK**
 :spaceheart1: [Network] Fixed **Friends Login** method not working properly.
 :spaceheart1: [Network] Maintenance on **Friends Joining** system **12/2/2024**
-:spaceheart1: [Network] 
+:spaceheart1: [Network] Dependencies Update *(12/5/2024)*
 
 **WEBSTORE**
 :shiny: [Website] 
