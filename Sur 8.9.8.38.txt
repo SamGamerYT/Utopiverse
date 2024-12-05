@@ -100,18 +100,18 @@ Fix Menders not working with chest shop
 
 **NEW ID**
 [GOLDEN_HORSE_ARMOR]
-#semusarmor:flamos_head: 10047
-#semusarmor:glacia_head: 10048
-#semusarmor:null_head: 10049
-#semusarmor:thor_head: 10050
-#semusarmor:zephyr_head: 10051
-#semusarmor:abyssion_head: 10074
+#semusarmor:flamos_head: 1251
+#semusarmor:glacia_head: 1252
+#semusarmor:null_head: 1253
+#semusarmor:thor_head: 1254
+#semusarmor:zephyr_head: 1255
+#semusarmor:abyssion_head: 1256
 [GOLDEN_HORSE_ARMOR]
-#rpg_sets:christmas_2023-hat: 10000
-#rpg_sets:christmas_2023-key: 10001
-#rpg_sets:christmas_2023-wings: 10002
+#rpg_sets:christmas_2023-hat: 1241
+#rpg_sets:christmas_2023-wings: 1242
 
 **REMOVED**
+#rpg_sets:christmas_2023-key: 10001
 
 
 *(Special Thanks to _WhispyW)*
