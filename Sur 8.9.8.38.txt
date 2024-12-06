@@ -14,7 +14,7 @@
 
 **BLACKSMITH**
 :shiny: [Survival] Tools will now follow the proper **Rarity Sequence**
-:shiny: [Survival] 
+:shiny: [Survival] Created **Onix Shovel** for **Starter Players**
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
