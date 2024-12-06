@@ -18,6 +18,7 @@
 :shiny: [Survival] Added **Runestone Type "Resilience"** for Unbreaking and Mending
 :shiny: [Survival] **Jade Shovel** can now turn into **Netherite** from **Diamond** via Smithing Table.
 :shiny: [Survival] Added **Kyanite Pickaxe** back in **Crafting Station**
+:shiny: [Survival] **Serrated Carnelian Pickaxe** can now turn into **Netherite** from **Diamond** via Smithing Table.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
