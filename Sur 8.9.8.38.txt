@@ -16,6 +16,7 @@
 :shiny: [Survival] Tools will now follow the proper **Rarity Sequence**
 :shiny: [Survival] Created **Onix Shovel** for **Starter Players**
 :shiny: [Survival] Added **Runestone Type "Resilience"** for Unbreaking and Mending
+:shiny: [Survival] **Jade Shovel** can now turn into **Netherite** from **Diamond** via Smithing Table.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
