@@ -15,6 +15,8 @@
 **BLACKSMITH**
 :shiny: [Survival] Tools will now follow the proper **Rarity Sequence**
 :shiny: [Survival] Created **Onix Shovel** for **Starter Players**
+:shiny: [Survival] Added **Runestone Type "Resilience"** for Unbreaking and Mending
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
