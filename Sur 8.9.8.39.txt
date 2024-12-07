@@ -1,0 +1,154 @@
+**Patch/Changes 8.9.8.38** *(Network Changes)*
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+**BLACKSMITH**
+:shiny: [Survival] 
+
+**DUNGEON VOLCANO CHANGES**
+:shiny: [Survival] Allowed players to **Drop Items** on the ground in Volcano
+:shiny: [Survival] 
+
+:shiny: [Codex] Added a new **Mob** in **Volcano Codex**
+:shiny: [Codex] 
+:shiny: [Codex] 
+
+**TEXTURES**
+:shiny: [Textures] Fixed **Missing Textures** in **Bartender Codex**
+:shiny: [Textures] Added **Runestone Interface** in **Runestone Upgrader** UI
+:shiny: [Textures] 
+:shiny: [Textures] 
+:shiny: [Textures] 
+
+:shiny: [Bedrock] Merged **Two packs** for **Optimizations** (UtopiverseUI and UtopiverseESC)
+
+TO DO LIST:
+Fix Menders not working with chest shop
+
+**OPTIMIZATION**
+:shiny: [Survival] 
+
+**HUB REALM**
+:sdragon: [Lobby] **Portal Model** has been removed
+:sdragon: [Lobby] Rotated the **Elephant Statue** -90 Degree
+:sdragon: [Lobby] Added a new **NPC** right in the middle for a secret gamemode.
+:sdragon: [Lobby] 
+:sdragon: [Lobby] 
+:sdragon: [Lobby] 
+:sdragon: [Lobby] 
+:sdragon: [Lobby] 
+
+**SYSTEM NETWORK**
+:spaceheart1: [Network] Fixed **Friends Login** method not working properly.
+:spaceheart1: [Network] Maintenance on **Friends Joining** system **12/2/2024**
+:spaceheart1: [Network] Dependencies Update *(12/5/2024)*
+
+**WEBSTORE**
+:shiny: [Website] 
+:shiny: [Website] 
+:shiny: [Website] 
+:shiny: [Website] 
+:shiny: [Website] 
+
+**DUNGEON DROPTABLE**
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+**FISHING**
+:shiny: [Survival]
+
+**BUILD**
+:shiny: [Survival] 
+
+**BUILD** *(Whispy & _DrxR3fl3x_3)*
+:shiny: [Survival] 
+
+**ARENA CHANGES**
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+**UNDERGROUND ARENA CHANGES**
+:shiny: [Survival] 
+
+**RPG LEVEL CHANGES**
+:shiny: [Survival] 
+
+**AUTO RESPONSE**
+:shiny: [Survival] 
+
+**[@Changelogs]**
+
+**OLD ID**
+[PAPER]
+#semusarmor:flamos_head: 10047
+#semusarmor:glacia_head: 10048
+#semusarmor:null_head: 10049
+#semusarmor:thor_head: 10050
+#semusarmor:zephyr_head: 10051
+#semusarmor:abyssion_head: 10074
+[KELP]
+#rpg_sets:christmas_2023-hat: 10000
+#rpg_sets:christmas_2023-key: 10001
+#rpg_sets:christmas_2023-wings: 10002
+
+**NEW ID**
+[GOLDEN_HORSE_ARMOR]
+#semusarmor:flamos_head: 1251
+#semusarmor:glacia_head: 1252
+#semusarmor:null_head: 1253
+#semusarmor:thor_head: 1254
+#semusarmor:zephyr_head: 1255
+#semusarmor:abyssion_head: 1256
+[GOLDEN_HORSE_ARMOR]
+#rpg_sets:christmas_2023-hat: 1241
+#rpg_sets:christmas_2023-wings: 1242
+
+**REMOVED**
+#rpg_sets:christmas_2023-key: 10001 `model_path: christmas1/key`
+
+
+*(Special Thanks to _WhispyW)*
+:shiny: [Art] 
+*(Special Thanks to _BrokenJJ6029)*
+:shiny: [Build] 
+*(Special Thanks to _Skmasykw)*
+:shiny: [Loot]
+:shiny: [Codex] 
+:shiny: [Proxy] 
+:shiny: [Global] 
+:shiny: [Dungeon]
+:shiny: [Discord] 
+:shiny: [Bedrock]
+:shiny: [Christmas] 
+:shiny: [Underground Arena]
+:Sparkles: [Store]
+
+:shiny: [Java] 
+:shiny: [Textures]
+
+
+**BOSS ZONE CHANGES**
+**AUTO RESPONSE**
+**JAVA**
+**CRATES**
+**BEDROCK**
+**WEBSITE**
+**TEXTURES**
+**REPAIR STONES**
+**SHOP RELATED CHANGES**
+
+**DUNGEON MINE CHANGES**
+**DUNGEON FROST CHANGES**
+**DUNGEON VOLCANO CHANGES**
+**DUNGEON WASTELAND CHANGES**
