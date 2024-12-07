@@ -20,6 +20,8 @@
 :shiny: [Survival] Added **Kyanite Pickaxe** back in **Crafting Station**
 :shiny: [Survival] **Serrated Carnelian Pickaxe** can now turn into **Netherite** from **Diamond** via Smithing Table.
 
+:shiny: [Survival] Added **Daily Questboard** outside **Potion Shop**
+
 :shiny: [Survival] Added **Bookshelf** at **Enchanter NPC**
 
 :shiny: [Survival] Improved **Refine aka Repair Shop** with proper hologram and information.
