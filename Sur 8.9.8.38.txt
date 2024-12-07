@@ -22,14 +22,11 @@
 :shiny: [Survival] **Serrated Carnelian Pickaxe** can now turn into **Netherite** from **Diamond** via Smithing Table.
 
 :shiny: [Survival] Added **Daily Questboard** outside **Potion Shop**
-
 :shiny: [Survival] Added **Bookshelf** at **Enchanter NPC**
-
 :shiny: [Survival] Improved **Refine aka Repair Shop** with proper hologram and information.
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Allowed players to **Drop Items** on the ground in Volcano
-
 :shiny: [Codex] Added a new **Mob** in **Volcano Codex**
 
 **TEXTURES**
@@ -37,12 +34,6 @@
 :shiny: [Textures] Added **Runestone Interface** in **Runestone Upgrader** UI
 
 :shiny: [Bedrock] Merged **Two packs** for **Optimizations** (UtopiverseUI and UtopiverseESC)
-
-TO DO LIST:
-Fix Menders not working with chest shop
-
-**OPTIMIZATION**
-:shiny: [Survival] 
 
 **HUB REALM**
 :sdragon: [Lobby] **Portal Model** has been removed
