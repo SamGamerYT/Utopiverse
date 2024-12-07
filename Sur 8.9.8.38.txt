@@ -29,18 +29,12 @@
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Allowed players to **Drop Items** on the ground in Volcano
-:shiny: [Survival] 
 
 :shiny: [Codex] Added a new **Mob** in **Volcano Codex**
-:shiny: [Codex] 
-:shiny: [Codex] 
 
 **TEXTURES**
 :shiny: [Textures] Fixed **Missing Textures** in **Bartender Codex**
 :shiny: [Textures] Added **Runestone Interface** in **Runestone Upgrader** UI
-:shiny: [Textures] 
-:shiny: [Textures] 
-:shiny: [Textures] 
 
 :shiny: [Bedrock] Merged **Two packs** for **Optimizations** (UtopiverseUI and UtopiverseESC)
 
