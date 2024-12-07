@@ -1,4 +1,4 @@
-**Patch/Changes 8.9.8.38** *(Network Changes)*
+**Patch/Changes 8.9.8.39** *(Network Changes)*
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -17,21 +17,14 @@
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] Allowed players to **Drop Items** on the ground in Volcano
 :shiny: [Survival] 
 
-:shiny: [Codex] Added a new **Mob** in **Volcano Codex**
-:shiny: [Codex] 
 :shiny: [Codex] 
 
 **TEXTURES**
-:shiny: [Textures] Fixed **Missing Textures** in **Bartender Codex**
-:shiny: [Textures] Added **Runestone Interface** in **Runestone Upgrader** UI
-:shiny: [Textures] 
-:shiny: [Textures] 
 :shiny: [Textures] 
 
-:shiny: [Bedrock] Merged **Two packs** for **Optimizations** (UtopiverseUI and UtopiverseESC)
+:shiny: [Bedrock] M
 
 TO DO LIST:
 Fix Menders not working with chest shop
@@ -40,19 +33,10 @@ Fix Menders not working with chest shop
 :shiny: [Survival] 
 
 **HUB REALM**
-:sdragon: [Lobby] **Portal Model** has been removed
-:sdragon: [Lobby] Rotated the **Elephant Statue** -90 Degree
-:sdragon: [Lobby] Added a new **NPC** right in the middle for a secret gamemode.
-:sdragon: [Lobby] 
-:sdragon: [Lobby] 
-:sdragon: [Lobby] 
-:sdragon: [Lobby] 
 :sdragon: [Lobby] 
 
 **SYSTEM NETWORK**
-:spaceheart1: [Network] Fixed **Friends Login** method not working properly.
-:spaceheart1: [Network] Maintenance on **Friends Joining** system **12/2/2024**
-:spaceheart1: [Network] Dependencies Update *(12/5/2024)*
+:spaceheart1: [Network] 
 
 **WEBSTORE**
 :shiny: [Website] 
