@@ -19,8 +19,10 @@
 :shiny: [Survival] **Jade Shovel** can now turn into **Netherite** from **Diamond** via Smithing Table.
 :shiny: [Survival] Added **Kyanite Pickaxe** back in **Crafting Station**
 :shiny: [Survival] **Serrated Carnelian Pickaxe** can now turn into **Netherite** from **Diamond** via Smithing Table.
-:shiny: [Survival] 
-:shiny: [Survival] 
+
+:shiny: [Survival] Added **Bookshelf** at **Enchanter NPC**
+
+:shiny: [Survival] Improved **Refine aka Repair Shop** with proper hologram and information.
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Allowed players to **Drop Items** on the ground in Volcano
