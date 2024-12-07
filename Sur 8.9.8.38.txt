@@ -33,22 +33,16 @@
 :shiny: [Textures] Fixed **Missing Textures** in **Bartender Codex**
 :shiny: [Textures] Added **Runestone Interface** in **Runestone Upgrader** UI
 
-:shiny: [Bedrock] Merged **Two packs** for **Optimizations** (UtopiverseUI and UtopiverseESC)
-
 **HUB REALM**
 :sdragon: [Lobby] **Portal Model** has been removed
 :sdragon: [Lobby] Rotated the **Elephant Statue** -90 Degree
 :sdragon: [Lobby] Added a new **NPC** right in the middle for a secret gamemode.
-:sdragon: [Lobby] 
-:sdragon: [Lobby] 
-:sdragon: [Lobby] 
-:sdragon: [Lobby] 
-:sdragon: [Lobby] 
 
 **SYSTEM NETWORK**
 :spaceheart1: [Network] Fixed **Friends Login** method not working properly.
 :spaceheart1: [Network] Maintenance on **Friends Joining** system **12/2/2024**
 :spaceheart1: [Network] Dependencies Update *(12/5/2024)*
+:shiny: [Bedrock] Merged **Two packs** for **Optimizations** (UtopiverseUI and UtopiverseESC)
 
 **WEBSTORE**
 :shiny: [Website] 
