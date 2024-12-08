@@ -1,5 +1,5 @@
 **Patch/Changes 1.0.11** *[Oneblock]*
-:grass: [QOL] 
+:grass: [QOL] Updated **Discord** name tag for Discord Chatters
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
