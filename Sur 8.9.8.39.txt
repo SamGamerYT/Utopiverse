@@ -59,6 +59,8 @@ Dan's Map
 :shiny: [Survival] 
 
 **BUILD** *(Whispy & _DrxR3fl3x_3)*
+**BUILD** *(_DrxR3fl3x_3)*
+:shiny: [Survival] New **Runestone Crates Section** Added near **"/warp crates"**, Visitable with Emerald Elevator.
 :shiny: [Survival] 
 
 **ARENA CHANGES**
