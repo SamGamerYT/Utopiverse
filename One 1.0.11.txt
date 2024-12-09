@@ -11,8 +11,8 @@
 
 :grass: **"/dsb"** will now work properly
 :grass: Added **Enchanter NPC** at **"/warp enchanter"**
-:grass: 
-:grass: 
+:grass: Fixed **"/welcomekit"** giving players NBT Data Chest
+:grass: Fixed **"/welcomekit"** giving **Orange Shulker** instead of **Brown Shulker**
 :grass: 
 :grass: 
 :grass: 
