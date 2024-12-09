@@ -10,7 +10,7 @@
 :grass: [QOL] 
 
 :grass: **"/dsb"** will now work properly
-:grass: 
+:grass: Added **Enchanter NPC** at **"/warp enchanter"**
 :grass: 
 :grass: 
 :grass: 
