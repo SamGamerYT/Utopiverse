@@ -1,7 +1,6 @@
 **Patch/Changes 1.0.11** *[Oneblock]*
 :grass: [QOL] Updated **Discord** name tag for Discord Chatters
-:grass: [QOL] Added **Armor Trim Lootbox**
-:grass: [QOL] Added **Dungeon Furniture Lootbox**
+:grass: [QOL] Added **Armor Trim Lootbox** and **Dungeon Furniture Lootbox** to **"/buy"**
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
