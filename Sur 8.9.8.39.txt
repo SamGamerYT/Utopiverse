@@ -3,7 +3,7 @@
 :shiny: [Survival] Added **Christmas 2024 MonthlyCrate*** at **"/warp crates"**
 :shiny: [Survival] Added **Repairstone Lootbox** for **Store Milestones**
 :shiny: [Survival] Fixed **Dungeon Furniture Lootbox** key not working properly.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Lootbox/MonthlyCrates Museum** near **"/warp crates"** reachable through **ELevator**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -61,7 +61,7 @@ Dan's Map
 
 **BUILD** *(Whispy & _DrxR3fl3x_3)*
 **BUILD** *(_DrxR3fl3x_3)*
-:shiny: [Survival] New **Runestone Crates Section** Added near **"/warp crates"**, Visitable with Emerald Elevator.
+:shiny: [Survival] New **Runestone Crates Section**
 :shiny: [Survival] 
 
 **ARENA CHANGES**
