@@ -33,6 +33,7 @@ Fix Menders not working with chest shop
 Dan's Map
 
 **OPTIMIZATION**
+:shiny: [Survival] Switched **Pack Loader** system to another method to avoid packet loss.
 :shiny: [Survival] 
 
 **HUB REALM**
