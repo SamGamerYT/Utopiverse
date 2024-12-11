@@ -4,7 +4,7 @@
 :shiny: [Survival] Added **Repairstone Lootbox** for **Store Milestones**
 :shiny: [Survival] Fixed **Dungeon Furniture Lootbox** key not working properly.
 :shiny: [Survival] Added **Lootbox/MonthlyCrates Museum** near **"/warp crates"** reachable through **ELevator**
-:shiny: [Survival] 
+:shiny: [Survival] Added **2021 to 2024** past **Monthly Crates** in **Crates Museum**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
