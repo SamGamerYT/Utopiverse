@@ -26,7 +26,7 @@
 **TEXTURES**
 :shiny: [Textures] 
 
-:shiny: [Bedrock] M
+:shiny: [Bedrock] 
 
 TO DO LIST:
 Fix Menders not working with chest shop
@@ -39,6 +39,7 @@ Dan's Map
 :sdragon: [Lobby] 
 
 **SYSTEM NETWORK**
+:spaceheart1: [Network] Modified **Bedrock MOTD** for Clients
 :spaceheart1: [Network] 
 
 **WEBSTORE**
