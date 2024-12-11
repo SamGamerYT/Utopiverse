@@ -2,7 +2,7 @@
 :shiny: [Survival] Updated **Discord** name tag for Discord Chatters
 :shiny: [Survival] Added **Christmas 2024 MonthlyCrate*** at **"/warp crates"**
 :shiny: [Survival] Added **Repairstone Lootbox** for **Store Milestones**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Dungeon Furniture Lootbox** key not working properly.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
