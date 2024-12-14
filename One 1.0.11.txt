@@ -13,7 +13,7 @@
 :grass: Added **Enchanter NPC** at **"/warp enchanter"**
 :grass: Fixed **"/welcomekit"** giving players NBT Data Chest
 :grass: Fixed **"/welcomekit"** giving **Orange Shulker** instead of **Brown Shulker**
-:grass: 
+:grass: Fixed where **Discord Chat** in-game had [] Label.
 :grass: 
 :grass: 
 :grass: 
