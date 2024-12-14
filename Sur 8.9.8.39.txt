@@ -9,7 +9,7 @@
 :shiny: [Survival] Removed **Grappling Hook** from Crates and **Permanently Disabled** their system.
 :shiny: [Survival] Fixed **Christmas Bow** not getting upgraded with **Christmas Scroll**
 :shiny: [Survival] Performend Maintenance on **SellWands** System
-:shiny: [Survival] 
+:shiny: [Survival] Fixed an issue where **Discord Chat** had Bolded Roles.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
