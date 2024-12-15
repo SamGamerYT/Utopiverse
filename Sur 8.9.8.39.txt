@@ -39,6 +39,7 @@ Dan's Map
 **HUB REALM**
 :sdragon: [Lobby] Fixed a bug where players were able to break furnitures.
 :sdragon: [Lobby] Dependencies Update **(12/15/2024)**
+:sdragon: [Lobby] Fixed a bug where players were able to grief Hub's Furnitures
 
 
 **SYSTEM NETWORK**
