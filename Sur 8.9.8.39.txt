@@ -38,7 +38,8 @@ Dan's Map
 
 **HUB REALM**
 :sdragon: [Lobby] Fixed a bug where players were able to break furnitures.
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Dependencies Update **(12/15/2024)**
+
 
 **SYSTEM NETWORK**
 :spaceheart1: [Network] Modified **Bedrock MOTD** for Clients
