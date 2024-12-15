@@ -3,7 +3,7 @@
 :shiny: [Survival] Added **Christmas 2024 MonthlyCrate*** at **"/warp crates"**
 :shiny: [Survival] Added **Repairstone Lootbox** for **Store Milestones**
 :shiny: [Survival] Fixed **Dungeon Furniture Lootbox** key not working properly.
-:shiny: [Survival] Added **Lootbox/MonthlyCrates Museum** near **"/warp crates"** reachable through **ELevator**
+:shiny: [Survival] Added **Lootbox/MonthlyCrates Museum** near **"/warp crates"** reachable through **Elevator**
 :shiny: [Survival] Added **2021 to 2024** past **Monthly Crates** in **Crates Museum**
 :shiny: [Survival] Added **Crates Museum** Hologram for player navigation.
 :shiny: [Survival] Removed **Grappling Hook** from Crates and **Permanently Disabled** their system.
