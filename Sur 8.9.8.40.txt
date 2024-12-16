@@ -44,13 +44,8 @@ Dan's Map
 
 **WEBSTORE**
 :shiny: [Website] 
-:shiny: [Website] 
-:shiny: [Website] 
-:shiny: [Website] 
-:shiny: [Website] 
 
 **DUNGEON DROPTABLE**
-:shiny: [Survival] 
 :shiny: [Survival] 
 
 **FISHING**
@@ -61,7 +56,6 @@ Dan's Map
 
 **BUILD** *(Whispy & _DrxR3fl3x_3)*
 **BUILD** *(_DrxR3fl3x_3)*
-:shiny: [Survival] New **Runestone Crates Section**
 :shiny: [Survival] 
 
 **ARENA CHANGES**
