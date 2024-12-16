@@ -1,7 +1,7 @@
-**Patch/Changes 1.0.11** *[Oneblock]*
-:grass: [QOL] Updated **Discord** name tag for Discord Chatters
-:grass: [QOL] Added **Armor Trim Lootbox** and **Dungeon Furniture Lootbox** to **"/buy"**
-:grass: [QOL] **Enchantment System** is now available
+**Patch/Changes 1.0.12** *[Oneblock]*
+:grass: [QOL] 
+:grass: [QOL] 
+:grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
@@ -9,12 +9,12 @@
 :grass: [QOL] 
 :grass: [QOL] 
 
-:grass: **"/dsb"** will now work properly
-:grass: Added **Enchanter NPC** at **"/warp enchanter"**
-:grass: Fixed **"/welcomekit"** giving players NBT Data Chest
-:grass: Fixed **"/welcomekit"** giving **Orange Shulker** instead of **Brown Shulker**
-:grass: Fixed where **Discord Chat** in-game had [] Label.
-:grass: Fixed an issue where bedrock player's were not able to join
+:grass: 
+:grass: 
+:grass: 
+:grass: 
+:grass: 
+:grass: 
 :grass: 
 :grass: 
 :grass: 
