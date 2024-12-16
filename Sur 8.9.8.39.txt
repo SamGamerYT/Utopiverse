@@ -1,29 +1,31 @@
 **Patch/Changes 8.9.8.39** *(Network Changes)*  
-:shiny: [Survival] Updated the **Discord** name tag for Discord chatters.  
-:shiny: [Survival] Added the **Christmas 2024 Monthly Crate** at **"/warp crates"**.  
-:shiny: [Survival] Introduced the **Repairstone Lootbox** for **Store Milestones**.  
-:shiny: [Survival] Fixed an issue where the **Dungeon Furniture Lootbox** key was not working properly.  
-:shiny: [Survival] Added a **Lootbox/Monthly Crates Museum** near **"/warp crates"**, accessible via an **Elevator**.  
-:shiny: [Survival] Included **2021 to 2024** past **Monthly Crates** in the **Crates Museum**.  
-:shiny: [Survival] Added a **Crates Museum** hologram to assist with player navigation.  
-:shiny: [Survival] Removed the **Grappling Hook** from crates and **permanently disabled** the system.  
-:shiny: [Survival] Fixed the **Christmas Bow** not upgrading with the **Christmas Scroll**.  
-:shiny: [Survival] Performed maintenance on the **SellWands** system.  
-:shiny: [Survival] Resolved an issue where **Discord Chat** displayed bolded roles.  
+:shiny: [Survival] Updated the **Discord** name tag for Discord chatters.
+:shiny: [Survival] Introduced the **Repairstone Lootbox** for **Store Milestones** *(Information in Announcement Channel)*.  
 :shiny: [Survival] Updated **Cozy Furnitures** to a newer system.  
+:shiny: [Survival] Resolved an issue where **Discord Chat** displayed bolded roles.  
+:shiny: [Survival] Removed the **Grappling Hook** from crates and **permanently disabled** the system.  
+:shiny: [Survival] Fixed an issue where the **Dungeon Furniture Lootbox** key was not working properly.
 
-**OPTIMIZATION**  
-:shiny: [Survival] Switched the **Pack Loader** system to a different method to minimize packet loss.  
+:shiny: [Survival] Added the **Christmas 2024 Monthly Crate** at **"/warp crates"**.  
+:shiny: [Survival] Fixed the **Christmas Bow** not upgrading with the **Christmas Scroll**.  
+
+**CRATE MUSEUM**
+:shiny: [Survival] Added a **Lootbox/Monthly Crates Museum** near **"/warp crates"**, accessible via an **Elevator**.
+:shiny: [Survival] Added a **Crates Museum** hologram to assist with player navigation.  
+:shiny: [Survival] Included **2021 to 2024** past **Monthly Crates** in the **Crates Museum**.  
+
+:shiny: [Survival] Performed maintenance on the **SellWands** system.  
+
+**BUILDING** *(_DrxR3fl3x_3)*
+:shiny: [Survival] Added a new **Runestone Crates Section**.
 
 **HUB REALM**  
 :sdragon: [Lobby] Fixed a bug where players could break furniture.  
 :sdragon: [Lobby] Updated dependencies **(12/15/2024)**.  
 :sdragon: [Lobby] Resolved a bug where players could grief the Hub's furniture.  
 
-**SYSTEM NETWORK**  
+**NETWORK**  
 :spaceheart1: [Network] Updated the **Bedrock MOTD** for clients.  
-
-**BUILD** *(_DrxR3fl3x_3)*  
-:shiny: [Survival] Added a new **Runestone Crates Section**.  
+:spaceheart1: [Network] Switched the **Pack Loader** system to a different method to minimize packet loss.  
 
 **[@Changelogs]**
