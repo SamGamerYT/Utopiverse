@@ -14,7 +14,7 @@
 :grass: Fixed **"/welcomekit"** giving players NBT Data Chest
 :grass: Fixed **"/welcomekit"** giving **Orange Shulker** instead of **Brown Shulker**
 :grass: Fixed where **Discord Chat** in-game had [] Label.
-:grass: 
+:grass: Fixed an issue where bedrock player's were not able to join
 :grass: 
 :grass: 
 :grass: 
