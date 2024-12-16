@@ -1,30 +1,29 @@
-**Patch/Changes 8.9.8.39** *(Network Changes)*
-:shiny: [Survival] Updated **Discord** name tag for Discord Chatters
-:shiny: [Survival] Added **Christmas 2024 MonthlyCrate*** at **"/warp crates"**
-:shiny: [Survival] Added **Repairstone Lootbox** for **Store Milestones**
-:shiny: [Survival] Fixed **Dungeon Furniture Lootbox** key not working properly.
-:shiny: [Survival] Added **Lootbox/MonthlyCrates Museum** near **"/warp crates"** reachable through **Elevator**
-:shiny: [Survival] Added **2021 to 2024** past **Monthly Crates** in **Crates Museum**
-:shiny: [Survival] Added **Crates Museum** Hologram for player navigation.
-:shiny: [Survival] Removed **Grappling Hook** from Crates and **Permanently Disabled** their system.
-:shiny: [Survival] Fixed **Christmas Bow** not getting upgraded with **Christmas Scroll**
-:shiny: [Survival] Performend Maintenance on **SellWands** System
-:shiny: [Survival] Fixed an issue where **Discord Chat** had Bolded Roles.
-:shiny: [Survival] Updated **Cozy Furnitures** to Newer System
+**Patch/Changes 8.9.8.39** *(Network Changes)*  
+:shiny: [Survival] Updated the **Discord** name tag for Discord chatters.  
+:shiny: [Survival] Added the **Christmas 2024 Monthly Crate** at **"/warp crates"**.  
+:shiny: [Survival] Introduced the **Repairstone Lootbox** for **Store Milestones**.  
+:shiny: [Survival] Fixed an issue where the **Dungeon Furniture Lootbox** key was not working properly.  
+:shiny: [Survival] Added a **Lootbox/Monthly Crates Museum** near **"/warp crates"**, accessible via an **Elevator**.  
+:shiny: [Survival] Included **2021 to 2024** past **Monthly Crates** in the **Crates Museum**.  
+:shiny: [Survival] Added a **Crates Museum** hologram to assist with player navigation.  
+:shiny: [Survival] Removed the **Grappling Hook** from crates and **permanently disabled** the system.  
+:shiny: [Survival] Fixed the **Christmas Bow** not upgrading with the **Christmas Scroll**.  
+:shiny: [Survival] Performed maintenance on the **SellWands** system.  
+:shiny: [Survival] Resolved an issue where **Discord Chat** displayed bolded roles.  
+:shiny: [Survival] Updated **Cozy Furnitures** to a newer system.  
 
-**OPTIMIZATION**
-:shiny: [Survival] Switched **Pack Loader** system to another method to avoid packet loss.
+**OPTIMIZATION**  
+:shiny: [Survival] Switched the **Pack Loader** system to a different method to minimize packet loss.  
 
-**HUB REALM**
-:sdragon: [Lobby] Fixed a bug where players were able to break furnitures.
-:sdragon: [Lobby] Dependencies Update **(12/15/2024)**
-:sdragon: [Lobby] Fixed a bug where players were able to grief Hub's Furnitures
+**HUB REALM**  
+:sdragon: [Lobby] Fixed a bug where players could break furniture.  
+:sdragon: [Lobby] Updated dependencies **(12/15/2024)**.  
+:sdragon: [Lobby] Resolved a bug where players could grief the Hub's furniture.  
 
+**SYSTEM NETWORK**  
+:spaceheart1: [Network] Updated the **Bedrock MOTD** for clients.  
 
-**SYSTEM NETWORK**
-:spaceheart1: [Network] Modified **Bedrock MOTD** for Clients
-
-**BUILD** *(_DrxR3fl3x_3)*
-:shiny: [Survival] New **Runestone Crates Section**
+**BUILD** *(_DrxR3fl3x_3)*  
+:shiny: [Survival] Added a new **Runestone Crates Section**.  
 
 **[@Changelogs]**
