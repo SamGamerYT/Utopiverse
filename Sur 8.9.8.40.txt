@@ -38,6 +38,8 @@ Dan's Map
 **HUB REALM**
 :sdragon: [Lobby] Added **Jumppads** again near **Spawning Zone**
 :sdragon: [Lobby] Added **Top Three** ranking in **Minigames Menu**
+:sdragon: [Lobby] Added **Top Five** ranking for **BlockParty**
+:sdragon: [Lobby] 
 :sdragon: [Lobby] 
 
 **NETWORK**
