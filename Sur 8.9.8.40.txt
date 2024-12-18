@@ -1,6 +1,5 @@
 **Patch/Changes 8.9.8.40** *(Network Changes)*
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Information** about **Liege Rank** in **"/ranks"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
