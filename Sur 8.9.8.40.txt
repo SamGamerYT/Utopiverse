@@ -41,6 +41,7 @@ Dan's Map
 :sdragon: [Lobby] Added **Top Five** ranking for **BlockParty**
 :sdragon: [Lobby] Max Player count for **Blockparty** has been **Increased** from **15** to **20**
 :sdragon: [Lobby] **Blockparty** first map will now always be **Random**
+:sdragon: [Lobby] Players will no longer disappear in **TAB LIST** when they join **Blockparty**
 :sdragon: [Lobby] 
 
 **NETWORK**
