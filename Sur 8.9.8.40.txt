@@ -35,14 +35,13 @@ Dan's Map
 **OPTIMIZATION**
 :shiny: [Survival] 
 
-**HUB REALM**  
-:sdragon: [Lobby] Added **Jumppads** again near the **Spawning Zone**.  
-:sdragon: [Lobby] Added **Top Three** rankings in the **Minigames Menu**.  
-:sdragon: [Lobby] Added **Top Five** rankings for **BlockParty**.  
-:sdragon: [Lobby] Increased the max player count for **BlockParty** from **15** to **20**.  
-:sdragon: [Lobby] The first map in **BlockParty** will now always be **Random**.  
-:sdragon: [Lobby] Players will no longer disappear in the **TAB LIST** when they join **BlockParty**.  
-
+**HUB REALM**
+:sdragon: [Lobby] Added **Jumppads** again near the **Spawning Zone**.
+:sdragon: [Lobby] Added **Top Three** rankings in the **Minigames Menu**.
+:sdragon: [Lobby] Added **Top Five** rankings for **BlockParty**.
+:sdragon: [Lobby] Increased the max player count for **BlockParty** from **15** to **20**.
+:sdragon: [Lobby] The first map in **BlockParty** will now always be **Random**.
+:sdragon: [Lobby] Players will no longer disappear in the **TAB LIST** when they join **BlockParty**.
 :sdragon: [Lobby] 
 
 **NETWORK**
