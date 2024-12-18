@@ -39,7 +39,8 @@ Dan's Map
 :sdragon: [Lobby] Added **Jumppads** again near **Spawning Zone**
 :sdragon: [Lobby] Added **Top Three** ranking in **Minigames Menu**
 :sdragon: [Lobby] Added **Top Five** ranking for **BlockParty**
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Max Player count for **Blockparty** has been **Increased** from **15** to **20**
+:sdragon: [Lobby] **Blockparty** first map will now always be **Random**
 :sdragon: [Lobby] 
 
 **NETWORK**
