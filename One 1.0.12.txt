@@ -9,7 +9,7 @@
 :grass: [QOL] 
 :grass: [QOL] 
 
-:grass: 
+:grass: Fixed bug where some shulkers were disappearing when destroyed.
 :grass: 
 :grass: 
 :grass: 
