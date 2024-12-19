@@ -15,6 +15,11 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+**PROTECTION STONE**
+:shiny: [Survival] You will now be **notified** if there's another field nearby instead of **"Not Allowed!"**
+:shiny: [Survival] 
+:shiny: [Survival] 
+
 **BLACKSMITH**
 :shiny: [Survival] 
 
