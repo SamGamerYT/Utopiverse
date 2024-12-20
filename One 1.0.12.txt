@@ -10,7 +10,7 @@
 :grass: [QOL] 
 
 :grass: Fixed bug where some shulkers were disappearing when destroyed.
-:grass: 
+:grass: Fixed **Orchid Boots** being glitched with wrong enchantments
 :grass: 
 :grass: 
 :grass: 

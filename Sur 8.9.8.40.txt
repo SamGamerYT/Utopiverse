@@ -51,6 +51,7 @@ Dan's Map
 :sdragon: [Lobby] The first map in **BlockParty** will now always be **Random**.
 :sdragon: [Lobby] Players will no longer disappear in the **TAB LIST** when they join **BlockParty**.
 :sdragon: [Lobby] 
+:sdragon: [Lobby] 
 
 **NETWORK**
 :spaceheart1: [Network] Fixed **Friends Join System** not working as intended.
