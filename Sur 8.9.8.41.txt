@@ -16,7 +16,7 @@
 :shiny: [Survival] 
 
 **PROTECTION STONE**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed players being able to use sellwands on someone else's chest without access.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
