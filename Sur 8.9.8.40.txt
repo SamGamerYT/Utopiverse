@@ -5,7 +5,6 @@
 **PROTECTION STONE**
 :shiny: [Survival] You will now be **notified** if there's another field nearby instead of displaying **"Not Allowed!"**.
 :shiny: [Survival] Fixed a major bug where players were able to grief item frames with mobs.
-:shiny: [Survival] Fixed players being able to use sellwands on someone else's chest without access.
 :shiny: [Survival] Improved performance for the **1.21.3 Version**.
 
 **HUB REALM**
