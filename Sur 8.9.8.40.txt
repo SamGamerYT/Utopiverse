@@ -50,7 +50,7 @@ Dan's Map
 :sdragon: [Lobby] Increased the max player count for **BlockParty** from **15** to **20**.
 :sdragon: [Lobby] The first map in **BlockParty** will now always be **Random**.
 :sdragon: [Lobby] Players will no longer disappear in the **TAB LIST** when they join **BlockParty**.
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Changed **Blockparty** colour theme to Blue and **TNTRun** to Yellow
 :sdragon: [Lobby] 
 
 **NETWORK**
