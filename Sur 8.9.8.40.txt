@@ -51,6 +51,7 @@ Dan's Map
 :sdragon: [Lobby] The first map in **BlockParty** will now always be **Random**.
 :sdragon: [Lobby] Players will no longer disappear in the **TAB LIST** when they join **BlockParty**.
 :sdragon: [Lobby] Changed **Blockparty** colour theme to Blue and **TNTRun** to Yellow
+:sdragon: [Lobby] Added a new minigame called **TNTRun**! Join it this Sunday!
 :sdragon: [Lobby] 
 
 **NETWORK**
