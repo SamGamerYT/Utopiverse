@@ -1,25 +1,83 @@
-**Patch/Changes 8.9.8.40** *(Network Changes)*
-:shiny: [Survival] Added **New Feature** called "ChunkChecker" to view chunk borders with the help of particles.
-:shiny: [Survival] Added **Information** about **Liege Rank** in **"/ranks"**.
+**Patch/Changes 8.9.8.41** *(Network Changes)*
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 **PROTECTION STONE**
-:shiny: [Survival] You will now be **notified** if there's another field nearby instead of displaying **"Not Allowed!"**.
-:shiny: [Survival] Fixed a major bug where players were able to grief item frames with mobs.
-:shiny: [Survival] Fixed players being able to use sellwands on someone else's chest without access.
-:shiny: [Survival] Improved performance for the **1.21.3 Version**.
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+**BLACKSMITH**
+:shiny: [Survival] 
+
+**DUNGEON VOLCANO CHANGES**
+:shiny: [Survival] 
+
+:shiny: [Codex] 
+
+**TEXTURES**
+:shiny: [Textures] 
+
+:shiny: [Bedrock] 
+
+TO DO LIST:
+Fix Menders not working with chest shop
+Dan's Map
+
+**OPTIMIZATION**
+:shiny: [Survival] 
 
 **HUB REALM**
-:sdragon: [Lobby] Added **Jumppads** again near the **Spawning Zone**.
-:sdragon: [Lobby] Added **Top Three** rankings in the **Minigames Menu**.
-:sdragon: [Lobby] Added **Top Five** rankings for **BlockParty**.
-:sdragon: [Lobby] Increased the max player count for **BlockParty** from **15** to **20**.
-:sdragon: [Lobby] The first map in **BlockParty** will now always be **Random**.
-:sdragon: [Lobby] Players will no longer disappear in the **TAB LIST** when they join **BlockParty**.
-:sdragon: [Lobby] Changed **Blockparty** colour theme to Blue and **TNTRun** to Yellow
-:sdragon: [Lobby] Added a new minigame called **TNTRun**! Join it this Sunday!
+:sdragon: [Lobby] 
+:sdragon: [Lobby] 
 
 **NETWORK**
-:spaceheart1: [Network] Fixed **Friends Join System** not working as intended.
+:spaceheart1: [Network] 
+
+**WEBSTORE**
+:shiny: [Website] 
+
+**DUNGEON DROPTABLE**
+:shiny: [Survival] 
+
+**FISHING**
+:shiny: [Survival]
+
+**BUILD**
+:shiny: [Survival] 
+
+**BUILD** *(Whispy & _DrxR3fl3x_3)*
+**BUILD** *(_DrxR3fl3x_3)*
+:shiny: [Survival] 
+
+**ARENA CHANGES**
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+**UNDERGROUND ARENA CHANGES**
+:shiny: [Survival] 
+
+**RPG LEVEL CHANGES**
+:shiny: [Survival] 
+
+**AUTO RESPONSE**
+:shiny: [Survival] 
 
 **[@Changelogs]**
 
