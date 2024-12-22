@@ -20,13 +20,12 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **BLACKSMITH**
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
+:shiny: [Survival] Fixed missing barriers near **Boss Zone**.
 :shiny: [Survival] 
 
 :shiny: [Codex] 
@@ -44,6 +43,7 @@ Dan's Map
 :shiny: [Survival] 
 
 **HUB REALM**
+:sdragon: [Lobby] 
 :sdragon: [Lobby] 
 :sdragon: [Lobby] 
 
