@@ -44,7 +44,7 @@ Dan's Map
 
 **HUB REALM**
 :sdragon: [Lobby] Added **Benches**, **Chairs** and **Furnitures** around the map.
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Fixed **Double NPC Name** issues with Staff NPC's
 :sdragon: [Lobby] 
 
 **NETWORK**
