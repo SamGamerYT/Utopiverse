@@ -46,6 +46,8 @@ Dan's Map
 :sdragon: [Lobby] Added **Benches**, **Chairs** and **Furnitures** around the map.
 :sdragon: [Lobby] Fixed **Double NPC Name** issues with Staff NPC's
 :sdragon: [Lobby] Changed **Interface** system from older version to an entirely new system thats faster and better.
+:sdragon: [Lobby] Added **Minigames NPC**
+:sdragon: [Lobby] 
 :sdragon: [Lobby] 
 
 **NETWORK**
