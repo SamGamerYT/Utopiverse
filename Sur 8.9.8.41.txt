@@ -48,6 +48,7 @@ Dan's Map
 :sdragon: [Lobby] Changed **Interface** system from older version to an entirely new system thats faster and better.
 :sdragon: [Lobby] Added **Minigames NPC**
 :sdragon: [Lobby] Fixed **TNTRun** displaying colourless broadcast at the end of the round.
+:sdragon: [Lobby] Fixed **TNTRun** jumpable barrier exploit.
 :sdragon: [Lobby] 
 
 **NETWORK**
