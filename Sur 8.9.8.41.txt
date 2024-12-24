@@ -53,6 +53,7 @@ Dan's Map
 
 **NETWORK**
 :spaceheart1: [Network] New Patch added for **Art Map** RGB.
+:spaceheart1: [Network] Fixed "https://utopiverse.net/punishments" site not working properly
 :spaceheart1: [Network] 
 
 **WEBSTORE**
