@@ -19,7 +19,7 @@
 :grass: Added a **New Map** that fits the need for Oneblock 2.0
 :grass: Added **New Wizard** for **Warps Interface**
 :grass: Modified **"/warp crates"** introduction hologram.
-:grass: 
+:grass: Modified **Chat Games Leaderboard** Style
 :grass: 
 :grass: 
 :grass: 
