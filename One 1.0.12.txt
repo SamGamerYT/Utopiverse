@@ -12,8 +12,10 @@
 :grass: Fixed bug where some shulkers were disappearing when destroyed.
 :grass: Fixed **Orchid Boots** being glitched with wrong enchantments
 :grass: **KEEP INVENTORY** is now turned on in **PVP Zone** due to EULA Compliance
+
+**ONEBLOCK 2.0 PREPARATION**
 :grass: Removed **Portals** from **"/spawn"**
-:grass: 
+:grass: Added a **New Map** that fits the need for Oneblock 2.0
 :grass: 
 :grass: 
 :grass: 
