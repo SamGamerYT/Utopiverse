@@ -17,7 +17,7 @@
 **ONEBLOCK 2.0 PREPARATION**
 :grass: Removed **Portals** from **"/spawn"**
 :grass: Added a **New Map** that fits the need for Oneblock 2.0
-:grass: 
+:grass: Added **New Wizard** for **Warps Interface**
 :grass: 
 :grass: 
 :grass: 
