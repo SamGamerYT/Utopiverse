@@ -18,7 +18,7 @@
 :grass: Removed **Portals** from **"/spawn"**
 :grass: Added a **New Map** that fits the need for Oneblock 2.0
 :grass: Added **New Wizard** for **Warps Interface**
-:grass: 
+:grass: Modified **"/warp crates"** introduction hologram.
 :grass: 
 :grass: 
 :grass: 
