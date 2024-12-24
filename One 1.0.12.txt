@@ -12,7 +12,7 @@
 :grass: Fixed bug where some shulkers were disappearing when destroyed.
 :grass: Fixed **Orchid Boots** being glitched with wrong enchantments
 :grass: **KEEP INVENTORY** is now turned on in **PVP Zone** due to EULA Compliance
-:grass: 
+:grass: Removed **Portals** from **"/spawn"**
 :grass: 
 :grass: 
 :grass: 
