@@ -1,14 +1,4 @@
 **Patch/Changes 1.0.12** *[Oneblock]*
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
-
 :grass: Fixed bug where some shulkers were disappearing when destroyed.
 :grass: Fixed **Orchid Boots** being glitched with wrong enchantments
 :grass: **KEEP INVENTORY** is now turned on in **PVP Zone** due to EULA Compliance
@@ -20,17 +10,5 @@
 :grass: Added **New Wizard** for **Warps Interface**
 :grass: Modified **"/warp crates"** introduction hologram.
 :grass: Modified **Chat Games Leaderboard** Style
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-
-**TO DO LIST**
--afk spot on oneblock
  
 **[@Changelogs]**
-
-**AUTO RESPONSE**
-**CRATES**
