@@ -1,14 +1,14 @@
 **Patch/Changes 1.0.12** *[Oneblock]*
-:grass: Fixed bug where some shulkers were disappearing when destroyed.
-:grass: Fixed **Orchid Boots** being glitched with wrong enchantments
-:grass: **KEEP INVENTORY** is now turned on in **PVP Zone** due to EULA Compliance
+:grass: Fixed a bug where some shulkers were disappearing when destroyed.
+:grass: Fixed **Orchid Boots** being glitched with the wrong enchantments.
+:grass: **KEEP INVENTORY** is now turned on in the **PVP Zone** due to EULA compliance.
 :grass: Fixed a bug with **Advent** not showing the proper placeholder.
 
 **ONEBLOCK 2.0 PREPARATION**
-:grass: Removed **Portals** from **"/spawn"**
-:grass: Added a **New Map** that fits the need for Oneblock 2.0
-:grass: Added **New Wizard** for **Warps Interface**
-:grass: Modified **"/warp crates"** introduction hologram.
-:grass: Modified **Chat Games Leaderboard** Style
- 
+:grass: Removed **Portals** from **"/spawn"**.
+:grass: Added a **New Map** that fits the needs of Oneblock 2.0.
+:grass: Added a **New Wizard** for the **Warps Interface**.
+:grass: Modified the **"/warp crates"** introduction hologram.
+:grass: Updated the **Chat Games Leaderboard** style.
+
 **[@Changelogs]**
