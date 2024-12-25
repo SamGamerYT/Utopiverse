@@ -49,6 +49,7 @@ Dan's Map
 :sdragon: [Lobby] Added **Minigames NPC**
 :sdragon: [Lobby] Fixed **TNTRun** displaying colourless broadcast at the end of the round.
 :sdragon: [Lobby] Fixed **TNTRun** jumpable barrier exploit.
+:sdragon: [Lobby] Enabled **Permanent Night Vision** in **TNTRun** Minigame
 :sdragon: [Lobby] 
 
 **NETWORK**
