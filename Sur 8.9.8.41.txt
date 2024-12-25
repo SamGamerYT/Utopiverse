@@ -4,7 +4,7 @@
 :shiny: [Survival] Fixed **Christmas Hammer** not accepting **Christmas Upgrade Scroll**.
 :shiny: [Survival] Removed traditional **"/tagshop"** command and interface.
 :shiny: [Survival] Added **14** Tags in **Guard NPC** that's located near **"/spawn"**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Seasonal Trader**, a sweet penguin near Santa
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
