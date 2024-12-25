@@ -50,6 +50,7 @@ Dan's Map
 :sdragon: [Lobby] Fixed **TNTRun** displaying colourless broadcast at the end of the round.
 :sdragon: [Lobby] Fixed **TNTRun** jumpable barrier exploit.
 :sdragon: [Lobby] Enabled **Permanent Night Vision** in **TNTRun** Minigame
+:sdragon: [Lobby] Optimized the world of TNTRun, No more Weather/Day Night Cycle
 :sdragon: [Lobby] 
 
 **NETWORK**
