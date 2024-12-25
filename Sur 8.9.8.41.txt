@@ -23,7 +23,7 @@
 
 **TEXTURES**
 :shiny: [Textures] Fixed over **16+ Corrupted** Textured Items *(12/25/2024)*
-:shiny: [Textures] 
+:shiny: [Textures] Fixed **4 Crates** unused textures error spam.
 :shiny: [Textures] 
 
 :shiny: [Bedrock] 
