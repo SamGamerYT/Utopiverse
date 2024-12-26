@@ -39,6 +39,7 @@ Dan's Map
 :sdragon: [Lobby] Fixed an issue where players were spawning outside of the map
 :sdragon: [Lobby] Fixed **Images** not working properly
 :sdragon: [Lobby] Fixed **NPC's** not showing custom models
+:sdragon: [Lobby] Changed **Store NPC** model from **Twins** to **Undead Dragon**
 :sdragon: [Lobby] 
 :sdragon: [Lobby] 
 
