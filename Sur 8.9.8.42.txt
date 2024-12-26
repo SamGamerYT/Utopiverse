@@ -35,7 +35,7 @@ Dan's Map
 
 **HUB REALM**
 :sdragon: [Lobby] Updated **Version** from **1.20.4** to **1.21.3**
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Improved Shaders Configurations
 :sdragon: [Lobby] 
 :sdragon: [Lobby] 
 
