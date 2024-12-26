@@ -36,6 +36,7 @@ Dan's Map
 **HUB REALM**
 :sdragon: [Lobby] Updated **Version** from **1.20.4** to **1.21.3**
 :sdragon: [Lobby] Improved Shaders Configurations
+:sdragon: [Lobby] Fixed an issue where players were spawning outside of the map
 :sdragon: [Lobby] 
 :sdragon: [Lobby] 
 
