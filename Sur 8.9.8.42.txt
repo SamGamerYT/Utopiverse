@@ -38,6 +38,7 @@ Dan's Map
 :sdragon: [Lobby] Improved Shaders Configurations
 :sdragon: [Lobby] Fixed an issue where players were spawning outside of the map
 :sdragon: [Lobby] Fixed **Images** not working properly
+:sdragon: [Lobby] Fixed **NPC's** not showing custom models
 :sdragon: [Lobby] 
 :sdragon: [Lobby] 
 
