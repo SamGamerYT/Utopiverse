@@ -34,13 +34,13 @@ Dan's Map
 :shiny: [Survival] 
 
 **HUB REALM**
-:sdragon: [Lobby] Updated **Version** from **1.20.4** to **1.21.3**
-:sdragon: [Lobby] Improved Shaders Configurations
-:sdragon: [Lobby] Fixed an issue where players were spawning outside of the map
-:sdragon: [Lobby] Fixed **Images** not working properly
-:sdragon: [Lobby] Fixed **NPC's** not showing custom models
-:sdragon: [Lobby] Changed **Store NPC** model from **Twins** to **Undead Dragon**
-:sdragon: [Lobby] Aligned the starting point of the Spawn to match with Jump pads and npc's
+:sdragon: [Lobby] Updated **Version** from **1.20.4** to **1.21.3**.
+:sdragon: [Lobby] Improved Shaders Configurations.
+:sdragon: [Lobby] Fixed an issue where players were spawning outside of the map.
+:sdragon: [Lobby] Fixed **Images** not working properly.
+:sdragon: [Lobby] Fixed **NPC's** not showing custom models.
+:sdragon: [Lobby] Changed **Store NPC** model from **Twins** to **Undead Dragon**.
+:sdragon: [Lobby] Aligned the starting point of the Spawn to match with Jump pads and **NPC's**.
 :sdragon: [Lobby] 
 
 **NETWORK**
