@@ -40,7 +40,7 @@ Dan's Map
 :sdragon: [Lobby] Fixed **Images** not working properly
 :sdragon: [Lobby] Fixed **NPC's** not showing custom models
 :sdragon: [Lobby] Changed **Store NPC** model from **Twins** to **Undead Dragon**
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Aligned the starting point of the Spawn to match with Jump pads and npc's
 :sdragon: [Lobby] 
 
 **NETWORK**
