@@ -43,6 +43,7 @@ Dan's Map
 :sdragon: [Lobby] Aligned the starting point of the Spawn to match with Jump pads and **NPC's**.
 :sdragon: [Lobby] Changed **Community NPC** and **Store NPC** due to them no longer being compatible.
 :sdragon: [Lobby] Modified **Anubis Showcase NPC**; there is now a movement when players interact.
+:sdragon: [Lobby] Modified **Minigames NPC**; there is now a movement when players interact + random movements.
 :sdragon: [Lobby] 
 
 **NETWORK**
