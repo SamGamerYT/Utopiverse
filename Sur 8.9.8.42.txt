@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.42** *(Network Changes)*
 :shiny: [Survival] Changed **Community NPC** and **Milestone NPC** due to them no longer being compatible.
 :shiny: [Survival] Removed **Repairstone NPC** and Added **Repairstone Furniture**
-:shiny: [Survival] 
+:shiny: [Survival] New **Model System!** - The mobs are now **EXTREMELY** smooth and lag free.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
