@@ -8,6 +8,7 @@
 
 **CRATES**
 :shiny: [Survival] Modified **Legendary Jetpack** lore in **Legendary Crate**
+:shiny: [Survival] Added **Legendary Bow** enchantments in **Legendary Crate**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
