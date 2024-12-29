@@ -54,6 +54,7 @@ Dan's Map
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Fixed **Friends** Bedrock system not working properly issue.
 :spaceheart1: [Network] 
 
 **WEBSTORE**
