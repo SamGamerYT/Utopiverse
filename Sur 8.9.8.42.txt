@@ -28,7 +28,7 @@
 :shiny: [Codex] 
 
 **TEXTURES**
-:shiny: [Textures] 
+:shiny: [Textures] Fixed over **6** unused frames in **Textures**
 :shiny: [Textures] 
 
 :shiny: [Bedrock] 
