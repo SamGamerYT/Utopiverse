@@ -29,6 +29,7 @@
 
 **TEXTURES**
 :shiny: [Textures] Removed over **6** unused frames in **Textures**.
+:shiny: [Textures] We are now fully supporting **MIP LEVEL** from 3 to 4, Eliminating all crispy textures!
 :shiny: [Textures] 
 
 :shiny: [Bedrock] 
