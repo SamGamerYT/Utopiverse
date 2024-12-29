@@ -52,6 +52,7 @@ Dan's Map
 :sdragon: [Lobby] Changed **Community NPC** and **Store NPC** due to them no longer being compatible.
 :sdragon: [Lobby] Modified **Anubis Showcase NPC**; there is now a movement when players interact.
 :sdragon: [Lobby] Modified **Minigames NPC**; there is now a movement when players interact + random movements.
+:sdragon: [Lobby] You can now sit in **Benches/Furnitures**
 :sdragon: [Lobby] 
 
 **NETWORK**
