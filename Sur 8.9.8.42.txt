@@ -3,7 +3,7 @@
 :shiny: [Survival] Removed **Repairstone NPC** and Added **Repairstone Furniture**
 :shiny: [Survival] New **Model System!** - The mobs are now **EXTREMELY** smooth and lag free.
 :shiny: [Survival] Added **Repair Station** hologram at **"/warp repair"**
-:shiny: [Survival] 
+:shiny: [Survival] Wiped over **33+** Unused bases/claims in **Primary World**.
 :shiny: [Survival] 
 
 **CRATES**
