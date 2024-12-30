@@ -4,7 +4,7 @@
 :grass: 
 :grass: 
 :grass: Command **"/farms"** will now teleport you to **Farming Zone**
-:grass: 
+:grass: Fixed **Farmer Trader** having wrong **GUI Interface**
 :grass: 
 :grass: 
 :grass: 
