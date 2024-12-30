@@ -8,6 +8,7 @@
 :shiny: [Survival] Removed **Christmas Advent Santa Figure**
 :shiny: [Survival] Modified **"/welcome"** message for new players.
 :shiny: [Survival] Reduced **Voting Reward** from **$2500** to **$1000**
+:shiny: [Survival] Modified **AFK Zone** from **Boss Bar** to **Title**
 :shiny: [Survival] 
 
 **CRATES**
