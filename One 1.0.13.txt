@@ -9,7 +9,7 @@
 :grass: 
 :grass: 
 :grass: Added **New Welcome System!** Now you can do **"/wb"**
-:grass: 
+:grass: You can now reset your island without a limit!
 :grass: 
 :grass: 
 
@@ -18,6 +18,8 @@
 :grass: **Coal Mine** will now have re-gen blocks.
 :grass: **Farm Zone** crops are now farmable!
 :grass: Added **AFK Zone** located on the Second Floor of **"/warp bank"**
+:grass: 
+:grass: 
 :grass: 
 :grass: 
  
