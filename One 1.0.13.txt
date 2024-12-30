@@ -17,7 +17,7 @@
 :grass: Reduced **Voting Reward** from **$2500** to **$1000**
 :grass: **Coal Mine** will now have re-gen blocks.
 :grass: **Farm Zone** crops are now farmable!
-:grass: 
+:grass: Added **AFK Zone** located on the Second Floor of **"/warp bank"**
 :grass: 
 :grass: 
  
