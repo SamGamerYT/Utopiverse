@@ -16,6 +16,8 @@
 **ONEBLOCK 2.0 PREPARATION**
 :grass: Reduced **Voting Reward** from **$2500** to **$1000**
 :grass: **Coal Mine** will now have re-gen blocks.
+:grass: **Farm Zone** crops are now farmable!
+:grass: 
 :grass: 
 :grass: 
 
