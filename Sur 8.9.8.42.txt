@@ -4,6 +4,8 @@
 :shiny: [Survival] New **Model System!** - The mobs are now **EXTREMELY** smooth and lag free.
 :shiny: [Survival] Added **Repair Station** hologram at **"/warp repair"**
 :shiny: [Survival] Wiped over **33+** Unused bases/claims in **Primary World**.
+:shiny: [Survival] Added **Goat and Warden** player death messages.
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **CRATES**
