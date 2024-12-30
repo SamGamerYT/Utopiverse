@@ -10,6 +10,7 @@
 :grass: 
 :grass: Added **New Welcome System!** Now you can do **"/wb"**
 :grass: You can now reset your island without a limit!
+:grass: You will no longer lose your inventory when you leave your oneblock.
 :grass: 
 :grass: 
 
