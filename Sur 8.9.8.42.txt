@@ -7,7 +7,7 @@
 :shiny: [Survival] Added **Goat and Warden** player death messages.
 :shiny: [Survival] Removed **Christmas Advent Santa Figure**
 :shiny: [Survival] Modified **"/welcome"** message for new players.
-:shiny: [Survival] 
+:shiny: [Survival] Reduced **Voting Reward** from **$2500** to **$1000**
 :shiny: [Survival] 
 
 **CRATES**
