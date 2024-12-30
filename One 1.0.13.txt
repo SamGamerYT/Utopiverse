@@ -3,7 +3,7 @@
 :grass: [QOL] Added **Exchanger NPC**
 :grass: [QOL] 
 :grass: [QOL] 
-:grass: [QOL] 
+:grass: [QOL] Command **"/farms"** will now teleport you to **Farming Zone**
 :grass: [QOL] 
 :grass: [QOL] 
 :grass: [QOL] 
