@@ -1,15 +1,14 @@
 **Patch/Changes 1.0.13** *[Oneblock]*
-:grass: [QOL] Added **SERVER TIPS** Around **"Spawn Zone"**
-:grass: [QOL] Added **Exchanger NPC**
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] Command **"/farms"** will now teleport you to **Farming Zone**
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
-:grass: [QOL] 
-
+:grass: Added **SERVER TIPS** Around **"Spawn Zone"**
+:grass: Added **Exchanger NPC**
 :grass: 
+:grass: 
+:grass: Command **"/farms"** will now teleport you to **Farming Zone**
+:grass: 
+:grass: 
+:grass: 
+:grass: 
+:grass: Added **New Welcome System!** Now you can do **"/wb"**
 :grass: 
 :grass: 
 :grass: 
