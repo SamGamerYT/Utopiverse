@@ -22,7 +22,7 @@
 :grass: **Coal Mine** will now have re-gen blocks.
 :grass: **Farm Zone** crops are now farmable!
 :grass: Added **AFK Zone** located on the second floor of **"/warp bank"**.
-:grass: 
+:grass: Added **Crusher** at **"/blacksmith"**
 :grass: 
 :grass: 
 :grass: 
