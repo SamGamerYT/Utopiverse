@@ -3,7 +3,7 @@
 :grass: Added **Exchanger NPC**
 :grass: 
 :grass: 
-:grass: :grass: Command **"/farms"** will now teleport you to the **Farming Zone**.
+:grass: Command **"/farms"** will now teleport you to the **Farming Zone**.
 :grass: Fixed **Farmer Trader** having the wrong **GUI Interface**.
 :grass: Fixed **Auction House** not showing the proper label in Discord.
 :grass: Fixed a bug with formatting where all auction messages were bolded.
