@@ -2,8 +2,6 @@
 :grass: Added **SERVER TIPS** Around **"Spawn Zone"**.
 :grass: Added **Exchanger NPC** at **"/warp bank"** Ground Floor.
 :grass: Added **AFK Exchanger NPC** at **"/warp bank"** First Floor.
-:grass: 
-:grass: 
 :grass: Command **"/farms"** will now teleport you to the **Farming Zone**.
 :grass: Fixed **Farmer Trader** having the wrong **GUI Interface**.
 :grass: Fixed **Auction House** not showing the proper label in Discord.
@@ -15,8 +13,6 @@
 :grass: Added **Mass Open** machine at **"/warp crates"**.
 :grass: Added **Store NPC** and **Hologram** at **"/warp crates"**
 :grass: Fixed **Lavender Crate Key** star rating error.
-:grass: 
-:grass: 
 
 **ONEBLOCK 2.0 PREPARATION**
 :grass: Reduced **Voting Reward** from **$2500** to **$1000**.
@@ -24,9 +20,6 @@
 :grass: **Farm Zone** crops are now farmable!
 :grass: Added **AFK Zone** located on the second floor of **"/warp bank"**.
 :grass: Added **Crusher** at **"/blacksmith"**
-:grass: 
-:grass: 
-:grass: 
  
 **[@Changelogs]**
 
