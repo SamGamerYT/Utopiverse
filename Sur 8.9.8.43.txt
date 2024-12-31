@@ -20,7 +20,8 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-:shiny: [Survival] 
+**WEBSITE**
+:shiny: [Survival] Added **Color Code** guide on **Documentation Site**
 
 **BLACKSMITH**
 :shiny: [Survival] 
