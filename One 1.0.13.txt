@@ -5,7 +5,7 @@
 :grass: 
 :grass: Command **"/farms"** will now teleport you to **Farming Zone**
 :grass: Fixed **Farmer Trader** having wrong **GUI Interface**
-:grass: 
+:grass: Fixed **Auction House** not showing the proper label in Discord.
 :grass: 
 :grass: 
 :grass: Added **New Welcome System!** Now you can do **"/wb"**
