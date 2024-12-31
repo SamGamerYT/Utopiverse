@@ -18,7 +18,7 @@
 
 **ONEBLOCK 2.0 PREPARATION**
 :grass: Chat will now say **ONE** instead of **SKY**
-:grass: 
+:grass: Added **Bartender NPC** at **Dock Zone**
 :grass: 
 :grass: 
 :grass: 
