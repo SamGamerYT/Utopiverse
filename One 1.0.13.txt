@@ -3,23 +3,23 @@
 :grass: Added **Exchanger NPC**
 :grass: 
 :grass: 
-:grass: Command **"/farms"** will now teleport you to **Farming Zone**
-:grass: Fixed **Farmer Trader** having wrong **GUI Interface**
+:grass: :grass: Command **"/farms"** will now teleport you to the **Farming Zone**.
+:grass: Fixed **Farmer Trader** having the wrong **GUI Interface**.
 :grass: Fixed **Auction House** not showing the proper label in Discord.
 :grass: Fixed a bug with formatting where all auction messages were bolded.
-:grass: Added **New Welcome System!** Now you can do **"/wb"**
+:grass: Added **New Welcome System!** You can now use **"/wb"**.
 :grass: You can now reset your island without a limit!
 :grass: You will no longer lose your inventory when you leave your oneblock.
-:grass: Added **Mass Open** machine at **"/warp crates"**
-:grass: 
-:grass: 
+:grass: Removed **Refer Menu**, a remnant of the past.
+:grass: Added **Mass Open** machine at **"/warp crates"**.
+:grass: Added **Store NPC** and **Hologram** at **"/warp crates"**
 :grass: 
 
 **ONEBLOCK 2.0 PREPARATION**
-:grass: Reduced **Voting Reward** from **$2500** to **$1000**
+:grass: Reduced **Voting Reward** from **$2500** to **$1000**.
 :grass: **Coal Mine** will now have re-gen blocks.
 :grass: **Farm Zone** crops are now farmable!
-:grass: Added **AFK Zone** located on the Second Floor of **"/warp bank"**
+:grass: Added **AFK Zone** located on the second floor of **"/warp bank"**.
 :grass: 
 :grass: 
 :grass: 
