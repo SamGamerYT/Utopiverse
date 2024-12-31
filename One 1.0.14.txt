@@ -2,7 +2,7 @@
 :grass: Added **Crates** in **Exchanger NPC**
 :grass: Added **Custom Enchantments** utilities in **Dust Trader NPC**
 :grass: Modified **Geode Crusher's** Hologram
-:grass: 
+:grass: Revamped **Spawner Picker** Design/Code, New Variants are now added in **Forge Station**
 :grass: 
 
 :grass: Modified **"/ranks"** menu, Removed useless assets.
