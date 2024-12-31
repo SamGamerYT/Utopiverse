@@ -17,7 +17,7 @@
 :grass: 
 
 **ONEBLOCK 2.0 PREPARATION**
-:grass: 
+:grass: Chat will now say **ONE** instead of **SKY**
 :grass: 
 :grass: 
 :grass: 
