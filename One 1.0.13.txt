@@ -22,6 +22,3 @@
 :grass: Added **Crusher** at **"/blacksmith"**
  
 **[@Changelogs]**
-
-**AUTO RESPONSE**
-**CRATES**
