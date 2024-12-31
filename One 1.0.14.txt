@@ -1,7 +1,10 @@
 **Patch/Changes 1.0.14** *[Oneblock]*
+:grass: Added **Crates** in **Exchanger NPC**
 :grass: 
 :grass: 
 :grass: 
+
+
 :grass: 
 :grass: 
 :grass: 
