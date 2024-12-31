@@ -1,6 +1,6 @@
 **Patch/Changes 1.0.13** *[Oneblock]*
-:grass: Added **SERVER TIPS** Around **"Spawn Zone"**
-:grass: Added **Exchanger NPC** at **"/warp bank"**
+:grass: Added **SERVER TIPS** Around **"Spawn Zone"**.
+:grass: Added **Exchanger NPC** at **"/warp bank"** Ground Floor.
 :grass: Added **AFK Exchanger NPC** at **"/warp bank"** First Floor.
 :grass: 
 :grass: 
