@@ -5,7 +5,7 @@
 :grass: 
 
 :grass: Modified **"/ranks"** menu, Removed useless assets.
-:grass: 
+:grass: Improved **Explorer Mini Staff** code that are at **"/spawn"**
 :grass: 
 :grass: 
 :grass: 
