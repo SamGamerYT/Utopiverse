@@ -19,7 +19,7 @@
 **ONEBLOCK 2.0 PREPARATION**
 :grass: Chat will now say **ONE** instead of **SKY**
 :grass: Added **Bartender NPC** at **Dock Zone**
-:grass: 
+:grass: Added **Forge Station** that is located at **"/blacksmith"**
 :grass: 
 :grass: 
  
