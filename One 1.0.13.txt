@@ -13,6 +13,8 @@
 :grass: Removed **Refer Menu**, a remnant of the past.
 :grass: Added **Mass Open** machine at **"/warp crates"**.
 :grass: Added **Store NPC** and **Hologram** at **"/warp crates"**
+:grass: Fixed **Lavender Crate Key** star rating error.
+:grass: 
 :grass: 
 
 **ONEBLOCK 2.0 PREPARATION**
