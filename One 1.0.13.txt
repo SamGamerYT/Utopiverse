@@ -7,10 +7,11 @@
 :grass: Fixed **Farmer Trader** having wrong **GUI Interface**
 :grass: Fixed **Auction House** not showing the proper label in Discord.
 :grass: Fixed a bug with formatting where all auction messages were bolded.
-:grass: 
 :grass: Added **New Welcome System!** Now you can do **"/wb"**
 :grass: You can now reset your island without a limit!
 :grass: You will no longer lose your inventory when you leave your oneblock.
+:grass: Added **Mass Open** machine at **"/warp crates"**
+:grass: 
 :grass: 
 :grass: 
 
