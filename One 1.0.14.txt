@@ -20,7 +20,7 @@
 :grass: Chat will now say **ONE** instead of **SKY**
 :grass: Added **Bartender NPC** at **Dock Zone**
 :grass: Added **Forge Station** that is located at **"/blacksmith"**
-:grass: 
+:grass: **DANCE** Around your crops and trees to make them **Grow Faster**!
 :grass: 
 :grass: 
 :grass: 
