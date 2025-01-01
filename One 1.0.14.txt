@@ -11,7 +11,7 @@
 :grass: Added **Death Messages** when you die by player/mobs.
 :grass: Added **SERVER TIP** for mineable ores in **Coal Mine** Dungeon.
 :grass: Added **Furniture Trader NPC** near **"/blacksmith"**
-:grass: 
+:grass: Added **Dungeon Furniture Key** as trade in **Furniture Trader**
 :grass: 
 :grass: 
 
