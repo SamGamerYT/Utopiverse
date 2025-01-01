@@ -22,6 +22,7 @@
 :grass: **DANCE** Around your crops and trees to make them **Grow Faster**!
 :grass: Added **"/rpginv"** custom Interface, RPGInv will be called **Artifacts** from now on.
 :grass: Added **Coal Mine** Introduction Dungeon
+:grass: Added **Elder Miner Boss** in **Coal Mine** Dungeon.
 :grass: 
 :grass: 
 :grass: 
