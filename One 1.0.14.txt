@@ -8,7 +8,7 @@
 :grass: Improved **Explorer Mini Staff** code that are at **"/spawn"**
 :grass: Added **Farmer TIP** in **"/warp info"**, Learn how to grow your crops quicker!
 :grass: Major Maintenance *(12/31/2024)*
-:grass: 
+:grass: Added **Death Messages** when you die by player/mobs.
 :grass: 
 :grass: 
 :grass: 
@@ -21,6 +21,9 @@
 :grass: Added **Forge Station** that is located at **"/blacksmith"**
 :grass: **DANCE** Around your crops and trees to make them **Grow Faster**!
 :grass: Added **"/rpginv"** custom Interface, RPGInv will be called **Artifacts** from now on.
+:grass: 
+:grass: 
+:grass: 
 :grass: 
 :grass: 
 :grass: 
