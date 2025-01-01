@@ -12,8 +12,6 @@
 :grass: Added **SERVER TIP** for mineable ores in **Coal Mine** Dungeon.
 :grass: Added **Furniture Trader NPC** near **"/blacksmith"**
 :grass: Added **Dungeon Furniture Key** as trade in **Furniture Trader**
-:grass: 
-:grass: 
 
 **ONEBLOCK 2.0 PREPARATION**
 :grass: Chat will now say **ONE** instead of **SKY**
@@ -23,12 +21,5 @@
 :grass: Added **"/rpginv"** custom Interface, RPGInv will be called **Artifacts** from now on.
 :grass: Added **Coal Mine** Introduction Dungeon
 :grass: Added **Elder Miner Boss** in **Coal Mine** Dungeon.
-:grass: 
-:grass: 
-:grass: 
-:grass: 
  
 **[@Changelogs]**
-
-**AUTO RESPONSE**
-**CRATES**
