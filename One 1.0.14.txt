@@ -1,25 +1,25 @@
 **Patch/Changes 1.0.14** *[Oneblock]*
-:grass: Added **Crates** in **Exchanger NPC**
-:grass: Added **Custom Enchantments** utilities in **Dust Trader NPC**
-:grass: Modified **Geode Crusher's** Hologram
-:grass: Revamped **Spawner Picker** Design/Code, New Variants are now added in **Forge Station**
-:grass: Fixed **Mini Explorers** not moving at **Spawn**
-:grass: Modified **"/ranks"** menu, Removed useless assets.
-:grass: Improved **Explorer Mini Staff** code that are at **"/spawn"**
-:grass: Added **Farmer TIP** in **"/warp info"**, Learn how to grow your crops quicker!
-:grass: Major Maintenance *(12/31/2024)*
-:grass: Added **Death Messages** when you die by player/mobs.
-:grass: Added **SERVER TIP** for mineable ores in **Coal Mine** Dungeon.
-:grass: Added **Furniture Trader NPC** near **"/blacksmith"**
-:grass: Added **Dungeon Furniture Key** as trade in **Furniture Trader**
+:grass: Added **Crates** in **Exchanger NPC**.
+:grass: Added **Custom Enchantments** utilities in **Dust Trader NPC**.
+:grass: Modified **Geode Crusher's** Hologram.
+:grass: Revamped **Spawner Picker** design/code; new variants are now added in the **Forge Station**.
+:grass: Fixed **Mini Explorers** not moving at **Spawn**.
+:grass: Modified **"/ranks"** menu; removed useless assets.
+:grass: Improved **Explorer Mini Staff** code at **"/spawn"**.
+:grass: Added **Farmer TIP** in **"/warp info"** to learn how to grow your crops quicker!
+:grass: Major Maintenance *(12/31/2024)*.
+:grass: Added **Death Messages** when you die by players/mobs.
+:grass: Added **SERVER TIP** for mineable ores in the **Coal Mine** Dungeon.
+:grass: Added **Furniture Trader NPC** near **"/blacksmith"**.
+:grass: Added **Dungeon Furniture Key** as a trade in the **Furniture Trader**.
 
 **ONEBLOCK 2.0 PREPARATION**
-:grass: Chat will now say **ONE** instead of **SKY**
-:grass: Added **Bartender NPC** at **Dock Zone**
-:grass: Added **Forge Station** that is located at **"/blacksmith"**
-:grass: **DANCE** Around your crops and trees to make them **Grow Faster**!
-:grass: Added **"/rpginv"** custom Interface, RPGInv will be called **Artifacts** from now on.
-:grass: Added **Coal Mine** Introduction Dungeon
-:grass: Added **Elder Miner Boss** in **Coal Mine** Dungeon.
- 
+:grass: Chat will now say **ONE** instead of **SKY**.
+:grass: Added **Bartender NPC** at the **Dock Zone**.
+:grass: Added **Forge Station** located at **"/blacksmith"**.
+:grass: **DANCE** around your crops and trees to make them **Grow Faster**!
+:grass: Added **"/rpginv"** custom interface; RPGInv will now be called **Artifacts**.
+:grass: Added **Coal Mine** Introduction Dungeon.
+:grass: Added **Elder Miner Boss** in the **Coal Mine** Dungeon.
+
 **[@Changelogs]**
