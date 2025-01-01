@@ -45,6 +45,7 @@ Dan's Map
 :shiny: [Survival] 
 
 **HUB REALM**
+:sdragon: [Lobby] Supported Version **1.21.4**
 :sdragon: [Lobby] 
 
 **NETWORK**
