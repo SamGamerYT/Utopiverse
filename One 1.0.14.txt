@@ -10,7 +10,7 @@
 :grass: Major Maintenance *(12/31/2024)*
 :grass: Added **Death Messages** when you die by player/mobs.
 :grass: Added **SERVER TIP** for mineable ores in **Coal Mine** Dungeon.
-:grass: 
+:grass: Added **Furniture Trader NPC** near **"/blacksmith"**
 :grass: 
 :grass: 
 :grass: 
