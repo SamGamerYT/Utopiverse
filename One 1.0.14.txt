@@ -21,8 +21,7 @@
 :grass: Added **Forge Station** that is located at **"/blacksmith"**
 :grass: **DANCE** Around your crops and trees to make them **Grow Faster**!
 :grass: Added **"/rpginv"** custom Interface, RPGInv will be called **Artifacts** from now on.
-:grass: 
-:grass: 
+:grass: Added **Coal Mine** Introduction Dungeon
 :grass: 
 :grass: 
 :grass: 
