@@ -9,7 +9,7 @@
 :grass: Added **Farmer TIP** in **"/warp info"**, Learn how to grow your crops quicker!
 :grass: Major Maintenance *(12/31/2024)*
 :grass: Added **Death Messages** when you die by player/mobs.
-:grass: 
+:grass: Added **SERVER TIP** for mineable ores in **Coal Mine** Dungeon.
 :grass: 
 :grass: 
 :grass: 
