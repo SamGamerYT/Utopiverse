@@ -7,7 +7,7 @@
 
 :grass: Modified **"/ranks"** menu, Removed useless assets.
 :grass: Improved **Explorer Mini Staff** code that are at **"/spawn"**
-:grass: 
+:grass: Added **Farmer TIP** in **"/warp info"**, Learn how to grow your crops quicker!
 :grass: 
 :grass: 
 :grass: 
