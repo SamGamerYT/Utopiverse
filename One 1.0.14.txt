@@ -3,7 +3,7 @@
 :grass: Added **Custom Enchantments** utilities in **Dust Trader NPC**
 :grass: Modified **Geode Crusher's** Hologram
 :grass: Revamped **Spawner Picker** Design/Code, New Variants are now added in **Forge Station**
-:grass: 
+:grass: Fixed **Mini Explorers** not moving at **Spawn**
 
 :grass: Modified **"/ranks"** menu, Removed useless assets.
 :grass: Improved **Explorer Mini Staff** code that are at **"/spawn"**
