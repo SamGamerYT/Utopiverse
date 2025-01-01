@@ -1,4 +1,5 @@
 **Patch/Changes 8.9.8.43** *(Network Changes)*
+:shiny: [Survival] Added **Blossom Furniture** at **Furniture Shop**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
