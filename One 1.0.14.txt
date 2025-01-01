@@ -4,16 +4,15 @@
 :grass: Modified **Geode Crusher's** Hologram
 :grass: Revamped **Spawner Picker** Design/Code, New Variants are now added in **Forge Station**
 :grass: Fixed **Mini Explorers** not moving at **Spawn**
-
 :grass: Modified **"/ranks"** menu, Removed useless assets.
 :grass: Improved **Explorer Mini Staff** code that are at **"/spawn"**
 :grass: Added **Farmer TIP** in **"/warp info"**, Learn how to grow your crops quicker!
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
 :grass: Major Maintenance *(12/31/2024)*
+:grass: 
+:grass: 
+:grass: 
+:grass: 
+:grass: 
 :grass: 
 
 **ONEBLOCK 2.0 PREPARATION**
@@ -21,7 +20,7 @@
 :grass: Added **Bartender NPC** at **Dock Zone**
 :grass: Added **Forge Station** that is located at **"/blacksmith"**
 :grass: **DANCE** Around your crops and trees to make them **Grow Faster**!
-:grass: 
+:grass: Added **"/rpginv"** custom Interface, RPGInv will be called **Artifacts** from now on.
 :grass: 
 :grass: 
 :grass: 
