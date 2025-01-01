@@ -13,13 +13,16 @@
 :grass: 
 :grass: 
 :grass: 
-:grass: 
+:grass: Major Maintenance *(12/31/2024)*
 :grass: 
 
 **ONEBLOCK 2.0 PREPARATION**
 :grass: Chat will now say **ONE** instead of **SKY**
 :grass: Added **Bartender NPC** at **Dock Zone**
 :grass: Added **Forge Station** that is located at **"/blacksmith"**
+:grass: 
+:grass: 
+:grass: 
 :grass: 
 :grass: 
  
