@@ -9,6 +9,7 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
+:shiny: [Survival] Supported Version **1.21.4**
 
 **BLACKSMITH**
 :shiny: [Survival] Removed **Halloween** and **Farmer** from Stations Interface
