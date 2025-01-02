@@ -13,7 +13,7 @@
 **BLACKSMITH**
 :shiny: [Survival] Removed **Halloween** and **Farmer** from Stations Interface
 :shiny: [Survival] Removed **Medal Trader Sam** NPC + Hologram
-:shiny: [Survival] 
+:shiny: [Survival] Added **Exchanger & Medal Trader** in **Trader Aaron**
 :shiny: [Survival] 
 
 **DUNGEON**
