@@ -45,7 +45,6 @@
 
 **TEXTURES**
 :shiny: [Textures] 
-
 :shiny: [Bedrock] 
 
 TO DO LIST:
@@ -57,6 +56,7 @@ Dan's Map
 
 **HUB REALM**
 :sdragon: [Lobby] Supported Version **1.21.4**
+:sdragon: [Lobby] Fixed **Parkour Minigames** not working in **Interace**
 :sdragon: [Lobby] 
 
 **NETWORK**
