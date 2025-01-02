@@ -14,6 +14,7 @@
 :grass: 
 :grass: 
 :grass: 
+:grass: Supported Version **1.21.4**
 
 **ONEBLOCK 2.0 PREPARATION**
 :grass: 
