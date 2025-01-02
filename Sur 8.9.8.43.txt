@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.43** *(Network Changes)*
 :shiny: [Survival] Added **Blossom Furniture** at **Furniture Shop**
 :shiny: [Survival] Relocated **Queen NPC** to **"/farms"**
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Christmas Melody** from Spawn and **Season House**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -14,6 +14,8 @@
 :shiny: [Survival] Removed **Halloween** and **Farmer** from Stations Interface
 :shiny: [Survival] Removed **Medal Trader Sam** NPC + Hologram
 :shiny: [Survival] Added **Exchanger & Medal Trader** in **Trader Aaron**
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **DUNGEON**
