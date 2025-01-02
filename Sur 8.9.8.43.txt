@@ -12,6 +12,7 @@
 
 **BLACKSMITH**
 :shiny: [Survival] Removed **Halloween** and **Farmer** from Stations Interface
+:shiny: [Survival] Removed **Medal Trader Sam** NPC + Hologram
 :shiny: [Survival] 
 :shiny: [Survival] 
 
