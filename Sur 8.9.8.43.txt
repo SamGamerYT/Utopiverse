@@ -13,7 +13,7 @@
 :shiny: [Survival] 
 
 **CRATES**
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Runicator Relic** and **Attribute Point** from **Legendary Crate**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
