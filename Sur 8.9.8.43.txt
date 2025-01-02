@@ -10,6 +10,11 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+**BLACKSMITH**
+:shiny: [Survival] Removed **Halloween** and **Farmer** from Stations Interface
+:shiny: [Survival] 
+:shiny: [Survival] 
+
 **DUNGEON**
 :shiny: [Survival] Removed **Dungeon Teleportation** models due to bugs.
 :shiny: [Survival] Relocated hologram for **Mine Dungeon** & **Mine Teleport NPC**
@@ -35,8 +40,6 @@
 **WEBSITE**
 :shiny: [Survival] Added **Color Code** guide on **Documentation Site**
 
-**BLACKSMITH**
-:shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] 
