@@ -12,6 +12,8 @@
 
 **DUNGEON**
 :shiny: [Survival] Removed **Dungeon Teleportation** models due to bugs.
+:shiny: [Survival] Relocated hologram for **Mine Dungeon** & **Mine Teleport NPC**
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **SPOODER LAIR**
