@@ -2,7 +2,7 @@
 :shiny: [Survival] Added **Blossom Furniture** at **Furniture Shop**
 :shiny: [Survival] Relocated **Queen NPC** to **"/farms"**
 :shiny: [Survival] Removed **Christmas Melody** from Spawn and **Season House**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Essence Trader** showing wrong statistics for **Yellow Ring**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
