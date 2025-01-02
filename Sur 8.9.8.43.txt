@@ -10,6 +10,10 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+**DUNGEON**
+:shiny: [Survival] Removed **Dungeon Teleportation** models due to bugs.
+:shiny: [Survival] 
+
 **SPOODER LAIR**
 :shiny: [Survival] **Spooder Boss** has a chance to drop **Spooder Scroll**.
 :shiny: [Survival] Heavily buffed **Spooder Boss** drop chances (From 2 to 4-6)
