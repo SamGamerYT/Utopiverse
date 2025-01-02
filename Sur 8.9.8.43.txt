@@ -1,14 +1,18 @@
 **Patch/Changes 8.9.8.43** *(Network Changes)*
 :shiny: [Survival] Added **Blossom Furniture** at **Furniture Shop**
 :shiny: [Survival] Relocated **Queen NPC** to **"/farms"**
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+**SPOODER LAIR**
 :shiny: [Survival] **Spooder Boss** has a chance to drop **Spooder Scroll**.
 :shiny: [Survival] Heavily buffed **Spooder Boss** drop chances (From 2 to 4-6)
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
