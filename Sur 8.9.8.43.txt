@@ -41,6 +41,7 @@
 :shiny: [Survival] Removed **Runicator Relic** and **Attribute Point** from **Legendary Crate**
 :shiny: [Survival] Added **Runicator Relic** to **Exotic Crate**
 :shiny: [Survival] Removed **Mob Catcher** from **Legendary Crate**
+:shiny: [Survival] Removed **Abundance Repairstone** from **Legendary Crate**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
