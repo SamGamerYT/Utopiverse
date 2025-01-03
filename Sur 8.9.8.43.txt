@@ -30,6 +30,7 @@
 :shiny: [Survival] Heavily buffed **Spooder Boss** drop chances (From 2 to 4-6)
 :shiny: [Survival] Added **Spooder Lair** hologram at the **Entrance**
 :shiny: [Survival] 
+:shiny: [Survival] 
 
 **CRATES**
 :shiny: [Survival] Removed **Runicator Relic** and **Attribute Point** from **Legendary Crate**
