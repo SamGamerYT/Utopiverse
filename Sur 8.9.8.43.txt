@@ -12,6 +12,7 @@
 
 **/SHOP**
 :shiny: [Survival] Added **New Music Discs** in **Music Subcategory** within **Miscellaneous Category**
+:shiny: [Survival] Reduced **Music Dic Pigstep** price in **Music Subcategory**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
