@@ -1,6 +1,6 @@
 **Patch/Changes 1.0.15** *[Oneblock]*
 :grass: Added **Blossom Furniture** at **Furniture Shop**
-:grass: 
+:grass: Added **Front NPC** that teleports player to their **Oneblock**
 :grass: 
 :grass: 
 :grass: 
