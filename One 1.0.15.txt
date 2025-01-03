@@ -3,7 +3,7 @@
 :grass: Added **Front NPC** that teleports player to their **Oneblock**
 :grass: Added **Informative** Holograms at **"/spawn"**
 :grass: Fixed **Mass Opening** for **Physical Version**
-:grass: 
+:grass: Fixed **"/ce"** showing **EXP** Balance instead of **Money** Balance
 :grass: 
 :grass: 
 :grass: 
