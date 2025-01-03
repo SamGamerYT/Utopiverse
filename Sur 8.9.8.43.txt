@@ -14,7 +14,7 @@
 :shiny: [Survival] Added **New Music Discs** in **Music Subcategory** within **Miscellaneous Category**
 :shiny: [Survival] Reduced **Music Dic Pigstep** price in **Music Subcategory**
 :shiny: [Survival] Added **Slabs Subcategory** in **Blocks Category**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Pots Subcategory** in **Decoration Category**
 
 **BLACKSMITH**
 :shiny: [Survival] Removed **Halloween** and **Farmer** from Stations Interface
