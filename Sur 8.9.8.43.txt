@@ -21,6 +21,16 @@
 :shiny: [Survival] Removed **Medal Trader Sam** NPC + Hologram
 :shiny: [Survival] Added **Exchanger & Medal Trader** in **Trader Aaron**
 :shiny: [Survival] Added **Polisher Repairstone** at **"/warp repair"**
+:shiny: [Survival] Increased **Staff Weapon** durability from **512** to **1024**.
+:shiny: [Survival] 
+:shiny: [Survival] 
+
+**TINKERER**
+:shiny: [Survival] Added **Vitality Relic** Tier II & III
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
