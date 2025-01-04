@@ -27,6 +27,7 @@
 
 **TINKERER**
 :shiny: [Survival] Added **Vitality Relic** Tier II & III
+:shiny: [Survival] Added **Spider Artifact** Tier II & III
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
