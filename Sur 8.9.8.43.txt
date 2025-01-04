@@ -1,50 +1,50 @@
 **Patch/Changes 8.9.8.43** *(Network Changes)*
-:shiny: [Survival] Added **Blossom Furniture** at **Furniture Shop**
-:shiny: [Survival] Relocated **Queen NPC** to **"/farms"**
-:shiny: [Survival] Removed **Christmas Melody** from Spawn and **Season House**
-:shiny: [Survival] Fixed **Essence Trader** showing wrong statistics for **Yellow Ring**
-:shiny: [Survival] Increased **Furnitures** view distance from **12** to **16**
-:shiny: [Survival] Supported Version **1.21.4**
+:shiny: [Survival] Added **Blossom Furniture** at the **Furniture Shop**.
+:shiny: [Survival] Relocated **Queen NPC** to **"/farms"**.
+:shiny: [Survival] Removed **Christmas Melody** from Spawn and **Season House**.
+:shiny: [Survival] Fixed **Essence Trader** showing incorrect statistics for **Yellow Ring**.
+:shiny: [Survival] Increased **Furnitures** view distance from **12** to **16**.
+:shiny: [Survival] Supported Version **1.21.4**.
 
 **/SHOP**
-:shiny: [Survival] Added **New Music Discs** in **Music Subcategory** within **Miscellaneous Category**
-:shiny: [Survival] Reduced **Music Dic Pigstep** price in **Music Subcategory**
-:shiny: [Survival] Added **Slabs Subcategory** in **Blocks Category**
-:shiny: [Survival] Added **Pots Subcategory** in **Decoration Category**
+:shiny: [Survival] Added **New Music Discs** in the **Music Subcategory** within the **Miscellaneous Category**.
+:shiny: [Survival] Reduced **Music Disc Pigstep** price in the **Music Subcategory**.
+:shiny: [Survival] Added **Slabs Subcategory** in the **Blocks Category**.
+:shiny: [Survival] Added **Pots Subcategory** in the **Decoration Category**.
 
 **BLACKSMITH**
-:shiny: [Survival] Removed **Halloween** and **Farmer** from Stations Interface
-:shiny: [Survival] Removed **Medal Trader Sam** NPC + Hologram
-:shiny: [Survival] Added **Exchanger & Medal Trader** in **Trader Aaron**
-:shiny: [Survival] Added **Polisher Repairstone** at **"/warp repair"**
+:shiny: [Survival] Removed **Halloween** and **Farmer** from the Stations Interface.
+:shiny: [Survival] Removed **Medal Trader Sam** NPC and hologram.
+:shiny: [Survival] Added **Exchanger & Medal Trader** to **Trader Aaron**.
+:shiny: [Survival] Added **Polisher Repairstone** at **"/warp repair"**.
 :shiny: [Survival] Increased **Staff Weapon** durability from **512** to **1024**.
 
 **TINKERER**
-:shiny: [Survival] Added **Vitality Relic** Tier II & III
-:shiny: [Survival] Added **Spider Artifact** Tier II & III
+:shiny: [Survival] Added **Vitality Relic** Tier II & III.
+:shiny: [Survival] Added **Spider Artifact** Tier II & III.
 
 **DUNGEON**
 :shiny: [Survival] Removed **Dungeon Teleportation** models due to bugs.
-:shiny: [Survival] Relocated hologram for **Mine Dungeon** & **Mine Teleport NPC**
+:shiny: [Survival] Relocated hologram for the **Mine Dungeon** & **Mine Teleport NPC**.
 
 **SPOODER LAIR**
-:shiny: [Survival] **Spooder Boss** has a chance to drop **Spooder Scroll**.
-:shiny: [Survival] Heavily buffed **Spooder Boss** drop chances (From 2 to 4-6)
-:shiny: [Survival] Added **Spooder Lair** hologram at the **Entrance**
+:shiny: [Survival] **Spooder Boss** has a chance to drop the **Spooder Scroll**.
+:shiny: [Survival] Heavily buffed **Spooder Boss** drop chances (from 2 to 4-6).
+:shiny: [Survival] Added **Spooder Lair** hologram at the **Entrance**.
 
 **CRATES**
-:shiny: [Survival] Removed **Runicator Relic** and **Attribute Point** from **Legendary Crate**
-:shiny: [Survival] Added **Runicator Relic** to **Exotic Crate**
-:shiny: [Survival] Removed **Mob Catcher** from **Legendary Crate**
-:shiny: [Survival] Removed **Abundance Repairstone** from **Legendary Crate**
-:shiny: [Survival] Added **Legendary Shovel** in **Legendary Crate**
-:shiny: [Survival] Removed **Two Handed** requirement from **Legendary Shield**
+:shiny: [Survival] Removed **Runicator Relic** and **Attribute Point** from the **Legendary Crate**.
+:shiny: [Survival] Added **Runicator Relic** to the **Exotic Crate**.
+:shiny: [Survival] Removed **Mob Catcher** from the **Legendary Crate**.
+:shiny: [Survival] Removed **Abundance Repairstone** from the **Legendary Crate**.
+:shiny: [Survival] Added **Legendary Shovel** to the **Legendary Crate**.
+:shiny: [Survival] Removed the **Two Handed** requirement from the **Legendary Shield**.
 
 **WEBSITE**
-:shiny: [Survival] Added **Color Code** guide on **Documentation Site**
+:shiny: [Survival] Added **Color Code** guide on the **Documentation Site**.
 
 **HUB REALM**
-:sdragon: [Lobby] Supported Version **1.21.4**
-:sdragon: [Lobby] Fixed **Parkour Minigames** not working in **Interace**
+:sdragon: [Lobby] Supported Version **1.21.4**.
+:sdragon: [Lobby] Fixed **Parkour Minigames** not working in the **Interface**.
 
 **[@Changelogs]**
