@@ -25,6 +25,11 @@
 :grass: 
 :grass: 
 :grass: 
+
+**HOLOGRAMS** *(Created by Idiomaticsss)* 
+:grass: Auction House Hologram at **Auction House**
+:grass: Artifact Hologram at **Refine Shop**
+:grass: 
  
 **[@Changelogs]**
 
