@@ -5,8 +5,8 @@
 :grass: Fixed **Mass Opening** for **Physical Version**
 :grass: Fixed **"/ce"** showing **EXP** Balance instead of **Money** Balance
 :grass: Fixed **"/tpahere"** not working at your **Island** and **Spawn**.
-:grass: 
-:grass: 
+:grass: Added **Artifacts** NPC at **Refine Shop**
+:grass: Fixed an issue where **Coal Mine** 
 :grass: 
 :grass: 
 :grass: 
@@ -17,9 +17,6 @@
 :grass: Supported Version **1.21.4**
 
 **ONEBLOCK 2.0 PREPARATION**
-:grass: 
-:grass: 
-:grass: 
 :grass: 
 :grass: 
 :grass: 
