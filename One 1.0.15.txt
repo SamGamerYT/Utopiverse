@@ -2,12 +2,12 @@
 :grass: Added **Blossom Furniture** at **Furniture Shop**
 :grass: Added **Front NPC** that teleports player to their **Oneblock**
 :grass: Added **Informative** Holograms at **"/spawn"**
-:grass: Fixed **Mass Opening** for **Physical Version**
-:grass: Fixed **"/ce"** showing **EXP** Balance instead of **Money** Balance
+:grass: Fixed **Mass Opening** for **Physical Version** (Reported by @_BlueNinja123447)
+:grass: Fixed **"/ce"** showing **EXP** Balance instead of **Money** Balance (Reported by @Idiomaticsss)
 :grass: Fixed **"/tpahere"** not working at your **Island** and **Spawn**.
 :grass: Added **Artifacts** NPC at **Refine Shop**
 :grass: Fixed an issue where **Coal Mine** 
-:grass: Fixed an typo in **"/ranks"**
+:grass: Fixed an typo in **"/ranks"** (Reported by @YuxuFG)
 :grass: 
 :grass: 
 :grass: 
