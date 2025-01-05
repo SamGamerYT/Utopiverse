@@ -7,7 +7,7 @@
 :grass: Fixed **"/tpahere"** not working at your **Island** and **Spawn**.
 :grass: Added **Artifacts** NPC at **Refine Shop**
 :grass: Fixed an issue where **Coal Mine** 
-:grass: 
+:grass: Fixed an typo in **"/ranks"**
 :grass: 
 :grass: 
 :grass: 
