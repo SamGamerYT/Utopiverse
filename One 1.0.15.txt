@@ -4,7 +4,7 @@
 :grass: Added **Informative** Holograms at **"/spawn"**
 :grass: Fixed **Mass Opening** for **Physical Version**
 :grass: Fixed **"/ce"** showing **EXP** Balance instead of **Money** Balance
-:grass: 
+:grass: Fixed **"/tpahere"** not working at your **Island** and **Spawn**.
 :grass: 
 :grass: 
 :grass: 
