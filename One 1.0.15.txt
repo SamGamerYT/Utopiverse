@@ -29,6 +29,7 @@
 **HOLOGRAMS** *(Created by Idiomaticsss)* 
 :grass: Auction House Hologram at **Auction House**
 :grass: Artifact Hologram at **Refine Shop**
+:grass: Community Chest Hologram near **"/spawn"**
 :grass: 
  
 **[@Changelogs]**
