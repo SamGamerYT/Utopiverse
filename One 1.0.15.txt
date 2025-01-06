@@ -9,7 +9,7 @@
 :grass: Fixed an issue where **Coal Mine** 
 :grass: Fixed an typo in **"/ranks"** (Reported by @YuxuFG)
 :grass: Added **Community Chests** infront of **Auction House**
-:grass: 
+:grass: Fixed a bug where players were able to take books out of booshelves.
 :grass: 
 :grass: 
 :grass: 
