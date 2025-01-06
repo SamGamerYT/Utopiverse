@@ -52,7 +52,6 @@
 
 TO DO LIST:
 Fix Menders not working with chest shop
-Dan's Map
 
 **OPTIMIZATION**
 :shiny: [Survival] 
