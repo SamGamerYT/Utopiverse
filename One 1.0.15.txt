@@ -11,7 +11,7 @@
 :grass: Added **Community Chests** infront of **Auction House**
 :grass: Fixed a bug where players were able to take books out of booshelves.
 :grass: Added **Cobblestone Generator** Tutorial at **"/warp info"**
-:grass: 
+:grass: **Cobblestone Generate** will be breakable for players!
 :grass: 
 :grass: 
 :grass: Supported Version **1.21.4**
