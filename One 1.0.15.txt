@@ -10,7 +10,7 @@
 :grass: Fixed an typo in **"/ranks"** (Reported by @YuxuFG)
 :grass: Added **Community Chests** infront of **Auction House**
 :grass: Fixed a bug where players were able to take books out of booshelves.
-:grass: 
+:grass: Added **Cobblestone Generator** Tutorial at **"/warp info"**
 :grass: 
 :grass: 
 :grass: 
