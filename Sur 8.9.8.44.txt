@@ -5,7 +5,7 @@
 :shiny: [Survival] Added **{item}** display in Chat, Showcase your prized possessions.
 :shiny: [Survival] Added **Dungeon XP Pouches** (@WhispyW's Suggestion)
 :shiny: [Survival] Added **Dungeon XP Pouches** as a drop to **All Bosses!**, View drop percentage in **"/codex"**
-:shiny: [Survival] 
+:shiny: [Survival] Increased **SOUL BLADE** Damage from **9.5** to **19.5** and buffed **Ability Damage**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
