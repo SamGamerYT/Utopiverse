@@ -8,7 +8,7 @@
 :grass: Added **Artifacts** NPC at **Refine Shop**
 :grass: Fixed an issue where **Coal Mine** 
 :grass: Fixed an typo in **"/ranks"** (Reported by @YuxuFG)
-:grass: 
+:grass: Added **Community Chests** infront of **Auction House**
 :grass: 
 :grass: 
 :grass: 
