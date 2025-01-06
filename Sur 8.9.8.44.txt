@@ -2,8 +2,7 @@
 :shiny: [Survival] Experimental Changes to **Anti-Lag**, Report any bugs that you notice.
 :shiny: [Survival] Added **Timber**, An old beloved feature, back in **Resource World**
 :shiny: [Survival] Added **{item}** display in Chat, Showcase your prized possessions.
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Dungeon XP Pouches** (@WhispyW's Suggestion)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
