@@ -12,6 +12,7 @@
 
 **BLACKSMITH**
 :shiny: [Survival] Removed **Fragment Trading** Interface from **Anvil Hammering Blacksmith**
+:shiny: [Survival] Merged **Fragment Trading** within **Aaron's Exchanging** Interface
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
