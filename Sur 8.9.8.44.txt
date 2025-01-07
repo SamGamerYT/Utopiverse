@@ -6,7 +6,7 @@
 :shiny: [Survival] Added **Dungeon XP Pouches** (@WhispyW's Suggestion)
 :shiny: [Survival] Added **Dungeon XP Pouches** as a drop to **All Bosses!**, View drop percentage in **"/codex"**
 :shiny: [Survival] Increased **SOUL BLADE** Damage from **9.5** to **19.5** and buffed **Ability Damage**
-:shiny: [Survival] 
+:shiny: [Survival] Increased **Void Damage** from **0.5%** to **0.25%**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
