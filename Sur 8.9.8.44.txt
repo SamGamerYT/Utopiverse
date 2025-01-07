@@ -14,7 +14,7 @@
 :shiny: [Survival] Removed **Fragment Trading** Interface from **Anvil Hammering Blacksmith**
 :shiny: [Survival] Merged **Fragment Trading** within **Aaron's Exchanging** Interface
 :shiny: [Survival] Moved **Repair Station** and **Reforge Station** to **"/blacksmith"**
-:shiny: [Survival] 
+:shiny: [Survival] Relocated **"/warp repair"** to **"/blacksmith"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
