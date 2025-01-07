@@ -61,7 +61,7 @@ Fix Menders not working with chest shop
 :shiny: [Survival] 
 
 **HUB REALM**
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Modified **Welcome Hologram**
 :sdragon: [Lobby] 
 
 **NETWORK**
