@@ -9,6 +9,7 @@
 :shiny: [Survival] Increased **Void Damage** from **0.5%** to **0.25%**
 :shiny: [Survival] Added **Wasteland Codex** as reward in **"/codex"**
 :shiny: [Survival] Fixed **Volcano Codex** Reward Interface typos.
+:shiny: [Survival] Fixed **Cactus** glitching out of the norm.
 :shiny: [Survival] 
 
 **BLACKSMITH**
