@@ -21,6 +21,7 @@
 :shiny: [Survival] Modified **Physical Reduction** to **Melee Reduction** in Stats
 :shiny: [Survival] Added **Warrior's Belt** at **"/warp tinkerer"**
 :shiny: [Survival] Added **Warrior's Ring** at **"/warp tinkerer"**
+:shiny: [Survival] Added **Warrior's Amulet** at **"/warp tinkerer"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
