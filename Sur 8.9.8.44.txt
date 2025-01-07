@@ -15,7 +15,7 @@
 :shiny: [Survival] Merged **Fragment Trading** within **Aaron's Exchanging** Interface
 :shiny: [Survival] Moved **Repair Station** and **Reforge Station** to **"/blacksmith"**
 :shiny: [Survival] Relocated **"/warp repair"** to **"/blacksmith"**
-:shiny: [Survival] 
+:shiny: [Survival] **Anvil Hammering Blacksmith** will now open up **Reforge Station**
 :shiny: [Survival] 
 
 **TINKERER**
