@@ -18,7 +18,9 @@
 :shiny: [Survival] Moved **Repair Station** and **Reforge Station** to **"/blacksmith"**
 :shiny: [Survival] Relocated **"/warp repair"** to **"/blacksmith"**
 :shiny: [Survival] **Anvil Hammering Blacksmith** will now open up **Reforge Station**
+:shiny: [Survival] Modified **Physical Reduction** to **Melee Reduction** in Stats
 :shiny: [Survival] Added **Warrior's Belt** at **"/warp tinkerer"**
+:shiny: [Survival] Added **Warrior's Ring** at **"/warp tinkerer"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
