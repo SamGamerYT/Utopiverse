@@ -14,6 +14,11 @@
 :shiny: [Survival] 
 :shiny: [Survival] Server Maintenance *(1/8/2025)*
 
+TO DO LIST:
+Fix Menders not working with chest shop
+tik tok tag (freeby)
+youtube tag (freeby)
+
 **BLACKSMITH**
 :shiny: [Survival] Removed **Fragment Trading** Interface from **Anvil Hammering Blacksmith**
 :shiny: [Survival] Merged **Fragment Trading** within **Aaron's Exchanging** Interface
@@ -55,9 +60,6 @@
 **TEXTURES**
 :shiny: [Textures] 
 :shiny: [Bedrock] 
-
-TO DO LIST:
-Fix Menders not working with chest shop
 
 **OPTIMIZATION**
 :shiny: [Survival] 
