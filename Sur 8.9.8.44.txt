@@ -65,7 +65,8 @@ Fix Menders not working with chest shop
 :sdragon: [Lobby] Added **Server Selector** Interface *(Java Only)*
 :sdragon: [Lobby] Revamped **Server Selector** Styling and Layout *(Java Only)*
 :sdragon: [Lobby] Switched **Server Selector** Realm join and go back button around *(Bedrock Only)*
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Removed Events & BlockParty from **Server Selector** *(Bedrock Only)*
+:sdragon: [Lobby] Added **Minigames** that opens up **Minigames Interface** in **Server Selector** *(Bedrock Only)*
 :sdragon: [Lobby] 
 
 **NETWORK**
