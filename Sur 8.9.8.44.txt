@@ -63,7 +63,7 @@ Fix Menders not working with chest shop
 **HUB REALM**
 :sdragon: [Lobby] Modified **Welcome Hologram**
 :sdragon: [Lobby] Added **Server Selector** Interface *(Java Only)*
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Revamped **Server Selector** Styling and Layout *(Java Only)*
 :sdragon: [Lobby] 
 
 **NETWORK**
