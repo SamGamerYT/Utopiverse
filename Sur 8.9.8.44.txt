@@ -11,6 +11,7 @@
 :shiny: [Survival] Fixed **Volcano Codex** Reward Interface typos.
 :shiny: [Survival] Fixed **Cactus** glitching out of the norm.
 :shiny: [Survival] 
+:shiny: [Survival] Server Maintenance *(1/8/2025)*
 
 **BLACKSMITH**
 :shiny: [Survival] Removed **Fragment Trading** Interface from **Anvil Hammering Blacksmith**
