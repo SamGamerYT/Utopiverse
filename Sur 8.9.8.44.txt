@@ -61,12 +61,12 @@ Fix Menders not working with chest shop
 :shiny: [Survival] 
 
 **HUB REALM**
-:sdragon: [Lobby] Modified **Welcome Hologram**
-:sdragon: [Lobby] Added **Server Selector** Interface *(Java Only)*
-:sdragon: [Lobby] Revamped **Server Selector** Styling and Layout *(Java Only)*
-:sdragon: [Lobby] Switched **Server Selector** Realm join and go back button around *(Bedrock Only)*
-:sdragon: [Lobby] Removed Events & BlockParty from **Server Selector** *(Bedrock Only)*
-:sdragon: [Lobby] Added **Minigames** that opens up **Minigames Interface** in **Server Selector** *(Bedrock Only)*
+:sdragon: [Lobby] Modified **Welcome Hologram**.
+:sdragon: [Lobby] Added **Server Selector** interface *(Java Only)*.
+:sdragon: [Lobby] Revamped **Server Selector** styling and layout *(Java Only)*.
+:sdragon: [Lobby] Switched **Server Selector** realm join and go back buttons around *(Bedrock Only)*.
+:sdragon: [Lobby] Removed **Events** and **BlockParty** from the **Server Selector** *(Bedrock Only)*.
+:sdragon: [Lobby] Added **Minigames** that open up the **Minigames Interface** in the **Server Selector** *(Bedrock Only)*.
 :sdragon: [Lobby] 
 
 **NETWORK**
