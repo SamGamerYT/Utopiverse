@@ -10,6 +10,7 @@
 :shiny: [Survival] Added **Wasteland Codex** as reward in **"/codex"**
 :shiny: [Survival] Fixed **Volcano Codex** Reward Interface typos.
 :shiny: [Survival] Fixed **Cactus** glitching out of the norm.
+:shiny: [Survival] Fixed **Spawners Issue**, 
 :shiny: [Survival] 
 :shiny: [Survival] Server Maintenance *(1/8/2025)*
 
