@@ -64,6 +64,8 @@ Fix Menders not working with chest shop
 :sdragon: [Lobby] Modified **Welcome Hologram**
 :sdragon: [Lobby] Added **Server Selector** Interface *(Java Only)*
 :sdragon: [Lobby] Revamped **Server Selector** Styling and Layout *(Java Only)*
+:sdragon: [Lobby] Switched **Server Selector** Realm join and go back button around *(Bedrock Only)*
+:sdragon: [Lobby] 
 :sdragon: [Lobby] 
 
 **NETWORK**
