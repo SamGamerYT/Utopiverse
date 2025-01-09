@@ -47,9 +47,7 @@ youtube tag (freeby)
 
 **WEBSITE**
 :shiny: [Survival] 
-
-**DUNGEON MINE CHANGES**
-:shiny: [Survival] Removed **Iron Gear** & **Iron Tools** from Droptable and Added **Iron Ingot, Nugget & Golden Apples**
+t
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Mobs will no longer reset back to full health after teleporting back
