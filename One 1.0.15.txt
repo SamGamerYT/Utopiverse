@@ -23,8 +23,4 @@
 :grass: Artifact hologram at the **Refine Shop**.
 :grass: Community Chest hologram near **"/spawn"**.
 
- 
 **[@Changelogs]**
-
-**AUTO RESPONSE**
-**CRATES**
