@@ -11,7 +11,7 @@
 :shiny: [Survival] Fixed **Volcano Codex** Reward Interface typos.
 :shiny: [Survival] Fixed **Cactus** glitching out of the norm.
 :shiny: [Survival] Fixed **Spawners Issue**, Where it disallowed players from placing different types.
-:shiny: [Survival] 
+:shiny: [Survival] **[i]** Item Showcase is available to be purchased from the **Enchanter's Witch**
 :shiny: [Survival] Server Maintenance *(1/8/2025)*
 
 TO DO LIST:
