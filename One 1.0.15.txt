@@ -13,22 +13,10 @@
 :grass: Added **Cobblestone Generator** Tutorial at **"/warp info"**
 :grass: **Cobblestone Generate** will be breakable for players!
 :grass: Fixed **"/warp info"** teleporting players on top of Spawn's Building
-:grass: 
 :grass: Supported Version **1.21.4**
 
-Squatter has access to timber
-Squatter has access to timber
-Squatter has access to timber
-
 **ONEBLOCK 2.0 PREPARATION**
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
+:grass: Added new **Action Bar** with proper **format**
 
 **HOLOGRAMS** *(Created by Idiomaticsss)* 
 :grass: Auction House Hologram at **Auction House**
