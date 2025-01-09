@@ -1,27 +1,28 @@
 **Patch/Changes 1.0.15** *[Oneblock]*
-:grass: Added **Blossom Furniture** at **Furniture Shop**
-:grass: Added **Front NPC** that teleports player to their **Oneblock**
-:grass: Added **Informative** Holograms at **"/spawn"**
-:grass: Fixed **Mass Opening** for **Physical Version** (Reported by @_BlueNinja123447)
-:grass: Fixed **"/ce"** showing **EXP** Balance instead of **Money** Balance (Reported by @Idiomaticsss)
+:grass: Added **Blossom Furniture** at the **Furniture Shop**.
+:grass: Added **Front NPC** that teleports players to their **Oneblock**.
+:grass: Added **Informative** holograms at **"/spawn"**.
+:grass: Fixed **Mass Opening** for the **Physical Version** (Reported by @_BlueNinja123447).
+:grass: Fixed **"/ce"** showing **EXP** balance instead of **Money** balance (Reported by @Idiomaticsss).
 :grass: Fixed **"/tpahere"** not working at your **Island** and **Spawn**.
-:grass: Added **Artifacts** NPC at **Refine Shop**
-:grass: Fixed an issue where **Coal Mine** 
-:grass: Fixed an typo in **"/ranks"** (Reported by @YuxuFG)
-:grass: Added **Community Chests** infront of **Auction House**
-:grass: Fixed a bug where players were able to take books out of booshelves.
-:grass: Added **Cobblestone Generator** Tutorial at **"/warp info"**
-:grass: **Cobblestone Generate** will be breakable for players!
-:grass: Fixed **"/warp info"** teleporting players on top of Spawn's Building
-:grass: Supported Version **1.21.4**
+:grass: Added **Artifacts** NPC at the **Refine Shop**.
+:grass: Fixed an issue with the **Coal Mine**.
+:grass: Fixed a typo in **"/ranks"** (Reported by @YuxuFG).
+:grass: Added **Community Chests** in front of the **Auction House**.
+:grass: Fixed a bug where players were able to take books out of bookshelves.
+:grass: Added **Cobblestone Generator** tutorial at **"/warp info"**.
+:grass: **Cobblestone Generators** will now be breakable for players!
+:grass: Fixed **"/warp info"** teleporting players on top of the spawn building.
+:grass: Supported Version **1.21.4**.
 
 **ONEBLOCK 2.0 PREPARATION**
-:grass: Added new **Action Bar** with proper **format**
+:grass: Added a new **Action Bar** with proper **format**.
 
-**HOLOGRAMS** *(Created by Idiomaticsss)* 
-:grass: Auction House Hologram at **Auction House**
-:grass: Artifact Hologram at **Refine Shop**
-:grass: Community Chest Hologram near **"/spawn"**
+**HOLOGRAMS** *(Created by Idiomaticsss)*
+:grass: Auction House hologram at the **Auction House**.
+:grass: Artifact hologram at the **Refine Shop**.
+:grass: Community Chest hologram near **"/spawn"**.
+
  
 **[@Changelogs]**
 
