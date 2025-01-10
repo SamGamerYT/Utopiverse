@@ -1,44 +1,44 @@
 **Patch/Changes 8.9.8.44** *(Network Changes)*
-:shiny: [Survival] Experimental Changes to **Anti-Lag**, Report any bugs that you notice.
-:shiny: [Survival] Added **Timber**, An old beloved feature, back in **Resource World**
-:shiny: [Survival] **Timber Perk** is available for **Looter Rankup**
-:shiny: [Survival] Added **{item}** display in Chat, Showcase your prized possessions.
-:shiny: [Survival] Added **Dungeon XP Pouches** (@WhispyW's Suggestion)
-:shiny: [Survival] Added **Dungeon XP Pouches** as a drop to **All Bosses!**, View drop percentage in **"/codex"**
-:shiny: [Survival] Increased **SOUL BLADE** Damage from **9.5** to **19.5** and buffed **Ability Damage**
-:shiny: [Survival] Increased **Void Damage** from **0.5%** to **0.25%**
-:shiny: [Survival] Added **Wasteland Codex** as reward in **"/codex"**
-:shiny: [Survival] Fixed **Volcano Codex** Reward Interface typos.
+:shiny: [Survival] Experimental changes to **Anti-Lag**; report any bugs you notice.
+:shiny: [Survival] Added **Timber**, an old beloved feature, back in the **Resource World**.
+:shiny: [Survival] **Timber Perk** is now available for **Looter Rankup**.
+:shiny: [Survival] Added **{item}** display in chat to showcase your prized possessions.
+:shiny: [Survival] Added **Dungeon XP Pouches** (@WhispyW's suggestion).
+:shiny: [Survival] Added **Dungeon XP Pouches** as a drop to **All Bosses**; view drop percentages in **"/codex"**.
+:shiny: [Survival] Increased **SOUL BLADE** damage from **9.5** to **19.5** and buffed **Ability Damage**.
+:shiny: [Survival] Reduced **Void Damage** from **0.5%** to **0.25%**.
+:shiny: [Survival] Added **Wasteland Codex** as a reward in **"/codex"**.
+:shiny: [Survival] Fixed typos in the **Volcano Codex** reward interface.
 :shiny: [Survival] Fixed **Cactus** glitching out of the norm.
-:shiny: [Survival] Fixed **Spawners Issue**, Where it disallowed players from placing different types.
-:shiny: [Survival] **[i]** Item Showcase is available to be purchased from the **Enchanter's Witch**
-:shiny: [Survival] Server Maintenance *(1/8/2025)*
+:shiny: [Survival] Fixed **Spawners Issue** where it disallowed players from placing different types.
+:shiny: [Survival] **[i]** Item Showcase is now available for purchase from the **Enchanter's Witch**.
+:shiny: [Survival] Server Maintenance *(1/8/2025)*.
 
 **BLACKSMITH**
-:shiny: [Survival] Removed **Fragment Trading** Interface from **Anvil Hammering Blacksmith**
-:shiny: [Survival] Merged **Fragment Trading** within **Aaron's Exchanging** Interface
-:shiny: [Survival] Moved **Repair Station** and **Reforge Station** to **"/blacksmith"**
-:shiny: [Survival] Relocated **"/warp repair"** to **"/blacksmith"**
-:shiny: [Survival] **Anvil Hammering Blacksmith** will now open up **Reforge Station**
-:shiny: [Survival] Modified **Physical Reduction** to **Melee Reduction** in Stats
-:shiny: [Survival] Added **Warrior's Belt** at **"/warp tinkerer"**
-:shiny: [Survival] Added **Warrior's Ring** at **"/warp tinkerer"**
-:shiny: [Survival] Added **Warrior's Amulet** at **"/warp tinkerer"**
+:shiny: [Survival] Removed the **Fragment Trading** interface from the **Anvil Hammering Blacksmith**.
+:shiny: [Survival] Merged **Fragment Trading** within **Aaron's Exchanging** interface.
+:shiny: [Survival] Moved the **Repair Station** and **Reforge Station** to **"/blacksmith"**.
+:shiny: [Survival] Relocated **"/warp repair"** to **"/blacksmith"**.
+:shiny: [Survival] **Anvil Hammering Blacksmith** will now open the **Reforge Station**.
+:shiny: [Survival] Modified **Physical Reduction** to **Melee Reduction** in stats.
+:shiny: [Survival] Added **Warrior's Belt** at **"/warp tinkerer"**.
+:shiny: [Survival] Added **Warrior's Ring** at **"/warp tinkerer"**.
+:shiny: [Survival] Added **Warrior's Amulet** at **"/warp tinkerer"**.
 
 **/SHOP**
-:shiny: [Survival] Added **Stairs Category** Under **Blocks Category** within **"/shop"**
+:shiny: [Survival] Added a **Stairs Category** under the **Blocks Category** within **"/shop"**.
 
 **SPOODER LAIR**
-:shiny: [Survival] Heavily Buffed **Spooder Boss** loot drop.
+:shiny: [Survival] Heavily buffed **Spooder Boss** loot drop.
 
 **DUNGEON MINE CHANGES**
-:shiny: [Survival] Removed **Iron Gear** & **Iron Tools** from Droptable and Added **Iron Ingot, Nugget & Golden Apples**
+:shiny: [Survival] Removed **Iron Gear** and **Iron Tools** from the drop table and added **Iron Ingot, Nugget, & Golden Apples**.
 
 **DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] Mobs will no longer reset back to full health after teleporting back
+:shiny: [Survival] Mobs will no longer reset back to full health after teleporting back.
 
 **TEXTURES**
-:shiny: [Textures] Updated **"/shop"** Interface *(Java Only)*
+:shiny: [Textures] Updated the **"/shop"** interface *(Java Only)*.
 
 **HUB REALM**
 :sdragon: [Lobby] Modified **Welcome Hologram**.
