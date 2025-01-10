@@ -57,7 +57,7 @@ youtube tag (freeby)
 :shiny: [Codex] 
 
 **TEXTURES**
-:shiny: [Textures] 
+:shiny: [Textures] Updated **"/shop"** Interface *(Java Only)*
 :shiny: [Bedrock] 
 
 **OPTIMIZATION**
