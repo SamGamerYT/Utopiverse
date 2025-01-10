@@ -14,11 +14,6 @@
 :shiny: [Survival] **[i]** Item Showcase is available to be purchased from the **Enchanter's Witch**
 :shiny: [Survival] Server Maintenance *(1/8/2025)*
 
-TO DO LIST:
-Fix Menders not working with chest shop
-tik tok tag (freeby)
-youtube tag (freeby)
-
 **BLACKSMITH**
 :shiny: [Survival] Removed **Fragment Trading** Interface from **Anvil Hammering Blacksmith**
 :shiny: [Survival] Merged **Fragment Trading** within **Aaron's Exchanging** Interface
@@ -29,14 +24,6 @@ youtube tag (freeby)
 :shiny: [Survival] Added **Warrior's Belt** at **"/warp tinkerer"**
 :shiny: [Survival] Added **Warrior's Ring** at **"/warp tinkerer"**
 :shiny: [Survival] Added **Warrior's Amulet** at **"/warp tinkerer"**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
-**DUNGEON**
-:shiny: [Survival]  
 
 **/SHOP**
 :shiny: [Survival] Added **Stairs Category** Under **Blocks Category** within **"/shop"**
@@ -44,26 +31,14 @@ youtube tag (freeby)
 **SPOODER LAIR**
 :shiny: [Survival] Heavily Buffed **Spooder Boss** loot drop.
 
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:shiny: [Survival] 
-
 **DUNGEON MINE CHANGES**
 :shiny: [Survival] Removed **Iron Gear** & **Iron Tools** from Droptable and Added **Iron Ingot, Nugget & Golden Apples**
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Mobs will no longer reset back to full health after teleporting back
 
-:shiny: [Codex] 
-
 **TEXTURES**
 :shiny: [Textures] Updated **"/shop"** Interface *(Java Only)*
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
 
 **HUB REALM**
 :sdragon: [Lobby] Modified **Welcome Hologram**.
@@ -72,60 +47,5 @@ youtube tag (freeby)
 :sdragon: [Lobby] Switched **Server Selector** realm join and go back buttons around *(Bedrock Only)*.
 :sdragon: [Lobby] Removed **Events** and **BlockParty** from the **Server Selector** *(Bedrock Only)*.
 :sdragon: [Lobby] Added **Minigames** that open up the **Minigames Interface** in the **Server Selector** *(Bedrock Only)*.
-:sdragon: [Lobby] 
-
-**NETWORK**
-:spaceheart1: [Network] 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(Whispy & _DrxR3fl3x_3)*
-**BUILD** *(_DrxR3fl3x_3)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
 
 **[@Changelogs]**
-
-
-**PROTECTION STONE**
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
