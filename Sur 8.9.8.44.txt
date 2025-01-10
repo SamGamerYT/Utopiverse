@@ -37,7 +37,9 @@ youtube tag (freeby)
 
 **DUNGEON**
 :shiny: [Survival]  
-:shiny: [Survival]  
+
+**/SHOP**
+:shiny: [Survival] Added **Stairs Category** Under **Blocks Category** within **"/shop"**
 
 **SPOODER LAIR**
 :shiny: [Survival] Heavily Buffed **Spooder Boss** loot drop.
