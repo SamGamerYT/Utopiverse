@@ -31,6 +31,8 @@ youtube tag (freeby)
 **CODEX**
 :shiny: [Survival] Updated System to allow future support of **1.21.3**
 :shiny: [Survival] Entire Playerdata has been reset related to **Codex**.
+:shiny: [Survival] Added **Discovered on** Date for each of the codex **Discovery**
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
