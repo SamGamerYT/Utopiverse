@@ -30,7 +30,6 @@ youtube tag (freeby)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
 
 **TINKERER**
 :shiny: [Survival] 
@@ -59,6 +58,9 @@ youtube tag (freeby)
 **OPTIMIZATION**
 :shiny: [Survival] 
 
+**BUILD** *(_RECON1stbat)*
+:shiny: [Survival] Modified **Spooder Zone**, Remodeled Boss Room and Adopted a more spacious environment.
+
 **HUB REALM**
 :sdragon: [Lobby] 
 
@@ -72,6 +74,7 @@ youtube tag (freeby)
 **BUILD**
 **BUILD** *(Whispy & _DrxR3fl3x_3)*
 **BUILD** *(_DrxR3fl3x_3)*
+**BUILD** *(_RECON1stbat)*
 
 **ARENA CHANGES**
 **UNDERGROUND ARENA CHANGES**
