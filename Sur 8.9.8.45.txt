@@ -12,7 +12,6 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
 
 TO DO LIST:
 Fix Menders not working with chest shop
@@ -39,6 +38,9 @@ youtube tag (freeby)
 :shiny: [Survival] Updated information about **Iron Titan** droptable in **Mine Dungeon Category**
 :shiny: [Survival] 
 :shiny: [Survival] 
+
+**DUNGEON MINE CHANGES**
+:shiny: [Survival] **Iron Titan** now have a higher chance to drop **Silver Coins**
 
 **TINKERER**
 :shiny: [Survival] 
