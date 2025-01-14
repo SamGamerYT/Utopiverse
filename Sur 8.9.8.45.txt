@@ -21,7 +21,6 @@ youtube tag (freeby)
 **BLACKSMITH**
 :shiny: [Survival] Fixed an issue where players weren't able to craft the **[I] Perk** from the witch.
 :shiny: [Survival] **Ruby, Onix, Kyanite & Jade** are now exchangeable for quick cash at **Aaron Blacksmith**.
-:shiny: [Survival] 
 :shiny: [Survival] **"/artifacts"** will now open up **Artifacts Interface**
 :shiny: [Survival] 
 :shiny: [Survival] 
