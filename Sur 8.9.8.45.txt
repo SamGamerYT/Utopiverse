@@ -35,6 +35,8 @@ youtube tag (freeby)
 :shiny: [Survival] Modified **Action Messages**, More Appealing for **Bedrock Players**
 :shiny: [Survival] **Zero Dungeon** will now properly display **Mine Dungeon** in **Codex**
 :shiny: [Survival] Added vague **Hints** for all mobs within **Codex**
+:shiny: [Survival] Updated Information about **Spoody the Spider** droptable in **Bosses Category**
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
