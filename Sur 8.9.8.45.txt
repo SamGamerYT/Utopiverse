@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.45** *(Network Changes)*
 :shiny: [Survival] Updated **Interface** to newer version that supports **1.21.3**
 :shiny: [Survival] Added **Additional 1x** Spawn Easter Egg and Dungeon Easter Egg
-:shiny: [Survival] 
+:shiny: [Survival] **Nether**, **The End** and Resource world has been reset.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
