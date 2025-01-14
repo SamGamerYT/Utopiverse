@@ -16,7 +16,7 @@
 :grass: 
 
 **ONEBLOCK 2.0 PREPARATION**
-:grass: 
+:grass: **"/artifacts"** will now open up **Artifacts Interface**
 :grass: 
 :grass: 
 
