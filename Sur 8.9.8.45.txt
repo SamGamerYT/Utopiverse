@@ -32,7 +32,7 @@ youtube tag (freeby)
 :shiny: [Survival] Updated System to allow future support of **1.21.3**
 :shiny: [Survival] Entire Playerdata has been reset related to **Codex**.
 :shiny: [Survival] Added **Discovered on** Date for each of the codex **Discovery**
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Action Messages**, More Appealing for **Bedrock Players**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
