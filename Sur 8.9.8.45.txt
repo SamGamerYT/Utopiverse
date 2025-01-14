@@ -3,7 +3,7 @@
 :shiny: [Survival] Added **Additional 1x** Spawn Easter Egg and Dungeon Easter Egg
 :shiny: [Survival] **Nether**, **The End** and Resource world has been reset.
 :shiny: [Survival] **Easter Eggs** messages and formatting has been modified to keep up with server changes.
-:shiny: [Survival] 
+:shiny: [Survival] Removed deprecated **Medal Trader** Interface
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
