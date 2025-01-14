@@ -34,7 +34,7 @@ youtube tag (freeby)
 :shiny: [Survival] Added **Discovered on** Date for each of the codex **Discovery**
 :shiny: [Survival] Modified **Action Messages**, More Appealing for **Bedrock Players**
 :shiny: [Survival] **Zero Dungeon** will now properly display **Mine Dungeon** in **Codex**
-:shiny: [Survival] 
+:shiny: [Survival] Added vague **Hints** for all mobs within **Codex**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
