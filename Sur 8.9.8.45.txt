@@ -36,7 +36,7 @@ youtube tag (freeby)
 :shiny: [Survival] **Zero Dungeon** will now properly display **Mine Dungeon** in **Codex**
 :shiny: [Survival] Added vague **Hints** for all mobs within **Codex**
 :shiny: [Survival] Updated Information about **Spoody the Spider** droptable in **Bosses Category**
-:shiny: [Survival] 
+:shiny: [Survival] Updated information about **Iron Titan** droptable in **Mine Dungeon Category**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
