@@ -33,6 +33,8 @@ youtube tag (freeby)
 :shiny: [Survival] Entire Playerdata has been reset related to **Codex**.
 :shiny: [Survival] Added **Discovered on** Date for each of the codex **Discovery**
 :shiny: [Survival] Modified **Action Messages**, More Appealing for **Bedrock Players**
+:shiny: [Survival] **Zero Dungeon** will now properly display **Mine Dungeon** in **Codex**
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
