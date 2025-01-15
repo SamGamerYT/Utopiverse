@@ -13,7 +13,7 @@
 :grass: 
 :grass: 
 :grass: 
-:grass: 
+:grass: We are now supporting version **1.21.4**
 
 **ONEBLOCK 2.0 PREPARATION**
 :grass: **"/artifacts"** will now open up **Artifacts Interface**
