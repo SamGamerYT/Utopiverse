@@ -60,7 +60,6 @@ youtube tag (freeby)
 **WEBSITE**
 :shiny: [Survival] 
 
-
 **TEXTURES**
 :shiny: [Textures]
 :shiny: [Bedrock] 
@@ -72,7 +71,7 @@ youtube tag (freeby)
 :shiny: [Survival] Modified **Spooder Zone**, Remodeled Boss Room and Adopted a more spacious environment.
 
 **HUB REALM**
-:sdragon: [Lobby] 
+:sdragon: [Lobby] We are now supporting version **1.21.4**
 
 **NETWORK**
 :spaceheart1: [Network] 
