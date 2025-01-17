@@ -36,6 +36,8 @@ youtube tag (freeby)
 :shiny: [Survival] Added vague **Hints** for all mobs within the **Codex**.
 :shiny: [Survival] Updated information about **Spoody the Spider** droptable in the **Bosses Category**.
 :shiny: [Survival] Updated information about **Iron Titan** droptable in the **Mine Dungeon Category**.
+:shiny: [Survival] Added **Underground Arena** Codex Category.
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
