@@ -21,21 +21,21 @@ youtube tag (freeby)
 **BLACKSMITH**
 :shiny: [Survival] Fixed an issue where players weren't able to craft the **[I] Perk** from the witch.
 :shiny: [Survival] **Ruby, Onix, Kyanite & Jade** are now exchangeable for quick cash at **Aaron Blacksmith**.
-:shiny: [Survival] **"/artifacts"** will now open up **Artifacts Interface**
+:shiny: [Survival] **"/artifacts"** will now open up the **Artifacts Interface**.
 :shiny: [Survival] Fixed **Warrior Belt** required loot error.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
 **CODEX**
-:shiny: [Survival] Updated System to allow future support of **1.21.3**
-:shiny: [Survival] Entire Playerdata has been reset related to **Codex**.
-:shiny: [Survival] Added **Discovered on** Date for each of the codex **Discovery**
-:shiny: [Survival] Modified **Action Messages**, More Appealing for **Bedrock Players**
-:shiny: [Survival] **Zero Dungeon** will now properly display **Mine Dungeon** in **Codex**
-:shiny: [Survival] Added vague **Hints** for all mobs within **Codex**
-:shiny: [Survival] Updated Information about **Spoody the Spider** droptable in **Bosses Category**
-:shiny: [Survival] Updated information about **Iron Titan** droptable in **Mine Dungeon Category**
+:shiny: [Survival] Updated the system to allow future support for **1.21.3**.
+:shiny: [Survival] Entire player data related to **Codex** has been reset.
+:shiny: [Survival] Added **Discovered on** date for each codex **Discovery**.
+:shiny: [Survival] Modified **Action Messages** to be more appealing for **Bedrock Players**.
+:shiny: [Survival] **Zero Dungeon** will now properly display as **Mine Dungeon** in the **Codex**.
+:shiny: [Survival] Added vague **Hints** for all mobs within the **Codex**.
+:shiny: [Survival] Updated information about **Spoody the Spider** droptable in the **Bosses Category**.
+:shiny: [Survival] Updated information about **Iron Titan** droptable in the **Mine Dungeon Category**.
 :shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
