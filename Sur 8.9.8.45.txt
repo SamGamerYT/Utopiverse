@@ -37,10 +37,12 @@ youtube tag (freeby)
 :shiny: [Survival] Updated Information about **Spoody the Spider** droptable in **Bosses Category**
 :shiny: [Survival] Updated information about **Iron Titan** droptable in **Mine Dungeon Category**
 :shiny: [Survival] 
-:shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
 :shiny: [Survival] **Iron Titan** now have a higher chance to drop **Silver Coins**
+
+**DUNGEON WASTELAND CHANGES**
+:shiny: [Survival] **Minotaur Boss** model has been modified, New Scarier and Dangerous variant is now out for blood.
 
 **TINKERER**
 :shiny: [Survival] 
