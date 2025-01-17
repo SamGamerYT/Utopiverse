@@ -37,7 +37,7 @@ youtube tag (freeby)
 :shiny: [Survival] Updated information about **Spoody the Spider** droptable in the **Bosses Category**.
 :shiny: [Survival] Updated information about **Iron Titan** droptable in the **Mine Dungeon Category**.
 :shiny: [Survival] Added **Underground Arena** Codex Category.
-:shiny: [Survival] 
+:shiny: [Survival] Improved **Regions** Codex Category, You can now use it as a **Warp Menu** as well! *(Helped by @idiomaticsss)
 :shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
