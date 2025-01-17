@@ -39,10 +39,10 @@ youtube tag (freeby)
 :shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
-:shiny: [Survival] **Iron Titan** now have a higher chance to drop **Silver Coins**
+:shiny: [Survival] **Iron Titan** now has a higher chance to drop **Silver Coins**.
 
 **DUNGEON WASTELAND CHANGES**
-:shiny: [Survival] **Minotaur Boss** model has been modified, New Scarier and Dangerous variant is now out for blood.
+:shiny: [Survival] **Minotaur Boss** model has been modified; a new scarier and more dangerous variant is now out for blood.
 
 **TINKERER**
 :shiny: [Survival] 
