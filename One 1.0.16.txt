@@ -2,7 +2,7 @@
 :grass: Fixed **"/pets"** command not working properly.
 :grass: Fixed **Typo** in **Mass Opener** at **"/warp crates"**
 :grass: Increased **Furniture** view distance from **12** to **24**
-:grass: Added **Dungeon Boss** respawn timer right outside **Coal Mine** entrance.
+:grass: Added **Dungeon Boss** respawn timer right outside **Coal Mine** entrance. *(Helped by @idiomaticsss)*
 :grass: 
 :grass: 
 :grass: 
