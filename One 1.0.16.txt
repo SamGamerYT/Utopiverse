@@ -2,7 +2,7 @@
 :grass: Fixed **"/pets"** command not working properly.
 :grass: Fixed **Typo** in **Mass Opener** at **"/warp crates"**
 :grass: Increased **Furniture** view distance from **12** to **24**
-:grass: 
+:grass: Added **Dungeon Boss** respawn timer right outside **Coal Mine** entrance.
 :grass: 
 :grass: 
 :grass: 
@@ -17,6 +17,9 @@
 
 **ONEBLOCK 2.0 PREPARATION**
 :grass: **"/artifacts"** will now open up **Artifacts Interface**
+:grass: 
+:grass: 
+:grass: 
 :grass: 
 :grass: 
 
