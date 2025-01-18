@@ -4,7 +4,7 @@
 :grass: Increased **Furniture** view distance from **12** to **24**
 :grass: Added **Dungeon Boss** respawn timer right outside **Coal Mine** entrance. *(Helped by @idiomaticsss)*
 :grass: Modified mob's **Money Drop** message to match survival's style.
-:grass: 
+:grass: Added **Team Information** hologram near **"/spawn"**  *(Created by @idiomaticsss)*
 :grass: 
 :grass: 
 :grass: 
