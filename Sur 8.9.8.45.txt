@@ -46,5 +46,6 @@
 
 **NETWORK**
 :spaceheart1: [Network] Updated **Interface Pack** v6.0.2
+:spaceheart1: [Network] Fixed **Custom Mobs** showing **Black Particles**.
 
 **[@Changelogs]**
