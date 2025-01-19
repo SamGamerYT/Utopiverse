@@ -6,25 +6,16 @@
 :shiny: [Survival] Removed the deprecated **Medal Trader** interface.
 :shiny: [Survival] Heavily increased **Void Damage** to allow players to die quicker.
 :shiny: [Survival] Fixed **Kane Trader** displaying a checkmark on requirements even when players didn’t fulfill them.
-:shiny: [Survival] Added **Dungeon Lootbox 2.0**, New Variant with better loot and better fillings.
-:shiny: [Survival] We are now supporting version **1.21.4**
-:shiny: [Survival] Dependencies Updated *(1/19/2025)*
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Dungeon Lootbox 2.0**, a new variant with better loot and improved fillings.
+:shiny: [Survival] Now supporting version **1.21.4**.
+:shiny: [Survival] Dependencies updated *(1/19/2025)*.
 
-TO DO LIST:
-Fix Menders not working with chest shop
-tik tok tag (freeby)
-youtube tag (freeby)
 
 **BLACKSMITH**
 :shiny: [Survival] Fixed an issue where players weren't able to craft the **[I] Perk** from the witch.
 :shiny: [Survival] **Ruby, Onix, Kyanite & Jade** are now exchangeable for quick cash at **Aaron Blacksmith**.
 :shiny: [Survival] **"/artifacts"** will now open up the **Artifacts Interface**.
 :shiny: [Survival] Fixed **Warrior Belt** required loot error.
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **CODEX**
 :shiny: [Survival] Updated the system to allow future support for **1.21.3**.
@@ -37,15 +28,12 @@ youtube tag (freeby)
 :shiny: [Survival] Updated information about **Iron Titan** droptable in the **Mine Dungeon Category**.
 :shiny: [Survival] Added **Underground Arena** Codex Category.
 :shiny: [Survival] Improved **Regions** Codex Category, You can now use it as a **Warp Menu** as well! *(Helped by @idiomaticsss)*
-:shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
 :shiny: [Survival] **Iron Titan** now has a higher chance to drop **Silver Coins**.
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] **Frost Dungeon** is now **Level 15-40** from **10-30**
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **DUNGEON WASTELAND CHANGES**
 :shiny: [Survival] **Minotaur Boss** model has been modified; a new scarier and more dangerous variant is now out for blood.
@@ -84,6 +72,13 @@ youtube tag (freeby)
 **NETWORK**
 :spaceheart1: [Network] 
 
+**[@Changelogs]**
+
+TO DO LIST:
+Fix Menders not working with chest shop
+tik tok tag (freeby)
+youtube tag (freeby)
+
 **WEBSTORE**
 **DUNGEON DROPTABLE**
 **FISHING**
@@ -97,9 +92,6 @@ youtube tag (freeby)
 **UNDERGROUND ARENA CHANGES**
 **RPG LEVEL CHANGES**
 **AUTO RESPONSE**
-
-**[@Changelogs]**
-
 
 **PROTECTION STONE**
 *(Special Thanks to _WhispyW)*
