@@ -6,12 +6,12 @@
 :shiny: [Survival] Removed the deprecated **Medal Trader** interface.
 :shiny: [Survival] Heavily increased **Void Damage** to allow players to die quicker.
 :shiny: [Survival] Fixed **Kane Trader** displaying a checkmark on requirements even when players didn’t fulfill them.
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Dungeon Lootbox 2.0**, New Variant with better loot and better fillings.
 :shiny: [Survival] We are now supporting version **1.21.4**
+:shiny: [Survival] Dependencies Updated *(1/19/2025)*
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 TO DO LIST:
 Fix Menders not working with chest shop
