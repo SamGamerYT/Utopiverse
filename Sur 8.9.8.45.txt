@@ -10,12 +10,11 @@
 :shiny: [Survival] Now supporting version **1.21.4**.
 :shiny: [Survival] Dependencies updated *(1/19/2025)*.
 
-
 **BLACKSMITH**
 :shiny: [Survival] Fixed an issue where players weren't able to craft the **[I] Perk** from the witch.
 :shiny: [Survival] **Ruby, Onix, Kyanite & Jade** are now exchangeable for quick cash at **Aaron Blacksmith**.
 :shiny: [Survival] **"/artifacts"** will now open up the **Artifacts Interface**.
-:shiny: [Survival] Fixed **Warrior Belt** required loot error.
+:shiny: [Survival] Fixed the **Warrior Belt** required loot error.
 
 **CODEX**
 :shiny: [Survival] Updated the system to allow future support for **1.21.3**.
@@ -27,13 +26,13 @@
 :shiny: [Survival] Updated information about **Spoody the Spider** droptable in the **Bosses Category**.
 :shiny: [Survival] Updated information about **Iron Titan** droptable in the **Mine Dungeon Category**.
 :shiny: [Survival] Added **Underground Arena** Codex Category.
-:shiny: [Survival] Improved **Regions** Codex Category, You can now use it as a **Warp Menu** as well! *(Helped by @idiomaticsss)*
+:shiny: [Survival] Improved the **Regions** Codex Category; you can now use it as a **Warp Menu** as well! *(Helped by @idiomaticsss)*.
 
 **DUNGEON MINE CHANGES**
 :shiny: [Survival] **Iron Titan** now has a higher chance to drop **Silver Coins**.
 
 **DUNGEON FROST CHANGES**
-:shiny: [Survival] **Frost Dungeon** is now **Level 15-40** from **10-30**
+:shiny: [Survival] **Frost Dungeon** level range has been adjusted to **15-40** from **10-30**.
 
 **DUNGEON WASTELAND CHANGES**
 :shiny: [Survival] **Minotaur Boss** model has been modified; a new scarier and more dangerous variant is now out for blood.
