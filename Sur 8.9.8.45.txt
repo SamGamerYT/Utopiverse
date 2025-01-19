@@ -25,7 +25,6 @@ youtube tag (freeby)
 :shiny: [Survival] Fixed **Warrior Belt** required loot error.
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
 
 **CODEX**
 :shiny: [Survival] Updated the system to allow future support for **1.21.3**.
@@ -42,6 +41,11 @@ youtube tag (freeby)
 
 **DUNGEON MINE CHANGES**
 :shiny: [Survival] **Iron Titan** now has a higher chance to drop **Silver Coins**.
+
+**DUNGEON FROST CHANGES**
+:shiny: [Survival] **Frost Dungeon** is now **Level 15-40** from **10-30**
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 **DUNGEON WASTELAND CHANGES**
 :shiny: [Survival] **Minotaur Boss** model has been modified; a new scarier and more dangerous variant is now out for blood.
