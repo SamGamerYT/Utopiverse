@@ -63,7 +63,8 @@
 :shiny: [Survival] 
 
 **BUILD** *(_RECON1stbat)*
-:shiny: [Survival] Modified **Spooder Zone**, Remodeled Boss Room and Adopted a more spacious environment.
+:shiny: [Survival] Modified **Spooder Zone**; remodeled the Boss Room and adopted a more spacious environment.
+:shiny: [Survival] Added a new Boss Zone within the **Frost Dungeon**.
 
 **HUB REALM**
 :sdragon: [Lobby] We are now supporting version **1.21.4**
