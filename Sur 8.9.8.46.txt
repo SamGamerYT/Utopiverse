@@ -15,8 +15,14 @@ Fix Menders not working with chest shop
 tik tok tag (freeby)
 youtube tag (freeby)
 
+**ARENA CHANGES**
+:shiny: [Survival] Added **Frozen Ghoul's Blade** to the **Arena Trader** NPC, a new experimental Hypogeum weapon.
+:shiny: [Survival] 
+:shiny: [Survival] 
+
 **BLACKSMITH**
-:shiny: [Survival] **Legendary Rarity Sword's** will have Durability of **2560** instead of **512**
+:shiny: [Survival] **Legendary Rarity Swords** will now have a durability of **2560** instead of **512**.
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **CODEX**
