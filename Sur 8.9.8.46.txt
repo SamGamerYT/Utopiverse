@@ -16,6 +16,7 @@ tik tok tag (freeby)
 youtube tag (freeby)
 
 **BLACKSMITH**
+:shiny: [Survival] **Legendary Rarity Sword's** will have Durability of **2560** instead of **512**
 :shiny: [Survival] 
 
 **CODEX**
