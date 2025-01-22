@@ -21,6 +21,7 @@ youtube tag (freeby)
 :shiny: [Survival] 
 :shiny: [Hypogeum Arena] Disabled Money drop from **Majority** of Mobs
 :shiny: [Hypogeum Arena] Disabled EXP & Droptable bug from **Inferno Devil**
+:shiny: [Hypogeum Arena] Fixed **Arena Mobs** showing the wrong **Default HP** to Wave Mobs
 :shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
