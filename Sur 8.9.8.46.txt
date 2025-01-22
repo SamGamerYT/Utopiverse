@@ -19,6 +19,8 @@ youtube tag (freeby)
 :shiny: [Survival] Added **Frozen Ghoul's Blade** to the **Arena Trader** NPC, a new experimental Hypogeum weapon.
 :shiny: [Survival] 
 :shiny: [Survival] 
+:shiny: [Hypogeum Arena] Disabled Money drop from **Majority** of Mobs
+:shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
 :shiny: [Survival] **Legendary Rarity Swords** will now have a durability of **2560** instead of **512**.
@@ -93,6 +95,7 @@ youtube tag (freeby)
 :shiny: [Discord] 
 :shiny: [Bedrock]
 :shiny: [Christmas] 
+:shiny: [Hypogeum Arena]
 :shiny: [Underground Arena]
 :Sparkles: [Store]
 
