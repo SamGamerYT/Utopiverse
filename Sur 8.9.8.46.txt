@@ -20,6 +20,7 @@ youtube tag (freeby)
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Hypogeum Arena] Disabled Money drop from **Majority** of Mobs
+:shiny: [Hypogeum Arena] Disabled EXP & Droptable bug from **Inferno Devil**
 :shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
