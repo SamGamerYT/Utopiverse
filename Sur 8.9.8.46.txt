@@ -29,7 +29,7 @@ youtube tag (freeby)
 :shiny: [Survival] 
 
 **CODEX**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Hypogeum Category** in **"/codex"**
 
 **TINKERER**
 :shiny: [Survival] 
