@@ -15,7 +15,7 @@ youtube tag (freeby)
 
 **MESSAGES**
 :shiny: [Survival] Added all new mobs compatibility to **Death Messages**
-:shiny: [Survival] 
+:shiny: [Survival] Connected **Death Messages** to **Global Discord Channel** properly.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
