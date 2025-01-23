@@ -6,7 +6,6 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
 
 TO DO LIST:
 Fix Menders not working with chest shop
@@ -32,6 +31,7 @@ youtube tag (freeby)
 **BLACKSMITH**
 :shiny: [Survival] **Legendary Rarity Swords** will now have a durability of **2560** instead of **512**.
 :shiny: [Survival] Added **Five** rentable properties at **"/blacksmith"** that players can rent & make a stall!
+:shiny: [Survival] Removed **Bombs** recipes from **The Witch** Trader in **Scrolls Category** 
 :shiny: [Survival] 
 
 **CODEX**
