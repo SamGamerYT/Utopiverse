@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.8.46** *(Network Changes)*
-:shiny: [Survival] 
+:shiny: [Survival] Heavily Increased **Void Damage** to avoid players getting stuck in Void.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
