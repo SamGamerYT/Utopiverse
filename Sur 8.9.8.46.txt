@@ -31,7 +31,7 @@ youtube tag (freeby)
 
 **BLACKSMITH**
 :shiny: [Survival] **Legendary Rarity Swords** will now have a durability of **2560** instead of **512**.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Five** rentable properties at **"/blacksmith"** that players can rent & make a stall!
 :shiny: [Survival] 
 
 **CODEX**
