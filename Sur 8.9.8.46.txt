@@ -7,13 +7,18 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 TO DO LIST:
 Fix Menders not working with chest shop
 tik tok tag (freeby)
 youtube tag (freeby)
+
+**MESSAGES**
+:shiny: [Survival] Added all new mobs compatibility to **Death Messages**
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 **ARENA CHANGES**
 :shiny: [Survival] Added **Frozen Ghoul's Blade** to the **Arena Trader** NPC, a new experimental Hypogeum weapon.
