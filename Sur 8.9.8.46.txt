@@ -32,6 +32,8 @@ youtube tag (freeby)
 :shiny: [Survival] **Legendary Rarity Swords** will now have a durability of **2560** instead of **512**.
 :shiny: [Survival] Added **Five** rentable properties at **"/blacksmith"** that players can rent & make a stall!
 :shiny: [Survival] Removed **Bombs** recipes from **The Witch** Trader in **Scrolls Category** 
+:shiny: [Survival] Added **Collectible Furniture #1 Scroll** recipe in **The Witch** trader within **Scrolls Category** 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **CODEX**
