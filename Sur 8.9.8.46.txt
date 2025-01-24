@@ -43,7 +43,7 @@ youtube tag (freeby)
 :shiny: [Survival] 
 
 **DUNGEON**
-:shiny: [Survival] Added **Top Souls Leaderboard** near **"/warp dungeons"**
+:shiny: [Survival] Added **Top Souls Leaderboard** near **"/warp dungeons"**.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
