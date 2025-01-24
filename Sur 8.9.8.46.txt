@@ -44,7 +44,7 @@ youtube tag (freeby)
 
 **DUNGEON**
 :shiny: [Survival] Added **Top Souls Leaderboard** near **"/warp dungeons"**.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Rootstone** as a soul to **Dragon Beast** Boss.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
