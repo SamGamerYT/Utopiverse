@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.46** *(Network Changes)*
 :shiny: [Survival] Heavily Increased **Void Damage** to avoid players getting stuck in Void.
 :shiny: [Survival] Fixed **"/help"** not opening **Warps Interface**.
-:shiny: [Survival] 
+:shiny: [Survival] Heavily Optimized **"/help"** armour display system.
 :shiny: [Survival] **Assistance** messages spamming whenever someone spams the question.
 :shiny: [Survival] 
 :shiny: [Survival] 
