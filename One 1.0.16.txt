@@ -8,7 +8,7 @@
 :grass: Fixed **Death Messages** spam whenever you killed a normal mob
 :grass: Fixed **Assistance** messages spamming whenever someone spams the question.
 :grass: Removed **"/warp boss"** and **"/warp boss2"** for the revamp.
-:grass: 
+:grass: Fixed **Admin Role** being displayed lower than **Members**
 :grass: 
 :grass: 
 :grass: 
