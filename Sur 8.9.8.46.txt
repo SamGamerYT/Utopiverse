@@ -2,6 +2,7 @@
 :shiny: [Survival] Heavily Increased **Void Damage** to avoid players getting stuck in Void.
 :shiny: [Survival] Fixed **"/help"** not opening **Warps Interface**.
 :shiny: [Survival] 
+:shiny: [Survival] **Assistance** messages spamming whenever someone spams the question.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
