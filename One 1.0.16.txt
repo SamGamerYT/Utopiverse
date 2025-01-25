@@ -6,7 +6,7 @@
 :grass: Modified mob's **Money Drop** message to match survival's style.
 :grass: Added **Team Information** hologram near **"/spawn"**  *(Created by @idiomaticsss)*
 :grass: Fixed **Death Messages** spam whenever you killed a normal mob
-:grass: 
+:grass: Fixed **Assistance** messages spamming whenever someone spams the question.
 :grass: 
 :grass: 
 :grass: 
