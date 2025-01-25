@@ -9,6 +9,7 @@
 :grass: Fixed **Assistance** messages spamming whenever someone spams the question.
 :grass: Removed **"/warp boss"** and **"/warp boss2"** for the revamp.
 :grass: Fixed **Admin Role** being displayed lower than **Members**
+:grass: Heavily Optimized **"/help"** armour display system.
 :grass: 
 :grass: 
 :grass: 
