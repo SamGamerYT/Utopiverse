@@ -1,15 +1,15 @@
 **Patch/Changes 1.0.16** *[Oneblock]*
 :grass: Fixed **"/pets"** command not working properly.
-:grass: Fixed **Typo** in **Mass Opener** at **"/warp crates"**
-:grass: Increased **Furniture** view distance from **12** to **24**
-:grass: Added **Dungeon Boss** respawn timer right outside **Coal Mine** entrance. *(Helped by @idiomaticsss)*
-:grass: Modified mob's **Money Drop** message to match survival's style.
-:grass: Added **Team Information** hologram near **"/spawn"**  *(Created by @idiomaticsss)*
-:grass: Fixed **Death Messages** spam whenever you killed a normal mob
-:grass: Fixed **Assistance** messages spamming whenever someone spams the question.
+:grass: Fixed a **Typo** in the **Mass Opener** at **"/warp crates"**.
+:grass: Increased **Furniture** view distance from **12** to **24**.
+:grass: Added **Dungeon Boss** respawn timer right outside the **Coal Mine** entrance. *(Helped by @idiomaticsss)*.
+:grass: Modified mobs' **Money Drop** message to match Survival's style.
+:grass: Added a **Team Information** hologram near **"/spawn"** *(Created by @idiomaticsss)*.
+:grass: Fixed **Death Messages** spam whenever you killed a normal mob.
+:grass: Fixed **Assistance** messages spamming whenever someone repeatedly asked the same question.
 :grass: Removed **"/warp boss"** and **"/warp boss2"** for the revamp.
-:grass: Fixed **Admin Role** being displayed lower than **Members**
-:grass: Heavily Optimized **"/help"** armour display system.
+:grass: Fixed **Admin Role** being displayed lower than **Members**.
+:grass: Heavily optimized the **"/help"** armor display system.
 :grass: 
 :grass: 
 :grass: 
