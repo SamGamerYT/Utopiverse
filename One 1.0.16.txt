@@ -5,7 +5,7 @@
 :grass: Added **Dungeon Boss** respawn timer right outside **Coal Mine** entrance. *(Helped by @idiomaticsss)*
 :grass: Modified mob's **Money Drop** message to match survival's style.
 :grass: Added **Team Information** hologram near **"/spawn"**  *(Created by @idiomaticsss)*
-:grass: 
+:grass: Fixed **Death Messages** spam whenever you killed a normal mob
 :grass: 
 :grass: 
 :grass: 
