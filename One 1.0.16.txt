@@ -7,7 +7,7 @@
 :grass: Added **Team Information** hologram near **"/spawn"**  *(Created by @idiomaticsss)*
 :grass: Fixed **Death Messages** spam whenever you killed a normal mob
 :grass: Fixed **Assistance** messages spamming whenever someone spams the question.
-:grass: 
+:grass: Removed **"/warp boss"** and **"/warp boss2"** for the revamp.
 :grass: 
 :grass: 
 :grass: 
