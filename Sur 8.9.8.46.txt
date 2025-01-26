@@ -47,7 +47,15 @@ youtube tag (freeby)
 :shiny: [Survival] Added **Top Souls Leaderboard** near **"/warp dungeons"**.
 :shiny: [Survival] Added **Rootstone** as a soul to **Dragon Beast** Boss.
 :shiny: [Survival] 
+
+**DUNGEON FROST CHANGES**
+:shiny: [Survival] **Introducing** a new boss called **Arctic Sentinel** that is summonable at the altar
+:shiny: [Survival] Added **Arctic Sentinel Hologram** at the boss room entrance. *(Created by @idiomaticsss)*.
+:shiny: [Survival] Modified **Yeti Boss Hologram** at the boss room entrance *(Helped by @idiomaticsss)*.
 :shiny: [Survival] 
+
+**DUNGEON VOLCANO CHANGES**
+:shiny: [Survival] Fixed a lot of **"Cheat Spots** around the **Boss Zone**
 
 **/SHOP**
 :shiny: [Survival] 
