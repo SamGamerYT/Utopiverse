@@ -4,7 +4,7 @@
 :shiny: [Survival] Heavily Optimized **"/help"** armour display system.
 :shiny: [Survival] **Assistance** messages spamming whenever someone spams the question.
 :shiny: [Survival] Added **Rootstone Souls** in **Mine Dungeon** Boss Hologram.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Shield Duplication** glitch on **Emerald Set Bonus**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
