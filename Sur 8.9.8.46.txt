@@ -3,7 +3,7 @@
 :shiny: [Survival] Fixed **"/help"** not opening **Warps Interface**.
 :shiny: [Survival] Heavily Optimized **"/help"** armour display system.
 :shiny: [Survival] **Assistance** messages spamming whenever someone spams the question.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Rootstone Souls** in **Mine Dungeon** Boss Hologram.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
