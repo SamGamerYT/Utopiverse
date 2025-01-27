@@ -22,23 +22,22 @@ youtube tag (freeby)
 
 **ARENA CHANGES**
 :shiny: [Survival] Added **Frozen Ghoul's Blade** to the **Arena Trader** NPC, a new experimental Hypogeum weapon.
-:shiny: [Survival] Added **Skeleton Statue** Display with **Information Hologram**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] Disabled Money drop from **Majority** of Mobs
-:shiny: [Hypogeum Arena] Disabled EXP & Droptable bug from **Magma Demon**
-:shiny: [Hypogeum Arena] Fixed **Arena Mobs** showing the wrong **Default HP** to Wave Mobs
-:shiny: [Hypogeum Arena] 
+:shiny: [Survival] Added **Skeleton Statue** display with an **Information Hologram**.
+:shiny: [Hypogeum Arena] Disabled money drops from the **Majority** of mobs.
+:shiny: [Hypogeum Arena] Disabled EXP & droptable bug from the **Magma Demon**.
+:shiny: [Hypogeum Arena] Fixed **Arena Mobs** showing the wrong **Default HP** for wave mobs.
 
 **BLACKSMITH**
 :shiny: [Survival] **Legendary Rarity Swords** will now have a durability of **2560** instead of **512**.
-:shiny: [Survival] Added **Five** rentable properties at **"/blacksmith"** that players can rent & make a stall!
-:shiny: [Survival] Removed **Bombs** recipes from **The Witch** Trader in **Scrolls Category** 
-:shiny: [Survival] Added **Collectible Furniture #1 Scroll** recipe in **The Witch** trader within **Scrolls Category** 
+:shiny: [Survival] Added **Five** rentable properties at **"/blacksmith"** that players can rent and set up a stall.
+:shiny: [Survival] Removed **Bombs** recipes from **The Witch** trader in the **Scrolls Category**.
+:shiny: [Survival] Added **Collectible Furniture #1 Scroll** recipe to **The Witch** trader within the **Scrolls Category**.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
 **CODEX**
-:shiny: [Survival] Added **Hypogeum Category** in **"/codex"**
+:shiny: [Survival] Added **Hypogeum Category** to **"/codex"**.
+:shiny: [Survival] Fixed **Minotaur** not registering in the **Wasteland Codex**.
 
 **TINKERER**
 :shiny: [Survival] 
