@@ -8,11 +8,6 @@
 :shiny: [Survival] Added **Frostbinder Staff** to the **Exotic Crate**.
 :shiny: [Survival] 
 
-TO DO LIST:
-Fix Menders not working with chest shop
-tik tok tag (freeby)
-youtube tag (freeby)
-
 **MESSAGES**
 :shiny: [Survival] Added compatibility for all new mobs to **Death Messages**.
 :shiny: [Survival] Connected **Death Messages** properly to the **Global Discord Channel**.
@@ -42,13 +37,12 @@ youtube tag (freeby)
 **DUNGEON**
 :shiny: [Survival] Added **Top Souls Leaderboard** near **"/warp dungeons"**.
 :shiny: [Survival] Added **Rootstone** as a soul to **Dragon Beast** Boss.
-:shiny: [Survival] 
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] **Introducing** a new boss called **Arctic Sentinel** that is summonable at the altar
 :shiny: [Survival] Added **Arctic Sentinel Hologram** at the boss room entrance. *(Created by @idiomaticsss)*.
 :shiny: [Survival] Modified **Yeti Boss Hologram** at the boss room entrance *(Helped by @idiomaticsss)*.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Frostbinder Staff**, **Frostbinder's Left Click & Right Click** Abilities' stones recipes at **Arctic Altar**.
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Fixed several **"Cheat Spots"** around the **Boss Zone**.
@@ -82,6 +76,11 @@ youtube tag (freeby)
 :spaceheart1: [Network] 
 
 **[@Changelogs]**
+
+TO DO LIST:
+Fix Menders not working with chest shop
+tik tok tag (freeby)
+youtube tag (freeby)
 
 **WEBSTORE**
 **DUNGEON DROPTABLE**
