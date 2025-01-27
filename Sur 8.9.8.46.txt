@@ -6,7 +6,6 @@
 :shiny: [Survival] Added **Rootstone Souls** to the **Mine Dungeon** Boss Hologram.
 :shiny: [Survival] Fixed **Shield Duplication** glitch with the **Emerald Set Bonus**.
 :shiny: [Survival] Added **Frostbinder Staff** to the **Exotic Crate**.
-:shiny: [Survival] 
 
 **MESSAGES**
 :shiny: [Survival] Added compatibility for all new mobs to **Death Messages**.
