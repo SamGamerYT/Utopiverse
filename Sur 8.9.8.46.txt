@@ -24,15 +24,10 @@
 :shiny: [Survival] Added **Five** rentable properties at **"/blacksmith"** that players can rent and set up a stall.
 :shiny: [Survival] Removed **Bombs** recipes from **The Witch** trader in the **Scrolls Category**.
 :shiny: [Survival] Added **Collectible Furniture #1 Scroll** recipe to **The Witch** trader within the **Scrolls Category**.
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **CODEX**
 :shiny: [Survival] Added **Hypogeum Category** to **"/codex"**.
 :shiny: [Survival] Fixed **Minotaur** not registering in the **Wasteland Codex**.
-
-**TINKERER**
-:shiny: [Survival] 
 
 **DUNGEON**
 :shiny: [Survival] Added **Top Souls Leaderboard** near **"/warp dungeons"**.
@@ -47,89 +42,7 @@
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Fixed several **"Cheat Spots"** around the **Boss Zone**.
 
-**/SHOP**
-:shiny: [Survival] 
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
 **WEBSITE**
 :xmas_Snowflake: [Website] Updated https://docs.utopiverse.net/main/art, More detailed information.
 
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**BUILD** *(_RECON1stbat)*
-:shiny: [Survival] 
-
-**HUB REALM**
-:sdragon: [Lobby] 
-
-**NETWORK**
-:spaceheart1: [Network] 
-
 **[@Changelogs]**
-
-TO DO LIST:
-Fix Menders not working with chest shop
-tik tok tag (freeby)
-youtube tag (freeby)
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(Whispy & _DrxR3fl3x_3)*
-**BUILD** *(_DrxR3fl3x_3)*
-**BUILD** *(_RECON1stbat)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
