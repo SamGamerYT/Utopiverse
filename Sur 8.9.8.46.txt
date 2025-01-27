@@ -51,7 +51,7 @@ youtube tag (freeby)
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] Fixed a lot of **"Cheat Spots** around the **Boss Zone**
+:shiny: [Survival] Fixed several **"Cheat Spots"** around the **Boss Zone**.
 
 **/SHOP**
 :shiny: [Survival] 
@@ -64,7 +64,6 @@ youtube tag (freeby)
 
 **WEBSITE**
 :xmas_Snowflake: [Website] Updated https://docs.utopiverse.net/main/art, More detailed information.
-:xmas_Snowflake: [Website] 
 
 **TEXTURES**
 :shiny: [Textures]
