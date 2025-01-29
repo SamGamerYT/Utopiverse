@@ -38,7 +38,7 @@
 :shiny: [Survival] Nerfed **Cactus** sell price from **$4** to **$0.5**
 :shiny: [Survival] Nerfed **Brown Mushroom** sell price from **$20** to **$12**
 :shiny: [Survival] Nerfed **Red Mushroom** sell price from **$20** to **$12**
-:shiny: [Survival] 
+:shiny: [Survival] Buffed **Cocoa Beans** sell price from **$5** to **$8**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
