@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.8.47** *(Network Changes)*
-:shiny: [Survival] 
+:shiny: [Survival] Added **Shiverfang Sword** in **Exotic Crate**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
