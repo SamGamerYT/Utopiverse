@@ -35,6 +35,11 @@
 :shiny: [Survival] 
 
 **/SHOP**
+:shiny: [Survival] Nerfed **Cactus** sell price from **$4** to **$0.5**
+:shiny: [Survival] Nerfed **Brown Mushroom** sell price from **$20** to **$12**
+:shiny: [Survival] Nerfed **Red Mushroom** sell price from **$20** to **$12**
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **SPOODER LAIR**
