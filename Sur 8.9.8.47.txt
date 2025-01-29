@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.8.47** *(Network Changes)*
 :shiny: [Survival] Added **Shiverfang Sword** in **Exotic Crate**
 :shiny: [Survival] Added **Silverfang Sword** crafting recipe at **Arctic Altar**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Custom Crops** information hologram at **"/farms"** *(Created by @Idiomaticsss)*
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
