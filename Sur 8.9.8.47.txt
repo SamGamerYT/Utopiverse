@@ -3,7 +3,7 @@
 :shiny: [Survival] Added **Silverfang Sword** crafting recipe at **Arctic Altar**
 :shiny: [Survival] Added **Custom Crops** information hologram at **"/farms"** *(Created by @Idiomaticsss)*
 :shiny: [Survival] Modified **Tournaments** for this month *(February)*
-:shiny: [Survival] 
+:shiny: [Survival] Added **Tournament NPC** & **Tournament Hologram** near **Seasonal Event House**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
