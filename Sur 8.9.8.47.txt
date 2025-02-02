@@ -4,7 +4,7 @@
 :shiny: [Survival] Added **Custom Crops** information hologram at **"/farms"** *(Created by @Idiomaticsss)*
 :shiny: [Survival] Modified **Tournaments** for this month *(February)*
 :shiny: [Survival] Added **Tournament NPC** & **Tournament Hologram** near **Seasonal Event House**
-:shiny: [Survival] 
+:shiny: [Survival] Removed **NPC Dialogs** from old NPC's
 :shiny: [Survival] 
 :shiny: [Survival] 
 
