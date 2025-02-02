@@ -62,6 +62,8 @@
 :shiny: [Survival] 
 
 **BUILD** *(_RECON1stbat)*
+:shiny: [Survival] Added **Bridge** that connects **"/warp dungeons"** with **"/blacksmith"**
+:shiny: [Survival] Modified **"/warp enchanter"** house, more spacious & better floor.
 :shiny: [Survival] 
 
 **HUB REALM**
