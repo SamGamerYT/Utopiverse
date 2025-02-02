@@ -6,6 +6,9 @@
 :shiny: [Survival] Added **Tournament NPC** & **Tournament Hologram** near **Seasonal Event House**
 :shiny: [Survival] Removed **NPC Dialogs** from old NPC's
 :shiny: [Survival] Relocated **Ranks NPC** from near Guard to **"/farms"**
+:shiny: [Survival] Added **Levelled Hologram**, Separate from **Information** hologram.
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **MESSAGES**
