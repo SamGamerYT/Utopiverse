@@ -8,6 +8,7 @@
 :shiny: [Survival] Relocated **Ranks NPC** from near the Guard to **"/farms"**.
 :shiny: [Survival] Added **Leveled Hologram**, separate from the **Information Hologram**.
 :shiny: [Survival] Added an **Easter Eggs** hologram at **"/spawn"** that explains and displays your Easter Egg statistics.
+:shiny: [Survival] Deleted **"/pwarps"** information interface.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
