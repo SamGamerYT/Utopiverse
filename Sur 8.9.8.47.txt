@@ -11,7 +11,7 @@
 :shiny: [Survival] Fixed **Spawn's Easter eggs** not registering properly and unlocking codex.
 
 :shiny: [Survival] Deleted **"/pwarps"** information interface.
-:shiny: [Survival] 
+:shiny: [Survival] Relocated **Essence Trader** NPC from **"/warp bank"** to **"/warp frost**
 :shiny: [Survival] 
 
 **MESSAGES**
@@ -68,7 +68,9 @@
 **BUILD** *(_RECON1stbat)*
 :shiny: [Survival] Added a **Bridge** connecting **"/warp dungeons"** with **"/blacksmith"**.
 :shiny: [Survival] Modified **"/warp enchanter"** house to be more spacious with an improved floor design.
-:shiny: [Survival] 
+
+**BUILD** *(_DrxR3fl3x_3)*
+:shiny: [Survival] Modified **"/warp frost"** empty room into **Essence Trader** room.
 
 **HUB REALM**
 :sdragon: [Lobby] Performed maintenance on **TNTRun Gamemode**
