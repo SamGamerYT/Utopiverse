@@ -23,7 +23,7 @@
 :shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Barrels** near **"/blacksmith"** to put their spare items in there.
 
 **CODEX**
 :shiny: [Survival] 
