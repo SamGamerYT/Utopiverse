@@ -7,7 +7,7 @@
 :shiny: [Survival] Removed **NPC Dialogs** from old NPC's
 :shiny: [Survival] Relocated **Ranks NPC** from near Guard to **"/farms"**
 :shiny: [Survival] Added **Levelled Hologram**, Separate from **Information** hologram.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Easter Eggs** hologram at **"/spawn"** that explains and shows your easter eggs statistics
 :shiny: [Survival] 
 :shiny: [Survival] 
 
