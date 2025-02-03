@@ -1,13 +1,13 @@
 **Patch/Changes 8.9.8.47** *(Network Changes)*
-:shiny: [Survival] Added **Shiverfang Sword** in **Exotic Crate**
-:shiny: [Survival] Added **Silverfang Sword** crafting recipe at **Arctic Altar**
-:shiny: [Survival] Added **Custom Crops** information hologram at **"/farms"** *(Created by @Idiomaticsss)*
-:shiny: [Survival] Modified **Tournaments** for this month *(February)*
-:shiny: [Survival] Added **Tournament NPC** & **Tournament Hologram** near **Seasonal Event House**
-:shiny: [Survival] Removed **NPC Dialogs** from old NPC's
-:shiny: [Survival] Relocated **Ranks NPC** from near Guard to **"/farms"**
-:shiny: [Survival] Added **Levelled Hologram**, Separate from **Information** hologram.
-:shiny: [Survival] Added **Easter Eggs** hologram at **"/spawn"** that explains and shows your easter eggs statistics
+:shiny: [Survival] Added **Shiverfang Sword** to the **Exotic Crate**.
+:shiny: [Survival] Added **Silverfang Sword** crafting recipe at the **Arctic Altar**.
+:shiny: [Survival] Added **Custom Crops** information hologram at **"/farms"** *(Created by @Idiomaticsss)*.
+:shiny: [Survival] Modified **Tournaments** for this month *(February)*.
+:shiny: [Survival] Added **Tournament NPC** & **Tournament Hologram** near the **Seasonal Event House**.
+:shiny: [Survival] Removed **NPC Dialogs** from old NPCs.
+:shiny: [Survival] Relocated **Ranks NPC** from near the Guard to **"/farms"**.
+:shiny: [Survival] Added **Leveled Hologram**, separate from the **Information Hologram**.
+:shiny: [Survival] Added an **Easter Eggs** hologram at **"/spawn"** that explains and displays your Easter Egg statistics.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
@@ -38,10 +38,10 @@
 :shiny: [Survival] 
 
 **/SHOP**
-:shiny: [Survival] Nerfed **Cactus** sell price from **$4** to **$0.5**
-:shiny: [Survival] Nerfed **Brown Mushroom** sell price from **$20** to **$12**
-:shiny: [Survival] Nerfed **Red Mushroom** sell price from **$20** to **$12**
-:shiny: [Survival] Buffed **Cocoa Beans** sell price from **$5** to **$8**
+:shiny: [Survival] Nerfed **Cactus** sell price from **$4** to **$0.5**.
+:shiny: [Survival] Nerfed **Brown Mushroom** sell price from **$20** to **$12**.
+:shiny: [Survival] Nerfed **Red Mushroom** sell price from **$20** to **$12**.
+:shiny: [Survival] Buffed **Cocoa Beans** sell price from **$5** to **$8**.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
@@ -62,8 +62,8 @@
 :shiny: [Survival] 
 
 **BUILD** *(_RECON1stbat)*
-:shiny: [Survival] Added **Bridge** that connects **"/warp dungeons"** with **"/blacksmith"**
-:shiny: [Survival] Modified **"/warp enchanter"** house, more spacious & better floor.
+:shiny: [Survival] Added a **Bridge** connecting **"/warp dungeons"** with **"/blacksmith"**.
+:shiny: [Survival] Modified **"/warp enchanter"** house to be more spacious with an improved floor design.
 :shiny: [Survival] 
 
 **HUB REALM**
