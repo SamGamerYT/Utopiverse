@@ -10,12 +10,12 @@
 :grass: Removed **"/warp boss"** and **"/warp boss2"** for the revamp.
 :grass: Fixed **Admin Role** being displayed lower than **Members**.
 :grass: Heavily optimized the **"/help"** armor display system.
-:grass: Increased **Furniture Visible** range from **14** to **24**
-:grass: Removed **Armor Trims** from **Forge NPC** at **"/blacksmith"**
-:grass: Removed **Dragon Egg** & **Disc Fragment** from **Forge NPC** at **"/blacksmith"**
-:grass: We are now supporting version **1.21.4**
+:grass: Increased **Furniture Visible** range from **14** to **24**.
+:grass: Removed **Armor Trims** from **Forge NPC** at **"/blacksmith"**.
+:grass: Removed **Dragon Egg** & **Disc Fragment** from **Forge NPC** at **"/blacksmith"**.
+:grass: Now supporting version **1.21.4**.
 
 **ONEBLOCK 2.0 PREPARATION**
-:grass: **"/artifacts"** will now open up **Artifacts Interface**
+:grass: **"/artifacts"** will now open up the **Artifacts Interface**.
 
 **[@Changelogs]**
