@@ -11,6 +11,8 @@
 :grass: Fixed **Admin Role** being displayed lower than **Members**.
 :grass: Heavily optimized the **"/help"** armor display system.
 :grass: Increased **Furniture Visible** range from **14** to **24**
+:grass: Removed **Armor Trims** from **Forge NPC** at **"/blacksmith"**
+:grass: Removed **Dragon Egg** & **Disc Fragment** from **Forge NPC** at **"/blacksmith"**
 :grass: 
 :grass: 
 :grass: 
