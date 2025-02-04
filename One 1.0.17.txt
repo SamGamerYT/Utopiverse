@@ -1,5 +1,5 @@
 **Patch/Changes 1.0.17** *[Oneblock]*
-:grass: 
+:grass: Updated **"/artifacts"** UI, Empty slots of armour pieces instead of chainmail armour.
 :grass: 
 :grass: 
 :grass: 
