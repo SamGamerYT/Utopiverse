@@ -16,10 +16,13 @@
 :shiny: [Survival] Increased **Furniture Visible** range from **14** to **24**
 :shiny: [Survival] 
 :shiny: [Survival] 
+:shiny: [Survival] 
+
+**FISHING**
+:shiny: [Survival] Random Chance to obtain **Pearl Geode** that you can crush at **"/warp tinkerer"**
+:shiny: [Survival] 
 
 **MESSAGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **ARENA CHANGES**
 :shiny: [Survival] 
