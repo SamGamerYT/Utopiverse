@@ -10,7 +10,7 @@
 :grass: Removed **"/warp boss"** and **"/warp boss2"** for the revamp.
 :grass: Fixed **Admin Role** being displayed lower than **Members**.
 :grass: Heavily optimized the **"/help"** armor display system.
-:grass: 
+:grass: Increased **Furniture Visible** range from **14** to **24**
 :grass: 
 :grass: 
 :grass: 
