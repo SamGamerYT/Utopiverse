@@ -17,7 +17,7 @@
 :shiny: [Survival] Added **Assistance Message** related to **Scrolls Riddles**, it will now inform players to visit docs.
 :shiny: [Survival] Removed **Farming Child NPC** that stands right next to **Farmer NPC**
 :shiny: [Survival] Added **Farming Trading Station** in a new interface of **Farmer NPC**, You can now exchange vanilla crops for better varients.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Mythical**, **Ancient** and **Legendary** Crate Key exchange at **Essence Trader** located near **"/warp frost"**
 :shiny: [Survival] 
 
 **FISHING**
