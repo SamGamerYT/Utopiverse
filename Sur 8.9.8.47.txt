@@ -15,7 +15,7 @@
 :shiny: [Survival] Fixed **Traveling Mage** not opening **Warps** Interface.
 :shiny: [Survival] Increased **Furniture Visible** range from **14** to **24**
 :shiny: [Survival] Added **Assistance Message** related to **Scrolls Riddles**, it will now inform players to visit docs.
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Farming Child NPC** that stands right next to **Farmer NPC**
 :shiny: [Survival] 
 
 **FISHING**
