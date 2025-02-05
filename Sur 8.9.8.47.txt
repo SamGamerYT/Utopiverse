@@ -14,7 +14,7 @@
 :shiny: [Survival] Relocated **Essence Trader** NPC from **"/warp bank"** to **"/warp frost**
 :shiny: [Survival] Fixed **Traveling Mage** not opening **Warps** Interface.
 :shiny: [Survival] Increased **Furniture Visible** range from **14** to **24**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Assistance Message** related to **Scrolls Riddles**, it will now inform players to visit docs.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
