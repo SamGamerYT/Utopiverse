@@ -18,10 +18,11 @@
 :shiny: [Survival] Removed the **Farming Child NPC** standing next to the **Farmer NPC**.
 :shiny: [Survival] Added **Farming Trading Station** as a new interface for the **Farmer NPC**; you can now exchange vanilla crops for better variants.
 :shiny: [Survival] Added **Mythical**, **Ancient**, and **Legendary** Crate Key exchanges at the **Essence Trader** located near **"/warp frost"**.
+:shiny: [Survival] Added **Codex Hologram** on the bridge that connects **"/spawn"** with **"/blacksmith"**
 
 :shiny: [Survival] Added a **Witchcraft Pedestal** hologram to help players locate the utility station properly.
 :shiny: [Survival] Added **Resilience Runestone** at **Witchcraft Pedestal** crafting station.
-:shiny: [Survival] 
+
 :shiny: [Survival] 
 
 **FISHING**
