@@ -8,20 +8,24 @@
 :shiny: [Survival] Relocated **Ranks NPC** from near the Guard to **"/farms"**.
 :shiny: [Survival] Added **Leveled Hologram**, separate from the **Information Hologram**.
 :shiny: [Survival] Added an **Easter Eggs** hologram at **"/spawn"** that explains and displays your Easter Egg statistics.
-:shiny: [Survival] Fixed **Spawn's Easter eggs** not registering properly and unlocking codex.
+:shiny: [Survival] Fixed **Spawn's Easter Eggs** not registering properly and unlocking codex.
 
-:shiny: [Survival] Deleted **"/pwarps"** information interface.
-:shiny: [Survival] Relocated **Essence Trader** NPC from **"/warp bank"** to **"/warp frost**
-:shiny: [Survival] Fixed **Traveling Mage** not opening **Warps** Interface.
-:shiny: [Survival] Increased **Furniture Visible** range from **14** to **24**
-:shiny: [Survival] Added **Assistance Message** related to **Scrolls Riddles**, it will now inform players to visit docs.
-:shiny: [Survival] Removed **Farming Child NPC** that stands right next to **Farmer NPC**
-:shiny: [Survival] Added **Farming Trading Station** in a new interface of **Farmer NPC**, You can now exchange vanilla crops for better varients.
-:shiny: [Survival] Added **Mythical**, **Ancient** and **Legendary** Crate Key exchange at **Essence Trader** located near **"/warp frost"**
+:shiny: [Survival] Deleted the **"/pwarps"** information interface.
+:shiny: [Survival] Relocated **Essence Trader** NPC from **"/warp bank"** to **"/warp frost"**.
+:shiny: [Survival] Fixed **Traveling Mage** not opening the **Warps** Interface.
+:shiny: [Survival] Increased **Furniture Visible** range from **14** to **24**.
+:shiny: [Survival] Added an **Assistance Message** related to **Scrolls Riddles**; it will now inform players to visit the docs.
+:shiny: [Survival] Removed the **Farming Child NPC** standing next to the **Farmer NPC**.
+:shiny: [Survival] Added **Farming Trading Station** as a new interface for the **Farmer NPC**; you can now exchange vanilla crops for better variants.
+:shiny: [Survival] Added **Mythical**, **Ancient**, and **Legendary** Crate Key exchanges at the **Essence Trader** located near **"/warp frost"**.
+
+:shiny: [Survival] Added a **Witchcraft Pedestal** hologram to help players locate the utility station properly.
+:shiny: [Survival] Added **Resilience Runestone** at **Witchcraft Pedestal** crafting station.
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **FISHING**
-:shiny: [Survival] Random Chance to obtain **Pearl Geode** that you can crush at **"/warp tinkerer"**
+:shiny: [Survival] Added a random chance to obtain **Pearl Geode**, which can be crushed at **"/warp tinkerer"**.
 :shiny: [Survival] 
 
 **MESSAGES**
@@ -40,8 +44,7 @@
 :shiny: [Survival] 
 
 **DUNGEON**
-:shiny: [Survival] Added an **Dungeon Eggs** hologram at **"/warp frost"** that explains and displays your Dungeon Egg statistics.
-:shiny: [Survival] 
+:shiny: [Survival] Added a **Dungeon Eggs** hologram at **"/warp frost"** that explains and displays your Dungeon Egg statistics.
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] 
@@ -54,8 +57,6 @@
 :shiny: [Survival] Nerfed **Brown Mushroom** sell price from **$20** to **$12**.
 :shiny: [Survival] Nerfed **Red Mushroom** sell price from **$20** to **$12**.
 :shiny: [Survival] Buffed **Cocoa Beans** sell price from **$5** to **$8**.
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **SPOODER LAIR**
 :shiny: [Survival] 
@@ -81,7 +82,8 @@
 :shiny: [Survival] Modified **"/warp frost"** empty room into **Essence Trader** room.
 
 **HUB REALM**
-:sdragon: [Lobby] Performed maintenance on **TNTRun Gamemode**
+:sdragon: [Lobby] Performed maintenance on **TNTRun Gamemode** to ensure it runs properly.
+:sdragon: [Lobby] Doubled the time limit from **5 minutes** to **10 minutes** for the **Multi-Level Map** in **TNTRun**.
 
 **NETWORK**
 :spaceheart1: [Network] 
