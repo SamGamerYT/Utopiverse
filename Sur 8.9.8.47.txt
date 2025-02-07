@@ -26,51 +26,17 @@
 **FISHING**
 :shiny: [Survival] Added a random chance to obtain **Pearl Geode**, which can be crushed at **"/warp tinkerer"**.
 
-**MESSAGES**
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
-
 **BLACKSMITH**
 :shiny: [Survival] Added **Barrels** near **"/blacksmith"** to put their spare items in there.
 
-**CODEX**
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
 **DUNGEON**
 :shiny: [Survival] Added a **Dungeon Eggs** hologram at **"/warp frost"** that explains and displays your Dungeon Egg statistics.
-
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
 
 **/SHOP**
 :shiny: [Survival] Nerfed **Cactus** sell price from **$4** to **$0.5**.
 :shiny: [Survival] Nerfed **Brown Mushroom** sell price from **$20** to **$12**.
 :shiny: [Survival] Nerfed **Red Mushroom** sell price from **$20** to **$12**.
 :shiny: [Survival] Buffed **Cocoa Beans** sell price from **$5** to **$8**.
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
 
 **BUILD** *(_RECON1stbat)*
 :shiny: [Survival] Added a **Bridge** connecting **"/warp dungeons"** with **"/blacksmith"**.
@@ -83,64 +49,4 @@
 :sdragon: [Lobby] Performed maintenance on **TNTRun Gamemode** to ensure it runs properly.
 :sdragon: [Lobby] Doubled the time limit from **5 minutes** to **10 minutes** for the **Multi-Level Map** in **TNTRun**.
 
-**NETWORK**
-:spaceheart1: [Network] 
-
 **[@Changelogs]**
-
-TO DO LIST:
-Fix Menders not working with chest shop
-tik tok tag (freeby)
-youtube tag (freeby)
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(Whispy & _DrxR3fl3x_3)*
-**BUILD** *(_DrxR3fl3x_3)*
-**BUILD** *(_RECON1stbat)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
