@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.48** *(Network Changes)*
 :shiny: [Survival] Experimental **Chestshop** Update, Optimizations and maintenanced to ensure it runs properly.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Repairstones** not being able to sold in **Player Chestshop**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
