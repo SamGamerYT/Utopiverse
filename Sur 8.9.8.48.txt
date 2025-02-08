@@ -84,7 +84,6 @@
 **[@Changelogs]**
 
 TO DO LIST:
-Fix Menders not working with chest shop
 tik tok tag (freeby)
 youtube tag (freeby)
 
