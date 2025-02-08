@@ -41,7 +41,7 @@
 :shiny: [Survival] 
 
 **/SHOP** *(_QueenChaos95180)*
-:shiny: [Survival] 
+:shiny: [Survival] Added **Glow Lichen** under Decorations Category within "/shop"
 
 **SPOODER LAIR**
 :shiny: [Survival] 
