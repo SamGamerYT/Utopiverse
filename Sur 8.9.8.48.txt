@@ -2,7 +2,7 @@
 :shiny: [Survival] Experimental **Chestshop** update; optimizations and maintenance to ensure it runs properly.
 :shiny: [Survival] Fixed **Repairstones** not being sellable in **Player Chestshop**.
 :shiny: [Survival] Fixed **Starter Milestones** not working properly.
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Start Milestones** progress bar miscolouring.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
