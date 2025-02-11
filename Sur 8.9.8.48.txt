@@ -23,7 +23,9 @@
 :shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
-:shiny: [Survival]
+:shiny: [Survival] Added **Shield** and **Crossbow** rarities
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 **CODEX**
 :shiny: [Survival] 
