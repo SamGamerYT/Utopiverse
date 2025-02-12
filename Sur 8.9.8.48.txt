@@ -6,7 +6,7 @@
 :shiny: [Survival] Added **2x New Starter Milestones** for players to complete.
 :shiny: [Survival] Modified **Click to Claim** message in **Starter Milestones**.
 :shiny: [Survival] Modified **Lootbox** Area hologram
-:shiny: [Survival] 
+:shiny: [Survival] Added **"/lootbox"** command that will teleport you to **Lootbox Area**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
