@@ -5,7 +5,7 @@
 :shiny: [Survival] Modified **Starter Milestones** progress bar miscoloring.
 :shiny: [Survival] Added **2x New Starter Milestones** for players to complete.
 :shiny: [Survival] Modified **Click to Claim** message in **Starter Milestones**.
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Lootbox** Area hologram
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
