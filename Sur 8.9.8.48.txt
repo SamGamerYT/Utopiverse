@@ -7,7 +7,7 @@
 :shiny: [Survival] Modified **Click to Claim** message in **Starter Milestones**.
 :shiny: [Survival] Modified **Lootbox** Area hologram
 :shiny: [Survival] Added **"/lootbox"** command that will teleport you to **Lootbox Area**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Dungeon Lootbox** not giving the correct rewards.
 :shiny: [Survival] 
 
 :shiny: [Survival] 
