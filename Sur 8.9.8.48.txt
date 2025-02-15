@@ -10,6 +10,7 @@
 :shiny: [Survival] Fixed **Dungeon Lootbox** not giving the correct rewards.
 :shiny: [Survival] Released **Valentine 2025** MonthlyCrate
 :shiny: [Survival] Removed **Valentine 2024** MonthlyCrate as store reward
+:shiny: [Survival] Added **Christmas 2024** Monthlycrate as store reward
 
 **FISHING**
 :shiny: [Survival]
