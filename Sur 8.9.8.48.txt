@@ -12,62 +12,12 @@
 :shiny: [Survival] Removed **Valentine 2024** Monthly Crate as a store reward.
 :shiny: [Survival] Added **Christmas 2024** Monthly Crate as a store reward.
 :shiny: [Survival] Added **Blossom Milestones!** New challenges for players to complete!
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**FISHING**
-:shiny: [Survival]
-
-**MESSAGES**
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
 :shiny: [Survival] Added **Shield** and **Crossbow** rarities
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**CODEX**
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
-**DUNGEON**
-:shiny: [Survival]
-
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
 
 **/SHOP** *(_QueenChaos95180)*
 :shiny: [Survival] Added **Glow Lichen** under Decorations Category within "/shop"
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**BUILD** *(_RECON1stbat)*
-:shiny: [Survival] 
-
-**BUILD** *(_DrxR3fl3x_3)*
-:shiny: [Survival] 
 
 **HUB REALM**
 :sdragon: [Lobby] Performed maintenance on **TAB**, Ensuring it runs smoothly.
@@ -78,59 +28,3 @@
 :spaceheart1: [Network] Fixed a model visibility issue for **Bedrock** players.
 
 **[@Changelogs]**
-
-TO DO LIST:
-tik tok tag (freeby)
-youtube tag (freeby)
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(Whispy & _DrxR3fl3x_3)*
-**BUILD** *(_DrxR3fl3x_3)*
-**BUILD** *(_RECON1stbat)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-*(Special Thanks to _WhispyW)*
-:shiny: [Art] 
-*(Special Thanks to _BrokenJJ6029)*
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
