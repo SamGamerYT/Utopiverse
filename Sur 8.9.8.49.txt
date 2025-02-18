@@ -15,8 +15,18 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-**FISHING**
+**FISHING** *(YuxuFG)*
 :shiny: [Survival]
+:shiny: [Survival] Added **Party Fishing.** Gain buffs when fishing with up to 4 players next to you!
+:shiny: [Survival] Added **Fishing Bait** Unlock them by gaining levels and completing **Fishing Scrolls**
+:shiny: [Survival] Fixed **Fishing Tournaments** not starting when there are 35 or more players on Survival
+:shiny: [Survival] Fixed **Fish Length** type tournaments
+:shiny: [Survival] Buffed **Fishing Tournament** rewards
+:shiny: [Survival] Buffed **Fishing Tournament** starting cooldown from **8** hours to **6**
+:shiny: [Survival] Modified **Entropy** and **Fishing XP** when catching fish to reflect fish rarities
+:shiny: [Survival] Modified fish's **Sell Price** to reflect fish rarities
+:shiny: [Survival] Very slightly nerfed *some* **Gutting Station** values
+:shiny: [Survival] Very slighly modified some **Fishing Augment** values (not noticeable)
 
 **MESSAGES**
 
