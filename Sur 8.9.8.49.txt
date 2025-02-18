@@ -27,8 +27,6 @@
 :shiny: [Survival] Very slightly nerfed *some* **Gutting Station** values
 :shiny: [Survival] Very slighly modified some **Fishing Augment** values (not noticeable)
 
-**MESSAGES**
-
 **ARENA CHANGES**
 :shiny: [Survival] 
 :shiny: [Hypogeum Arena] 
