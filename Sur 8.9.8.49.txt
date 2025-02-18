@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.8.49** *(Network Changes)*
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Farming Utilities Station** in the **Farmer Interface** that is located at **"/farms"**
+:shiny: [Survival] Added **Soil Pot**, **Scarecrow**, **Soil Surveyor**, **Copper Watering Can** and **Apple Seeds Bag** in **Farming Utilities Station**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
