@@ -16,7 +16,6 @@
 :shiny: [Survival] 
 
 **FISHING** *(YuxuFG)*
-:shiny: [Survival]
 :shiny: [Survival] Added **Party Fishing.** Gain buffs when fishing with up to 4 players next to you!
 :shiny: [Survival] Added **Fishing Bait** Unlock them by gaining levels and completing **Fishing Scrolls**
 :shiny: [Survival] Fixed **Fishing Tournaments** not starting when there are 35 or more players on Survival
