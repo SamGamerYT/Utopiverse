@@ -71,7 +71,8 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
-:spaceheart1: [Network] Fixed **ESSENCE TRADER** random broadcast message *(Reported by _WhippyFireX9)*
+:spaceheart1: [Network] Fixed **ESSENCE TRADER** random broadcast message *(Reported by _WhippyFireX9)*.
+:spaceheart1: [Network] Fixed grammar mistakes, updated information, and ensured **Broadcasts** are up to date.
 :spaceheart1: [Network] 
 
 **[ @Changelogs ]**
