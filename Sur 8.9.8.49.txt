@@ -77,6 +77,7 @@
 :shiny: [Survival] 
 
 **HUB REALM**
+:sdragon: [Lobby] Fixed **Incompatibility** with 1.21.4 for **Social Media** Interface.
 :sdragon: [Lobby] 
 
 **NETWORK**
