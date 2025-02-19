@@ -79,6 +79,7 @@
 **HUB REALM**
 :sdragon: [Lobby] Fixed **Incompatibility** with 1.21.4 for **Social Media** Interface.
 :sdragon: [Lobby] **Parkour Leaderboard** will now show **Top Five** instead of **Top Three**
+:sdragon: [Lobby] Updated Dependencies **(2/19/2025)**
 :sdragon: [Lobby] 
 
 **NETWORK**
