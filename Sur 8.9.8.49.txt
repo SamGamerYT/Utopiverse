@@ -10,7 +10,9 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
+
+**ARENA CHANGES**
+:shiny: [Survival] Heavily reduced particles from **mobs** and **bosses** for optimization
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
