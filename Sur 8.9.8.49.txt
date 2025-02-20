@@ -17,6 +17,11 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+**FARMING**
+:shiny: [Survival] Removed **FARMLAND** Block requirement from **Soil Pot**
+:shiny: [Survival] Modified **Scarecrow** Recipe
+:shiny: [Survival] 
+
 **FISHING** *(YuxuFG)*
 :shiny: [Survival] Added **Party Fishing.** Gain buffs when fishing with up to 4 players next to you!
 :shiny: [Survival] Added **Fishing Bait** Unlock them by gaining levels and completing **Fishing Scrolls**
