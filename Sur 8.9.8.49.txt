@@ -1,8 +1,8 @@
 **Patch/Changes 8.9.8.49** *(Network Changes)*
-:shiny: [Survival] Added **Farming Utilities Station** in the **Farmer Interface** that is located at **"/farms"**
-:shiny: [Survival] Added **Soil Pot**, **Scarecrow**, **Soil Surveyor**, **Copper Watering Can** and **Apple Seeds Bag** in **Farming Utilities Station** *(Helped by _WhippyFireX9)*
-:shiny: [Survival] Added **Valentine Plushie** limited edition information hologram near **"/spawn"**
-:shiny: [Survival] **Chat Games** has gotten **40+** new questions, typo fixes and better rewards. *(_QueenChaos95180)*
+:shiny: [Survival] Added **Farming Utilities Station** in the **Farmer Interface**, located at **"/farms"**.
+:shiny: [Survival] Added **Soil Pot**, **Scarecrow**, **Soil Surveyor**, **Copper Watering Can**, and **Apple Seeds Bag** in the **Farming Utilities Station** *(Helped by _WhippyFireX9)*.
+:shiny: [Survival] Added **Valentine Plushie** limited edition information hologram near **"/spawn"**.
+:shiny: [Survival] **Chat Games** received **40+** new questions, typo fixes, and better rewards. *(Suggested by _QueenChaos95180)*.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -12,14 +12,11 @@
 :shiny: [Survival] 
 
 **ARENA CHANGES**
-:shiny: [Survival] Heavily reduced particles from **mobs** and **bosses** for optimization
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Heavily reduced particles from **mobs** and **bosses** for optimization.
 
 **FARMING**
-:shiny: [Survival] Removed **FARMLAND** Block requirement from **Soil Pot**
-:shiny: [Survival] Modified **Scarecrow** Recipe
+:shiny: [Survival] Removed **FARMLAND** block requirement from **Soil Pot**.
+:shiny: [Survival] Modified **Scarecrow** recipe.
 :shiny: [Survival] 
 
 **FISHING** *(YuxuFG)*
