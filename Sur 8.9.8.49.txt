@@ -5,7 +5,7 @@
 :shiny: [Survival] **Chat Games** received **40+** new questions, typo fixes, and better rewards. *(Suggested by _QueenChaos95180)*.
 :shiny: [Survival] Fixed **Watering Can**, **Fertilizers** and **other** fonts not appearing for bedrock players
 :shiny: [Survival] Added new **interface** for **"/rewards"**
-:shiny: [Survival] 
+:shiny: [Survival] Recoded the entirety of **"/rewards"**, allowing it to support newer versions.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
