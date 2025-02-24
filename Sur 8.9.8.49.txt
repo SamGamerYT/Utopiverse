@@ -6,7 +6,7 @@
 :shiny: [Survival] Fixed **Watering Can**, **Fertilizers** and **other** fonts not appearing for bedrock players
 :shiny: [Survival] Added new **interface** for **"/rewards"**
 :shiny: [Survival] Recoded the entirety of **"/rewards"**, allowing it to support newer versions.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Skeleton Statue** issue where it was facing the wrong way when placed.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
