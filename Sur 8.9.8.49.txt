@@ -7,7 +7,7 @@
 :shiny: [Survival] Added new **interface** for **"/rewards"**
 :shiny: [Survival] Recoded the entirety of **"/rewards"**, allowing it to support newer versions.
 :shiny: [Survival] Fixed **Skeleton Statue** issue where it was facing the wrong way when placed.
-:shiny: [Survival] 
+:shiny: [Survival] Major Dependencies Updated *(2/27/2025)*
 :shiny: [Survival] 
 :shiny: [Survival] 
 
