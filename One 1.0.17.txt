@@ -1,35 +1,5 @@
 **Patch/Changes 1.0.17** *[Oneblock]*
 :grass: Updated **"/artifacts"** UI, Empty slots of armour pieces instead of chainmail armour.
 :grass: **Pumpkin** and **Melon** have been disabled from crouch spam due to potential use with **Auto Clicking Farms**
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-
-**ONEBLOCK 2.0 PREPARATION**
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-
-**HOLOGRAMS** *(Created by Idiomaticsss)* 
-:grass: 
  
 **[@Changelogs]**
-
-**AUTO RESPONSE**
-**CRATES**
