@@ -1,6 +1,6 @@
 **Patch/Changes 2.0.0** *[Oneblock]*
 :grass: **Artifacts** Interface will now open up with **"/armory"**
-:grass: 
+:grass: Fixed **"/help"** not showing player's helmet, main hand and off hand items.
 :grass: 
 :grass: 
 :grass: 
