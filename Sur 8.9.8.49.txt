@@ -12,7 +12,7 @@
 :shiny: [Survival] 
 
 **ARENA CHANGES**
-:shiny: [Survival] Heavily reduced particles from **mobs** and **bosses** for optimization. #reward.member.weekly reward.member.monthly
+:shiny: [Survival] Heavily reduced particles from **mobs** and **bosses** for optimization.
 
 **FARMING**
 :shiny: [Survival] Removed **FARMLAND** block requirement from **Soil Pot**.
@@ -93,8 +93,9 @@
 **[ @Changelogs ]**
 
 TO DO LIST:
-tik tok tag (freeby)
-youtube tag (freeby)
+tik tok tag (freeby) 
+youtube tag (freeby) 
+ #reward.member.weekly reward.member.monthly
 
 **WEBSTORE**
 **DUNGEON DROPTABLE**
