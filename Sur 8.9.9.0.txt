@@ -79,7 +79,7 @@
 TO DO LIST:
 tik tok tag (freeby) 
 youtube tag (freeby) 
- #reward.member.weekly reward.member.monthly
+ # reward.member.monthly
 
 **WEBSTORE**
 **DUNGEON DROPTABLE**
