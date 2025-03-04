@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.9.0** *(Network Changes)*
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Progress Bar** for **Copper, Lapis & Redstone**
+:shiny: [Survival] Added **Ores Milestone #2** in **Milestones** Interface
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
