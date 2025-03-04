@@ -3,13 +3,13 @@
 :shiny: [Survival] Added **Soil Pot**, **Scarecrow**, **Soil Surveyor**, **Copper Watering Can**, and **Apple Seeds Bag** in the **Farming Utilities Station** *(Helped by _WhippyFireX9)*.
 :shiny: [Survival] Added **Valentine Plushie** limited edition information hologram near **"/spawn"**.
 :shiny: [Survival] **Chat Games** received **40+** new questions, typo fixes, and better rewards. *(Suggested by _QueenChaos95180)*.
-:shiny: [Survival] Fixed **Watering Can**, **Fertilizers** and **other** fonts not appearing for bedrock players
-:shiny: [Survival] Added new **interface** for **"/rewards"**
+:shiny: [Survival] Fixed **Watering Can**, **Fertilizers**, and other fonts not appearing for **Bedrock** players.
+:shiny: [Survival] Added a new **interface** for **"/rewards"**.
 :shiny: [Survival] Recoded the entirety of **"/rewards"**, allowing it to support newer versions.
 :shiny: [Survival] Fixed **Skeleton Statue** issue where it was facing the wrong way when placed.
-:shiny: [Survival] Major Dependencies Updated *(2/27/2025)*
-:shiny: [Survival] Fixed **"/rewards"** giving the wrong rewards for Unlockable Monthly
-:shiny: [Survival] Fixed **Zones Codex** not unlocking rewards for players
+:shiny: [Survival] Major dependencies updated *(2/27/2025)*.
+:shiny: [Survival] Fixed **"/rewards"** giving the wrong rewards for **Unlockable Monthly**.
+:shiny: [Survival] Fixed **Zones Codex** not unlocking rewards for players.
 
 **ARENA CHANGES**
 :shiny: [Survival] Heavily reduced particles from **mobs** and **bosses** for optimization.
@@ -17,19 +17,18 @@
 **FARMING**
 :shiny: [Survival] Removed **FARMLAND** block requirement from **Soil Pot**.
 :shiny: [Survival] Modified **Scarecrow** recipe.
-:shiny: [Survival] 
 
 **FISHING** *(YuxuFG)*
-:shiny: [Survival] Added **Party Fishing.** Gain buffs when fishing with up to 4 players next to you!
-:shiny: [Survival] Added **Fishing Bait** Unlock them by gaining levels and completing **Fishing Scrolls**
-:shiny: [Survival] Fixed **Fishing Tournaments** not starting when there are 35 or more players on Survival
-:shiny: [Survival] Fixed **Fish Length** type tournaments
-:shiny: [Survival] Buffed **Fishing Tournament** rewards
-:shiny: [Survival] Buffed **Fishing Tournament** starting cooldown from **8** hours to **6**
-:shiny: [Survival] Modified **Entropy** and **Fishing XP** when catching fish to reflect fish rarities
-:shiny: [Survival] Modified fish's **Sell Price** to reflect fish rarities
-:shiny: [Survival] Very slightly nerfed *some* **Gutting Station** values
-:shiny: [Survival] Very slighly modified some **Fishing Augment** values (not noticeable)
+:shiny: [Survival] Added **Party Fishing** – gain buffs when fishing with up to 4 players nearby!
+:shiny: [Survival] Added **Fishing Bait** – unlock them by gaining levels and completing **Fishing Scrolls**.
+:shiny: [Survival] Fixed **Fishing Tournaments** not starting when there are 35 or more players on Survival.
+:shiny: [Survival] Fixed **Fish Length** type tournaments.
+:shiny: [Survival] Buffed **Fishing Tournament** rewards.
+:shiny: [Survival] Reduced **Fishing Tournament** starting cooldown from **8** hours to **6**.
+:shiny: [Survival] Modified **Entropy** and **Fishing XP** when catching fish to reflect fish rarities.
+:shiny: [Survival] Adjusted fish **Sell Prices** to reflect fish rarities.
+:shiny: [Survival] Slightly nerfed *some* **Gutting Station** values.
+:shiny: [Survival] Slightly adjusted some **Fishing Augment** values (not noticeable).
 
 **ARENA CHANGES**
 :shiny: [Survival] 
@@ -79,16 +78,14 @@
 :shiny: [Survival] 
 
 **HUB REALM**
-:sdragon: [Lobby] Fixed **Incompatibility** with 1.21.4 for **Social Media** Interface.
-:sdragon: [Lobby] **Parkour Leaderboard** will now show **Top Five** instead of **Top Three**
-:sdragon: [Lobby] Fixed issue with **"/spawn"** not teleporting to the correct **Spawn Location**
-:sdragon: [Lobby] Updated Dependencies **(2/19/2025)**
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Fixed **Incompatibility** with **1.21.4** for the **Social Media** interface.
+:sdragon: [Lobby] **Parkour Leaderboard** will now show the **Top Five** instead of the **Top Three**.
+:sdragon: [Lobby] Fixed an issue with **"/spawn"** not teleporting to the correct **Spawn Location**.
+:sdragon: [Lobby] Updated Dependencies **(2/19/2025)**.
 
 **NETWORK**
 :spaceheart1: [Network] Fixed **ESSENCE TRADER** random broadcast message *(Reported by _WhippyFireX9)*.
 :spaceheart1: [Network] Fixed grammar mistakes, updated information, and ensured **Broadcasts** are up to date.
-:spaceheart1: [Network] 
 
 **[ @Changelogs ]**
 
