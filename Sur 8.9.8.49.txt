@@ -8,11 +8,11 @@
 :shiny: [Survival] Recoded the entirety of **"/rewards"**, allowing it to support newer versions.
 :shiny: [Survival] Fixed **Skeleton Statue** issue where it was facing the wrong way when placed.
 :shiny: [Survival] Major Dependencies Updated *(2/27/2025)*
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **"/rewards"** giving the wrong rewards for Unlockable Monthly
 :shiny: [Survival] 
 
 **ARENA CHANGES**
-:shiny: [Survival] Heavily reduced particles from **mobs** and **bosses** for optimization.
+:shiny: [Survival] Heavily reduced particles from **mobs** and **bosses** for optimization. #reward.member.weekly reward.member.monthly
 
 **FARMING**
 :shiny: [Survival] Removed **FARMLAND** block requirement from **Soil Pot**.
