@@ -5,7 +5,7 @@
 :grass: Fixed **Sit, Lay and Bellyflop** system showing broken messages.
 :grass: Added **Decoration** Lamps around the **Spawn Zone**
 :grass: Added **Store NPC** at **"/warp bank"**
-:grass: 
+:grass: You will now lose **50%** static amount upon death.
 :grass: 
 :grass: 
 :grass: 
