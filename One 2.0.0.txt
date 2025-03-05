@@ -3,7 +3,7 @@
 :grass: Fixed **"/help"** not showing player's helmet, main hand and off hand items.
 :grass: Modified **Welcome Hologram**, Added correct and up to date information.
 :grass: Fixed **Sit, Lay and Bellyflop** system showing broken messages.
-:grass: 
+:grass: Added **Decoration** Lamps around the **Spawn Zone**
 :grass: 
 :grass: 
 :grass: 
