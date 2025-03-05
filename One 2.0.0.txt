@@ -4,7 +4,7 @@
 :grass: Modified **Welcome Hologram**, Added correct and up to date information.
 :grass: Fixed **Sit, Lay and Bellyflop** system showing broken messages.
 :grass: Added **Decoration** Lamps around the **Spawn Zone**
-:grass: 
+:grass: Added **Store NPC** at **"/warp bank"**
 :grass: 
 :grass: 
 :grass: 
