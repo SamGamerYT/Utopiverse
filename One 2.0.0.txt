@@ -7,8 +7,8 @@
 :grass: Added **Store NPC** at **"/warp bank"**
 :grass: You will now lose **50%** static amount upon death.
 :grass: Added a beggar infront of the **Bank Zone**
-:grass: 
-:grass: 
+:grass: Added **Generous** point leaderboard at **"/warp Leaderboard"**
+:grass: Enabled **Daylight** cycle at **"/spawn"**
 :grass: 
 :grass: 
 :grass: 
