@@ -13,6 +13,13 @@
 :grass: 
 :grass: 
 
+**BANK**
+:grass: Removed **Interest** from **Bank**
+:grass: 
+:grass: 
+:grass: 
+:grass: 
+
 **HOLOGRAMS** *(Created by Idiomaticsss)* 
 :grass: 
  
