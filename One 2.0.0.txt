@@ -15,7 +15,7 @@
 
 **BANK**
 :grass: Removed **Interest** from **Bank**
-:grass: 
+:grass: Added more **Upgrades** and higher **limit** for your balance.
 :grass: 
 :grass: 
 :grass: 
