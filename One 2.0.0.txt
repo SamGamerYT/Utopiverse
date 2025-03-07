@@ -1,21 +1,21 @@
 **Patch/Changes 2.0.0** *[Oneblock]*
-:grass: **Artifacts** Interface will now open up with **"/armory"**
-:grass: Fixed **"/help"** not showing player's helmet, main hand and off hand items.
-:grass: Modified **Welcome Hologram**, Added correct and up to date information.
-:grass: Fixed **Sit, Lay and Bellyflop** system showing broken messages.
-:grass: Added **Decoration** Lamps around the **Spawn Zone**
-:grass: Added **Store NPC** at **"/warp bank"**
-:grass: Added a beggar infront of the **Bank Zone**
-:grass: Added **Generous** point leaderboard at **"/warp Leaderboard"**
-:grass: Enabled **Daylight** cycle at **"/spawn"**
+:grass: **Artifacts** interface will now open with **"/armory"**.
+:grass: Fixed **"/help"** not displaying the player's helmet, main-hand, and off-hand items.
+:grass: Modified **Welcome Hologram**; added correct and up-to-date information.
+:grass: Fixed **Sit, Lay, and Bellyflop** system showing broken messages.
+:grass: Added **Decoration Lamps** around the **Spawn Zone**.
+:grass: Added **Store NPC** at **"/warp bank"**.
+:grass: Added a **Beggar NPC** in front of the **Bank Zone**.
+:grass: Added **Generous** point leaderboard at **"/warp Leaderboard"**.
+:grass: Enabled **Daylight Cycle** at **"/spawn"**.
 :grass: 
 :grass: 
 :grass: 
 
 **BANK**
-:grass: Removed **Interest** from **Bank**
-:grass: Added more **Upgrades** and higher **limit** for your balance.
-:grass: You will now lose **50%** static amount upon death.
+:grass: Removed **Interest** from the **Bank**.
+:grass: Added more **Upgrades** and a higher **limit** for your balance.
+:grass: You will now lose a **50%** static amount upon death.
 :grass: 
 :grass: 
 
