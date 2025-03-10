@@ -69,6 +69,7 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Performed Maintenance on **Friends** join system. *(3/9/2025)*
 :spaceheart1: [Network] 
 
 **[ @Changelogs ]**
@@ -76,7 +77,6 @@
 TO DO LIST:
 tik tok tag (freeby) 
 youtube tag (freeby) 
- # reward.member.monthly
 
 **WEBSTORE**
 **DUNGEON DROPTABLE**
