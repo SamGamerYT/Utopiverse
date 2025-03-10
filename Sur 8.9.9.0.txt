@@ -65,9 +65,6 @@
 **BUILD** *(_RECON1stbat)*
 :shiny: [Survival] 
 
-**BUILD** *(_DrxR3fl3x_3)*
-:shiny: [Survival] 
-
 **HUB REALM**
 :sdragon: [Lobby] 
 
