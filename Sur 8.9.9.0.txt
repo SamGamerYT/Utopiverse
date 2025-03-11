@@ -44,6 +44,8 @@
 :shiny: [Survival] 
 
 **/SHOP** *(_QueenChaos95180)*
+:shiny: [Survival] Updated **"/sellg"** not opening the interface sometimes.
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **SPOODER LAIR**
