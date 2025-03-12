@@ -1,19 +1,19 @@
 **Patch/Changes 8.9.9.0** *(Network Changes)*
-:shiny: [Survival] Added **Progress Bar** for **Copper, Lapis & Redstone**
-:shiny: [Survival] Added **Ores Milestone #2** in **Milestones** Interface
-:shiny: [Survival] Fixed **Valentine 2025 Monthlycrate** having the wrong rarity label for one of the **Divine Reward**
-:shiny: [Survival] Fixed major exploit with **Chat System**
+:shiny: [Survival] Added **Progress Bar** for **Copper, Lapis & Redstone**.
+:shiny: [Survival] Added **Ores Milestone #2** in the **Milestones** interface.
+:shiny: [Survival] Fixed **Valentine 2025 Monthly Crate** having the wrong rarity label for one of the **Divine Rewards**.
+:shiny: [Survival] Fixed a major exploit with the **Chat System**.
 :shiny: [Survival] Improved **Milestones** statistic update time.
-:shiny: [Survival] Fixed **Minotaur Boss** not working properly when he lunges at the player
+:shiny: [Survival] Fixed **Minotaur Boss** not working properly when lunging at the player.
 
-:shiny: [Survival] Modified **Crafting Stations** default code, ensuring they are running smoothly
-:shiny: [Survival] Disabled **Sinister, Dracula & Leviathan** Crafting stations due to **Incompatibility**
+:shiny: [Survival] Modified **Crafting Stations** default code to ensure they run smoothly.
+:shiny: [Survival] Disabled **Sinister, Dracula & Leviathan** Crafting Stations due to **Incompatibility**.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Performed Major maintenance on *(3/11/2025)*
 
 **ARENA CHANGES**
 :shiny: [Survival] 
