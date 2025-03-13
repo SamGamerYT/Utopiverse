@@ -9,7 +9,8 @@
 :grass: Added **Generous** point leaderboard at **"/warp Leaderboard"**.
 :grass: Enabled **Daylight Cycle** at **"/spawn"**.
 :grass: Removed **"/recipes"** Interface
-:grass: 
+:grass: Removed **"/panel"** Interface and replaced it with **"/help"** interface
+:grass: Modified **OB Settings** in **"/help"** interface.
 :grass: 
 :grass: 
 :grass: 
