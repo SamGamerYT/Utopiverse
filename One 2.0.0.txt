@@ -8,6 +8,8 @@
 :grass: Added a **Beggar NPC** in front of the **Bank Zone**.
 :grass: Added **Generous** point leaderboard at **"/warp Leaderboard"**.
 :grass: Enabled **Daylight Cycle** at **"/spawn"**.
+:grass: Removed **"/recipes"** Interface
+:grass: 
 :grass: 
 :grass: 
 :grass: 
@@ -17,9 +19,6 @@
 :grass: Added more **Upgrades** and a higher **limit** for your balance.
 :grass: You will now lose an **50%** static amount upon death.
 :grass: Added **Money Lose** hologram near **Bank Manager**.
-:grass: 
-:grass: 
-:grass: 
 
 **HOLOGRAMS** *(Created by Idiomaticsss)* 
 :grass: 
