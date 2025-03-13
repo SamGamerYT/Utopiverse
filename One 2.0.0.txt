@@ -12,7 +12,7 @@
 :grass: Removed **"/panel"** Interface and replaced it with **"/help"** interface
 :grass: Modified **OB Settings** in **"/help"** interface.
 :grass: Added **Helpful Security** guard near the **Bank Vault**
-:grass: 
+:grass: **Helpful Security** interface will have an option to fix your **OB Block**
 :grass: 
 :grass: 
 :grass: 
