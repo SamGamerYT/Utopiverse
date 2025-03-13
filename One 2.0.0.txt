@@ -11,6 +11,9 @@
 :grass: Removed **"/recipes"** Interface
 :grass: Removed **"/panel"** Interface and replaced it with **"/help"** interface
 :grass: Modified **OB Settings** in **"/help"** interface.
+:grass: Added **Helpful Security** guard near the **Bank Vault**
+:grass: 
+:grass: 
 :grass: 
 :grass: 
 :grass: 
