@@ -15,8 +15,8 @@
 :shiny: [Survival] Performed Major maintenance on *(3/11/2025)*
 
 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Steel Armour** not working the way it should.
+:shiny: [Survival] Improved **Metamorphic Rock**, it will now also upgrade armour durability.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
