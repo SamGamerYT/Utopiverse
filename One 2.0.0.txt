@@ -14,6 +14,9 @@
 :grass: Added **Helpful Security** guard near the **Bank Vault**
 :grass: **Helpful Security** interface will have an option to fix your **OB Block** 
 :grass: 
+
+**ISLAND**
+:grass: Upgradable Radius is now up to **600x600** instead of **400x400**
 :grass: 
 :grass: 
 :grass: 
