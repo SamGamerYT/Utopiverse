@@ -18,7 +18,7 @@
 :shiny: [Survival] Fixed **Steel Armour** not working the way it should.
 :shiny: [Survival] Improved **Metamorphic Rock**, it will now also upgrade armour durability.
 :shiny: [Survival] Modified **NPC's** at **"/warp dungeons"** so they stop despawning.
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Statistic Interface** and Added 5+ new stats!
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
