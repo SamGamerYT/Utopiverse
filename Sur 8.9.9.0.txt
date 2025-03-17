@@ -19,7 +19,7 @@
 :shiny: [Survival] Improved **Metamorphic Rock**, it will now also upgrade armour durability.
 :shiny: [Survival] Modified **NPC's** at **"/warp dungeons"** so they stop despawning.
 :shiny: [Survival] Modified **Statistic Interface** and Added 5+ new stats!
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Mob Economy Drop** message in **Dungeons**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
