@@ -80,6 +80,7 @@
 :shiny: [Survival] 
 
 **HUB REALM**
+:sdragon: [Lobby] Added **_WhippyFireX9** & **_WhyYousFlyn** NPC's around the **"/spawn"**
 :sdragon: [Lobby] 
 
 **NETWORK**
