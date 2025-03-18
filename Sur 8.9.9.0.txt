@@ -25,6 +25,8 @@
 :shiny: [Survival] 
 
 :shiny: [Survival] Removed **Rankup** information from **Scoreboard**
+:shiny: [Survival] Added **Title** congratulations and fireworks whenever someone rankups
+:shiny: [Survival] 
 
 **ARENA CHANGES**
 :shiny: [Survival] 
