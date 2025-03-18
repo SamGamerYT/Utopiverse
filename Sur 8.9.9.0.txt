@@ -27,6 +27,7 @@
 :shiny: [Survival] Removed **Rankup** information from **Scoreboard**
 :shiny: [Survival] Added **Title** congratulations and fireworks whenever someone rankups
 :shiny: [Survival] Switched the entire system of **rankups**, added confirmation before ranking up.
+:shiny: [Survival] You will now see rankup, supporter role and staff role in chat instead of just rankup, and either supporter or staff.
 :shiny: [Survival] 
 
 **ARENA CHANGES**
