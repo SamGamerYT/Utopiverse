@@ -24,6 +24,8 @@
 :shiny: [Survival] Modified **Statistic Interface** and Added 5+ new stats!
 :shiny: [Survival] 
 
+:shiny: [Survival] Removed **Rankup** information from **Scoreboard**
+
 **ARENA CHANGES**
 :shiny: [Survival] 
 
