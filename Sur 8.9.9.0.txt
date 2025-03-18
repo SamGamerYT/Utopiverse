@@ -8,26 +8,24 @@
 
 :shiny: [Survival] Modified **Crafting Stations** default code to ensure they run smoothly.
 :shiny: [Survival] Disabled **Sinister, Dracula & Leviathan** Crafting Stations due to **Incompatibility**.
-:shiny: [Survival] Modified **Medal Trader Station** Interface
-:shiny: [Survival] Modified **Scroll Station** Interface
-:shiny: [Survival] Modified **Guard Trader Station** Interface
-:shiny: [Survival] Modified **Crates Station** Interface
-:shiny: [Survival] Performed Major maintenance on *(3/11/2025)*
+:shiny: [Survival] Modified **Medal Trader Station** interface.
+:shiny: [Survival] Modified **Scroll Station** interface.
+:shiny: [Survival] Modified **Guard Trader Station** interface.
+:shiny: [Survival] Modified **Crates Station** interface.
+:shiny: [Survival] Performed major maintenance on *(3/11/2025)*.
 
+:shiny: [Survival] Fixed **Steel Armour** not working as intended.
+:shiny: [Survival] Improved **Metamorphic Rock**; it will now also upgrade armour durability.
+:shiny: [Survival] Modified **NPCs** at **"/warp dungeons"** to prevent them from despawning.
+:shiny: [Survival] Modified **Mob Economy Drop** message in **Dungeons**.
 
-:shiny: [Survival] Fixed **Steel Armour** not working the way it should.
-:shiny: [Survival] Improved **Metamorphic Rock**, it will now also upgrade armour durability.
-:shiny: [Survival] Modified **NPC's** at **"/warp dungeons"** so they stop despawning.
-:shiny: [Survival] Modified **Mob Economy Drop** message in **Dungeons**
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Statistic Interface** and added **5+** new stats!
 
-:shiny: [Survival] Modified **Statistic Interface** and Added 5+ new stats!
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Rankup** information from the **Scoreboard**.
+:shiny: [Survival] Added a **Title** congratulations and fireworks whenever someone ranks up.
+:shiny: [Survival] Switched the entire **Rankup** system; added a confirmation step before ranking up.
+:shiny: [Survival] Players will now see their **Rankup, Supporter Role, and Staff Role** in chat instead of just Rankup with either Supporter or Staff.
 
-:shiny: [Survival] Removed **Rankup** information from **Scoreboard**
-:shiny: [Survival] Added **Title** congratulations and fireworks whenever someone rankups
-:shiny: [Survival] Switched the entire system of **rankups**, added confirmation before ranking up.
-:shiny: [Survival] You will now see rankup, supporter role and staff role in chat instead of just rankup, and either supporter or staff.
 :shiny: [Survival] 
 
 **ARENA CHANGES**
