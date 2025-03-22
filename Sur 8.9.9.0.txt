@@ -26,122 +26,16 @@
 :shiny: [Survival] Switched the entire **Rankup** system; added a confirmation step before ranking up.
 :shiny: [Survival] Players will now see their **Rankup, Supporter Role, and Staff Role** in chat instead of just Rankup with either Supporter or Staff.
 
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-
-**FARMING**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**FISHING** *(YuxuFG)*
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
-
-**BLACKSMITH**
-:shiny: [Survival] 
-
-**CODEX**
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
-**DUNGEON**
-:shiny: [Survival]
-
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
-
 **/SHOP** *(_QueenChaos95180)*
 :shiny: [Survival] Updated **"/sellg"** not opening the interface sometimes.
-:shiny: [Survival] 
-:shiny: [Survival] 
 
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**BUILD** *(_RECON1stbat)*
-:shiny: [Survival] 
+**CHAT GAMES** *(_QueenChaos95180)*
+:shiny: [Survival] Updated & Fixed typos, errors and other things.
 
 **HUB REALM**
 :sdragon: [Lobby] Added **_WhippyFireX9** & **_WhyYousFlyn** NPC's around the **"/spawn"**
-:sdragon: [Lobby] 
 
 **NETWORK**
 :spaceheart1: [Network] Performed Maintenance on **Friends** join system. *(3/9/2025)*
-:spaceheart1: [Network] 
 
 **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(_RECON1stbat)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
