@@ -1,5 +1,8 @@
 **Patch/Changes 8.9.10.0** *(Network Changes)*
 :shiny: [Survival] Performed Maintenanced on **Core** *(3/23/2025)*
+:shiny: [Survival] Heavily improved **Ram Usage**
+:shiny: [Survival] Fixed a bug related to broken placeholders in **TAB** *(Java Edition)*
+:shiny: [Survival] Modified **TAB Layout** *(Java Edition)*
 :shiny: [Survival] 
 :shiny: [Survival] 
 
