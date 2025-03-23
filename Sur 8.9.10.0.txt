@@ -61,6 +61,7 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Performed maintenaince on **Friends System** *(3/23/2025)*
 :spaceheart1: [Network] 
 
 **[ @Changelogs ]**
