@@ -1,4 +1,6 @@
 **Patch/Changes 8.9.10.0** *(Network Changes)*
+:shiny: [Survival] Performed Maintenanced on **Core** *(3/23/2025)*
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 :shiny: [Survival] 
