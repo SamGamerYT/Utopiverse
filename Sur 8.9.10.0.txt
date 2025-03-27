@@ -63,11 +63,14 @@
 :shiny: [Survival] 
 
 **HUB REALM**
-:sdragon: [Lobby] Fixed ranks appearing right next to displayname without space in **TAB** & **Chat**
+:sdragon: [Lobby] Fixed ranks appearing directly next to display names without spacing in **TAB** and **Chat**.
+:sdragon: [Lobby] Performed optimizations for multi-version support to ensure the hub remains optimized.
+:sdragon: [Lobby] Updated to **1.21.4** and now supports versions **1.20.x**
+:sdragon: [Lobby] 
 :sdragon: [Lobby] 
 
 **NETWORK**
-:spaceheart1: [Network] Performed maintenaince on **Friends System** *(3/23/2025)*
+:spaceheart1: [Network] Performed maintenance on the **Friends System** *(3/23/2025)*.
 :spaceheart1: [Network] 
 
 **[ @Changelogs ]**
