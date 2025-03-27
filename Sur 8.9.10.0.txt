@@ -63,6 +63,7 @@
 :shiny: [Survival] 
 
 **HUB REALM**
+:sdragon: [Lobby] Fixed ranks appearing right next to displayname without space in **TAB** & **Chat**
 :sdragon: [Lobby] 
 
 **NETWORK**
