@@ -4,8 +4,8 @@
 :shiny: [Survival] Fixed a bug related to broken placeholders in **TAB** *(Java Edition)*
 :shiny: [Survival] Modified **TAB Layout** *(Java Edition)*
 :shiny: [Survival] Major Modification to **"/artifacts"**, Heavily Reduced **Artifacts** slots and added **Core Slot**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] **Chest Protection** has been removed due to no longer being supported.
+:shiny: [Survival] **Bedrock** players can now switch pages again.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
