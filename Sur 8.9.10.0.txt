@@ -67,7 +67,6 @@
 :sdragon: [Lobby] Performed optimizations for multi-version support to ensure the hub remains optimized.
 :sdragon: [Lobby] Updated to **1.21.4** and now supports versions **1.20.x**
 :sdragon: [Lobby] 
-:sdragon: [Lobby] 
 
 **NETWORK**
 :spaceheart1: [Network] Performed maintenance on the **Friends System** *(3/23/2025)*.
