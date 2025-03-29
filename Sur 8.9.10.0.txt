@@ -31,6 +31,10 @@
 **CODEX**
 :shiny: [Survival] 
 
+**CRATES**
+:shiny: [Survival] Removed **VOTE WAND** from **Vote Crate**
+:shiny: [Survival] 
+
 **TINKERER**
 :shiny: [Survival] 
 
