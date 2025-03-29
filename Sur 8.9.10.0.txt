@@ -33,6 +33,7 @@
 
 **CRATES**
 :shiny: [Survival] Removed **VOTE WAND** from **Vote Crate**
+:shiny: [Survival] Revamped **Vote Crate**, Added Me
 :shiny: [Survival] 
 
 **TINKERER**
