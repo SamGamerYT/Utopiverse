@@ -26,6 +26,7 @@
 :shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
+:shiny: [Survival] Fixed **Forge** and **Weapon Shelf** crafting stations at **"/blacksmith"**
 :shiny: [Survival] 
 
 **CODEX**
