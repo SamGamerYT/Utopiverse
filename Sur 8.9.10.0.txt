@@ -6,7 +6,7 @@
 :shiny: [Survival] Major Modification to **"/artifacts"**, Heavily Reduced **Artifacts** slots and added **Core Slot**
 :shiny: [Survival] **Chest Protection** has been removed due to no longer being supported.
 :shiny: [Survival] **Bedrock** players can now switch pages again.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Auction House** showing oddly broken bolded **sale message**
 :shiny: [Survival] 
 
 :shiny: [Survival] 
