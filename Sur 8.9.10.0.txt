@@ -33,7 +33,7 @@
 
 **CRATES**
 :shiny: [Survival] Removed **VOTE WAND** from **Vote Crate**
-:shiny: [Survival] Revamped **Vote Crate**, Added Me
+:shiny: [Survival] Revamped **Vote Crate**, Added **Metamorphic Rock** as reward.
 :shiny: [Survival] 
 
 **TINKERER**
