@@ -1,22 +1,22 @@
 **Patch/Changes 8.9.10.0** *(Network Changes)*
-:shiny: [Survival] Performed Maintenanced on **Core** *(3/23/2025)*
-:shiny: [Survival] Heavily improved **Ram Usage**
-:shiny: [Survival] Fixed a bug related to broken placeholders in **TAB** *(Java Edition)*
-:shiny: [Survival] Modified **TAB Layout** *(Java Edition)*
-:shiny: [Survival] Major Modification to **"/artifacts"**, Heavily Reduced **Artifacts** slots and added **Core Slot**
+:shiny: [Survival] Performed maintenance on **Core** *(3/23/2025)*.
+:shiny: [Survival] Heavily improved **RAM usage**.
+:shiny: [Survival] Fixed a bug related to broken placeholders in **TAB** *(Java Edition)*.
+:shiny: [Survival] Modified **TAB Layout** *(Java Edition)*.
+:shiny: [Survival] Major modification to **"/artifacts"** – heavily reduced **Artifact Slots** and added a **Core Slot**.
 :shiny: [Survival] **Chest Protection** has been removed due to no longer being supported.
 :shiny: [Survival] **Bedrock** players can now switch pages again.
-:shiny: [Survival] Fixed **Auction House** showing oddly broken bolded **sale message**
-:shiny: [Survival] Fixed expiration date for **Auction House**
-:shiny: [Survival] Fixed **Bank NPC** not showing **Bank Interface**
-:shiny: [Survival] Improved **Bank Interface** by adding **Money Making methods**
+:shiny: [Survival] Fixed **Auction House** showing broken bolded **Sale Message**.
+:shiny: [Survival] Fixed **Auction House** expiration date display.
+:shiny: [Survival] Fixed **Bank NPC** not opening the **Bank Interface**.
+:shiny: [Survival] Improved the **Bank Interface** by adding **Money-Making Methods**.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
 :shiny: [Survival] 
 
 **ARENA CHANGES**
-:shiny: [Survival] **DISABLED** for the time being due to code problems.
+:shiny: [Survival] **DISABLED** a feature for the time being due to code problems.
 
 **FARMING**
 :shiny: [Survival] 
@@ -30,15 +30,15 @@
 :shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
-:shiny: [Survival] Fixed **Forge** and **Weapon Shelf** crafting stations at **"/blacksmith"**
+:shiny: [Survival] Fixed **Forge** and **Weapon Shelf** crafting stations at **"/blacksmith"**.
 :shiny: [Survival] 
 
 **CODEX**
 :shiny: [Survival] 
 
 **CRATES**
-:shiny: [Survival] Removed **VOTE WAND** from **Vote Crate**
-:shiny: [Survival] Revamped **Vote Crate**, Added **Metamorphic Rock** as reward.
+:shiny: [Survival] Removed **VOTE WAND** from the **Vote Crate**.
+:shiny: [Survival] Revamped the **Vote Crate**; added **Metamorphic Rock** as a reward.
 :shiny: [Survival] 
 
 **TINKERER**
