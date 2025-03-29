@@ -7,6 +7,8 @@
 :shiny: [Survival] **Chest Protection** has been removed due to no longer being supported.
 :shiny: [Survival] **Bedrock** players can now switch pages again.
 :shiny: [Survival] Fixed **Auction House** showing oddly broken bolded **sale message**
+:shiny: [Survival] Fixed expiration date for **Auction House**
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 :shiny: [Survival] 
