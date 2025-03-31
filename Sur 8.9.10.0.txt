@@ -15,6 +15,7 @@
 :shiny: [Survival] 
 
 :shiny: [Survival] Removed **Levelling Mobs** from **Primary World**
+:shiny: [Survival] Relocated **EXCHANGER NPC** from **"/warp bank"** to **"/warp frost"**
 :shiny: [Survival] 
 
 **ARENA CHANGES**
