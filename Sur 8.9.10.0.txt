@@ -10,9 +10,11 @@
 :shiny: [Survival] Fixed **Auction House** expiration date display.
 :shiny: [Survival] Fixed **Bank NPC** not opening the **Bank Interface**.
 :shiny: [Survival] Improved the **Bank Interface** by adding **Money-Making Methods**.
+:shiny: [Survival] Fixed **"/pets"** not working the way it should.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+:shiny: [Survival] Removed **Levelling Mobs** from **Primary World**
 :shiny: [Survival] 
 
 **ARENA CHANGES**
