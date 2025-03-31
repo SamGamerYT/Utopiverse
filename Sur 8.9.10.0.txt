@@ -13,6 +13,8 @@
 :shiny: [Survival] Fixed **"/pets"** not working the way it should.
 :shiny: [Survival] Fixed **Rewards Interface** not popping up through the NPC
 :shiny: [Survival] Enabled **"/buy"** command that is connected to our store.
+:shiny: [Survival] Heavily improved **Command Suggestion** system, should make player's experience bug free and smoother.
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 :shiny: [Survival] Removed **Levelling Mobs** from **Primary World**
