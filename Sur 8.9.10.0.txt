@@ -19,7 +19,7 @@
 
 :shiny: [Survival] Removed **Levelling Mobs** from **Primary World**
 :shiny: [Survival] Relocated **EXCHANGER NPC** from **"/warp bank"** to **"/warp frost"**
-:shiny: [Survival] Removed **"/copper", /coppertrader, /copper-trader"** commands.
+:shiny: [Survival] Removed **"/copper", /coppertrader, /copper-trader, /cb & /catab"** commands.
 :shiny: [Survival] 
 
 **ARENA CHANGES**
