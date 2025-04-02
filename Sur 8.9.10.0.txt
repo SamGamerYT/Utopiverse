@@ -90,7 +90,7 @@
 
 **NETWORK**
 :spaceheart1: [Network] Performed maintenance on the **Friends System** *(3/23/2025)*.
-:spaceheart1: [Network] 
+:spaceheart1: [Network] Server now supports **1.21.5** connection.
 
 **WEBSITE**
 :computer: [Website] Removed **Advertisements** from **www.utopiverse.net** *(Sponsored by _BedroomHero53)*
