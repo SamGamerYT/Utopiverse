@@ -92,6 +92,10 @@
 :spaceheart1: [Network] Performed maintenance on the **Friends System** *(3/23/2025)*.
 :spaceheart1: [Network] 
 
+**WEBSITE**
+:computer: [Website] Removed **Advertisements** from **www.utopiverse.net** *(Sponsored by _BedroomHero53)*
+:computer: [Website] 
+
 **[ @Changelogs ]**
 
 TO DO LIST:
