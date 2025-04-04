@@ -25,8 +25,8 @@
 
 **BANK**
 :shiny: [Survival] Removed **Bank Interest**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Bank Interface** for easier navigation and more modern look
+:shiny: [Survival] Added **Six upgrades** that you can purchase for your bank
 
 **ARENA CHANGES**
 :shiny: [Survival] **DISABLED** a feature for the time being due to code problems.
