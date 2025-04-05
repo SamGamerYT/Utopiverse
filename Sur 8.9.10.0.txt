@@ -44,27 +44,16 @@
 
 **BLACKSMITH**
 :shiny: [Survival] Fixed **Forge** and **Weapon Shelf** crafting stations at **"/blacksmith"**.
-:shiny: [Survival] 
-
-**CODEX**
-:shiny: [Survival] 
 
 **CRATES**
 :shiny: [Survival] Removed **VOTE WAND** from the **Vote Crate**.
 :shiny: [Survival] Revamped the **Vote Crate**; added **Metamorphic Rock** as a reward.
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
-**DUNGEON**
-:shiny: [Survival]
 
 **DUNGEON FROST CHANGES**
-:shiny: [Survival] 
+:shiny: [Survival] Disabled the usage of **Fly**
 
 **DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
+:shiny: [Survival] Disabled the usage of **Fly**
 
 **/SHOP** *(_QueenChaos95180)*
 :shiny: [Survival] 
