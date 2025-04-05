@@ -10,23 +10,23 @@
 :shiny: [Survival] Fixed **Auction House** expiration date display.
 :shiny: [Survival] Fixed **Bank NPC** not opening the **Bank Interface**.
 :shiny: [Survival] Improved the **Bank Interface** by adding **Money-Making Methods**.
-:shiny: [Survival] Fixed **"/pets"** not working the way it should.
-:shiny: [Survival] Fixed **Rewards Interface** not popping up through the NPC
-:shiny: [Survival] Enabled **"/buy"** command that is connected to our store.
-:shiny: [Survival] Heavily improved **Command Suggestion** system, should make player's experience bug free and smoother.
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **"/pets"** not working as intended.
+:shiny: [Survival] Fixed **Rewards Interface** not popping up through the NPC.
+:shiny: [Survival] Enabled the **"/buy"** command connected to our store.
+:shiny: [Survival] Heavily improved the **Command Suggestion** system for a smoother, bug-free player experience.
 
-:shiny: [Survival] Removed **Levelling Mobs** from **Primary World**
-:shiny: [Survival] Relocated **EXCHANGER NPC** from **"/warp bank"** to **"/warp frost"**
-:shiny: [Survival] Removed **"/copper", /coppertrader, /copper-trader, /cb & /catab"** commands.
-:shiny: [Survival] Removed **Level Requirement** from over **178** items for now.
+:shiny: [Survival] Removed **Levelling Mobs** from the **Primary World**.
+:shiny: [Survival] Relocated **EXCHANGER NPC** from **"/warp bank"** to **"/warp frost"**.
+:shiny: [Survival] Removed **"/copper"**, **/coppertrader**, **/copper-trader**, **/cb**, & **/catab** commands.
+:shiny: [Survival] Temporarily removed **Level Requirement** from over **178** items.
+
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **BANK**
-:shiny: [Survival] Removed **Bank Interest**
-:shiny: [Survival] Added **Bank Interface** for easier navigation and more modern look
-:shiny: [Survival] Added **Six upgrades** that you can purchase for your bank
+:shiny: [Survival] Removed **Bank Interest**.
+:shiny: [Survival] Added a **Bank Interface** for easier navigation and a more modern look.
+:shiny: [Survival] Added **six upgrades** that you can purchase for your bank.
 
 **ARENA CHANGES**
 :shiny: [Survival] **DISABLED** a feature for the time being due to code problems.
@@ -91,16 +91,14 @@
 **HUB REALM**
 :sdragon: [Lobby] Fixed ranks appearing directly next to display names without spacing in **TAB** and **Chat**.
 :sdragon: [Lobby] Performed optimizations for multi-version support to ensure the hub remains optimized.
-:sdragon: [Lobby] Updated to **1.21.4** and now supports versions **1.20.x**
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Updated to **1.21.4** and now supports versions **1.20.x**.
 
 **NETWORK**
 :spaceheart1: [Network] Performed maintenance on the **Friends System** *(3/23/2025)*.
-:spaceheart1: [Network] Server now supports **1.21.5** connection.
+:spaceheart1: [Network] Server now supports **1.21.5** connections.
 
 **WEBSITE**
-:computer: [Website] Removed **Advertisements** from **www.utopiverse.net** *(Sponsored by _BedroomHero53)*
-:computer: [Website] 
+:computer: [Website] Removed **Advertisements** from **www.utopiverse.net** *(Sponsored by _BedroomHero53)*.
 
 **[ @Changelogs ]**
 
