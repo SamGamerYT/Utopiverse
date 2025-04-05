@@ -20,9 +20,6 @@
 :shiny: [Survival] Removed **"/copper"**, **/coppertrader**, **/copper-trader**, **/cb**, & **/catab** commands.
 :shiny: [Survival] Temporarily removed **Level Requirement** from over **178** items.
 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
 **BANK**
 :shiny: [Survival] Removed **Bank Interest**.
 :shiny: [Survival] Added a **Bank Interface** for easier navigation and a more modern look.
@@ -30,17 +27,6 @@
 
 **ARENA CHANGES**
 :shiny: [Survival] **DISABLED** a feature for the time being due to code problems.
-
-**FARMING**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**FISHING** *(YuxuFG)*
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
 :shiny: [Survival] Fixed **Forge** and **Weapon Shelf** crafting stations at **"/blacksmith"**.
@@ -55,28 +41,6 @@
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Disabled the usage of **Fly**
 
-**/SHOP** *(_QueenChaos95180)*
-:shiny: [Survival] 
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**BUILD** *(_RECON1stbat)*
-:shiny: [Survival] 
-
 **HUB REALM**
 :sdragon: [Lobby] Fixed ranks appearing directly next to display names without spacing in **TAB** and **Chat**.
 :sdragon: [Lobby] Performed optimizations for multi-version support to ensure the hub remains optimized.
@@ -90,55 +54,3 @@
 :computer: [Website] Removed **Advertisements** from **www.utopiverse.net** *(Sponsored by _BedroomHero53)*.
 
 **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(_RECON1stbat)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
