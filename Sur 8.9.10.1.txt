@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.1** *(Network Changes)*
 :shiny: [Survival] Dependencies Updated *(4/4/2025)*
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Modified **AFK Dust** and **AFK Crystal** lore to let players know where to trade.
+:shiny: [Survival] Fixed custom **Mobs** hitbox issue
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
