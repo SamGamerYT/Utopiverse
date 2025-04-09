@@ -2,7 +2,7 @@
 :shiny: [Survival] Dependencies updated *(4/4/2025)*.
 :shiny: [Survival] Modified **AFK Dust** and **AFK Crystal** lore to inform players where to trade them.
 :shiny: [Survival] Fixed custom **Mobs** hitbox issue.
-:shiny: [Survival] 
+:shiny: [Survival] Recoded **Portals System**, Modified the entire portal system to avoid facing lag.
 :shiny: [Survival] 
 
 :shiny: [Survival] 
