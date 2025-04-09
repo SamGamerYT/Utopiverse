@@ -4,32 +4,15 @@
 :shiny: [Survival] Fixed custom **Mobs** hitbox issue.
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
-:shiny: [Survival] 
 :shiny: [Survival] 
 
 **BANK**
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **FARMING**
-:shiny: [Survival] 
 :shiny: [Survival] 
 
 **FISHING** *(YuxuFG)*
@@ -97,6 +80,20 @@ TO DO LIST:
 tik tok tag (freeby) 
 youtube tag (freeby) 
 
+[ :white_check_mark: ] ~~Legendary Crate needs re-done for the new items~~
+[ :white_check_mark: ] ~~Crates with items (items that have enchantments) needs fixing~~
+[] Daily Streak 2.0
+[ :white_check_mark: ] ~~Spawner Stacking problem~~
+[ :white_check_mark: ] ~~Bed not working properly~~
+[ :white_check_mark: ] ~~pets not working properly~~
+[ :white_check_mark: ] ~~Mobs despawning in Mine Dungeon~~
+[ :white_check_mark: ] ~~Auction House not broadcasting in chat~~
+[] Scroll rewards are outdated, a total revamp is required
+[] Dungeon gears are taking more damage than they should **NOT A BUG APPARENTLY**
+[ :white_check_mark: ] ~~Scrolls are not redeemable~~
+[ :white_check_mark: ] ~~Fix the entire command blocking/enabling system *(major help by whippy)*~~
+[ :white_check_mark: ] ~~Hunger depleting at spawn~~
+
 **WEBSTORE**
 **DUNGEON DROPTABLE**
 **FISHING**
@@ -144,3 +141,7 @@ youtube tag (freeby)
 **DUNGEON FROST CHANGES**
 **DUNGEON VOLCANO CHANGES**
 **DUNGEON WASTELAND CHANGES**
+
+
+
+
