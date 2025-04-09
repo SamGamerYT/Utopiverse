@@ -28,9 +28,6 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-**ARENA CHANGES**
-:shiny: [Survival] 
-
 **FARMING**
 :shiny: [Survival] 
 :shiny: [Survival] 
