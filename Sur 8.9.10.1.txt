@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.1** *(Network Changes)*
-:shiny: [Survival] Dependencies Updated *(4/4/2025)*
-:shiny: [Survival] Modified **AFK Dust** and **AFK Crystal** lore to let players know where to trade.
-:shiny: [Survival] Fixed custom **Mobs** hitbox issue
+:shiny: [Survival] Dependencies updated *(4/4/2025)*.
+:shiny: [Survival] Modified **AFK Dust** and **AFK Crystal** lore to inform players where to trade them.
+:shiny: [Survival] Fixed custom **Mobs** hitbox issue.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -46,7 +46,7 @@
 :shiny: [Survival] 
 
 **CRATES**
-:shiny: [Survival] Modified **Legendary Crate** item lore for **Legendary+**, it is now up to date.
+:shiny: [Survival] Modified **Legendary Crate** item lore for **Legendary+**; it is now up to date.
 
 **TINKERER**
 :shiny: [Survival] 
