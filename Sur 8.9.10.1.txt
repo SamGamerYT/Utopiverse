@@ -46,7 +46,7 @@
 :shiny: [Survival] 
 
 **CRATES**
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Legendary Crate** item lore for **Legendary+**, it is now up to date.
 
 **TINKERER**
 :shiny: [Survival] 
