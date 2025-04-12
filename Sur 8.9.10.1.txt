@@ -69,6 +69,7 @@
 :shiny: [Survival] 
 
 **HUB REALM**
+:sdragon: [Lobby] Fixed **Music** not playing properly in **Block Party**
 :sdragon: [Lobby] 
 
 **NETWORK**
