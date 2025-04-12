@@ -5,7 +5,7 @@
 :shiny: [Survival] Recoded **Portals System**, Modified the entire portal system to avoid facing lag.
 :shiny: [Survival] Fixed **Spawner Crate** not giving players **Mooshroom Spawner**
 
-:shiny: [Survival] 
+:shiny: [Survival] heavily improved **Spooder droptable** *(Tested by _WhippyFireX9)*
 :shiny: [Survival] 
 :shiny: [Survival] 
 
