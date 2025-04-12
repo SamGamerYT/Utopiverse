@@ -3,8 +3,10 @@
 :shiny: [Survival] Modified **AFK Dust** and **AFK Crystal** lore to inform players where to trade them.
 :shiny: [Survival] Fixed custom **Mobs** hitbox issue.
 :shiny: [Survival] Recoded **Portals System**, Modified the entire portal system to avoid facing lag.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Spawner Crate** not giving players **Mooshroom Spawner**
 
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 :shiny: [Survival] 
