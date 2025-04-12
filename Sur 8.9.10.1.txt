@@ -28,6 +28,7 @@
 :shiny: [Survival] 
 
 **CODEX**
+:shiny: [Survival] Added **Drop rates** to entirety of **Mine Dungeon** mobs
 :shiny: [Survival] 
 
 **CRATES**
