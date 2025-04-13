@@ -13,6 +13,7 @@
 :grass: Modified **OB Settings** in **"/help"** interface.
 :grass: Added **Helpful Security** guard near the **Bank Vault**
 :grass: **Helpful Security** interface will have an option to fix your **OB Block** 
+:grass: Added **PVP NPC Hologram**
 :grass: 
 
 **ISLAND**
