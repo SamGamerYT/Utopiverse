@@ -7,7 +7,7 @@
 
 :shiny: [Survival] heavily improved **Spooder droptable** *(Tested by _WhippyFireX9)*
 :shiny: [Survival] Fixed an issue with **Death Chest** inventory spamming when you die.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **"/fix"** interface not working properly.
 
 :shiny: [Survival] 
 
