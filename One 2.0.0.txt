@@ -1,7 +1,6 @@
 **Patch/Changes 2.0.0** *[Oneblock]*
 :grass: **Artifacts** interface will now open with **"/armory"**.
 :grass: Fixed **"/help"** not displaying the player's helmet, main-hand, and off-hand items.
-:grass: Modified **Welcome Hologram**; added correct and up-to-date information.
 :grass: Fixed **Sit, Lay, and Bellyflop** system showing broken messages.
 :grass: Added **Decoration Lamps** around the **Spawn Zone**.
 :grass: Added **Store NPC** at **"/warp bank"**.
@@ -13,7 +12,14 @@
 :grass: Modified **OB Settings** in **"/help"** interface.
 :grass: Added **Helpful Security** guard near the **Bank Vault**
 :grass: **Helpful Security** interface will have an option to fix your **OB Block** 
+
+
+**HOLOGRAMS**
+:grass: Modified **Welcome Hologram**; added correct and up-to-date information.
 :grass: Added **PVP NPC Hologram**
+:grass: Modified **"/blacksmith"** Area hologram.
+:grass: 
+:grass: 
 :grass: 
 
 **ISLAND**
