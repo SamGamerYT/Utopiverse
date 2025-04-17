@@ -71,7 +71,7 @@
 **HUB REALM**
 :sdragon: [Lobby] Fixed **Music** not playing properly in **Block Party**
 :sdragon: [Lobby] Updated Dependencies *(4/17/2025)*
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Added **TNT Tag** minigame for **Weekend Events**
 
 **NETWORK**
 :spaceheart1: [Network] 
