@@ -70,6 +70,7 @@
 
 **HUB REALM**
 :sdragon: [Lobby] Fixed **Music** not playing properly in **Block Party**
+:sdragon: [Lobby] Updated Dependencies *(4/17/2025)*
 :sdragon: [Lobby] 
 
 **NETWORK**
