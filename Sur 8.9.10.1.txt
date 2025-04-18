@@ -13,6 +13,8 @@
 :shiny: [Survival] Recoded the entire **"/daily"** system.
 :shiny: [Survival] Added **Daily Chest** at **"/warp mine"** where you can view countdown for streak.
 
+:shiny: [Survival] Added **Brand New** rewards for all of the **scrolls!** *(_QueenChaos95180)*
+
 **BANK**
 :shiny: [Survival] 
 
