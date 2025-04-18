@@ -8,8 +8,10 @@
 :shiny: [Survival] Heavily improved **Spooder** droptable *(Tested by _WhippyFireX9)*.
 :shiny: [Survival] Fixed an issue with **Death Chest** inventory spamming upon death.
 :shiny: [Survival] Fixed **"/fix"** interface not working properly.
+:shiny: [Survival] Fixed **utilities furnitures** not operating the way they should.
+
 :shiny: [Survival] Recoded the entire **"/daily"** system.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Daily Chest** at **"/warp mine"** where you can view countdown for streak.
 
 **BANK**
 :shiny: [Survival] 
@@ -84,20 +86,6 @@
 TO DO LIST:
 tik tok tag (freeby) 
 youtube tag (freeby) 
-
-[ :white_check_mark: ] ~~Legendary Crate needs re-done for the new items~~
-[ :white_check_mark: ] ~~Crates with items (items that have enchantments) needs fixing~~
-[] Daily Streak 2.0
-[ :white_check_mark: ] ~~Spawner Stacking problem~~
-[ :white_check_mark: ] ~~Bed not working properly~~
-[ :white_check_mark: ] ~~pets not working properly~~
-[ :white_check_mark: ] ~~Mobs despawning in Mine Dungeon~~
-[ :white_check_mark: ] ~~Auction House not broadcasting in chat~~
-[] Scroll rewards are outdated, a total revamp is required
-[] Dungeon gears are taking more damage than they should **NOT A BUG APPARENTLY**
-[ :white_check_mark: ] ~~Scrolls are not redeemable~~
-[ :white_check_mark: ] ~~Fix the entire command blocking/enabling system *(major help by whippy)*~~
-[ :white_check_mark: ] ~~Hunger depleting at spawn~~
 
 **WEBSTORE**
 **DUNGEON DROPTABLE**
