@@ -1,15 +1,14 @@
 **Patch/Changes 8.9.10.1** *(Network Changes)*
 :shiny: [Survival] Dependencies updated *(4/4/2025)*.
 :shiny: [Survival] Modified **AFK Dust** and **AFK Crystal** lore to inform players where to trade them.
+:shiny: [Survival] Recoded the **Portals System**; modified the entire system to reduce lag.
+:shiny: [Survival] Fixed **Spawner Crate** not giving players the **Mooshroom Spawner**.
+
 :shiny: [Survival] Fixed custom **Mobs** hitbox issue.
-:shiny: [Survival] Recoded **Portals System**, Modified the entire portal system to avoid facing lag.
-:shiny: [Survival] Fixed **Spawner Crate** not giving players **Mooshroom Spawner**
-
-:shiny: [Survival] heavily improved **Spooder droptable** *(Tested by _WhippyFireX9)*
-:shiny: [Survival] Fixed an issue with **Death Chest** inventory spamming when you die.
+:shiny: [Survival] Heavily improved **Spooder** droptable *(Tested by _WhippyFireX9)*.
+:shiny: [Survival] Fixed an issue with **Death Chest** inventory spamming upon death.
 :shiny: [Survival] Fixed **"/fix"** interface not working properly.
-
-:shiny: [Survival] Recoded the entire **"/daily"** system
+:shiny: [Survival] Recoded the entire **"/daily"** system.
 :shiny: [Survival] 
 
 **BANK**
