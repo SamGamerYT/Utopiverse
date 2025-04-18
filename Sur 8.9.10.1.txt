@@ -27,4 +27,3 @@
 :sdragon: [Lobby] Added **TNT Tag** minigame for **Weekend Events**
 
 **[ @Changelogs ]**
-
