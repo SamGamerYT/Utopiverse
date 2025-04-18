@@ -9,6 +9,7 @@
 :shiny: [Survival] Fixed an issue with **Death Chest** inventory spamming when you die.
 :shiny: [Survival] Fixed **"/fix"** interface not working properly.
 
+:shiny: [Survival] Recoded the entire **"/daily"** system
 :shiny: [Survival] 
 
 **BANK**
