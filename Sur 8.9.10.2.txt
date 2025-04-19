@@ -27,6 +27,7 @@
 :shiny: [Survival] 
 
 **DUNGEON**
+:shiny: [Survival] Fixed **Mine Dungeon** Spawn's portal not working as intended.
 :shiny: [Survival]
 
 **DUNGEON FROST CHANGES**
