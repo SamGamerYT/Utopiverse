@@ -18,6 +18,8 @@
 :shiny: [Survival] 
 
 **CODEX**
+:shiny: [Survival] Added **Drop Rates** to all mobs in the **Frost Dungeon**.
+:shiny: [Survival] Fixed some mobs displaying the wrong **Drop Table** in the **Frost Dungeon**.
 :shiny: [Survival] 
 
 **CRATES**
