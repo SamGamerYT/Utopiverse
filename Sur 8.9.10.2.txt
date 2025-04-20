@@ -1,6 +1,7 @@
 **Patch/Changes 8.9.10.2** *(Network Changes)*
 :shiny: [Survival] Updated **Easter 2024 Lootbox** and re-released it for **2025**
 :shiny: [Survival] **Easter Lootbox** will now drop **2 items** instead of **1 item**
+:shiny: [Survival] Fixed **Daily Streak** counting issue with in **Starter Milestones**
 :shiny: [Survival] 
 
 **BANK**
