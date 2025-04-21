@@ -3,6 +3,7 @@
 :shiny: [Survival] **Easter Lootbox** will now drop **2 items** instead of **1 item**
 :shiny: [Survival] Fixed **Daily Streak** counting issue with in **Starter Milestones**
 :shiny: [Survival] Improved **Custom Enchanting**, Maintenanced and improved tracker's system.
+:shiny: [Survival] Added **Closed Chest** custom icon to **Unclaimed** daily rewards in interface.
 :shiny: [Survival] 
 
 **BANK**
