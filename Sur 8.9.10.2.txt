@@ -2,6 +2,7 @@
 :shiny: [Survival] Updated **Easter 2024 Lootbox** and re-released it for **2025**
 :shiny: [Survival] **Easter Lootbox** will now drop **2 items** instead of **1 item**
 :shiny: [Survival] Fixed **Daily Streak** counting issue with in **Starter Milestones**
+:shiny: [Survival] Improved **Custom Enchanting**, Maintenanced and improved tracker's system.
 :shiny: [Survival] 
 
 **BANK**
