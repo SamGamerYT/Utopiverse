@@ -5,7 +5,6 @@
 :grass: Added **Decoration Lamps** around the **Spawn Zone**.
 :grass: Added **Store NPC** at **"/warp bank"**.
 :grass: Added a **Beggar NPC** in front of the **Bank Zone**.
-:grass: Added **Generous** point leaderboard at **"/warp Leaderboard"**.
 :grass: Enabled **Daylight Cycle** at **"/spawn"**.
 :grass: Removed **"/recipes"** Interface
 :grass: Removed **"/panel"** Interface and replaced it with **"/help"** interface
@@ -23,8 +22,9 @@
 :grass: Modified **Welcome Hologram**; added correct and up-to-date information.
 :grass: Added **PVP NPC Hologram**
 :grass: Modified **"/blacksmith"** Area hologram.
-:grass: 
-:grass: 
+
+:grass: Added **Generous** point leaderboard at **"/warp Leaderboard"**.
+:grass: Added **Sky Throne** leaderboard at **"/warp Leaderboard"**.
 :grass: 
 
 **ISLAND**
