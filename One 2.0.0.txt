@@ -39,6 +39,7 @@
 :grass: Added more **Upgrades** and a higher **limit** for your balance.
 :grass: You will now lose an **50%** static amount upon death.
 :grass: Added **Money Lose** hologram near **Bank Manager**.
+:grass: **PiggyBank** obtainable on **Second Floor** at the **Loot Exchanger**
 
 **HOLOGRAMS** *(Created by Idiomaticsss)* 
 :grass: 
