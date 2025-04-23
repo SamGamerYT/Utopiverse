@@ -13,6 +13,11 @@
 :grass: Added **Helpful Security** guard near the **Bank Vault**
 :grass: **Helpful Security** interface will have an option to fix your **OB Block** 
 
+:grass: **Mini Queen, Smart & Sam** will no longer show their username above their head.
+:grass: 
+:grass: 
+:grass: 
+
 
 **HOLOGRAMS**
 :grass: Modified **Welcome Hologram**; added correct and up-to-date information.
