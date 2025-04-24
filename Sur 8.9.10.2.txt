@@ -76,6 +76,7 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Updated network dependency to the latest version *(4/24/2025)*
 :spaceheart1: [Network] 
 
 **WEBSITE**
