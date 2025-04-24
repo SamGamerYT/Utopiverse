@@ -1,9 +1,13 @@
 **Patch/Changes 8.9.10.2** *(Network Changes)*
-:shiny: [Survival] Updated **Easter 2024 Lootbox** and re-released it for **2025**
-:shiny: [Survival] **Easter Lootbox** will now drop **2 items** instead of **1 item**
-:shiny: [Survival] Fixed **Daily Streak** counting issue with in **Starter Milestones**
-:shiny: [Survival] Improved **Custom Enchanting**, Maintenanced and improved tracker's system.
-:shiny: [Survival] Added **Closed Chest** custom icon to **Unclaimed** daily rewards in interface.
+:shiny: [Survival] Updated **Easter 2024 Lootbox** and re-released it for **2025**.
+:shiny: [Survival] **Easter Lootbox** will now drop **2 items** instead of **1 item**.
+:shiny: [Survival] Fixed **Daily Streak** counting issue within **Starter Milestones**.
+:shiny: [Survival] Improved **Custom Enchanting**; performed maintenance and improved the tracker system.
+:shiny: [Survival] Added a **Closed Chest** custom icon to **Unclaimed** daily rewards in the interface.
+
+:shiny: [Survival] **Coinflip** is now fully up to date to ensure no more exploits or crashes occur.
+:shiny: [Survival] Fixed **Coinflip** message issues related to **HEX Code**.
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **BANK**

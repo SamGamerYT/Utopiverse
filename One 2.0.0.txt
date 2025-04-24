@@ -41,6 +41,10 @@
 :grass: Added **Money Lose** hologram near **Bank Manager**.
 :grass: **PiggyBank** obtainable on **Second Floor** at the **Loot Exchanger**
 
+**BLACKSMITH**
+:grass: Added **Spawner Pickaxe T4**, Netherite Based pickaxe.
+:grass: 
+
 **HOLOGRAMS** *(Created by Idiomaticsss)* 
 :grass: 
  
