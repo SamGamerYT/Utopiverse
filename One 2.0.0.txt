@@ -43,6 +43,7 @@
 
 **BLACKSMITH**
 :grass: Added **Spawner Pickaxe T4**, Netherite Based pickaxe.
+:grass: Added **Onyx Shovel** & **Opal Shovel** at the tools forge.
 :grass: 
 
 **HOLOGRAMS** *(Created by Idiomaticsss)* 
