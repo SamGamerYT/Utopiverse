@@ -25,6 +25,7 @@
 :shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
+:shiny: [Survival] Fixed **Ancient Key** recipe error in **Essence Trader**
 :shiny: [Survival] 
 
 **CODEX**
