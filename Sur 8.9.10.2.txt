@@ -8,7 +8,7 @@
 :shiny: [Survival] **Coinflip** is now fully up to date to ensure no more exploits or crashes occur.
 :shiny: [Survival] Fixed **Coinflip** message issues related to **HEX Code**.
 :shiny: [Survival] Fixed **Colourful** Set bonus not working as intended.
-:shiny: [Survival] 
+:shiny: [Survival] Tournaments got modified *(Suggested by _WhippyFireX9)*
 
 **BANK**
 :shiny: [Survival] 
