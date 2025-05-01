@@ -40,6 +40,7 @@
 :grass: You will now lose an **50%** static amount upon death.
 :grass: Added **Money Lose** hologram near **Bank Manager**.
 :grass: **PiggyBank** obtainable on **Second Floor** at the **Loot Exchanger**
+:grass: Added **Default Bank Interface** with tips for players!
 
 **BLACKSMITH**
 :grass: Added **Spawner Pickaxe T4**, Netherite Based pickaxe.
