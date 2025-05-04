@@ -13,7 +13,7 @@
 :grass: **Helpful Security** interface will have an option to fix your **OB Block** 
 
 :grass: **Mini Queen, Smart & Sam** will no longer show their username above their head.
-:grass: 
+:grass: Players can now allow TNT at their island!
 :grass: 
 :grass: 
 
