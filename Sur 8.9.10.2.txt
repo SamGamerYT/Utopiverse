@@ -8,13 +8,13 @@
 :shiny: [Survival] **Coinflip** is now fully up to date to ensure no more exploits or crashes occur.
 :shiny: [Survival] Fixed **Coinflip** message issues related to **HEX Code**.
 :shiny: [Survival] Fixed **Colourful** Set bonus not working as intended.
-:shiny: [Survival] Tournaments got modified *(Suggested by _WhippyFireX9)*
+:shiny: [Survival] Tournaments got modified *(Suggested by _WhippyFireX9)*.
 
 **FARMING**
-:shiny: [Survival] Fixed **Soil Pot, Scarecrow** and **Other** tools were showing the wrong name in crafting station.
+:shiny: [Survival] Fixed **Soil Pot**, **Scarecrow**, and other tools showing the wrong name in the crafting station.
 
 **BLACKSMITH**
-:shiny: [Survival] Fixed **Ancient Key** recipe error in **Essence Trader**
+:shiny: [Survival] Fixed **Ancient Key** recipe error in **Essence Trader**.
 
 **CODEX**
 :shiny: [Survival] Added **Drop Rates** to all mobs in the **Frost Dungeon**.
@@ -26,11 +26,7 @@
 :shiny: [Survival] Fixed **Mine Dungeon** Spawn's portal not working as intended.
 
 **NETWORK**
-:spaceheart1: [Network] Updated network dependency to the latest version *(4/24/2025)*
-:spaceheart1: [Network] Updated **Friends System** to latest 1.21.80 *(5/6/2025)*
+:spaceheart1: [Network] Updated network dependency to the latest version *(4/24/2025)*.
+:spaceheart1: [Network] Updated **Friends System** to latest **1.21.80** *(5/6/2025)*.
 
 **[ @Changelogs ]**
-
-
-
-
