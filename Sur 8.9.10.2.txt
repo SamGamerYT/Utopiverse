@@ -10,133 +10,26 @@
 :shiny: [Survival] Fixed **Colourful** Set bonus not working as intended.
 :shiny: [Survival] Tournaments got modified *(Suggested by _WhippyFireX9)*
 
-**BANK**
-:shiny: [Survival] 
-
 **FARMING**
 :shiny: [Survival] Fixed **Soil Pot, Scarecrow** and **Other** tools were showing the wrong name in crafting station.
-:shiny: [Survival] 
-
-**FISHING** *(YuxuFG)*
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
 :shiny: [Survival] Fixed **Ancient Key** recipe error in **Essence Trader**
-:shiny: [Survival] 
 
 **CODEX**
 :shiny: [Survival] Added **Drop Rates** to all mobs in the **Frost Dungeon**.
 :shiny: [Survival] Fixed some mobs displaying the wrong **Drop Table** in the **Frost Dungeon**.
 :shiny: [Survival] Added **Drop Rates** to all mobs in the **Volcano Dungeon**.
 :shiny: [Survival] Added **Drop Rates** to all mobs in the **Wasteland Dungeon**.
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
 
 **DUNGEON**
 :shiny: [Survival] Fixed **Mine Dungeon** Spawn's portal not working as intended.
-:shiny: [Survival]
-
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
-
-**/SHOP** *(_QueenChaos95180)*
-:shiny: [Survival] 
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**BUILD** *(_RECON1stbat)*
-:shiny: [Survival] 
-
-**HUB REALM**
-:sdragon: [Lobby] 
 
 **NETWORK**
 :spaceheart1: [Network] Updated network dependency to the latest version *(4/24/2025)*
 :spaceheart1: [Network] Updated **Friends System** to latest 1.21.80 *(5/6/2025)*
-:spaceheart1: [Network] 
-
-**WEBSITE**
-:computer: [Website] 
 
 **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(_RECON1stbat)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
 
 
 
