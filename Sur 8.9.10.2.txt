@@ -78,6 +78,7 @@
 
 **NETWORK**
 :spaceheart1: [Network] Updated network dependency to the latest version *(4/24/2025)*
+:spaceheart1: [Network] Updated **Friends System** to latest 1.21.80 *(5/6/2025)*
 :spaceheart1: [Network] 
 
 **WEBSITE**
