@@ -26,7 +26,7 @@
 
 :grass: Added **Generous** point leaderboard at **"/warp Leaderboard"**.
 :grass: Added **Sky Throne** leaderboard at **"/warp Leaderboard"**.
-:grass: Added **Player Chest Shop** explanation hologram.
+:grass: Added **Player Chest Shop** explanation at **Auction House** location.
 :grass: 
 
 **ISLAND**
