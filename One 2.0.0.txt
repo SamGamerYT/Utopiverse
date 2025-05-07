@@ -14,7 +14,7 @@
 
 :grass: **Mini Queen, Smart & Sam** will no longer show their username above their head.
 :grass: Players can now allow TNT at their island!
-:grass: 
+:grass: Removed **Shop Menu** NPC at **Auction House** location.
 :grass: 
 
 
