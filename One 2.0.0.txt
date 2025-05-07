@@ -15,6 +15,7 @@
 :grass: **Mini Queen, Smart & Sam** will no longer show their username above their head.
 :grass: Players can now allow TNT at their island!
 :grass: Removed **Shop Menu** NPC at **Auction House** location.
+:grass: Added **Player Chest Shop** example at **Auction House** location.
 :grass: 
 
 
@@ -25,6 +26,7 @@
 
 :grass: Added **Generous** point leaderboard at **"/warp Leaderboard"**.
 :grass: Added **Sky Throne** leaderboard at **"/warp Leaderboard"**.
+:grass: Added **Player Chest Shop** explanation hologram.
 :grass: 
 
 **ISLAND**
