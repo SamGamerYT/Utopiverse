@@ -18,6 +18,9 @@
 :grass: Added **Player Chest Shop** example at **Auction House** location.
 :grass: 
 
+**DUNGEON**
+:grass: Added **Ironshade** currency for **Elder Miner** in **Coal Dungeon**
+:grass: 
 
 **HOLOGRAMS**
 :grass: Modified **Welcome Hologram**; added correct and up-to-date information.
