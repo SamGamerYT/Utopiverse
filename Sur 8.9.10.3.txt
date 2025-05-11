@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.10.3** *(Network Changes)*
-:shiny: [Survival] 
+:shiny: [Survival] **Ranks Interface** will now show the accurate **Protection Stone Limit** count.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
