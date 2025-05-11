@@ -30,6 +30,7 @@
 :shiny: [Survival] 
 
 **CRATES**
+:shiny: [Survival] Fixed **Vote Crate** mass open not working as intended.
 :shiny: [Survival] 
 
 **TINKERER**
