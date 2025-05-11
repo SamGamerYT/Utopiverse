@@ -44,6 +44,9 @@
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] 
 
+**DUNGEON WASTELAND CHANGES**
+:shiny: [Survival] **Minotaur** boss will now properly drop guaranteed **Minotaur Powder** drop.
+
 **/SHOP** *(_QueenChaos95180)*
 :shiny: [Survival] 
 
