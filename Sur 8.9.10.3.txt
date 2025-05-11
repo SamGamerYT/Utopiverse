@@ -31,6 +31,7 @@
 
 **CRATES**
 :shiny: [Survival] Fixed **Vote Crate** mass open not working as intended.
+:shiny: [Survival] Fixed **Crates** opening broadcast listing twice when you open it once.
 :shiny: [Survival] 
 
 **TINKERER**
