@@ -37,15 +37,15 @@
 :grass: You will lose **1000** Island value per death
 :grass: Added player's **Island Level** in Chat
 :grass: 
-:grass: 
 
 **BANK**
 :grass: Removed **Interest** from the **Bank**.
-:grass: Added more **Upgrades** and a higher **limit** for your balance.
+:grass: Added more **Upgrades** and a higher **island size limit** for your island.
 :grass: You will now lose an **50%** static amount upon death.
 :grass: Added **Money Lose** hologram near **Bank Manager**.
 :grass: **PiggyBank** obtainable on **Second Floor** at the **Loot Exchanger**
 :grass: Added **Default Bank Interface** with tips for players!
+:grass: Added **Island Member Upgrade** for your island.
 
 **BLACKSMITH**
 :grass: Added **Spawner Pickaxe T4**, Netherite Based pickaxe.
