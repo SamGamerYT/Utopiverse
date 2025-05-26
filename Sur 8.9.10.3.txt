@@ -2,7 +2,7 @@
 :shiny: [Survival] **Ranks Interface** will now show the accurate **Protection Stone Limit** count.
 :shiny: [Survival] Fixed **Starter Milestone #10** not displaying properly.
 :shiny: [Survival] Fixed double space bug on the **Visitor Rank**.
-:shiny: [Survival] 
+:shiny: [Survival] **"/rewards"** will now point towards **"/everyday"**
 :shiny: [Survival] 
 
 :shiny: [Survival] 
