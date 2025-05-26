@@ -35,6 +35,7 @@
 :shiny: [Survival] Fixed **Crates** opening broadcast displaying twice when opened once.
 
 :shiny: [Survival] Fixed **Uncommon Crate** items, showing broken colour codes.
+:shiny: [Survival] Fixed **Mythical Crate** items, showing broken colour codes.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
