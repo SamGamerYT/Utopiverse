@@ -36,7 +36,8 @@
 
 :shiny: [Survival] Fixed **Uncommon Crate** items, showing broken colour codes.
 :shiny: [Survival] Fixed **Mythical Crate** items, showing broken colour codes.
-:shiny: [Survival] 
+
+:shiny: [Survival] Fixed **Legendary Crate**'s preview not working as intended.
 :shiny: [Survival] 
 
 **TINKERER**
