@@ -4,9 +4,8 @@
 :shiny: [Survival] Fixed double space bug on the **Visitor Rank**.
 :shiny: [Survival] **"/rewards"** will now point towards **"/everyday"**
 :shiny: [Survival] Updated dependencies *(5/26/2025)*
-:shiny: [Survival] 
 
-:shiny: [Survival] 
+:shiny: [Survival] **Tinkerer Update!** - Added **Combiner** option at **"/warp tinkerer"** to combine some of your favourite artifacts.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
