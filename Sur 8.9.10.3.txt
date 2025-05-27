@@ -6,7 +6,7 @@
 :shiny: [Survival] Updated dependencies *(5/26/2025)*
 
 :shiny: [Survival] **Tinkerer Update!** - Added **Combiner** option at **"/warp tinkerer"** to combine some of your favourite artifacts.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Scute** not being a valid recipe as it's the ID Changed in the newer version.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
