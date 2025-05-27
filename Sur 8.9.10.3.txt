@@ -7,7 +7,7 @@
 
 :shiny: [Survival] **Tinkerer Update!** - Added **Combiner** option at **"/warp tinkerer"** to combine some of your favourite artifacts.
 :shiny: [Survival] Fixed **Scute** not being a valid recipe as it's the ID Changed in the newer version.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **"/cf"** not working as intended.
 :shiny: [Survival] 
 
 **BANK**
