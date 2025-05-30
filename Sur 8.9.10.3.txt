@@ -38,6 +38,7 @@
 :shiny: [Survival] Fixed **Mythical Crate** items, showing broken colour codes.
 
 :shiny: [Survival] Fixed **Legendary Crate**'s preview not working as intended.
+:shiny: [Survival] Fixed **Crates** not showing rewards on top of the chest
 :shiny: [Survival] 
 
 **TINKERER**
