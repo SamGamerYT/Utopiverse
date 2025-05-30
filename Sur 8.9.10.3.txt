@@ -1,15 +1,15 @@
 **Patch/Changes 8.9.10.3** *(Network Changes)*
-:shiny: [Survival] **Ranks Interface** will now show the accurate **Protection Stone Limit** count.
+:shiny: [Survival] **Ranks Interface** now displays the accurate **Protection Stone Limit** count.
 :shiny: [Survival] Fixed **Starter Milestone #10** not displaying properly.
 :shiny: [Survival] Fixed double space bug on the **Visitor Rank**.
-:shiny: [Survival] **"/rewards"** will now point towards **"/everyday"**
-:shiny: [Survival] Updated dependencies *(5/26/2025)*
+:shiny: [Survival] **"/rewards"** now redirects to **"/everyday"**.
+:shiny: [Survival] Updated dependencies *(5/26/2025)*.
 
-:shiny: [Survival] **Tinkerer Update!** - Added **Combiner** option at **"/warp tinkerer"** to combine some of your favourite artifacts.
-:shiny: [Survival] Fixed **Scute** not being a valid recipe as it's the ID Changed in the newer version.
-:shiny: [Survival] Fixed **"/cf"** not working as intended.
-:shiny: [Survival] Added **Games** Channel in discord that directly shows Coinflip's result in discord
-:shiny: [Survival] Fixed over **13+** scrolls that were not working after updating to newer version.
+:shiny: [Survival] **Tinkerer Update!** – Added a **Combiner** option at **"/warp tinkerer"** to merge some of your favorite artifacts.
+:shiny: [Survival] Fixed **Scute** recipe not working due to ID changes in newer versions.
+:shiny: [Survival] Fixed **"/cf"** not functioning as intended.
+:shiny: [Survival] Added a **Games** Discord channel that displays Coinflip results directly in Discord.
+:shiny: [Survival] Fixed over **13+** scrolls that stopped working after the recent update.
 :shiny: [Survival] 
 
 **BANK**
