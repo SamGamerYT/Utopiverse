@@ -9,6 +9,7 @@
 :shiny: [Survival] Fixed **Scute** not being a valid recipe as it's the ID Changed in the newer version.
 :shiny: [Survival] Fixed **"/cf"** not working as intended.
 :shiny: [Survival] Added **Games** Channel in discord that directly shows Coinflip's result in discord
+:shiny: [Survival] Fixed over **13+** scrolls that were not working after updating to newer version.
 :shiny: [Survival] 
 
 **BANK**
