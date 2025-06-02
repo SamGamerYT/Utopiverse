@@ -47,7 +47,8 @@
 :shiny: [Survival] 
 
 **DUNGEON**
-:shiny: [Survival]
+:shiny: [Survival] Added **Weekend Double Drop** hologram at **"/warp dungeons"**
+:shiny: [Survival] 
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] 
