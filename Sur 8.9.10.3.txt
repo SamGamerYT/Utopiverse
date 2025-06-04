@@ -82,6 +82,7 @@
 :shiny: [Survival] 
 
 **HUB REALM**
+:sdragon: [Lobby] Fixed **Resourcepack issue** in **Java Edition**
 :sdragon: [Lobby] 
 
 **NETWORK**
