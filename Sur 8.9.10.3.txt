@@ -54,7 +54,7 @@
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
+:shiny: [Survival] **Iridium Ore** is obtainable in **Boss Zone**
 
 **DUNGEON WASTELAND CHANGES**
 :shiny: [Survival] **Minotaur** boss will now properly drop a guaranteed **Minotaur Horn Powder**.
