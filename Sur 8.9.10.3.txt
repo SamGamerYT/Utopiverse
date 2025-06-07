@@ -10,6 +10,8 @@
 :shiny: [Survival] Fixed **"/cf"** not functioning as intended.
 :shiny: [Survival] Added a **Games** Discord channel that displays Coinflip results directly in Discord.
 :shiny: [Survival] Fixed over **13+** scrolls that stopped working after the recent update.
+:shiny: [Survival] Fixed **"/msg"** issue, where your own message wouldn't show up in chat.
+:shiny: [Survival] Fixed **"/r"** not working properly after you get a reply back.
 :shiny: [Survival] 
 
 **BANK**
