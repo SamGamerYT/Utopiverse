@@ -16,26 +16,6 @@
 :shiny: [Survival] Added an **ATM Machine** at **"/warp mall"** *(Suggested by _JakeTheRat1025)*.
 :shiny: [Survival] Added **8x Crafting** recipes for Golden Apples and Totems of Undying in the **Guard Shop** *(Suggested by _Vercors2889)*.
 :shiny: [Survival] Made **all farming crops** inedible *(Suggested by _m1ghtym1ke94)*.
-:shiny: [Survival] 
-
-**BANK**
-:shiny: [Survival] 
-
-**FARMING**
-:shiny: [Survival] 
-
-**FISHING** *(YuxuFG)*
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
-
-**BLACKSMITH**
-:shiny: [Survival] 
-
-**CODEX**
-:shiny: [Survival] 
 
 **CRATES**
 :shiny: [Survival] Fixed **Vote Crate** mass open not working as intended.
@@ -47,17 +27,8 @@
 :shiny: [Survival] Fixed **Legendary Crate** preview not working as intended.
 :shiny: [Survival] Fixed **Crates** not displaying rewards on top of the chest.
 
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
 **DUNGEON**
 :shiny: [Survival] Added **Weekend Double Drop** hologram at **"/warp dungeons"**
-:shiny: [Survival] 
-
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] **Iridium Ore** is obtainable in **Boss Zone**
@@ -65,93 +36,8 @@
 **DUNGEON WASTELAND CHANGES**
 :shiny: [Survival] **Minotaur** boss will now properly drop a guaranteed **Minotaur Horn Powder**.
 
-**/SHOP** *(_QueenChaos95180)*
-:shiny: [Survival] 
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**BUILD** *(_RECON1stbat)*
-:shiny: [Survival] 
-
 **HUB REALM**
 :sdragon: [Lobby] Fixed **Resourcepack issue** in **Java Edition**
 :sdragon: [Lobby] **Parkour Minigames** will now teleport you to their specific npc's instead of teleporting to **Spawn Zone** *(Suggested by _LucasHaws4398)*.
-:sdragon: [Lobby] 
-
-**NETWORK**
-:spaceheart1: [Network] 
-
-**WEBSITE**
-:computer: [Website] 
 
 **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(_RECON1stbat)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
-
-
-
-
