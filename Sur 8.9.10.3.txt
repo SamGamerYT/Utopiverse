@@ -1,21 +1,21 @@
 **Patch/Changes 8.9.10.3** *(Network Changes)*
 :shiny: [Survival] **Ranks Interface** now displays the accurate **Protection Stone Limit** count.
 :shiny: [Survival] Fixed **Starter Milestone #10** not displaying properly.
-:shiny: [Survival] Fixed double space bug on the **Visitor Rank**.
+:shiny: [Survival] Fixed double-space bug in the **Visitor Rank**.
 :shiny: [Survival] **"/rewards"** now redirects to **"/everyday"**.
 :shiny: [Survival] Updated dependencies *(5/26/2025)*.
 
 :shiny: [Survival] **Tinkerer Update!** – Added a **Combiner** option at **"/warp tinkerer"** to merge some of your favorite artifacts.
-:shiny: [Survival] Fixed **Scute** recipe not working due to ID changes in newer versions.
+:shiny: [Survival] Fixed **Scute** recipe not working due to item ID changes in newer versions.
 :shiny: [Survival] Fixed **"/cf"** not functioning as intended.
-:shiny: [Survival] Added a **Games** Discord channel that displays Coinflip results directly in Discord.
-:shiny: [Survival] Fixed over **13+** scrolls that stopped working after the recent update.
-:shiny: [Survival] Fixed **"/msg"** issue, where your own message wouldn't show up in chat.
-:shiny: [Survival] Fixed **"/r"** not working properly after you get a reply back.
+:shiny: [Survival] Added a **Games** Discord channel to display Coinflip results directly in Discord.
+:shiny: [Survival] Fixed over **13** scrolls that were not working after the recent update.
+:shiny: [Survival] Fixed **"/msg"** not showing your own message in chat.
+:shiny: [Survival] Fixed **"/r"** not working properly after receiving a reply.
 
-:shiny: [Survival] Added **ATM Machine** at **"/warp mall"** *(Suggested by _JakeTheRat1025)*
-:shiny: [Survival] Added **8x Crafting** for Golden Apples & Totem of Undying in **Guard Shop** *(Suggested by _Vercors2889)*
-:shiny: [Survival] Made **All Farming Crops** inedible *(Suggested by _m1ghtym1ke94)*
+:shiny: [Survival] Added an **ATM Machine** at **"/warp mall"** *(Suggested by _JakeTheRat1025)*.
+:shiny: [Survival] Added **8x Crafting** recipes for Golden Apples and Totems of Undying in the **Guard Shop** *(Suggested by _Vercors2889)*.
+:shiny: [Survival] Made **all farming crops** inedible *(Suggested by _m1ghtym1ke94)*.
 :shiny: [Survival] 
 
 **BANK**
