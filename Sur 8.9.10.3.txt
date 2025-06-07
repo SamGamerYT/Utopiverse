@@ -12,6 +12,8 @@
 :shiny: [Survival] Fixed over **13+** scrolls that stopped working after the recent update.
 :shiny: [Survival] Fixed **"/msg"** issue, where your own message wouldn't show up in chat.
 :shiny: [Survival] Fixed **"/r"** not working properly after you get a reply back.
+
+:shiny: [Survival] Added **ATM Machine** at **"/warp mall"** *(Suggested by _JakeTheRat1025)*
 :shiny: [Survival] 
 
 **BANK**
