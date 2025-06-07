@@ -89,6 +89,7 @@
 
 **HUB REALM**
 :sdragon: [Lobby] Fixed **Resourcepack issue** in **Java Edition**
+:sdragon: [Lobby] **Parkour Minigames** will now teleport you to their specific npc's instead of teleporting to **Spawn Zone** *(Suggested by _LucasHaws4398)*.
 :sdragon: [Lobby] 
 
 **NETWORK**
