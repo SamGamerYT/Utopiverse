@@ -15,6 +15,7 @@
 
 :shiny: [Survival] Added **ATM Machine** at **"/warp mall"** *(Suggested by _JakeTheRat1025)*
 :shiny: [Survival] Added **8x Crafting** for Golden Apples & Totem of Undying in **Guard Shop** *(Suggested by _Vercors2889)*
+:shiny: [Survival] Made **All Farming Crops** inedible *(Suggested by _m1ghtym1ke94)*
 :shiny: [Survival] 
 
 **BANK**
