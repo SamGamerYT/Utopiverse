@@ -3,6 +3,10 @@
 :shiny: [Survival] **Bait Station** is available now! Get it unlocked through **Fishing Milestones**
 :shiny: [Survival] Fixed **"/milstones"** to **"/milestones"**
 :shiny: [Survival] Fixed **Custom Mobs** hitbox issue.
+:shiny: [Survival] Updated **Validated** commands list. *(09-June-25)*
+
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **BANK**
