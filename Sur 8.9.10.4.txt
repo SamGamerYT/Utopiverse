@@ -5,7 +5,7 @@
 :shiny: [Survival] Fixed **Custom Mobs** hitbox issue.
 :shiny: [Survival] Updated **Validated** commands list. *(09-June-25)*
 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Common Scroll** recipe issue in **Scroll Station**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
