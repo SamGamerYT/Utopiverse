@@ -74,6 +74,7 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Fixed **Friends System** not working as intended. *(14-June-25)*
 :spaceheart1: [Network] 
 
 **WEBSITE**
