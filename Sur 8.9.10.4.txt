@@ -2,11 +2,14 @@
 :shiny: [Survival] Added **Fishing Milestones**, Unlock your bait shop today!
 :shiny: [Survival] **Bait Station** is available now! Get it unlocked through **Fishing Milestones**
 :shiny: [Survival] Fixed **"/milstones"** to **"/milestones"**
+
 :shiny: [Survival] Fixed **Custom Mobs** hitbox issue.
 :shiny: [Survival] Updated **Validated** commands list. *(09-June-25)*
-
 :shiny: [Survival] Fixed **Common Scroll** recipe issue in **Scroll Station**
 :shiny: [Survival] Reduced **Common Scroll** silver coin requirement from **32** to **27**
+
+:shiny: [Survival] Modified **Fishing Milestone #4** requirement from **100** Fishing level to **80** *(14-June-25)*
+:shiny: [Survival] Modified **Fishing Milestone #4** to another Condition *(14-June-25)*
 :shiny: [Survival] 
 
 **BANK**
