@@ -16,6 +16,9 @@
 :shiny: [Survival] 
 
 **FARMING**
+:shiny: [Survival] Fixed **Watering Can** not showing the proper water level in **Action Bar** & **Lore**
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **FISHING** *(YuxuFG)*
