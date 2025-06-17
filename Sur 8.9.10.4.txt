@@ -10,6 +10,7 @@
 
 :shiny: [Survival] Modified **Fishing Milestone #4** requirement from **100** Fishing level to **80** *(14-June-25)*
 :shiny: [Survival] Modified **Fishing Milestone #4** to another Condition *(14-June-25)*
+:shiny: [Survival] Removed **Spooder Weapon** RPG Level requirement.
 :shiny: [Survival] 
 
 **BANK**
