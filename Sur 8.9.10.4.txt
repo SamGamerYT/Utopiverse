@@ -19,6 +19,8 @@
 :shiny: [Survival] Fixed **Watering Can** not showing the proper water level in **Action Bar** & **Lore**
 :shiny: [Survival] Fixed **Soil Surveyor**, It will now show you the water level the **Pot**
 :shiny: [Survival] **Soil Surveyor** will now share the pot level to everyone in the vicinity.
+:shiny: [Survival] Fixed **Custom Crops** not breaking when you interact with it after it's fully grown.
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **FISHING** *(YuxuFG)*
