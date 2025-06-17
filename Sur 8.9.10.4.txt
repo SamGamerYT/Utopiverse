@@ -17,8 +17,8 @@
 
 **FARMING**
 :shiny: [Survival] Fixed **Watering Can** not showing the proper water level in **Action Bar** & **Lore**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Soil Surveyor**, It will now show you the water level the **Pot**
+:shiny: [Survival] **Soil Surveyor** will now share the pot level to everyone in the vicinity.
 :shiny: [Survival] 
 
 **FISHING** *(YuxuFG)*
