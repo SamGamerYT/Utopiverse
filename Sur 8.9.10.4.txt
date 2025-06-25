@@ -1,148 +1,25 @@
 **Patch/Changes 8.9.10.4** *(Network Changes)*
-:shiny: [Survival] Added **Fishing Milestones**, Unlock your bait shop today!
-:shiny: [Survival] **Bait Station** is available now! Get it unlocked through **Fishing Milestones**
-:shiny: [Survival] Fixed **"/milstones"** to **"/milestones"**
+:shiny: [Survival] Added **Fishing Milestones** – unlock your bait shop today!
+:shiny: [Survival] **Bait Station** is now available! Unlock it through **Fishing Milestones**.
+:shiny: [Survival] Fixed **"/milstones"** typo; now correctly points to **"/milestones"**.
 
 :shiny: [Survival] Fixed **Custom Mobs** hitbox issue.
-:shiny: [Survival] Updated **Validated** commands list. *(09-June-25)*
-:shiny: [Survival] Fixed **Common Scroll** recipe issue in **Scroll Station**
-:shiny: [Survival] Reduced **Common Scroll** silver coin requirement from **32** to **27**
+:shiny: [Survival] Updated **Validated** commands list *(09-June-25)*.
+:shiny: [Survival] Fixed **Common Scroll** recipe issue in the **Scroll Station**.
+:shiny: [Survival] Reduced **Common Scroll** silver coin requirement from **32** to **27**.
 
-:shiny: [Survival] Modified **Fishing Milestone #4** requirement from **100** Fishing level to **80** *(14-June-25)*
-:shiny: [Survival] Modified **Fishing Milestone #4** to another Condition *(14-June-25)*
-:shiny: [Survival] Removed **Spooder Weapon** RPG Level requirement.
-:shiny: [Survival] 
-
-**BANK**
-:shiny: [Survival] 
+:shiny: [Survival] Modified **Fishing Milestone #4** requirement from **100** Fishing level to **80** *(14-June-25)*.
+:shiny: [Survival] Modified **Fishing Milestone #4** to use a new condition *(14-June-25)*.
+:shiny: [Survival] Removed **Spooder Weapon** RPG level requirement.
+:shiny: [Survival] Fixed **Embercrest Tome** not appearing in **"/embercrest"**.
 
 **FARMING**
-:shiny: [Survival] Fixed **Watering Can** not showing the proper water level in **Action Bar** & **Lore**
-:shiny: [Survival] Fixed **Soil Surveyor**, It will now show you the water level the **Pot**
-:shiny: [Survival] **Soil Surveyor** will now share the pot level to everyone in the vicinity.
-:shiny: [Survival] Fixed **Custom Crops** not breaking when you interact with it after it's fully grown.
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**FISHING** *(YuxuFG)*
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
-
-**BLACKSMITH**
-:shiny: [Survival] 
-
-**CODEX**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
-**DUNGEON**
-:shiny: [Survival] 
-
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON WASTELAND CHANGES**
-:shiny: [Survival] 
-
-**/SHOP** *(_QueenChaos95180)*
-:shiny: [Survival] 
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**BUILD** *(_RECON1stbat)*
-:shiny: [Survival] 
-
-**HUB REALM**
-:sdragon: [Lobby] 
+:shiny: [Survival] Fixed **Watering Can** not showing proper water level in the **Action Bar** and **Lore**.
+:shiny: [Survival] Fixed **Soil Surveyor** – it now displays the pot’s water level correctly.
+:shiny: [Survival] **Soil Surveyor** now shares the pot’s level to everyone nearby.
+:shiny: [Survival] Fixed **Custom Crops** not breaking when interacted with after being fully grown.
 
 **NETWORK**
-:spaceheart1: [Network] Fixed **Friends System** not working as intended. *(14-June-25)*
-:spaceheart1: [Network] 
-
-**WEBSITE**
-:computer: [Website] 
+:spaceheart1: [Network] Fixed **Friends System** not working as intended *(14-June-25)*.
 
 **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(_RECON1stbat)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP RELATED CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
-
-
-
-
