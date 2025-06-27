@@ -18,7 +18,7 @@
 :shiny: [Survival] 
 
 **FARMING**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed unbreakable **Wheat** patch near the ledge and **Potato** patch near the Queen NPC
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
