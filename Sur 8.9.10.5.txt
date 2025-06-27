@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.10.5** *(Network Changes)*
-:shiny: [Survival] 
+:shiny: [Survival] Reduced **Elevator** cooldown from **4s** to **2s** *(Suggested by _BUST3R267)*
 :shiny: [Survival] 
 :shiny: [Survival] 
 
