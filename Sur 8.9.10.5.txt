@@ -3,8 +3,9 @@
 :shiny: [Survival] Dependencies Maintenance *(30 June 25)*
 :shiny: [Survival] **Fishing Milestone #7** has been relocated to **Milestone #10** *(Suggested by _WhyYousFlyn)*
 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] **Resilience Runestone** will properly be applied to **Embercrest Hammer*
+:shiny: [Survival] Fixed an issue with **Orchid Mantis Helmet+**, Drop it and pick it up to fix your helmet.
+
 :shiny: [Survival] 
 :shiny: [Survival] 
 
