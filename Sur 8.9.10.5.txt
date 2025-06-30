@@ -22,9 +22,6 @@
 :shiny: [Survival] Fixed unbreakable **Wheat** patch near the ledge and **Potato** patch near the Queen NPC
 :shiny: [Survival] 
 :shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 **FISHING** *(YuxuFG)*
 :shiny: [Survival] 
@@ -86,6 +83,7 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Updated network to reboot **1.21.6** Java Edition
 :spaceheart1: [Network] 
 
 **WEBSITE**
