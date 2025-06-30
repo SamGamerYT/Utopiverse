@@ -13,7 +13,7 @@
 **TOURNAMENT**
 :shiny: [Survival] Fixed **Broken Icons** & **Paper** icon information within the menu.
 :shiny: [Survival] Added **July 2025** Tournaments *(Suggested by _CyberRicky95)*
-:shiny: [Survival] 
+:shiny: [Survival] Added new **bi-weekly** tournament related to killing mobs in **Mine Dungeon**
 
 **BANK**
 :shiny: [Survival] 
