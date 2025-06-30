@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.5** *(Network Changes)*
 :shiny: [Survival] Reduced **Elevator** cooldown from **4s** to **2s** *(Suggested by _BUST3R267)*
 :shiny: [Survival] Dependencies Maintenance *(30 June 25)*
-:shiny: [Survival] 
+:shiny: [Survival] **Fishing Milestone #7** has been relocated to **Milestone #10** *(Suggested by _WhyYousFlyn)*
 
 :shiny: [Survival] 
 :shiny: [Survival] 
