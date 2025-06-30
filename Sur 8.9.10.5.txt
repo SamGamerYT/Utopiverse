@@ -5,14 +5,14 @@
 
 :shiny: [Survival] **Resilience Runestone** will properly be applied to **Embercrest Hammer*
 :shiny: [Survival] Fixed an issue with **Orchid Mantis Helmet+**, Drop it and pick it up to fix your helmet.
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+**TOURNAMENT**
+:shiny: [Survival] Fixed **Broken Icons** & **Paper** icon information within the menu.
+:shiny: [Survival] Added **July 2025** Tournaments *(Suggested by _CyberRicky95)*
 :shiny: [Survival] 
 
 **BANK**
