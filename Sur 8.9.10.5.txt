@@ -80,6 +80,7 @@
 
 **HUB REALM**
 :sdragon: [Lobby] Dependencies Maintenance *(30 June 25)*
+:sdragon: [Lobby] Dependencies Maintenance *(1 July 25)*
 :sdragon: [Lobby] 
 
 **NETWORK**
