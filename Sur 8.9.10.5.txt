@@ -13,7 +13,7 @@
 **TOURNAMENT**
 :shiny: [Survival] Fixed **Broken Icons** & **Paper** icon information within the menu.
 :shiny: [Survival] Added **July 2025** Tournaments *(Suggested by _CyberRicky95)*
-:shiny: [Survival] Added new **bi-weekly** tournament related to killing mobs in **Mine Dungeon**
+:shiny: [Survival] Added new **Weekly** tournament related to killing mobs in **Mine Dungeon**
 
 **BANK**
 :shiny: [Survival] 
@@ -83,7 +83,8 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
-:spaceheart1: [Network] Updated network to reboot **1.21.6** Java Edition
+:spaceheart1: [Network] Updated network to support **1.21.6** Java Edition *(30 June 2025)*
+:spaceheart1: [Network] Updated network to support **1.21.7** Java Edition *(1 July 2025)*
 :spaceheart1: [Network] 
 
 **WEBSITE**
