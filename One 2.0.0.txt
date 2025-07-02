@@ -36,6 +36,7 @@
 :grass: Upgradable Radius is now up to **600x600** instead of **400x400**
 :grass: You will lose **1000** Island value per death
 :grass: Added player's **Island Level** in Chat
+:grass: Added **Island Team Chat** so you can have private conversation!
 :grass: 
 
 **BANK**
