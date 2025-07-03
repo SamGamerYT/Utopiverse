@@ -86,6 +86,7 @@
 **NETWORK**
 :spaceheart1: [Network] Updated network to support **1.21.6** Java Edition *(30 June 2025)*
 :spaceheart1: [Network] Updated network to support **1.21.7** Java Edition *(1 July 2025)*
+:spaceheart1: [Network] **Item frames** facing the wrong way issue has been fixed
 :spaceheart1: [Network] 
 
 **WEBSITE**
