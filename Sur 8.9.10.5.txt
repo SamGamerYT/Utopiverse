@@ -29,6 +29,7 @@
 :shiny: [Survival] Enabled **Augment Removal Option** as it was unintentionally removed previously.
 :shiny: [Survival] Minor nerf to **Sage Augment**
 :shiny: [Survival] Increased Entropy for **Precision Cutting Augment**
+:shiny: [Survival] Added **Fishing Assistor** at **"/pond"**, talk to him to fish your deliveries issues!
 :shiny: [Survival] 
 
 **ARENA CHANGES**
