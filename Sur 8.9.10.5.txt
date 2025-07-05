@@ -28,6 +28,7 @@
 :shiny: [Survival] Modified **Light Gray Stained Glass Pane** to **Gray Stained Glass Pane** in **Augment Menu**
 :shiny: [Survival] Enabled **Augment Removal Option** as it was unintentionally removed previously.
 :shiny: [Survival] Minor nerf to **Sage Augment**
+:shiny: [Survival] Increased Entropy for **Precision Cutting Augment**
 :shiny: [Survival] 
 
 **ARENA CHANGES**
