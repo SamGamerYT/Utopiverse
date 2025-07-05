@@ -6,7 +6,7 @@
 :shiny: [Survival] **Resilience Runestone** will properly be applied to **Embercrest Hammer*
 :shiny: [Survival] Fixed an issue with **Orchid Mantis Helmet+**, Drop it and pick it up to fix your helmet.
 :shiny: [Survival] Fixed **"/voteshop"** teleporting you somewhere random.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **"/playtime"** not rewarding players with **Vote Points**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
