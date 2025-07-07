@@ -1,36 +1,36 @@
 **Patch/Changes 8.9.10.5** *(Network Changes)*
-:shiny: [Survival] Reduced **Elevator** cooldown from **4s** to **2s** *(Suggested by _BUST3R267)*
-:shiny: [Survival] Dependencies Maintenance *(30 June 25)*
-:shiny: [Survival] **Fishing Milestone #7** has been relocated to **Milestone #10** *(Suggested by _WhyYousFlyn)*
+:shiny: [Survival] Reduced **Elevator** cooldown from **4s** to **2s** *(Suggested by _BUST3R267)*.
+:shiny: [Survival] Dependencies maintenance *(30 June 25)*.
+:shiny: [Survival] **Fishing Milestone #7** has been relocated to **Milestone #10** *(Suggested by _WhyYousFlyn)*.
 
-:shiny: [Survival] **Resilience Runestone** will properly be applied to **Embercrest Hammer*
-:shiny: [Survival] Fixed an issue with **Orchid Mantis Helmet+**, Drop it and pick it up to fix your helmet.
-:shiny: [Survival] Fixed **"/voteshop"** teleporting you somewhere random.
-:shiny: [Survival] Fixed **"/playtime"** not rewarding players with **Vote Points**
+:shiny: [Survival] **Resilience Runestone** will now properly apply to **Embercrest Hammer**.
+:shiny: [Survival] Fixed an issue with **Orchid Mantis Helmet+** – drop and pick it up to fix the helmet.
+:shiny: [Survival] Fixed **"/voteshop"** teleporting players to a random location.
+:shiny: [Survival] Fixed **"/playtime"** not rewarding players with **Vote Points**.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
 **TOURNAMENT**
-:shiny: [Survival] Fixed **Broken Icons** & **Paper** icon information within the menu.
-:shiny: [Survival] Added **July 2025** Tournaments *(Suggested by _CyberRicky95)*
-:shiny: [Survival] Added new **Weekly** tournament related to killing mobs in **Mine Dungeon**
+:shiny: [Survival] Fixed **Broken Icons** and **Paper** icon information within the menu.
+:shiny: [Survival] Added **July 2025** Tournaments *(Suggested by _CyberRicky95)*.
+:shiny: [Survival] Added new **Weekly** tournament related to killing mobs in the **Mine Dungeon**.
 
 **BANK**
 :shiny: [Survival] 
 
 **FARMING**
-:shiny: [Survival] Fixed unbreakable **Wheat** patch near the ledge and **Potato** patch near the Queen NPC
+:shiny: [Survival] Fixed unbreakable **Wheat** patch near the ledge and **Potato** patch near the **Queen NPC**.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
 **FISHING** *(YuxuFG)*
 **FISHING**
-:shiny: [Survival] Modified **Light Gray Stained Glass Pane** to **Gray Stained Glass Pane** in **Augment Menu**
+:shiny: [Survival] Modified **Light Gray Stained Glass Pane** to **Gray Stained Glass Pane** in **Augment Menu**.
 :shiny: [Survival] Enabled **Augment Removal Option** as it was unintentionally removed previously.
-:shiny: [Survival] Minor nerf to **Sage Augment**
-:shiny: [Survival] Increased Entropy for **Precision Cutting Augment**
-:shiny: [Survival] Added **Fishing Assistor** at **"/pond"**, talk to him to fish your deliveries issues!
-:shiny: [Survival] Added more **Deliveries** rewards *(Suggested by _m1ghtym1ke94)*
+:shiny: [Survival] Minor nerf to **Sage Augment**.
+:shiny: [Survival] Increased **Entropy** for **Precision Cutting Augment**.
+:shiny: [Survival] Added **Fishing Assistor** at **"/pond"**, talk to him to resolve your delivery issues!
+:shiny: [Survival] Added more **Deliveries** rewards *(Suggested by _m1ghtym1ke94)*.
 :shiny: [Survival] 
 
 **ARENA CHANGES**
