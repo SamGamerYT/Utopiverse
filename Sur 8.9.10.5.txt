@@ -6,7 +6,7 @@
 :shiny: [Survival] **Resilience Runestone** will now properly apply to **Embercrest Hammer**.
 :shiny: [Survival] Fixed an issue with **Orchid Mantis Helmet+** – drop and pick it up to fix the helmet.
 :shiny: [Survival] Fixed **"/voteshop"** teleporting players to a random location.
-:shiny: [Survival] Fixed **"/playtime"** not rewarding players with **Vote Points**.
+:shiny: [Survival] Fixed **"/playtime"** not rewarding players with **Vote Points**. **CHANGE REVERTED!!**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
@@ -31,6 +31,13 @@
 :shiny: [Survival] Increased **Entropy** for **Precision Cutting Augment**.
 :shiny: [Survival] Added **Fishing Assistor** at **"/pond"**, talk to him to resolve your delivery issues!
 :shiny: [Survival] Added more **Deliveries** rewards *(Suggested by _m1ghtym1ke94)*.
+:shiny: [Survival] 
+
+
+**SHOP CHANGES**
+:shiny: [Survival] Added **Cherry Door** in **Door Category**
+:shiny: [Survival] Added **Pale Oak** items in their respective categories. *(Suggested by _SwiftTulip46010)*
+:shiny: [Survival] Fixed **Turtle Scute's** not showing up in **Drop Category**
 :shiny: [Survival] 
 
 **ARENA CHANGES**
@@ -146,7 +153,7 @@ youtube tag (freeby)
 **WEBSITE**
 **TEXTURES**
 **REPAIR STONES**
-**SHOP RELATED CHANGES**
+**SHOP CHANGES**
 
 **DUNGEON MINE CHANGES**
 **DUNGEON FROST CHANGES**
