@@ -33,7 +33,6 @@
 :shiny: [Survival] Added more **Deliveries** rewards *(Suggested by _m1ghtym1ke94)*.
 :shiny: [Survival] 
 
-
 **SHOP CHANGES**
 :shiny: [Survival] Added **Cherry Door** in **Door Category**
 :shiny: [Survival] Added **Pale Oak** items in their respective categories. *(Suggested by _SwiftTulip46010)*
@@ -59,6 +58,10 @@
 :shiny: [Survival] 
 
 **DUNGEON**
+:shiny: [Survival] 
+
+**DUNGEON MINE CHANGES**
+:shiny: [Survival] Added **Azure NPC**, resides in **Redstone Zone**, buy new armory items!
 :shiny: [Survival] 
 
 **DUNGEON FROST CHANGES**
