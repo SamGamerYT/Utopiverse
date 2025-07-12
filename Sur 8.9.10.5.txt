@@ -2,6 +2,7 @@
 :shiny: [Survival] Reduced **Elevator** cooldown from **4s** to **2s** *(Suggested by _BUST3R267)*.
 :shiny: [Survival] Dependencies maintenance *(30 June 25)*.
 :shiny: [Survival] **Fishing Milestone #7** has been relocated to **Milestone #10** *(Suggested by _WhyYousFlyn)*.
+:shiny: [Survival] **Fishing Milestone** had the wrong numerical layout. *(Reported by _WhyYousFlyn)*.
 
 :shiny: [Survival] **Resilience Runestone** will now properly apply to **Embercrest Hammer**.
 :shiny: [Survival] Fixed an issue with **Orchid Mantis Helmet+** – drop and pick it up to fix the helmet.
