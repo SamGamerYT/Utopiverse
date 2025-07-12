@@ -8,7 +8,7 @@
 :shiny: [Survival] Fixed an issue with **Orchid Mantis Helmet+** – drop and pick it up to fix the helmet.
 :shiny: [Survival] Fixed **"/voteshop"** teleporting players to a random location.
 :shiny: [Survival] Fixed **"/playtime"** not rewarding players with **Vote Points**. **CHANGE REVERTED!!**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Liege Chat** not working as intended**
 :shiny: [Survival] 
 
 **TOURNAMENT**
