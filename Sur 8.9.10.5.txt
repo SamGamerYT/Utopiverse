@@ -107,6 +107,7 @@
 :spaceheart1: [Network] **Item frames** facing the wrong way issue has been fixed
 :spaceheart1: [Network] Changed **timeout** from **30000** to **45000**
 :spaceheart1: [Network] Rate limit has been **heavily** reduced to allow players to connect back quickly.
+:spaceheart1: [Network] Implemented a new security method for smoothness and proofing exploits.
 :spaceheart1: [Network] 
 
 **WEBSITE**
