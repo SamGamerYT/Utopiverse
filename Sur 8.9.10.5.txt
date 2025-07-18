@@ -97,6 +97,7 @@
 **HUB REALM**
 :sdragon: [Lobby] Dependencies Maintenance *(30 June 25)*
 :sdragon: [Lobby] Dependencies Maintenance *(1 July 25)*
+:sdragon: [Lobby] Added **Peaceful Skyblock** NPC
 :sdragon: [Lobby] 
 
 **NETWORK**
@@ -107,7 +108,6 @@
 :spaceheart1: [Network] Heavily reduced **rate limit** to allow faster player reconnections.
 :spaceheart1: [Network] Implemented a new security method to improve performance and exploit prevention.
 :spaceheart1: [Network] Merged **RevonicMC - Skyblock** with **Utopiverse's Lobby**.
-:spaceheart1: [Network] 
 
 **WEBSITE**
 :computer: [Website] 
