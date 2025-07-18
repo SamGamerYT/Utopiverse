@@ -15,15 +15,9 @@
 :shiny: [Survival] Added **July 2025** Tournaments *(Suggested by _CyberRicky95)*.
 :shiny: [Survival] Added new **Weekly** tournament related to killing mobs in the **Mine Dungeon**.
 
-**BANK**
-:shiny: [Survival] 
-
 **FARMING**
 :shiny: [Survival] Fixed unbreakable **Wheat** patch near the ledge and **Potato** patch near the **Queen NPC**.
-:shiny: [Survival] 
-:shiny: [Survival] 
 
-**FISHING** *(YuxuFG)*
 **FISHING**
 :shiny: [Survival] Modified **Light Gray Stained Glass Pane** to **Gray Stained Glass Pane** in the **Augment Menu**.
 :shiny: [Survival] Enabled **Augment Removal Option**, which was unintentionally removed previously.
@@ -37,67 +31,14 @@
 :shiny: [Survival] Added **Pale Oak** items to their respective categories *(Suggested by _SwiftTulip46010)*.
 :shiny: [Survival] Fixed **Turtle Scutes** not appearing in the **Drop Category**.
 
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
-
-**BLACKSMITH**
-:shiny: [Survival] 
-
-**CODEX**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
-**DUNGEON**
-:shiny: [Survival] 
-
 **DUNGEON MINE CHANGES**
 :shiny: [Survival] Added **Azure NPC**, now resides in the **Redstone Zone**, buy brand new armory items!
-
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON WASTELAND CHANGES**
-:shiny: [Survival] 
-
-**/SHOP** *(_QueenChaos95180)*
-:shiny: [Survival] 
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**BUILD** *(_RECON1stbat)*
-:shiny: [Survival] 
 
 **HUB REALM**
 :sdragon: [Lobby] Dependencies maintenance *(30 June 2025)*.
 :sdragon: [Lobby] Dependencies maintenance *(1 July 2025)*.
 :sdragon: [Lobby] Added **Peaceful Skyblock** NPC.
 :sdragon: [Lobby] Dependencies maintenance *(18 July 2025)*.
-:sdragon: [Lobby] 
 
 **NETWORK**
 :spaceheart1: [Network] Updated network to support **1.21.6** Java Edition *(30 June 2025)*.
@@ -108,59 +49,4 @@
 :spaceheart1: [Network] Implemented a new security method to improve performance and exploit prevention.
 :spaceheart1: [Network] Merged **RevonicMC - Skyblock** with **Utopiverse's Lobby**.
 
-**WEBSITE**
-:computer: [Website] 
-
 **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(_RECON1stbat)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
