@@ -100,13 +100,13 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
-:spaceheart1: [Network] Updated network to support **1.21.6** Java Edition *(30 June 2025)*
-:spaceheart1: [Network] Updated network to support **1.21.7** Java Edition *(1 July 2025)*
-:spaceheart1: [Network] **Item frames** facing the wrong way issue has been fixed
-:spaceheart1: [Network] Changed **timeout** from **30000** to **45000**
-:spaceheart1: [Network] Rate limit has been **heavily** reduced to allow players to connect back quickly.
-:spaceheart1: [Network] Implemented a new security method for smoothness and proofing exploits.
-:spaceheart1: [Network] Merged **RevonicMC - Skyblock** with **Utopiverse's Lobby**
+:spaceheart1: [Network] Updated network to support **1.21.6** Java Edition *(30 June 2025)*.
+:spaceheart1: [Network] Updated network to support **1.21.7** Java Edition *(1 July 2025)*.
+:spaceheart1: [Network] Fixed **Item Frames** facing the wrong way.
+:spaceheart1: [Network] Increased **timeout** from **30000ms** to **45000ms**.
+:spaceheart1: [Network] Heavily reduced **rate limit** to allow faster player reconnections.
+:spaceheart1: [Network] Implemented a new security method to improve performance and exploit prevention.
+:spaceheart1: [Network] Merged **RevonicMC - Skyblock** with **Utopiverse's Lobby**.
 :spaceheart1: [Network] 
 
 **WEBSITE**
