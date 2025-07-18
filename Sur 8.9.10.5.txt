@@ -2,14 +2,13 @@
 :shiny: [Survival] Reduced **Elevator** cooldown from **4s** to **2s** *(Suggested by _BUST3R267)*.
 :shiny: [Survival] Dependencies maintenance *(30 June 25)*.
 :shiny: [Survival] **Fishing Milestone #7** has been relocated to **Milestone #10** *(Suggested by _WhyYousFlyn)*.
-:shiny: [Survival] **Fishing Milestone** had the wrong numerical layout. *(Reported by _WhyYousFlyn)*.
+:shiny: [Survival] **Fishing Milestone** had the wrong numerical layout *(Reported by _WhyYousFlyn)*.
 
 :shiny: [Survival] **Resilience Runestone** will now properly apply to **Embercrest Hammer**.
 :shiny: [Survival] Fixed an issue with **Orchid Mantis Helmet+** – drop and pick it up to fix the helmet.
 :shiny: [Survival] Fixed **"/voteshop"** teleporting players to a random location.
 :shiny: [Survival] Fixed **"/playtime"** not rewarding players with **Vote Points**. **CHANGE REVERTED!!**
-:shiny: [Survival] Fixed **Liege Chat** not working as intended**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Liege Custom Ranks** not showing chat as intended**.
 
 **TOURNAMENT**
 :shiny: [Survival] Fixed **Broken Icons** and **Paper** icon information within the menu.
@@ -26,17 +25,17 @@
 
 **FISHING** *(YuxuFG)*
 **FISHING**
-:shiny: [Survival] Modified **Light Gray Stained Glass Pane** to **Gray Stained Glass Pane** in **Augment Menu**.
-:shiny: [Survival] Enabled **Augment Removal Option** as it was unintentionally removed previously.
-:shiny: [Survival] Minor nerf to **Sage Augment**.
-:shiny: [Survival] Increased **Entropy** for **Precision Cutting Augment**.
-:shiny: [Survival] Added **Fishing Assistor** at **"/pond"**, talk to him to resolve your delivery issues!
+:shiny: [Survival] Modified **Light Gray Stained Glass Pane** to **Gray Stained Glass Pane** in the **Augment Menu**.
+:shiny: [Survival] Enabled **Augment Removal Option**, which was unintentionally removed previously.
+:shiny: [Survival] Minor nerf applied to the **Sage Augment**.
+:shiny: [Survival] Increased **Entropy** cost for the **Precision Cutting Augment**.
+:shiny: [Survival] Added a **Fishing Assistor** at **"/pond"** — talk to him to resolve delivery issues!
 :shiny: [Survival] Added more **Deliveries** rewards *(Suggested by _m1ghtym1ke94)*.
 
 **SHOP CHANGES**
-:shiny: [Survival] Added **Cherry Door** in **Door Category**
-:shiny: [Survival] Added **Pale Oak** items in their respective categories. *(Suggested by _SwiftTulip46010)*
-:shiny: [Survival] Fixed **Turtle Scute's** not showing up in **Drop Category**
+:shiny: [Survival] Added **Cherry Door** to the **Door Category**.
+:shiny: [Survival] Added **Pale Oak** items to their respective categories *(Suggested by _SwiftTulip46010)*.
+:shiny: [Survival] Fixed **Turtle Scutes** not appearing in the **Drop Category**.
 
 **ARENA CHANGES**
 :shiny: [Survival] 
@@ -60,8 +59,7 @@
 :shiny: [Survival] 
 
 **DUNGEON MINE CHANGES**
-:shiny: [Survival] Added **Azure NPC**, resides in **Redstone Zone**, buy new armory items!
-:shiny: [Survival] 
+:shiny: [Survival] Added **Azure NPC**, now resides in the **Redstone Zone**, buy brand new armory items!
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] 
@@ -95,10 +93,10 @@
 :shiny: [Survival] 
 
 **HUB REALM**
-:sdragon: [Lobby] Dependencies Maintenance *(30 June 25)*
-:sdragon: [Lobby] Dependencies Maintenance *(1 July 25)*
-:sdragon: [Lobby] Added **Peaceful Skyblock** NPC
-:sdragon: [Lobby] Dependencies Maintenance *(18 July 25)*
+:sdragon: [Lobby] Dependencies maintenance *(30 June 2025)*.
+:sdragon: [Lobby] Dependencies maintenance *(1 July 2025)*.
+:sdragon: [Lobby] Added **Peaceful Skyblock** NPC.
+:sdragon: [Lobby] Dependencies maintenance *(18 July 2025)*.
 :sdragon: [Lobby] 
 
 **NETWORK**
