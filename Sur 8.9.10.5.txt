@@ -32,13 +32,11 @@
 :shiny: [Survival] Increased **Entropy** for **Precision Cutting Augment**.
 :shiny: [Survival] Added **Fishing Assistor** at **"/pond"**, talk to him to resolve your delivery issues!
 :shiny: [Survival] Added more **Deliveries** rewards *(Suggested by _m1ghtym1ke94)*.
-:shiny: [Survival] 
 
 **SHOP CHANGES**
 :shiny: [Survival] Added **Cherry Door** in **Door Category**
 :shiny: [Survival] Added **Pale Oak** items in their respective categories. *(Suggested by _SwiftTulip46010)*
 :shiny: [Survival] Fixed **Turtle Scute's** not showing up in **Drop Category**
-:shiny: [Survival] 
 
 **ARENA CHANGES**
 :shiny: [Survival] 
@@ -108,6 +106,7 @@
 :spaceheart1: [Network] Changed **timeout** from **30000** to **45000**
 :spaceheart1: [Network] Rate limit has been **heavily** reduced to allow players to connect back quickly.
 :spaceheart1: [Network] Implemented a new security method for smoothness and proofing exploits.
+:spaceheart1: [Network] Merged **RevonicMC - Skyblock** with **Utopiverse's Lobby**
 :spaceheart1: [Network] 
 
 **WEBSITE**
