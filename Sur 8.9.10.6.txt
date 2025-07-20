@@ -1,4 +1,5 @@
 **Patch/Changes 8.9.10.6** *(Network Changes)*
+:shiny: [Survival] Modified **"/settings"** Page 2, blue liege rank prefix selection information.
 :shiny: [Survival] 
 
 :shiny: [Survival] 
