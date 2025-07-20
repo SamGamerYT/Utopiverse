@@ -2,6 +2,7 @@
 :shiny: [Survival] Modified **"/settings"** Page 2, blue liege rank prefix selection information.
 :shiny: [Survival] Added **Warning Label** on **Embercrest Fishing Rod** due to disappearance of augments.
 :shiny: [Survival] Fixed **Dropped item display name** as they were unintentionally removed.
+:shiny: [Survival] Improved **Spawner** spawning rate.
 :shiny: [Survival] 
 
 :shiny: [Survival] 
