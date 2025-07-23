@@ -16,6 +16,7 @@
 :grass: Players can now allow TNT at their island!
 :grass: Removed **Shop Menu** NPC at **Auction House** location.
 :grass: Added **Player Chest Shop** example at **Auction House** location.
+:grass: Added **Donator Rewards** interface at **Auction House** location.
 :grass: 
 
 **DUNGEON**
