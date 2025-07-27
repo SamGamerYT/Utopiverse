@@ -23,6 +23,7 @@
 :shiny: [Survival] 
 
 **SHOP CHANGES**
+:shiny: [Survival] Added **Player Balance** information in Main Menu button *(Suggested by _BUST3R267)*
 :shiny: [Survival] 
 
 **ARENA CHANGES**
