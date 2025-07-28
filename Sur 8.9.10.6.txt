@@ -3,6 +3,7 @@
 :shiny: [Survival] Added **Warning Label** on **Embercrest Fishing Rod** due to disappearance of augments.
 :shiny: [Survival] Fixed **Dropped item display name** as they were unintentionally removed.
 :shiny: [Survival] Improved **Spawner** spawning rate.
+:shiny: [Survival] Fixed players not being able to spawn mobs using **Mob Catcher**
 :shiny: [Survival] 
 
 :shiny: [Survival] 
