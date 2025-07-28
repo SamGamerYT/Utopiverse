@@ -89,6 +89,8 @@
 :spaceheart1: [Network] 
 
 **WEBSITE**
+:computer: [Website] Modified **RPG Survival** to **Survival** and **Onesky** to **Oneblock** on our document site.
+:computer: [Website] 
 :computer: [Website] 
 
 **[ @Changelogs ]**
