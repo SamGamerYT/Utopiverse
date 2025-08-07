@@ -6,6 +6,7 @@
 :shiny: [Survival] Fixed players not being able to spawn mobs using **Mob Catcher**
 :shiny: [Survival] Added **Eagle Wings**, **Barebone Wings'** upgraded version.
 
+:shiny: [Survival] **Player Shop** will now send an alert when someone steals from your chest shop
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -83,6 +84,7 @@
 :shiny: [Survival] 
 
 **HUB REALM**
+:sdragon: [Lobby] Updated Dependencies *(06-Aug-2025)*
 :sdragon: [Lobby] 
 
 **NETWORK**
