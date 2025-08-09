@@ -7,7 +7,7 @@
 :shiny: [Survival] Added **Eagle Wings**, **Barebone Wings'** upgraded version.
 
 :shiny: [Survival] **Player Shop** will now send an alert when someone steals from your chest shop
-:shiny: [Survival] 
+:shiny: [Survival] **FAQ** also known as **Guidance** NPC and menu has been removed.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
