@@ -11,6 +11,7 @@
 :shiny: [Survival] Modified **"/ranks"** menu with a custom interface.
 :shiny: [Survival] Removed **Milestone** NPC – Guidance NPC will now open milestones.
 :shiny: [Survival] Fixed **Guard NPC** spamming chat.
+:shiny: [Survival] Discord Achievement announcement embed color is now green instead of yellow.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
