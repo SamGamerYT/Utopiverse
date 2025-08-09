@@ -1,14 +1,16 @@
 **Patch/Changes 8.9.10.6** *(Network Changes)*
-:shiny: [Survival] Modified **"/settings"** Page 2, blue liege rank prefix selection information.
-:shiny: [Survival] Added **Warning Label** on **Embercrest Fishing Rod** due to disappearance of augments.
-:shiny: [Survival] Fixed **Dropped item display name** as they were unintentionally removed.
-:shiny: [Survival] Improved **Spawner** spawning rate.
-:shiny: [Survival] Fixed players not being able to spawn mobs using **Mob Catcher**
-:shiny: [Survival] Added **Eagle Wings**, **Barebone Wings'** upgraded version.
+:shiny: [Survival] Modified **"/settings"** Page 2, blue Liege rank prefix selection information.
+:shiny: [Survival] Added **Warning Label** to **Embercrest Fishing Rod** due to augments disappearing.
+:shiny: [Survival] Fixed **Dropped Item Display Names** as they were unintentionally removed.
+:shiny: [Survival] Improved **Spawner** spawn rate.
+:shiny: [Survival] Fixed players not being able to spawn mobs using **Mob Catcher**.
+:shiny: [Survival] Added **Eagle Wings** – upgraded version of **Barebone Wings**.
 
-:shiny: [Survival] **Player Shop** will now send an alert when someone steals from your chest shop
-:shiny: [Survival] **FAQ** also known as **Guidance** NPC and menu has been removed.
-:shiny: [Survival] Modified **"/ranks"** menu, added custom interface.
+:shiny: [Survival] **Player Shop** will now send an alert when someone steals from your chest shop.
+:shiny: [Survival] Removed **FAQ** (Guidance) NPC and menu.
+:shiny: [Survival] Modified **"/ranks"** menu with a custom interface.
+:shiny: [Survival] Removed **Milestone** NPC – Guidance NPC will now open milestones.
+:shiny: [Survival] Fixed **Guard NPC** spamming chat.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
