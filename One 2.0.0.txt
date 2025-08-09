@@ -18,6 +18,7 @@
 :grass: Added **Player Chest Shop** example at **Auction House** location.
 :grass: Added **Donator Rewards** interface at **Auction House** location.
 :grass: Modified Redstone Rules **"/rules"**
+:grass: Modified Spawners Rules **"/rules"**
 :grass: 
 
 **DUNGEON**
