@@ -8,6 +8,7 @@
 
 :shiny: [Survival] **Player Shop** will now send an alert when someone steals from your chest shop
 :shiny: [Survival] **FAQ** also known as **Guidance** NPC and menu has been removed.
+:shiny: [Survival] Modified **"/ranks"** menu, added custom interface.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
