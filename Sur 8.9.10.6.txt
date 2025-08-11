@@ -12,7 +12,7 @@
 :shiny: [Survival] Removed **Milestone** NPC – Guidance NPC will now open milestones.
 :shiny: [Survival] Fixed **Guard NPC** spamming chat.
 :shiny: [Survival] Discord Achievement announcement embed color is now green instead of yellow.
-:shiny: [Survival] 
+:shiny: [Survival] Players can now **create** chestshops at their personal **protection stone!**
 :shiny: [Survival] 
 
 **TOURNAMENT**
