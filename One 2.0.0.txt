@@ -19,6 +19,7 @@
 :grass: Added **Donator Rewards** interface at **Auction House** location.
 :grass: Modified Redstone Rules **"/rules"**
 :grass: Modified Spawners Rules **"/rules"**
+:grass: Added **Coinflip** & added Coinflip results to show directly in Discord.
 :grass: 
 
 **DUNGEON**
