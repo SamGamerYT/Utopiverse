@@ -16,6 +16,12 @@
 :shiny: [Survival] **FAQ** will now point towards **"/help"** menu.
 :shiny: [Survival] 
 
+**ENTITIY CHANGES**
+:shiny: [Survival] **Optimized** Spawner hologram 
+:shiny: [Survival] **Modified** spawner hologram colour from **red/pink** to **lime**
+:shiny: [Survival] 
+:shiny: [Survival] 
+
 **TOURNAMENT**
 :shiny: [Survival] 
 
