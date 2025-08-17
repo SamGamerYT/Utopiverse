@@ -19,7 +19,7 @@
 **ENTITIY CHANGES**
 :shiny: [Survival] **Optimized** Spawner hologram 
 :shiny: [Survival] **Modified** spawner hologram colour from **red/pink** to **lime**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Ground Items** not showing tags when dropped.
 :shiny: [Survival] 
 
 **TOURNAMENT**
