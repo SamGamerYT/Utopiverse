@@ -23,70 +23,13 @@
 
 **SHOP CHANGES**
 :shiny: [Survival] Added **Player Balance** information in Main Menu button *(Suggested by _BUST3R267)*
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
-
-**BLACKSMITH**
-:shiny: [Survival] 
-
-**CODEX**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
-**DUNGEON**
-:shiny: [Survival] 
-
-**DUNGEON MINE CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON WASTELAND CHANGES**
-:shiny: [Survival] 
-
-**/SHOP** *(_QueenChaos95180)*
-:shiny: [Survival] 
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**BUILD** *(_RECON1stbat)*
-:shiny: [Survival] 
 
 **HUB REALM**
 :sdragon: [Lobby] Updated Dependencies *(06-Aug-2025)*
-:sdragon: [Lobby] 
+:sdragon: [Lobby] Updated Dependencies *(17-Aug-2025)*
 
 **NETWORK**
 :spaceheart1: [Network] Updated **UI Bedrock Pack**, Small fonts will be a little bit more attractive to look at now.
-:spaceheart1: [Network] 
 
 **WEBSITE**
 :computer: [Website] Modified **RPG Survival** to **Survival** and **Onesky** to **Oneblock** on our document site.
