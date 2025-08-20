@@ -99,6 +99,7 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Updated **UI Bedrock Pack**, Small fonts will be a little bit more attractive to look at now.
 :spaceheart1: [Network] 
 
 **WEBSITE**
