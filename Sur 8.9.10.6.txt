@@ -14,26 +14,12 @@
 :shiny: [Survival] Discord Achievement announcement embed color is now green instead of yellow.
 :shiny: [Survival] Players can now **create** chestshops at their personal **protection stone!**
 :shiny: [Survival] **FAQ** will now point towards **"/help"** menu.
-:shiny: [Survival] 
+:shiny: [Survival] You can now purchase **PS VISUALIZE** Command from **Enchanter Witch**
 
 **ENTITIY CHANGES**
 :shiny: [Survival] **Optimized** Spawner hologram 
 :shiny: [Survival] **Modified** spawner hologram colour from **red/pink** to **lime**
 :shiny: [Survival] Fixed **Ground Items** not showing tags when dropped.
-:shiny: [Survival] 
-
-**TOURNAMENT**
-:shiny: [Survival] 
-
-**BANK**
-:shiny: [Survival] 
-
-**FARMING**
-:shiny: [Survival] 
-
-**FISHING** *(YuxuFG)*
-**FISHING**
-:shiny: [Survival] 
 
 **SHOP CHANGES**
 :shiny: [Survival] Added **Player Balance** information in Main Menu button *(Suggested by _BUST3R267)*
