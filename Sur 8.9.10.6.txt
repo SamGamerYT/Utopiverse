@@ -1,39 +1,39 @@
 **Patch/Changes 8.9.10.6** *(Network Changes)*
-:shiny: [Survival] Modified **"/settings"** Page 2, blue Liege rank prefix selection information.
-:shiny: [Survival] Added **Warning Label** to **Embercrest Fishing Rod** due to augments disappearing.
-:shiny: [Survival] Fixed **Dropped Item Display Names** as they were unintentionally removed.
-:shiny: [Survival] Improved **Spawner** spawn rate.
-:shiny: [Survival] Fixed players not being able to spawn mobs using **Mob Catcher**.
-:shiny: [Survival] Added **Eagle Wings** – upgraded version of **Barebone Wings**.
+:shiny: [Survival] Modified **"/settings"** Page 2, Blue Liege rank prefix selection information.  
+:shiny: [Survival] Added a **Warning Label** to the **Embercrest Fishing Rod** due to disappearing augments.  
+:shiny: [Survival] Fixed **Dropped Item Display Names**, which were unintentionally removed.  
+:shiny: [Survival] Improved **Spawner** spawn rate.  
+:shiny: [Survival] Fixed players not being able to spawn mobs using **Mob Catcher**.  
+:shiny: [Survival] Added **Eagle Wings** – the upgraded version of **Barebone Wings**.  
 
-:shiny: [Survival] **Player Shop** will now send an alert when someone steals from your chest shop.
-:shiny: [Survival] Removed **FAQ** (Guidance) NPC and menu.
-:shiny: [Survival] Modified **"/ranks"** menu with a custom interface.
-:shiny: [Survival] Removed **Milestone** NPC – Guidance NPC will now open milestones.
-:shiny: [Survival] Fixed **Guard NPC** spamming chat.
-:shiny: [Survival] Discord Achievement announcement embed color is now green instead of yellow.
+:shiny: [Survival] **Player Shop** will now send an alert when someone steals from your chest shop.  
+:shiny: [Survival] Removed the **FAQ (Guidance) NPC** and its menu.  
+:shiny: [Survival] Modified the **"/ranks"** menu with a custom interface.  
+:shiny: [Survival] Removed the **Milestone NPC** – the Guidance NPC will now open milestones.  
+:shiny: [Survival] Fixed **Guard NPC** spamming in chat.  
+:shiny: [Survival] The **Discord Achievement announcement embed color** is now green instead of yellow.  
 
-:shiny: [Survival] Players can now **create** chestshops at their personal **protection stone!**
-:shiny: [Survival] **FAQ** will now point towards **"/help"** menu.
-:shiny: [Survival] You can now purchase **PS VISUALIZE** Command from **Enchanter Witch**
-:shiny: [Survival] Added **Spawner Rarity** for items.
+:shiny: [Survival] Players can now **create** chest shops at their personal **protection stone**!  
+:shiny: [Survival] The **FAQ** will now point towards the **"/help"** menu.  
+:shiny: [Survival] You can now purchase the **PS VISUALIZE** command from the **Enchanter Witch**.  
+:shiny: [Survival] Added **Spawner Rarity** for items.  
 
-**ENTITIY CHANGES**
-:shiny: [Survival] **Optimized** Spawner hologram 
-:shiny: [Survival] **Modified** spawner hologram colour from **red/pink** to **lime**
-:shiny: [Survival] Fixed **Ground Items** not showing tags when dropped.
+**ENTITY CHANGES**  
+:shiny: [Survival] **Optimized** spawner hologram.  
+:shiny: [Survival] Changed spawner hologram color from **red/pink** to **lime**.  
+:shiny: [Survival] Fixed **Ground Items** not showing tags when dropped.  
 
-**SHOP CHANGES**
-:shiny: [Survival] Added **Player Balance** information in Main Menu button *(Suggested by _BUST3R267)*
+**SHOP CHANGES**  
+:shiny: [Survival] Added **Player Balance** information in the Main Menu button *(suggested by _BUST3R267)*.  
 
-**HUB REALM**
-:sdragon: [Lobby] Updated Dependencies *(06-Aug-2025)*
-:sdragon: [Lobby] Updated Dependencies *(17-Aug-2025)*
+**HUB REALM**  
+:sdragon: [Lobby] Updated Dependencies *(06-Aug-2025)*  
+:sdragon: [Lobby] Updated Dependencies *(17-Aug-2025)*  
 
-**NETWORK**
-:spaceheart1: [Network] Updated **UI Bedrock Pack**, Small fonts will be a little bit more attractive to look at now.
+**NETWORK**  
+:spaceheart1: [Network] Updated the **UI Bedrock Pack** – small fonts are now more visually appealing.  
 
-**WEBSITE**
-:computer: [Website] Modified **RPG Survival** to **Survival** and **Onesky** to **Oneblock** on our document site.
+**WEBSITE**  
+:computer: [Website] Modified **RPG Survival** to **Survival** and **Onesky** to **Oneblock** on the documentation site.  
 
 **[ @Changelogs ]**
