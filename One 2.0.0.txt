@@ -21,10 +21,12 @@
 :grass: Modified Spawners Rules **"/rules"**
 :grass: Added **Coinflip** & added Coinflip results to show directly in Discord.
 :grass: **NPC** at bank that will buy the item you are holding in hand and quickly sell it to /shop!
+:grass: Updated **Entity Manager** to match survival's settings.
 :grass: 
 
 **DUNGEON**
 :grass: Added **Ironshade** currency for **Elder Miner** in **Coal Dungeon**
+:grass: Added **Ironheart** currency for **Ironheart Titan** in **Cave Dungeon**
 :grass: 
 
 **HOLOGRAMS**
