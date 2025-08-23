@@ -99,6 +99,10 @@
 **NETWORK**
 :spaceheart1: [Network] Updated the **Primary Pack**, We now have animated items, and Shield, Bow, Fishing Rod & Crossbow animations will work properly.
 :spaceheart1: [Network] Fixed normal shield not showing their banner pattern
+:spaceheart1: [Network] Fixed wings not showing properly on **Bedrock Edition**
+:spaceheart1: [Network] Fixed **Wood Chest** being chibi and floating in the air
+:spaceheart1: [Network] Fixed **Embercrest** Armor not showing up properly
+:spaceheart1: [Network] Fixed **6+** Unnamed armor sets from not showing up properly
 :spaceheart1: [Network] 
 
 **WEBSITE**
