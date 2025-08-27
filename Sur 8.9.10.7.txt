@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.10.7** *(Network Changes)*
 :shiny: [Survival] Fixed **Mythical Crate** typo for Mythical Pickaxe
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Orange Fish** showing "Text Display" on Bedrock Edition
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -103,6 +103,7 @@
 :spaceheart1: [Network] Fixed **Wood Chest** being chibi and floating in the air
 :spaceheart1: [Network] Fixed **Embercrest** Armor not showing up properly
 :spaceheart1: [Network] Fixed **6+** Unnamed armor sets from not showing up properly
+:spaceheart1: [Network] 
 :spaceheart1: [Network] 
 
 **WEBSITE**
