@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.10.8** *(Network Changes)*
-:shiny: [Survival] 
+:shiny: [Survival] Increased **Rankup** confirmation duration from **10s** to **60s**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 

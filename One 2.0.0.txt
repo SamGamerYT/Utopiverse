@@ -22,7 +22,7 @@
 :grass: Added **Coinflip** & added Coinflip results to show directly in Discord.
 :grass: **NPC** at bank that will buy the item you are holding in hand and quickly sell it to /shop!
 :grass: Updated **Entity Manager** to match survival's settings.
-:grass: 
+:grass: **Dungeon Scrolls**, 6 Dungeon scrolls prepared by **_QueenChaos95180**!
 
 **DUNGEON**
 :grass: Added **Ironshade** currency for **Elder Miner** in **Coal Dungeon**
