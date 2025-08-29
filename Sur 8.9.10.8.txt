@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.8** *(Network Changes)*
 :shiny: [Survival] Increased **Rankup** confirmation duration from **10s** to **60s**
 :shiny: [Survival] Fixed **70+** digging quests that were not working as they should.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed a major issue with **Custom Enchantments** not working as expected. *(Reported by _DaddyCool731)*
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
