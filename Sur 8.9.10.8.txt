@@ -99,7 +99,8 @@
 :sdragon: [Lobby] Removed all npc's of resigned staff members.
 :sdragon: [Lobby] Relocated things to be a little closer than in the previous map
 :sdragon: [Lobby] Removed **Survival Coming Soon** Aztec Boss NPC
-:sdragon: [Lobby] Updated Scoreboard, it will now include skyblock statistics.
+:sdragon: [Lobby] Removed **Events** statistic from Scoreboard
+:sdragon: [Lobby] Added **Skyblock** statistic to Scoreboard
 :sdragon: [Lobby] 
 
 **NETWORK**
