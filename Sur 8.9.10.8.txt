@@ -3,7 +3,7 @@
 :shiny: [Survival] Fixed over **70** digging quests that were not working as intended.  
 :shiny: [Survival] Fixed a major issue with **Custom Enchantments** not functioning correctly *(Reported by _DaddyCool731_)*.  
 :shiny: [Survival] **Resource**, **Nether**, and **End** worlds have been reset *(30-Aug-2025)*.  
-:shiny: [Survival] 
+:shiny: [Survival] Added information about **Passive Tournament** not counting score in **Primary World**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
