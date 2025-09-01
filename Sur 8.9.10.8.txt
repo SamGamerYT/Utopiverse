@@ -1,8 +1,8 @@
 **Patch/Changes 8.9.10.8** *(Network Changes)*
-:shiny: [Survival] Increased **Rankup** confirmation duration from **10s** to **60s**
-:shiny: [Survival] Fixed **70+** digging quests that were not working as they should.
-:shiny: [Survival] Fixed a major issue with **Custom Enchantments** not working as expected. *(Reported by _DaddyCool731)*
-:shiny: [Survival] **Resource**, **Nether** and **End** has gotten a world reset. *(30-Aug-2025)*
+:shiny: [Survival] Increased **Rankup** confirmation duration from **10s** to **60s**.  
+:shiny: [Survival] Fixed over **70** digging quests that were not working as intended.  
+:shiny: [Survival] Fixed a major issue with **Custom Enchantments** not functioning correctly *(Reported by _DaddyCool731_)*.  
+:shiny: [Survival] **Resource**, **Nether**, and **End** worlds have been reset *(30-Aug-2025)*.  
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
