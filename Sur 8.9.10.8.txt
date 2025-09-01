@@ -95,12 +95,12 @@
 :shiny: [Survival] 
 
 **HUB REALM**
-:sdragon: [Lobby] Updated **Lobby's** Map after almost a year, Last time it was changed on 21st August 2025.
-:sdragon: [Lobby] Removed all npc's of resigned staff members.
-:sdragon: [Lobby] Relocated things to be a little closer than in the previous map
-:sdragon: [Lobby] Removed **Survival Coming Soon** Aztec Boss NPC
-:sdragon: [Lobby] Removed **Events** statistic from Scoreboard
-:sdragon: [Lobby] Added **Skyblock** statistic to Scoreboard
+:sdragon: [Lobby] Updated the **Lobby Map** after almost a year – the last update was on 21st August 2025.  
+:sdragon: [Lobby] Removed all NPCs belonging to resigned staff members.  
+:sdragon: [Lobby] Relocated several features to be closer together compared to the previous map.  
+:sdragon: [Lobby] Removed the **Survival Coming Soon** Aztec Boss NPC.  
+:sdragon: [Lobby] Removed the **Events** statistic from the scoreboard.  
+:sdragon: [Lobby] Added the **Skyblock** statistic to the scoreboard.  
 :sdragon: [Lobby] 
 
 **NETWORK**
