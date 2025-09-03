@@ -101,7 +101,10 @@
 :sdragon: [Lobby] Removed the **Survival Coming Soon** Aztec Boss NPC.  
 :sdragon: [Lobby] Removed the **Events** statistic from the scoreboard.  
 :sdragon: [Lobby] Added the **Skyblock** statistic to the scoreboard.  
+:sdragon: [Lobby] Added **Retired Oneblock's** NPC at the far left corner of the map.
 :sdragon: [Lobby] 
+:sdragon: [Lobby] 
+
 
 **NETWORK**
 :spaceheart1: [Network] 
