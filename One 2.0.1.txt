@@ -2,8 +2,8 @@
 :grass: Removed **Warps Menu**, Made Codex Regions the **Navigation Menu**
 :grass: Removed **Navigation Mage** & hologram from the spawn's front area.
 :grass: Added **"/pwarps"**, as it wasn't working initially.
-:grass: 
-:grass: 
+:grass: Removed **Kits Menu**
+:grass: Added **Kits NPC** in **Auction** building
 :grass: 
 :grass: 
 :grass: 
