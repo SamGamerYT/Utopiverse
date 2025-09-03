@@ -1,8 +1,8 @@
 **Patch/Changes 0.0.11** *(Skyblock)*
 
-:loading: [QOL] 
-:loading: 
-:loading: 
+:book~1: [QOL] 
+:book~1: 
+:book~1: 
 
 **[ @Changelogs ]**
 
