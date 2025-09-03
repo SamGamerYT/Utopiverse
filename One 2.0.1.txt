@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.1** *[Oneblock]*
-:grass: 
+:grass: Removed **Warps Menu**, Made Codex Regions the **Navigation Menu**
 :grass: 
 :grass: 
 :grass: 

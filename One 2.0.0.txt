@@ -1,68 +1,62 @@
 **Patch/Changes 2.0.0** *[Oneblock]*
-:grass: **Artifacts** interface will now open with **"/armory"**.
-:grass: Fixed **"/help"** not displaying the player's helmet, main-hand, and off-hand items.
-:grass: Fixed **Sit, Lay, and Bellyflop** system showing broken messages.
-:grass: Added **Decoration Lamps** around the **Spawn Zone**.
-:grass: Added **Store NPC** at **"/warp bank"**.
-:grass: Added a **Beggar NPC** in front of the **Bank Zone**.
-:grass: Enabled **Daylight Cycle** at **"/spawn"**.
-:grass: Removed **"/recipes"** Interface
-:grass: Removed **"/panel"** Interface and replaced it with **"/help"** interface
-:grass: Modified **OB Settings** in **"/help"** interface.
-:grass: Added **Helpful Security** guard near the **Bank Vault**
-:grass: **Helpful Security** interface will have an option to fix your **OB Block** 
+:grass: **Artifacts** interface will now open with **"/armory"**.  
+:grass: Fixed **"/help"** not displaying the player's helmet, main-hand, and off-hand items.  
+:grass: Fixed **Sit, Lay, and Bellyflop** system showing broken messages.  
+:grass: Added **Decoration Lamps** around the **Spawn Zone**.  
+:grass: Added **Store NPC** at **"/warp bank"**.  
+:grass: Added a **Beggar NPC** in front of the **Bank Zone**.  
+:grass: Enabled **Daylight Cycle** at **"/spawn"**.  
+:grass: Removed **"/recipes"** interface.  
+:grass: Removed **"/panel"** interface and replaced it with the **"/help"** interface.  
+:grass: Modified **OB Settings** in the **"/help"** interface.  
+:grass: Added a **Helpful Security Guard** near the **Bank Vault**.  
+:grass: **Helpful Security** interface will have an option to fix your **OB Block**.  
 
-:grass: **Mini Queen, Smart & Sam** will no longer show their username above their head.
-:grass: Players can now allow TNT at their island!
-:grass: Removed **Shop Menu** NPC at **Auction House** location.
-:grass: Added **Player Chest Shop** example at **Auction House** location.
-:grass: Added **Donator Rewards** interface at **Auction House** location.
-:grass: Modified Redstone Rules **"/rules"**
-:grass: Modified Spawners Rules **"/rules"**
-:grass: Added **Coinflip** & added Coinflip results to show directly in Discord.
-:grass: **NPC** at bank that will buy the item you are holding in hand and quickly sell it to /shop!
-:grass: Updated **Entity Manager** to match survival's settings.
-:grass: **Dungeon Scrolls**, 6 Dungeon scrolls prepared by **_QueenChaos95180**!
+:grass: **Mini Queen, Smart & Sam** will no longer show their username above their head.  
+:grass: Players can now allow TNT on their island!  
+:grass: Removed **Shop Menu** NPC at the **Auction House** location.  
+:grass: Added a **Player Chest Shop** example at the **Auction House** location.  
+:grass: Added a **Donator Rewards** interface at the **Auction House** location.  
+:grass: Modified Redstone Rules in **"/rules"**.  
+:grass: Modified Spawner Rules in **"/rules"**.  
+:grass: Added **Coinflip** and Coinflip results will now show directly in Discord.  
+:grass: Added an **NPC** at the bank that will buy the item you are holding and quickly sell it to **/shop**.  
+:grass: Updated **Entity Manager** to match Survival's settings.  
+:grass: Added **Dungeon Scrolls** – 6 Dungeon scrolls prepared by **_QueenChaos95180_**!  
 
-**DUNGEON**
-:grass: Added **Ironshade** currency for **Elder Miner** in **Coal Dungeon**
-:grass: Added **Ironheart** currency for **Ironheart Titan** in **Cave Dungeon**
+**DUNGEON**  
+:grass: Added **Ironshade** currency for the **Elder Miner** in the **Coal Dungeon**.  
+:grass: Added **Ironheart** currency for the **Ironheart Titan** in the **Cave Dungeon**.  
 
-**HOLOGRAMS**
-:grass: Modified **Welcome Hologram**; added correct and up-to-date information.
-:grass: Added **PVP NPC Hologram**
-:grass: Modified **"/blacksmith"** Area hologram.
+**HOLOGRAMS**  
+:grass: Modified the **Welcome Hologram**; added correct and up-to-date information.  
+:grass: Added **PVP NPC Hologram**.  
+:grass: Modified the **"/blacksmith"** area hologram.  
 
-:grass: Added **Generous** point leaderboard at **"/warp Leaderboard"**.
-:grass: Added **Sky Throne** leaderboard at **"/warp Leaderboard"**.
-:grass: Added **Player Chest Shop** explanation at **Auction House** location.
+:grass: Added **Generous Point** leaderboard at **"/warp leaderboard"**.  
+:grass: Added **Sky Throne** leaderboard at **"/warp leaderboard"**.  
+:grass: Added **Player Chest Shop** explanation at the **Auction House** location.  
 
-**ISLAND**
-:grass: Upgradable Radius is now up to **600x600** instead of **400x400**
-:grass: You will lose **1000** Island value per death
-:grass: Added player's **Island Level** in Chat
-:grass: Added **Island Team Chat** so you can have private conversation!
+**ISLAND**  
+:grass: Upgradable radius increased to **600x600** from **400x400**.  
+:grass: You will lose **1000** island value per death.  
+:grass: Added player's **Island Level** in chat.  
+:grass: Added **Island Team Chat** for private conversations.  
 
-**BANK**
-:grass: Removed **Interest** from the **Bank**.
-:grass: Added more **Upgrades** and a higher **island size limit** for your island.
-:grass: You will now lose an **50%** static amount upon death.
-:grass: Added **Money Lose** hologram near **Bank Manager**.
-:grass: **PiggyBank** obtainable on **Second Floor** at the **Loot Exchanger**
-:grass: Added **Default Bank Interface** with tips for players!
-:grass: Added **Island Member Upgrade** for your island.
+**BANK**  
+:grass: Removed **Interest** from the bank.  
+:grass: Added more **Upgrades** and a higher **island size limit** for your island.  
+:grass: You will now lose a **50%** static amount upon death.  
+:grass: Added **Money Loss** hologram near the **Bank Manager**.  
+:grass: **PiggyBank** obtainable on the **Second Floor** at the **Loot Exchanger**.  
+:grass: Added a **Default Bank Interface** with tips for players.  
+:grass: Added an **Island Member Upgrade** for your island.  
 
-**BLACKSMITH**
-:grass: Added **Spawner Pickaxe T4**, Netherite Based pickaxe.
-:grass: Added **Onyx Shovel** & **Opal Shovel** at the tools forge.
+**BLACKSMITH**  
+:grass: Added **Spawner Pickaxe T4**, a Netherite-based pickaxe.  
+:grass: Added **Onyx Shovel** and **Opal Shovel** at the tools forge.  
 
-**TINKERER**
-:grass: Added **Repair Shop** warp & utility station.
+**TINKERER**  
+:grass: Added **Repair Shop** warp & utility station.  
 
-**HOLOGRAMS** *(Created by Idiomaticsss)* 
-:grass: 
- 
-**[@Changelogs]**
-
-**AUTO RESPONSE**
-**CRATES**
+**[ @Changelogs ]**
