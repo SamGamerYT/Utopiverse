@@ -1,6 +1,6 @@
 **Patch/Changes 2.0.1** *[Oneblock]*
 :grass: Removed **Warps Menu**, Made Codex Regions the **Navigation Menu**
-:grass: 
+:grass: Removed **Navigation Mage** & hologram from the spawn's front area.
 :grass: 
 :grass: 
 :grass: 
