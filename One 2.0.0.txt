@@ -27,7 +27,6 @@
 **DUNGEON**
 :grass: Added **Ironshade** currency for **Elder Miner** in **Coal Dungeon**
 :grass: Added **Ironheart** currency for **Ironheart Titan** in **Cave Dungeon**
-:grass: 
 
 **HOLOGRAMS**
 :grass: Modified **Welcome Hologram**; added correct and up-to-date information.
@@ -37,14 +36,12 @@
 :grass: Added **Generous** point leaderboard at **"/warp Leaderboard"**.
 :grass: Added **Sky Throne** leaderboard at **"/warp Leaderboard"**.
 :grass: Added **Player Chest Shop** explanation at **Auction House** location.
-:grass: 
 
 **ISLAND**
 :grass: Upgradable Radius is now up to **600x600** instead of **400x400**
 :grass: You will lose **1000** Island value per death
 :grass: Added player's **Island Level** in Chat
 :grass: Added **Island Team Chat** so you can have private conversation!
-:grass: 
 
 **BANK**
 :grass: Removed **Interest** from the **Bank**.
@@ -58,11 +55,9 @@
 **BLACKSMITH**
 :grass: Added **Spawner Pickaxe T4**, Netherite Based pickaxe.
 :grass: Added **Onyx Shovel** & **Opal Shovel** at the tools forge.
-:grass: 
 
 **TINKERER**
 :grass: Added **Repair Shop** warp & utility station.
-:grass: 
 
 **HOLOGRAMS** *(Created by Idiomaticsss)* 
 :grass: 
