@@ -1,11 +1,6 @@
 **Patch/Changes 0.0.10** *(Skyblock)*
 
 :loading: [QOL] Discord Achievement announcement embed color is now blue instead of yellow.
-:loading: [QOL] 
 :loading: **Discord Chat** has been moved over to **Utopiverse's Discord**
-:loading: 
-:loading: 
 
-**[@Changelogs]**
-
-*(Special thanks to YuxuFG)*
+**[ @Changelogs ]**
