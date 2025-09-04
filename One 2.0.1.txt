@@ -24,8 +24,7 @@
 :grass: 
 :grass: 
 
-:Sparkles: [Store] Added **Island Radius** from **200x200** till **600x600** to webstore.
-:Sparkles: [Store] Added **Vaults** option for **Oneblock 2.0**
+:Sparkles: [Store] 
 :Sparkles: [Store] 
 
 **DUNGEON**
