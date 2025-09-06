@@ -3,21 +3,20 @@
 :shiny: [Survival] Fixed over **70** digging quests that were not working as intended.  
 :shiny: [Survival] Fixed a major issue with **Custom Enchantments** not functioning correctly *(Reported by _DaddyCool731_)*.  
 :shiny: [Survival] **Resource**, **Nether**, and **End** worlds have been reset *(30-Aug-2025)*.  
-:shiny: [Survival] Added information about **Passive Tournament** not counting score in **Primary World**
+:shiny: [Survival] Added information about **Passive Tournament** not counting score in the **Primary World**.  
 
-**HUB REALM**
+**HUB REALM**  
 :sdragon: [Lobby] Updated the **Lobby Map** after almost a year – the last update was on 21st August 2025.  
 :sdragon: [Lobby] Removed all NPCs belonging to resigned staff members.  
 :sdragon: [Lobby] Relocated several features to be closer together compared to the previous map.  
 :sdragon: [Lobby] Removed the **Survival Coming Soon** Aztec Boss NPC.  
 :sdragon: [Lobby] Removed the **Events** statistic from the scoreboard.  
 :sdragon: [Lobby] Added the **Skyblock** statistic to the scoreboard.  
-:sdragon: [Lobby] Added **Retired Oneblock's** NPC at the far left corner of the map.
-:sdragon: [Lobby] Dependencies Updated *(05-Sep-25)*
+:sdragon: [Lobby] Added a **Retired Oneblock NPC** at the far-left corner of the map.  
+:sdragon: [Lobby] Dependencies updated *(05-Sep-25)*.  
 
-
-**NETWORK**
-:spaceheart1: [Network] Updated **Friends System**
-:spaceheart1: [Network] Dependencies Updated *(05-Sep-25)*
+**NETWORK**  
+:spaceheart1: [Network] Updated the **Friends System**.  
+:spaceheart1: [Network] Dependencies updated *(05-Sep-25)*.  
 
 **[ @Changelogs ]**
