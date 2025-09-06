@@ -91,9 +91,6 @@
 **OPTIMIZATION**
 :shiny: [Survival] 
 
-**BUILD** *(_RECON1stbat)*
-:shiny: [Survival] 
-
 **HUB REALM**
 :sdragon: [Lobby] 
 
