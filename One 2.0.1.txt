@@ -5,7 +5,7 @@
 :grass: Removed **Kits Menu**
 :grass: Added **Kits NPC** in **Auction** building
 :grass: Players can now skip the night without waiting for other players to sleep.
-:grass: 
+:grass: Space between **Crates Prefix** & Username has been fixed
 :grass: 
 :grass: 
 :grass: 
