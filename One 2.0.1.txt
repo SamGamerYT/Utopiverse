@@ -4,7 +4,7 @@
 :grass: Added **"/pwarps"**, as it wasn't working initially.
 :grass: Removed **Kits Menu**
 :grass: Added **Kits NPC** in **Auction** building
-:grass: 
+:grass: Players can now skip the night without waiting for other players to sleep.
 :grass: 
 :grass: 
 :grass: 
