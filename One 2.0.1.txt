@@ -7,7 +7,7 @@
 :grass: Players can now skip the night without waiting for other players to sleep.
 :grass: Space between **Crates Prefix** & Username has been fixed
 :grass: **Mobs** will no longer clear blocks on platform
-:grass: 
+:grass: Lowered the holograms on the fresh oneblock ob block
 :grass: 
 :grass: 
 :grass: 
