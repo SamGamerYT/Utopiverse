@@ -10,7 +10,7 @@
 :grass: Lowered the holograms on the fresh oneblock ob block
 :grass: Heavily decreased the mob spawn rate in **Plains Biome**
 :grass: **Creepers** will no longer grief your island.
-:grass: 
+:grass: **Staff Members** can put you in jail if you are being rude.
 
 :grass: 
 :grass: 
