@@ -12,7 +12,7 @@
 :grass: **Creepers** will no longer grief your island.
 :grass: **Staff Members** can put you in jail if you are being rude.
 
-:grass: 
+:grass: Added **ATM Machine** infront of **Coal Dungeon**
 :grass: 
 :grass: 
 :grass: 
