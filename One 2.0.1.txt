@@ -1,19 +1,19 @@
 **Patch/Changes 2.0.1** *[Oneblock]*
-:grass: Removed **Warps Menu**, Made Codex Regions the **Navigation Menu**
-:grass: Removed **Navigation Mage** & hologram from the spawn's front area.
-:grass: Added **"/pwarps"**, as it wasn't working initially.
-:grass: Removed **Kits Menu**
-:grass: Added **Kits NPC** in **Auction** building
-:grass: Players can now skip the night without waiting for other players to sleep.
-:grass: Space between **Crates Prefix** & Username has been fixed
-:grass: **Mobs** will no longer clear blocks on platform
-:grass: Lowered the holograms on the fresh oneblock ob block
-:grass: Heavily decreased the mob spawn rate in **Plains Biome**
-:grass: **Creepers** will no longer grief your island.
-:grass: **Staff Members** can put you in jail if you are being rude.
+:grass: Removed the **Warps Menu** and made Codex Regions the new **Navigation Menu**.  
+:grass: Removed the **Navigation Mage** and its hologram from the spawn’s front area.  
+:grass: Added **"/pwarps"**, as it wasn’t working initially.  
+:grass: Removed the **Kits Menu**.  
+:grass: Added a **Kits NPC** in the **Auction** building.  
+:grass: Players can now skip the night without waiting for others to sleep.  
+:grass: Fixed the space between the **Crates Prefix** and username.  
+:grass: **Mobs** will no longer clear blocks on the platform.  
+:grass: Lowered the holograms on the fresh Oneblock OB block.  
+:grass: Heavily decreased the mob spawn rate in the **Plains Biome**.  
+:grass: **Creepers** will no longer grief your island.  
+:grass: **Staff Members** can now put players in jail if they are being rude.  
 
-:grass: Added **ATM Machine** infront of **Coal Dungeon**
-:grass: Fixed **Quests Board** not showing the **Daily Quests Menu**
+:grass: Added an **ATM Machine** in front of the **Coal Dungeon**.  
+:grass: Fixed the **Quests Board** not showing the **Daily Quests Menu**.  
 :grass: 
 :grass: 
 :grass: 
