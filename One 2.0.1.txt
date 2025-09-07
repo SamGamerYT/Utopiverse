@@ -9,7 +9,7 @@
 :grass: **Mobs** will no longer clear blocks on platform
 :grass: Lowered the holograms on the fresh oneblock ob block
 :grass: Heavily decreased the mob spawn rate in **Plains Biome**
-:grass: 
+:grass: **Creepers** will no longer grief your island.
 :grass: 
 
 :grass: 
