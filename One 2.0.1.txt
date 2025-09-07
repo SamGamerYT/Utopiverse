@@ -13,7 +13,7 @@
 :grass: **Staff Members** can put you in jail if you are being rude.
 
 :grass: Added **ATM Machine** infront of **Coal Dungeon**
-:grass: 
+:grass: Fixed **Quests Board** not showing the **Daily Quests Menu**
 :grass: 
 :grass: 
 :grass: 
