@@ -1,4 +1,4 @@
-**Patch/Changes 2.0.1** *[Oneblock]*
+**Patch/Changes 2.0.1** *[Oneblock]*  
 :grass: Removed the **Warps Menu** and made Codex Regions the new **Navigation Menu**.  
 :grass: Removed the **Navigation Mage** and its hologram from the spawn’s front area.  
 :grass: Added **"/pwarps"**, as it wasn’t working initially.  
@@ -14,15 +14,15 @@
 
 :grass: Added an **ATM Machine** in front of the **Coal Dungeon**.  
 :grass: Fixed the **Quests Board** not showing the **Daily Quests Menu**.  
-:grass: Fixed **"/ob phases"** showing the outdated data.
-:grass: Removed **Enchanted Book** from **Envoy**
-:grass: Removed **Beacon** from **Envoy**
-:grass: Disabled **Races** for the time being**
-:grass: **Envoy** will happen every **3 hours** instead of **every hour**
+:grass: Fixed **"/ob phases"** displaying outdated data.  
+:grass: Removed **Enchanted Book** from **Envoy**.  
+:grass: Removed **Beacon** from **Envoy**.  
+:grass: Disabled **Races** for the time being.  
+:grass: **Envoy** will now occur every **3 hours** instead of every hour.  
 
-**COAL DUNGEON**
-:grass: Fixed **Elder Boss** respawn timer not showing the proper cooldown.
-:grass: Increased maximum loot drop from **2** to **4**
-:grass: **The Guard** has a higher chance to drop **Topaz** now.
- 
+**COAL DUNGEON**  
+:grass: Fixed the **Elder Boss** respawn timer not showing the proper cooldown.  
+:grass: Increased maximum loot drops from **2** to **4**.  
+:grass: **The Guard** now has a higher chance of dropping **Topaz**.  
+
 **[ @Changelogs ]**
