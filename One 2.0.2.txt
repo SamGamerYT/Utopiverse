@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.2** *[Oneblock]*
-:grass: 
+:grass: Heavily decreased the mob spawn rate in the **Ocean Biome**.
 :grass: 
 :grass: 
 :grass: 
