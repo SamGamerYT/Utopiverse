@@ -14,9 +14,9 @@
 
 :grass: Added an **ATM Machine** in front of the **Coal Dungeon**.  
 :grass: Fixed the **Quests Board** not showing the **Daily Quests Menu**.  
-:grass: 
-:grass: 
-:grass: 
+:grass: Fixed **"/ob phases"** showing the outdated data.
+:grass: Removed **Enchanted Book** from **Envoy**
+:grass: Removed **Beacon** from **Envoy**
 :grass: 
 :grass: 
 :grass: 
