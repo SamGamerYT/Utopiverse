@@ -25,7 +25,6 @@
 :grass: 
 
 :Sparkles: [Store] 
-:Sparkles: [Store] 
 
 **DUNGEON**
 :grass: 
