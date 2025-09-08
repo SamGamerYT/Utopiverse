@@ -1,7 +1,7 @@
 **Patch/Changes 2.0.2** *[Oneblock]*
 :grass: Heavily decreased the mob spawn rate in the **Ocean Biome**.
 :grass: Heavily decreased the mob spawn rate in the **Mooshroom Biome**.
-:grass: 
+:grass: Removed **Elytra, Netherite Scrap & Ancient Debris** from loot pool.
 :grass: 
 :grass: 
 :grass: 
