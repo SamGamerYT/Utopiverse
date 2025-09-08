@@ -18,7 +18,7 @@
 :grass: Removed **Enchanted Book** from **Envoy**
 :grass: Removed **Beacon** from **Envoy**
 :grass: Disabled **Races** for the time being**
-:grass: 
+:grass: **Envoy** will happen every **3 hours** instead of **every hour**
 :grass: 
 :grass: 
 :grass: 
