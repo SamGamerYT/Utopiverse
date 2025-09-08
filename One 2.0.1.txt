@@ -17,7 +17,7 @@
 :grass: Fixed **"/ob phases"** showing the outdated data.
 :grass: Removed **Enchanted Book** from **Envoy**
 :grass: Removed **Beacon** from **Envoy**
-:grass: 
+:grass: Disabled **Races** for the time being**
 :grass: 
 :grass: 
 :grass: 
