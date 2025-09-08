@@ -30,6 +30,12 @@
 **DUNGEON**
 :grass: 
 
+**COAL DUNGEON**
+:grass: Fixed **Elder Boss** respawn timer not showing the proper cooldown.
+:grass: Increased maximum loot drop from **2** to **4**
+:grass: **The Guard** has a higher chance to drop **Topaz** now.
+:grass: 
+
 **HOLOGRAMS**
 :grass: 
 
