@@ -2,7 +2,7 @@
 :grass: Heavily decreased the mob spawn rate in the **Ocean Biome**.
 :grass: Heavily decreased the mob spawn rate in the **Mooshroom Biome**.
 :grass: Removed **Elytra, Netherite Scrap & Ancient Debris** from loot pool.
-:grass: 
+:grass: **Guide Menu** is no longer enchanted due to exploits.
 :grass: 
 :grass: 
 :grass: 
