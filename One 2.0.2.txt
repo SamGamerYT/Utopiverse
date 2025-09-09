@@ -36,6 +36,7 @@
 **CAVE DUNGEON**
 :grass: Added **ATM** at the **Cave Dungeon** entrance.
 :grass: Fixed an issue where you would lose **EXP** when you die.
+:grass: Fixed not being able to farm **Diamond Ore** or **Deepslate Diamond Ore**.
 :grass: 
 
 **HOLOGRAMS**
