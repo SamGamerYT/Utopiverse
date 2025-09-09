@@ -10,7 +10,7 @@
 :grass: Removed **Unused Skills** that were not meant to be enable.
 :grass: Fixed an issue where killing zombies dropped a **Mysterious Scroll**
 :grass: **Envoy** timer has been increased from **3h** to **4h**
-:grass: 
+:grass: Added **Coal Dungeon** & **Cave Dungeon** Codex *(SKMASYKW)*
 :grass: 
 :grass: 
 :grass: 
