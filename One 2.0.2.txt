@@ -43,6 +43,7 @@
 :grass: Fixed not being able to farm **Diamond Ore** or **Deepslate Diamond Ore**.
 :grass: Nerfed **Inkstriker**, **Smokefang** & **Toxweaver's** Damage by **35%**
 :grass: Disabled **Enderpearl** & **Chorus Fruit**.
+:grass: Added **Drop Table** for **Inkstriker**
 :grass: 
 
 **HOLOGRAMS**
