@@ -6,7 +6,7 @@
 :grass: Removed **Unused Skills** that were not meant to be enable.
 :grass: Fixed an issue where killing zombies dropped a **Mysterious Scroll**
 :grass: **Envoy** timer has been increased from **3h** to **4h**
-:grass: Added **ATM** at the **Cave Dungeon** entrance.
+:grass: 
 :grass: 
 :grass: 
 :grass: 
@@ -31,6 +31,11 @@
 :grass: 
 
 **COAL DUNGEON**
+:grass: 
+
+**CAVE DUNGEON**
+:grass: Added **ATM** at the **Cave Dungeon** entrance.
+:grass: Fixed an issue where you would lose **EXP** when you die.
 :grass: 
 
 **HOLOGRAMS**
