@@ -1,6 +1,9 @@
 **Patch/Changes 2.0.2** *[Oneblock]*
 :grass: Heavily decreased the mob spawn rate in the **Ocean Biome**.
 :grass: Heavily decreased the mob spawn rate in the **Mooshroom Biome**.
+:grass: Heavily decreased the mob spawn rate in the **Forest Biome**.
+:grass: Heavily decreased the mob spawn rate in the **Desert Biome**.
+:grass: Heavily decreased the mob spawn rate in the **Jungle Biome**.
 :grass: Removed **Elytra, Netherite Scrap & Ancient Debris** from loot pool.
 :grass: **Guide Menu** is no longer enchanted due to exploits.
 :grass: Removed **Unused Skills** that were not meant to be enable.
