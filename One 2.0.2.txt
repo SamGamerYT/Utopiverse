@@ -4,7 +4,7 @@
 :grass: Removed **Elytra, Netherite Scrap & Ancient Debris** from loot pool.
 :grass: **Guide Menu** is no longer enchanted due to exploits.
 :grass: Removed **Unused Skills** that were not meant to be enable.
-:grass: 
+:grass: Fixed an issue where killing zombies dropped a **Mysterious Scroll**
 :grass: 
 :grass: 
 :grass: 
