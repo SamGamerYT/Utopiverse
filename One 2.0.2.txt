@@ -5,7 +5,7 @@
 :grass: **Guide Menu** is no longer enchanted due to exploits.
 :grass: Removed **Unused Skills** that were not meant to be enable.
 :grass: Fixed an issue where killing zombies dropped a **Mysterious Scroll**
-:grass: 
+:grass: **Envoy** timer has been increased from **3h** to **4h**
 :grass: 
 :grass: 
 :grass: 
