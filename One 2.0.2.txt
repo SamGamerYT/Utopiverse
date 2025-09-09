@@ -3,7 +3,7 @@
 :grass: Heavily decreased the mob spawn rate in the **Mooshroom Biome**.
 :grass: Removed **Elytra, Netherite Scrap & Ancient Debris** from loot pool.
 :grass: **Guide Menu** is no longer enchanted due to exploits.
-:grass: 
+:grass: Removed **Unused Skills** that were not meant to be enable.
 :grass: 
 :grass: 
 :grass: 
@@ -13,7 +13,7 @@
 :grass: 
 :grass: 
 
-:grass: 
+:grass: Spanwer Crates `mushroom_cow` to `mooshroom` *(SmartName)*
 :grass: 
 :grass: 
 :grass: 
