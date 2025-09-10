@@ -1,26 +1,26 @@
-**Patch/Changes 2.0.2** *[Oneblock]*
-:grass: Heavily decreased the mob spawn rate in the **Ocean Biome**.
-:grass: Heavily decreased the mob spawn rate in the **Mooshroom Biome**.
-:grass: Heavily decreased the mob spawn rate in the **Forest Biome**.
-:grass: Heavily decreased the mob spawn rate in the **Desert Biome**.
-:grass: Heavily decreased the mob spawn rate in the **Jungle Biome**.
-:grass: Heavily decreased the mob spawn rate in the **Badlands Biome**.
-:grass: Removed **Elytra, Netherite Scrap & Ancient Debris** from loot pool.
-:grass: **Guide Menu** is no longer enchanted due to exploits.
-:grass: Removed **Unused Skills** that were not meant to be enable.
-:grass: Fixed an issue where killing zombies dropped a **Mysterious Scroll**
-:grass: **Envoy** timer has been increased from **3h** to **4h**
-:grass: Added **Coal Dungeon** & **Cave Dungeon** Codex *(SKMASYKW)*
-:grass: Modified **"/help"** menu and added **Booster Timer** item in **Equipments Section**.
+**Patch/Changes 2.0.2** *[Oneblock]*  
+:grass: Heavily decreased the mob spawn rate in the **Ocean Biome**.  
+:grass: Heavily decreased the mob spawn rate in the **Mooshroom Biome**.  
+:grass: Heavily decreased the mob spawn rate in the **Forest Biome**.  
+:grass: Heavily decreased the mob spawn rate in the **Desert Biome**.  
+:grass: Heavily decreased the mob spawn rate in the **Jungle Biome**.  
+:grass: Heavily decreased the mob spawn rate in the **Badlands Biome**.  
+:grass: Removed **Elytra**, **Netherite Scrap**, and **Ancient Debris** from the loot pool.  
+:grass: The **Guide Menu** is no longer enchanted due to exploits.  
+:grass: Removed **Unused Skills** that were not meant to be enabled.  
+:grass: Fixed an issue where killing zombies dropped a **Mysterious Scroll**.  
+:grass: Increased the **Envoy** timer from **3h** to **4h**.  
+:grass: Added **Coal Dungeon** and **Cave Dungeon** Codex *(SKMASYKW)*.  
+:grass: Modified the **"/help"** menu and added the **Booster Timer** item in the **Equipment Section**.  
 
-:grass: Spawner Crates `mushroom_cow` to `mooshroom` *(SmartName)*
+:grass: Spawner Crates `mushroom_cow` renamed to `mooshroom` *(SmartName)*.  
 
-**CAVE DUNGEON**
-:grass: Added **ATM** at the **Cave Dungeon** entrance.
-:grass: Fixed an issue where you would lose **EXP** when you die.
-:grass: Fixed not being able to farm **Diamond Ore** or **Deepslate Diamond Ore**.
-:grass: Nerfed **Inkstriker**, **Smokefang** & **Toxweaver's** Damage by **35%**
-:grass: Disabled **Enderpearl** & **Chorus Fruit**.
-:grass: Added **Drop Table** for **Inkstriker**
- 
+**CAVE DUNGEON**  
+:grass: Added an **ATM** at the **Cave Dungeon** entrance.  
+:grass: Fixed an issue where players would lose **EXP** upon death.  
+:grass: Fixed not being able to farm **Diamond Ore** or **Deepslate Diamond Ore**.  
+:grass: Nerfed the damage of **Inkstriker**, **Smokefang**, and **Toxweaver** by **35%**.  
+:grass: Disabled the use of **Ender Pearls** and **Chorus Fruit**.  
+:grass: Added a **Drop Table** for **Inkstriker**.  
+
 **[ @Changelogs ]**
