@@ -12,30 +12,8 @@
 :grass: **Envoy** timer has been increased from **3h** to **4h**
 :grass: Added **Coal Dungeon** & **Cave Dungeon** Codex *(SKMASYKW)*
 :grass: Modified **"/help"** menu and added **Booster Timer** item in **Equipments Section**.
-:grass: 
-:grass: 
-:grass: 
-:grass: 
 
 :grass: Spawner Crates `mushroom_cow` to `mooshroom` *(SmartName)*
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-
-:Sparkles: [Store] 
-
-**DUNGEON**
-:grass: 
-
-**COAL DUNGEON**
-:grass: 
 
 **CAVE DUNGEON**
 :grass: Added **ATM** at the **Cave Dungeon** entrance.
@@ -44,27 +22,5 @@
 :grass: Nerfed **Inkstriker**, **Smokefang** & **Toxweaver's** Damage by **35%**
 :grass: Disabled **Enderpearl** & **Chorus Fruit**.
 :grass: Added **Drop Table** for **Inkstriker**
-:grass: 
-
-**HOLOGRAMS**
-:grass: 
-
-**ISLAND**
-:grass: 
-
-**BANK**
-:grass: 
-
-**BLACKSMITH**
-:grass: 
-
-**TINKERER**
-:grass: 
-
-**HOLOGRAMS** *(Created by Idiomaticsss)* 
-:grass: 
  
 **[ @Changelogs ]**
-
-**AUTO RESPONSE**
-**CRATES**
