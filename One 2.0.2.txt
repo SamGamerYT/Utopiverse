@@ -17,7 +17,7 @@
 :grass: 
 :grass: 
 
-:grass: Spanwer Crates `mushroom_cow` to `mooshroom` *(SmartName)*
+:grass: Spawner Crates `mushroom_cow` to `mooshroom` *(SmartName)*
 :grass: 
 :grass: 
 :grass: 
