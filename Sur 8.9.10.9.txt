@@ -95,6 +95,8 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Updated **Friends** dependencies.
+:spaceheart1: [Network] 
 :spaceheart1: [Network] 
 
 **WEBSITE**
