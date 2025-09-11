@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.3** *[Oneblock]*
-:grass: 
+:grass: Fixed **"/disposal"** not working for **Mage Rankup**
 :grass: 
 :grass: 
 :grass: 
