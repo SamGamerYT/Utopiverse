@@ -1,8 +1,8 @@
 **Patch/Changes 2.0.3** *[Oneblock]*
 :grass: Fixed **"/disposal"** not working for **Mage Rankup**
-:grass: 
-:grass: 
-:grass: 
+:grass: **Voting** will now yield 1 Vote Key and $1000.
+:grass: Modified **"/vote"** message to be more accurate and refined.
+:grass: Modified **Voting Announcements** to match the oneblock's colour scheme
 :grass: 
 :grass: 
 :grass: 
