@@ -6,7 +6,7 @@
 :grass: Fixed **Daily Chest** not working properly.
 :grass: Fixed **SellWands** not working properly.
 :grass: Removed **Vote Points** from **Scoreboard**
-:grass: 
+:grass: Modified **Kits NPC** Hologram to include how to redeem the kit.
 :grass: 
 :grass: 
 :grass: 
