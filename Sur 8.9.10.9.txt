@@ -4,7 +4,7 @@
 :shiny: [Survival] Revamped **"/vault"** menu.
 :shiny: [Survival] **The End** world has been reseted.
 :shiny: [Survival] Fixed **End Altar** not summoning in the new **The End** world.
-:shiny: [Survival] 
+:shiny: [Survival] Major maintenanced performed on **12-Sep-25**, Updated bunch of dependencies & apis.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
