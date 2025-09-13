@@ -4,7 +4,7 @@
 :grass: Modified **"/vote"** message to be more accurate and refined.
 :grass: Modified **Voting Announcements** to match the oneblock's colour scheme
 :grass: Fixed **Daily Chest** not working properly.
-:grass: 
+:grass: Fixed **SellWands** not working properly.
 :grass: 
 :grass: 
 :grass: 
