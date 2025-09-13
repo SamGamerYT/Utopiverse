@@ -5,7 +5,7 @@
 :grass: Modified **Voting Announcements** to match the oneblock's colour scheme
 :grass: Fixed **Daily Chest** not working properly.
 :grass: Fixed **SellWands** not working properly.
-:grass: 
+:grass: Removed **Vote Points** from **Scoreboard**
 :grass: 
 :grass: 
 :grass: 
