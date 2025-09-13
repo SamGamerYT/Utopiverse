@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.9** *(Network Changes)*
 :shiny: [Survival] Fixed **Watering Can** not working as they should on **Bedrock Edition**
 :shiny: [Survival] Fixed **"/ps visualize"** missing border on bigger protection stone bug.
-:shiny: [Survival] 
+:shiny: [Survival] Revamped **"/vault"** menu.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
