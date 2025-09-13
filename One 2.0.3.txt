@@ -7,7 +7,7 @@
 :grass: Fixed **SellWands** not working properly.
 :grass: Removed **Vote Points** from **Scoreboard**
 :grass: Modified **Kits NPC** Hologram to include how to redeem the kit.
-:grass: 
+:grass: Fixed **Lavender Crate** not properly executing **Amulets** Drop.
 :grass: 
 :grass: 
 :grass: 
