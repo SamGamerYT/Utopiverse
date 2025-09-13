@@ -50,6 +50,7 @@
 :shiny: [Survival] 
 
 **CRATES**
+:shiny: [Survival] Fixed **CONFUSED!!!** Jack o Lantern's Feather Falling enchantment error.
 :shiny: [Survival] 
 
 :shiny: [Survival] 
