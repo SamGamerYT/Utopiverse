@@ -55,6 +55,7 @@
 **BLACKSMITH**
 :grass: Added **11 New Armory Items** to **Refine Shop**. *(Created by SKMASYKW)*
 :grass: Fixed **SPAWNER PICKAXE T4** Error
+:grass: Added **Refine Kyanite** in **TOOLS & UTILITIES** Station at **Blacksmith**
 :grass: 
 
 **TINKERER**
