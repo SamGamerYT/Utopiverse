@@ -8,7 +8,7 @@
 :grass: Removed **Vote Points** from **Scoreboard**
 :grass: Modified **Kits NPC** Hologram to include how to redeem the kit.
 :grass: Fixed **Lavender Crate** not properly executing **Amulets** Drop.
-:grass: 
+:grass: Nerfed **Mob Spawning** speed to match **Survival**
 :grass: 
 :grass: 
 :grass: 
