@@ -10,7 +10,8 @@
 :grass: Fixed **Lavender Crate** not properly executing **Amulets** Drop.
 :grass: Nerfed **Mob Spawning** speed to match **Survival**
 :grass: **Evoker** spawner has been nerfed to spawn **2-3** mobs per spawner on average.
-:grass: 
+:grass: Decreased **Evoker Spawner** chances from **Spawner Crates** from **10%** to **6%**
+:grass: Increased **Drowned Spawner** chances from **Spawner Crates** from **9%** to **13%**
 :grass: 
 :grass: 
 :grass: 
