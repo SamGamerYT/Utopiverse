@@ -13,7 +13,7 @@
 :grass: Decreased **Evoker Spawner** chances from **Spawner Crates** from **10%** to **6%**
 :grass: Increased **Drowned Spawner** chances from **Spawner Crates** from **9%** to **13%**
 :grass: Added the following mobs to not remove when you visit your island: Chicken, Cat, Horse, Axolotl & Sheep
-:grass: 
+:grass: Fixed **Guide Book** exploits.
 :grass: 
 :grass: 
 :grass: 
