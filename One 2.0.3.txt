@@ -14,7 +14,7 @@
 :grass: Increased **Drowned Spawner** chances from **Spawner Crates** from **9%** to **13%**
 :grass: Added the following mobs to not remove when you visit your island: Chicken, Cat, Horse, Axolotl & Sheep
 :grass: Fixed **Guide Book** exploits.
-:grass: 
+:grass: Fixed **Cherry Crate** enchantment error, Fixed **Cherry Helmet** & **Cherry Sword**
 :grass: 
 :grass: 
 
