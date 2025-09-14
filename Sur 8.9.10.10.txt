@@ -92,6 +92,7 @@
 :shiny: [Survival] 
 
 **HUB REALM**
+:sdragon: [Lobby] Modified **Oneblock NPC** hologram to have more details.
 :sdragon: [Lobby] 
 
 **NETWORK**
