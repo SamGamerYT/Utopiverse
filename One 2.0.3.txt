@@ -53,6 +53,7 @@
 :grass: 
 
 **BLACKSMITH**
+:grass: Added **11 New Armory Items** to **Refine Shop**. *(Created by SKMASYKW)*
 :grass: 
 
 **TINKERER**
