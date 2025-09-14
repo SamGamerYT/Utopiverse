@@ -40,6 +40,7 @@
 
 **CAVE DUNGEON**
 :grass: Disabled **TNT Usage** in Cave Dungeon
+:grass: Heavily buffed **Iron Heart Titan** loot drop.
 :grass: 
 
 **HOLOGRAMS**
