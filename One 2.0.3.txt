@@ -15,7 +15,7 @@
 :grass: Added the following mobs to not remove when you visit your island: Chicken, Cat, Horse, Axolotl & Sheep
 :grass: Fixed **Guide Book** exploits.
 :grass: Fixed **Cherry Crate** enchantment error, Fixed **Cherry Helmet** & **Cherry Sword**
-:grass: 
+:grass: Fixed **Daily Quests** not working with **Dungeon Mobs**.
 :grass: 
 
 :grass: 
