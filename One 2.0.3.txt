@@ -17,7 +17,8 @@
 :grass: Fixed **Guide Book** exploits.
 :grass: Fixed **Cherry Crate** enchantment error, Fixed **Cherry Helmet** & **Cherry Sword**
 :grass: Fixed **Daily Quests** not working with **Dungeon Mobs**.
-:grass: 
+:grass: Disabled **"/ob"** in **PvP Zone**
+:grass: Increased **"/spawn"** and **"/warps"** cooldown from **1s** to **3s**
 
 :Sparkles: [Store] 
 
