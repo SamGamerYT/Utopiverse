@@ -36,6 +36,8 @@
 :grass: 
 
 **COAL DUNGEON**
+:grass: Buffed **Elder Mine** loot drop table
+:grass: Added **Deflector Relic** information to **"/codex"**
 :grass: 
 
 **CAVE DUNGEON**
