@@ -8,6 +8,7 @@
 :grass: Removed **Vote Points** from **Scoreboard**
 :grass: Modified **Kits NPC** Hologram to include how to redeem the kit.
 :grass: Fixed **Lavender Crate** not properly executing **Amulets** Drop.
+
 :grass: Nerfed **Mob Spawning** speed to match **Survival**
 :grass: **Evoker** spawner has been nerfed to spawn **2-3** mobs per spawner on average.
 :grass: Decreased **Evoker Spawner** chances from **Spawner Crates** from **10%** to **6%**
@@ -18,18 +19,6 @@
 :grass: Fixed **Daily Quests** not working with **Dungeon Mobs**.
 :grass: 
 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-
 :Sparkles: [Store] 
 
 **DUNGEON**
@@ -38,11 +27,13 @@
 **COAL DUNGEON**
 :grass: Buffed **Elder Mine** loot drop table
 :grass: Added **Deflector Relic** information to **"/codex"**
+:grass: Added **Copper & Lapis** ore as regenneable block
 :grass: 
 
 **CAVE DUNGEON**
 :grass: Disabled **TNT Usage** in Cave Dungeon
 :grass: Heavily buffed **Iron Heart Titan** loot drop.
+:grass: Added **Copper & Lapis** ore as regenneable block
 :grass: 
 
 **HOLOGRAMS**
