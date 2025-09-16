@@ -1,65 +1,39 @@
-**Patch/Changes 2.0.3** *[Oneblock]*
-:grass: Fixed **"/disposal"** not working for **Mage Rankup**
-:grass: **Voting** will now yield 1 Vote Key and $1000.
-:grass: Modified **"/vote"** message to be more accurate and refined.
-:grass: Modified **Voting Announcements** to match the oneblock's colour scheme
-:grass: Fixed **Daily Chest** not working properly.
-:grass: Fixed **SellWands** not working properly.
-:grass: Removed **Vote Points** from **Scoreboard**
-:grass: Modified **Kits NPC** Hologram to include how to redeem the kit.
-:grass: Fixed **Lavender Crate** not properly executing **Amulets** Drop.
+**Patch/Changes 2.0.3** *[Oneblock]*  
+:grass: Fixed **"/disposal"** not working for **Mage Rankup**.  
+:grass: **Voting** will now yield **1 Vote Key** and **$1000**.  
+:grass: Modified **"/vote"** message to be more accurate and refined.  
+:grass: Modified **Voting Announcements** to match Oneblock’s color scheme.  
+:grass: Fixed **Daily Chest** not working properly.  
+:grass: Fixed **SellWands** not working properly.  
+:grass: Removed **Vote Points** from the **Scoreboard**.  
+:grass: Modified **Kits NPC** hologram to include instructions on how to redeem the kit.  
+:grass: Fixed **Lavender Crate** not properly executing **Amulets** drop.  
 
-:grass: Nerfed **Mob Spawning** speed to match **Survival**
-:grass: **Evoker** spawner has been nerfed to spawn **2-3** mobs per spawner on average.
-:grass: Decreased **Evoker Spawner** chances from **Spawner Crates** from **10%** to **6%**
-:grass: Increased **Drowned Spawner** chances from **Spawner Crates** from **9%** to **13%**
-:grass: Added the following mobs to not remove when you visit your island: Chicken, Cat, Horse, Axolotl & Sheep
-:grass: Fixed **Guide Book** exploits.
-:grass: Fixed **Cherry Crate** enchantment error, Fixed **Cherry Helmet** & **Cherry Sword**
-:grass: Fixed **Daily Quests** not working with **Dungeon Mobs**.
-:grass: Disabled **"/ob"** in **PvP Zone**
-:grass: Increased **"/spawn"** and **"/warps"** cooldown from **1s** to **3s**
-:grass: Fixed a bug where you were able to redeem lower rank rewards.
+:grass: Nerfed **Mob Spawning** speed to match **Survival**.  
+:grass: **Evoker Spawner** has been nerfed to spawn **2–3** mobs per spawner on average.  
+:grass: Decreased **Evoker Spawner** chance from **Spawner Crates** from **10%** to **6%**.  
+:grass: Increased **Drowned Spawner** chance from **Spawner Crates** from **9%** to **13%**.  
+:grass: Added the following mobs to remain when visiting your island: **Chicken, Cat, Horse, Axolotl, and Sheep**.  
+:grass: Fixed **Guide Book** exploits.  
+:grass: Fixed **Cherry Crate** enchantment error with **Cherry Helmet** and **Cherry Sword**.  
+:grass: Fixed **Daily Quests** not working with **Dungeon Mobs**.  
+:grass: Disabled **"/ob"** in **PvP Zone**.  
+:grass: Increased **"/spawn"** and **"/warps"** cooldown from **1s** to **3s**.  
+:grass: Fixed a bug where players were able to redeem lower rank rewards.  
 
-:Sparkles: [Store] 
+**COAL DUNGEON**  
+:grass: Buffed **Elder Mine** loot drop table.  
+:grass: Added **Deflector Relic** information to **"/codex"**.  
+:grass: Added **Copper** and **Lapis Ore** as regenerable blocks.  
 
-**DUNGEON**
-:grass: 
+**CAVE DUNGEON**  
+:grass: Disabled **TNT Usage** in the Cave Dungeon.  
+:grass: Heavily buffed **Ironheart Titan** loot drops.  
+:grass: Added **Copper** and **Lapis Ore** as regenerable blocks.  
 
-**COAL DUNGEON**
-:grass: Buffed **Elder Mine** loot drop table
-:grass: Added **Deflector Relic** information to **"/codex"**
-:grass: Added **Copper & Lapis** ore as regenneable block
-:grass: 
+**BLACKSMITH**  
+:grass: Added **11 New Armory Items** to the **Refine Shop** *(Created by SKMASYKW)*.  
+:grass: Fixed **Spawner Pickaxe T4** error.  
+:grass: Added **Refined Kyanite** in the **Tools & Utilities** station at the **Blacksmith**.  
 
-**CAVE DUNGEON**
-:grass: Disabled **TNT Usage** in Cave Dungeon
-:grass: Heavily buffed **Iron Heart Titan** loot drop.
-:grass: Added **Copper & Lapis** ore as regenneable block
-:grass: 
-
-**HOLOGRAMS**
-:grass: 
-
-**ISLAND**
-:grass: 
-
-**BANK**
-:grass: 
-
-**BLACKSMITH**
-:grass: Added **11 New Armory Items** to **Refine Shop**. *(Created by SKMASYKW)*
-:grass: Fixed **SPAWNER PICKAXE T4** Error
-:grass: Added **Refine Kyanite** in **TOOLS & UTILITIES** Station at **Blacksmith**
-:grass: 
-
-**TINKERER**
-:grass: 
-
-**HOLOGRAMS** *(Created by Idiomaticsss)* 
-:grass: 
- 
 **[ @Changelogs ]**
-
-**AUTO RESPONSE**
-**CRATES**
