@@ -2,7 +2,9 @@
 :grass: Fixed **Core Slot** not accepting **Charm** or **Bracelet** Armory.
 :grass: Both **Slime** & **Silverfish** has been nerfed from **5.0** XP to **0.5** XP due to exploits.
 :grass: **Melon** & **Pumpkin** experience has been nerfed from **3.4** to **3.0**
-:grass: 
+:grass: **Carrot** has been buffed from **2.7** to **4.0**
+:grass: **Beetroot** has been buffed from **3.0** to **3.5**
+:grass: **Cocoa** has been buffed from **1.0** to **4.3**
 :grass: 
 :grass: 
 :grass: 
