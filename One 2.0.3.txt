@@ -19,6 +19,7 @@
 :grass: Fixed **Daily Quests** not working with **Dungeon Mobs**.
 :grass: Disabled **"/ob"** in **PvP Zone**
 :grass: Increased **"/spawn"** and **"/warps"** cooldown from **1s** to **3s**
+:grass: Fixed a bug where you were able to redeem lower rank rewards.
 
 :Sparkles: [Store] 
 
