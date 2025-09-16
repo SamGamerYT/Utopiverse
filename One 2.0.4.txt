@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.4** *[Oneblock]*
-:grass: 
+:grass: Fixed **Core Slot** not accepting **Charm** or **Bracelet** Armory.
 :grass: 
 :grass: 
 :grass: 
