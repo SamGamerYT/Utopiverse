@@ -1,6 +1,6 @@
 **Patch/Changes 2.0.4** *[Oneblock]*
 :grass: Fixed **Core Slot** not accepting **Charm** or **Bracelet** Armory.
-:grass: 
+:grass: Both **Slime** & **Silverfish** has been nerfed from **5.0** XP to **0.5** XP due to exploits.
 :grass: 
 :grass: 
 :grass: 
