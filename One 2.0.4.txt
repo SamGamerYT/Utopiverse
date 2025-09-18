@@ -44,6 +44,7 @@
 :grass: 
 
 **BLACKSMITH**
+:grass: Fixed **Core of Ironheart** recipe being bugged in **Dungeon's Witch**
 :grass: 
 
 **TINKERER**
