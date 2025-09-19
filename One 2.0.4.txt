@@ -32,6 +32,7 @@
 :grass: 
 
 **CAVE DUNGEON**
+:grass: Removed some **Cheese Spots** around the dungeon.
 :grass: 
 
 **HOLOGRAMS**
