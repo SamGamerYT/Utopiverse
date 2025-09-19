@@ -5,7 +5,7 @@
 :grass: **Carrot** has been buffed from **2.7** to **4.0**
 :grass: **Beetroot** has been buffed from **3.0** to **3.5**
 :grass: **Cocoa** has been buffed from **1.0** to **4.3**
-:grass: 
+:grass: Fixed missing **Slayer Tag** reward.
 :grass: 
 :grass: 
 :grass: 
