@@ -6,7 +6,7 @@
 :grass: **Beetroot** has been buffed from **3.0** to **3.5**
 :grass: **Cocoa** has been buffed from **1.0** to **4.3**
 :grass: Fixed missing **Slayer Tag** reward.
-:grass: 
+:grass: Fixed **Orchid Bow** having the wrong enchantments.
 :grass: 
 :grass: 
 :grass: 
