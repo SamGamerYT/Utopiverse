@@ -45,6 +45,9 @@
 
 **BLACKSMITH**
 :grass: Fixed **Core of Ironheart** recipe being bugged in **Dungeon's Witch**
+:grass: Heavily nerfed **Soul Speed I** & **Swift Sneak I** book prices at Mystra
+:grass: 
+:grass: 
 :grass: 
 
 **TINKERER**
