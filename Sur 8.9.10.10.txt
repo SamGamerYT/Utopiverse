@@ -96,6 +96,7 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Enabled **Vibrant Visuals** shader pack option.
 :spaceheart1: [Network] 
 
 **WEBSITE**
