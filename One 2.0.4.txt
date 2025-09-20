@@ -1,64 +1,19 @@
-**Patch/Changes 2.0.4** *[Oneblock]*
-:grass: Fixed **Core Slot** not accepting **Charm** or **Bracelet** Armory.
-:grass: Both **Slime** & **Silverfish** has been nerfed from **5.0** XP to **0.5** XP due to exploits.
-:grass: **Melon** & **Pumpkin** experience has been nerfed from **3.4** to **3.0**
-:grass: **Carrot** has been buffed from **2.7** to **4.0**
-:grass: **Beetroot** has been buffed from **3.0** to **3.5**
-:grass: **Cocoa** has been buffed from **1.0** to **4.3**
-:grass: Fixed missing **Slayer Tag** reward.
-:grass: Fixed **Orchid Bow** having the wrong enchantments.
-:grass: 
-:grass: 
-:grass: 
+**Patch/Changes 2.0.4** *[Oneblock]*  
+:grass: Fixed **Core Slot** not accepting **Charm** or **Bracelet** armory.  
+:grass: Both **Slime** & **Silverfish** XP reduced from **5.0** to **0.5** due to exploits.  
+:grass: **Melon** & **Pumpkin** XP reduced from **3.4** to **3.0**.  
+:grass: **Carrot** XP increased from **2.7** to **4.0**.  
+:grass: **Beetroot** XP increased from **3.0** to **3.5**.  
+:grass: **Cocoa** XP increased from **1.0** to **4.3**.  
+:grass: Fixed missing **Slayer Tag** reward.  
+:grass: Fixed **Orchid Bow** having the wrong enchantments.  
 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
+**CAVE DUNGEON**  
+:grass: Removed some **cheese spots** around the dungeon.  
 
-:Sparkles: [Store] 
+**BLACKSMITH**  
+:grass: Fixed **Core of Ironheart** recipe being bugged in **Dungeon's Witch**.  
+:grass: Heavily nerfed **Soul Speed I** & **Swift Sneak I** book prices at **Mystra**.  
+:grass: Added **Unbreaking I Resilience Runestone** in **Mystra Trading UI**.  
 
-**DUNGEON**
-:grass: 
-
-**COAL DUNGEON**
-:grass: 
-
-**CAVE DUNGEON**
-:grass: Removed some **Cheese Spots** around the dungeon.
-:grass: 
-
-**HOLOGRAMS**
-:grass: 
-
-**ISLAND**
-:grass: 
-
-**BANK**
-:grass: 
-
-**BLACKSMITH**
-:grass: Fixed **Core of Ironheart** recipe being bugged in **Dungeon's Witch**
-:grass: Heavily nerfed **Soul Speed I** & **Swift Sneak I** book prices at Mystra
-:grass: Added **Unbreaking I** Resilience Runestone in **Mystra** Trading UI
-:grass: 
-:grass: 
-:grass: 
-
-**TINKERER**
-:grass: 
-
-**HOLOGRAMS** *(Created by Idiomaticsss)* 
-:grass: 
- 
 **[ @Changelogs ]**
-
-**AUTO RESPONSE**
-**CRATES**
