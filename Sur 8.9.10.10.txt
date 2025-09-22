@@ -47,6 +47,7 @@
 **BLACKSMITH**
 :shiny: [Survival] Updated over **65** Amulets lower lore label
 :shiny: [Survival] Updated over **14** Belts lower lore label
+:shiny: [Survival] Updated over **7** Gloves lower lore label
 :shiny: [Survival] Added **Rubyflare Belt** & **Crimson Vein Amulet** to **Azure Trader**
 :shiny: [Survival] Added **Toddler Amulet**, an upgrade of **Baby Amulet** in **Tinker Jewelry** menu at **Tinkerer**
 :shiny: [Survival] 
