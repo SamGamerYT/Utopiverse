@@ -1,6 +1,7 @@
 **Patch/Changes 8.9.10.10** *(Network Changes)*
 :shiny: [Survival] Eliminated crates related lag
 :shiny: [Survival] Fixed **a new exploit** that happened last night *(21-Sep-2025)*
+:shiny: [Survival] Fixed a bug where players were not able to use **Core Slot** for other artifacts other than **artfiacts**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -48,6 +49,7 @@
 :shiny: [Survival] Updated over **14** Belts lower lore label
 :shiny: [Survival] Added **Rubyflare Belt** & **Crimson Vein Amulet** to **Azure Trader**
 :shiny: [Survival] Added **Toddler Amulet**, an upgrade of **Baby Amulet** in **Tinker Jewelry** menu at **Tinkerer**
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **CODEX**
