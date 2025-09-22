@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.10.10** *(Network Changes)*
 :shiny: [Survival] Eliminated crates related lag
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **a new exploit** that happened last night *(21-Sep-2025)*
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
