@@ -44,6 +44,8 @@
 :shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
+:shiny: [Survival] Updated over **65** Amulets lower lore label
+:shiny: [Survival] Updated over **14** Belts lower lore label
 :shiny: [Survival] 
 
 **CODEX**
