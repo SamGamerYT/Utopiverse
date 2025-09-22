@@ -1,166 +1,21 @@
-**Patch/Changes 8.9.10.10** *(Network Changes)*
-:shiny: [Survival] Eliminated crates related lag
-:shiny: [Survival] Fixed **a new exploit** that happened last night *(21-Sep-2025)*
-:shiny: [Survival] Fixed a bug where players were not able to use **Core Slot** for other armory's other than **artfiacts**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+**Patch/Changes 8.9.10.10** *(Network Changes)*  
+:shiny: [Survival] Eliminated crate related lag.  
+:shiny: [Survival] Fixed **a new exploit** that occurred on *(21-Sep-2025)*.  
+:shiny: [Survival] Fixed a bug where players were unable to use the **Core Slot** for armory items other than **artifacts**.  
 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+**BLACKSMITH**  
+:shiny: [Survival] Updated the lower lore label for over **65 Amulets**.  
+:shiny: [Survival] Updated the lower lore label for over **14 Belts**.  
+:shiny: [Survival] Updated the lower lore label for over **7 Gloves**.  
+:shiny: [Survival] Updated the lower lore label for over **24 Rings**.  
+:shiny: [Survival] Added **Rubyflare Belt** & **Crimson Vein Amulet** to the **Azure Trader**.  
+:shiny: [Survival] Added **Toddler Amulet**, an upgrade of the **Baby Amulet**, in the **Tinker Jewelry** menu at the **Tinkerer**.  
+:shiny: [Survival] Added **Tidecrest Ring, Tidecall Amulet, Abyssal Fang Talisman,** and **Glacial Grasp Gloves** to the **Azure Trader**.  
 
-**ENTITIY CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+**HUB REALM**  
+:sdragon: [Lobby] Modified the **Oneblock NPC** hologram to include more details.  
 
-**TOURNAMENT**
-:shiny: [Survival] 
-
-**BANK**
-:shiny: [Survival] 
-
-**FARMING**
-:shiny: [Survival] 
-
-**FISHING** *(YuxuFG)*
-**FISHING**
-:shiny: [Survival] 
-
-**SHOP CHANGES**
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
-
-**BLACKSMITH**
-:shiny: [Survival] Updated over **65** Amulets lower lore label
-:shiny: [Survival] Updated over **14** Belts lower lore label
-:shiny: [Survival] Updated over **7** Gloves lower lore label
-:shiny: [Survival] Updated over **24** rINGS lower lore label
-:shiny: [Survival] Added **Rubyflare Belt** & **Crimson Vein Amulet** to **Azure Trader**
-:shiny: [Survival] Added **Toddler Amulet**, an upgrade of **Baby Amulet** in **Tinker Jewelry** menu at **Tinkerer**
-:shiny: [Survival] Added **Tidecrest Ring, Tidecall Amulet, Abyssal Fang Talisman, Glacial Grasp Gloves** to **Azure Trader**
-:shiny: [Survival] 
-
-**CODEX**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
-**DUNGEON**
-:shiny: [Survival] 
-
-**DUNGEON MINE CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON WASTELAND CHANGES**
-:shiny: [Survival] 
-
-**/SHOP** *(_QueenChaos95180)*
-:shiny: [Survival] 
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**HUB REALM**
-:sdragon: [Lobby] Modified **Oneblock NPC** hologram to have more details.
-:sdragon: [Lobby] 
-
-**NETWORK**
-:spaceheart1: [Network] Enabled **Vibrant Visuals** shader pack option.
-:spaceheart1: [Network] 
-
-**WEBSITE**
-:computer: [Website] 
-:computer: [Website] 
+**NETWORK**  
+:spaceheart1: [Network] Enabled the **Vibrant Visuals** shader pack option.  
 
 **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(_RECON1stbat)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
