@@ -51,7 +51,7 @@
 :shiny: [Survival] Updated over **24** rINGS lower lore label
 :shiny: [Survival] Added **Rubyflare Belt** & **Crimson Vein Amulet** to **Azure Trader**
 :shiny: [Survival] Added **Toddler Amulet**, an upgrade of **Baby Amulet** in **Tinker Jewelry** menu at **Tinkerer**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Tidecrest Ring, Tidecall Amulet, Abyssal Fang Talisman, Glacial Grasp Gloves** to **Azure Trader**
 :shiny: [Survival] 
 
 **CODEX**
