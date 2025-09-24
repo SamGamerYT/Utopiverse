@@ -96,7 +96,9 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Updated **Friends System** & Fixed disconnecting issue *(22-Sep-2025)*
 :spaceheart1: [Network] 
+
 
 **WEBSITE**
 :computer: [Website] 
