@@ -1,6 +1,6 @@
 **Patch/Changes 2.0.5** *[Oneblock]*
 :grass: Added **PSA** message about potential issue with armory while crouching.
-:grass: 
+:grass: Removed **1** Broadcast and Added **Five** new helpful broadcasts ingame.
 :grass: 
 :grass: 
 :grass: 
