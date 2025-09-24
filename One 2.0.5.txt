@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.5** *[Oneblock]*
-:grass: 
+:grass: Added **PSA** message about potential issue with armory while crouching.
 :grass: 
 :grass: 
 :grass: 
