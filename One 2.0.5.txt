@@ -2,7 +2,7 @@
 :grass: Added **PSA** message about potential issue with armory while crouching.
 :grass: Removed **1** Broadcast and Added **Five** new helpful broadcasts ingame.
 :grass: Added **Geode** drop in all **Cave Dungeon** mobs.
-:grass: 
+:grass: Added **Geode's** drop rate in **Cave Dungeon Codex**
 :grass: 
 :grass: 
 :grass: 
