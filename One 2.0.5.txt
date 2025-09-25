@@ -4,7 +4,7 @@
 :grass: Added **Geode** drop in all **Cave Dungeon** mobs.
 :grass: Added **Geode's** drop rate in **Cave Dungeon Codex**
 :grass: Fixed **Halloween Monthlycrate 2025** not dropping **Crimson Dreadplate Greatsword**
-:grass: 
+:grass: Added **25%**, **50%** and **75%** personal boosters at **Castle**'s **Witch Scroll Trader**.
 :grass: 
 :grass: 
 :grass: 
