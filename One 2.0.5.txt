@@ -34,6 +34,7 @@
 
 **CAVE DUNGEON**
 :grass: Heavily reduced **Mob Particles** *(Suggested by _M1ghtyM1ke94)*
+:grass: Added **Double Drop Weekdays** for **Cave Dungeons**
 :grass: 
 
 **HOLOGRAMS**
