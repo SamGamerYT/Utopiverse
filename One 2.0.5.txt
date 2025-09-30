@@ -1,16 +1,16 @@
-**Patch/Changes 2.0.5** *[Oneblock]*
-:grass: Added **PSA** message about potential issue with armory while crouching.
-:grass: Removed **1** Broadcast and Added **Five** new helpful broadcasts ingame.
-:grass: Added **Geode** drop in all **Cave Dungeon** mobs.
-:grass: Added **Geode's** drop rate in **Cave Dungeon Codex**
-:grass: Fixed **Halloween Monthlycrate 2025** not dropping **Crimson Dreadplate Greatsword**
-:grass: Added **25%**, **50%** and **75%** personal boosters at **Castle**'s **Witch Scroll Trader**.
-:grass: Added **Baby Ring** to **Loot Exchanger** located on the **Second Floor** of **Bank**
+**Patch/Changes 2.0.5** *[Oneblock]*  
+:grass: Added a **PSA** message about potential issues with armory while crouching.  
+:grass: Removed **1** broadcast and added **5** new helpful in-game broadcasts.  
+:grass: Added **Geode** as a drop for all **Cave Dungeon** mobs.  
+:grass: Added **Geode** drop rates in the **Cave Dungeon Codex**.  
+:grass: Fixed **Halloween Monthly Crate 2025** not dropping the **Crimson Dreadplate Greatsword**.  
+:grass: Added **25%**, **50%**, and **75%** personal boosters at the **Castle Witch Scroll Trader**.  
+:grass: Added **Baby Ring** to the **Loot Exchanger** located on the **Second Floor** of the **Bank**.  
 
-:Sparkles: [Store] Added **Free Cherry Key** with **Monthlycrate Purchases**!
+:Sparkles: [Store] Added a **Free Cherry Key** with **Monthly Crate Purchases**!  
 
-**CAVE DUNGEON**
-:grass: Heavily reduced **Mob Particles** *(Suggested by _M1ghtyM1ke94)*
-:grass: Added **Double Drop Weekdays** for **Cave Dungeons**
- 
+**CAVE DUNGEON**  
+:grass: Heavily reduced **Mob Particles** *(Suggested by _M1ghtyM1ke94)*.  
+:grass: Added **Double Drop Weekdays** for **Cave Dungeons**.  
+
 **[ @Changelogs ]**
