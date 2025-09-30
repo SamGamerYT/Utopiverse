@@ -6,58 +6,11 @@
 :grass: Fixed **Halloween Monthlycrate 2025** not dropping **Crimson Dreadplate Greatsword**
 :grass: Added **25%**, **50%** and **75%** personal boosters at **Castle**'s **Witch Scroll Trader**.
 :grass: Added **Baby Ring** to **Loot Exchanger** located on the **Second Floor** of **Bank**
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
 
 :Sparkles: [Store] Added **Free Cherry Key** with **Monthlycrate Purchases**!
-:Sparkles: [Store] 
-
-**DUNGEON**
-:grass: 
-
-**COAL DUNGEON**
-:grass: 
 
 **CAVE DUNGEON**
 :grass: Heavily reduced **Mob Particles** *(Suggested by _M1ghtyM1ke94)*
 :grass: Added **Double Drop Weekdays** for **Cave Dungeons**
-:grass: 
-
-**HOLOGRAMS**
-:grass: 
-
-**ISLAND**
-:grass: 
-
-**BANK**
-:grass: 
-
-**BLACKSMITH**
-:grass: 
-:grass: 
-:grass: 
-
-**TINKERER**
-:grass: 
-
-**HOLOGRAMS** *(Created by Idiomaticsss)* 
-:grass: 
  
 **[ @Changelogs ]**
-
-**AUTO RESPONSE**
-**CRATES**
