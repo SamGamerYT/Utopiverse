@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.11** *(Network Changes)*
 :shiny: [Survival] Fixed **Pets** not working as intended *(27-Sep-25)*
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Skill Level Requirement** from the **lore** in **Halloween 2025**
+:shiny: [Survival] Fixed **Repairstone Lootbox** key not showing the proper name and lore.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
