@@ -72,6 +72,8 @@
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Added **Scorpion Stinger** obtained from **Scorpion** in **Deep Volcano**.
 :shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 
 **DUNGEON WASTELAND CHANGES**
 :shiny: [Survival] 
