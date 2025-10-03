@@ -66,7 +66,7 @@
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] Expanded the platform section within **Boss Room**
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Sea Lanterns** and replaced them with the custom ore block!
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
