@@ -65,6 +65,8 @@
 :shiny: [Survival] 
 
 **DUNGEON FROST CHANGES**
+:shiny: [Survival] Expanded the platform section within **Boss Room**
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
