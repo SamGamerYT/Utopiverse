@@ -39,7 +39,7 @@
 :shiny: [Survival] Added **Silver Watering Can** recipe in **Farming Utilities Station**.
 
 :shiny: [Survival] Added **Chinese Cabbage** & **Cabbage** seeds recipe in **Farming Utilities Station**
-:shiny: [Survival] Added Recycle **Chinese Cabbage** & **Cabbage** seeds recipe in **Farming Utilities Station**
+:shiny: [Survival] Added Recycle **Chinese Cabbage** & **Cabbage** seeds recipe in **Farming Utilities Station** 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
