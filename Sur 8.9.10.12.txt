@@ -31,6 +31,8 @@
 :shiny: [Survival] 
 
 **FARMING**
+:shiny: [Survival] Fixed **SOIL SURVEYOR** not showing up in **Farming Utilities Station**
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **FISHING** *(YuxuFG)*

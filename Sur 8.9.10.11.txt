@@ -1,168 +1,25 @@
-**Patch/Changes 8.9.10.11** *(Network Changes)*
-:shiny: [Survival] Fixed **Pets** not working as intended *(27-Sep-25)*
-:shiny: [Survival] Removed **Skill Level Requirement** from the **lore** in **Halloween 2025**
-:shiny: [Survival] Fixed **Repairstone Lootbox** key not showing the proper name and lore.
-:shiny: [Survival] Fixed **Starter Milestone #10** not giving players epic crate key.
-:shiny: [Survival] Replaced **4+** stations recipe interface with the new style.
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+**Patch/Changes 8.9.10.11** *(Network Changes)*  
+:shiny: [Survival] Fixed **Pets** not working as intended *(27-Sep-25)*.  
+:shiny: [Survival] Removed **Skill Level Requirement** from the **lore** in **Halloween 2025**.  
+:shiny: [Survival] Fixed **Repairstone Lootbox** key not showing the proper name and lore.  
+:shiny: [Survival] Fixed **Starter Milestone #10** not giving players the **Epic Crate Key**.  
+:shiny: [Survival] Replaced **4+ Station Recipe Interfaces** with the new design.  
 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+**DUNGEON FROST CHANGES**  
+:shiny: [Survival] Expanded the platform section within the **Boss Room**.  
+:shiny: [Survival] Removed **Sea Lanterns** and replaced them with the new **Custom Ore Block**.  
 
-**ENTITIY CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+**DUNGEON VOLCANO CHANGES**  
+:shiny: [Survival] Added **Scorpion Stinger**, obtainable from **Scorpion** in the **Deep Volcano**.  
+:shiny: [Survival] Added **3 new armory equipments**, obtainable through the **"/warp volcano"** Spawn NPC.  
 
-**TOURNAMENT**
-:shiny: [Survival] 
+**DUNGEON WASTELAND CHANGES**  
+:shiny: [Survival] Separated the **Wasteland Station** from the **Volcano Station**.  
 
-**BANK**
-:shiny: [Survival] 
-
-**FARMING**
-:shiny: [Survival] 
-
-**FISHING** *(YuxuFG)*
-**FISHING**
-:shiny: [Survival] 
-
-**SHOP CHANGES**
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
-
-**BLACKSMITH**
-:shiny: [Survival] 
-
-**CODEX**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
-**DUNGEON**
-:shiny: [Survival] 
-
-**DUNGEON MINE CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] Expanded the platform section within **Boss Room**
-:shiny: [Survival] Removed **Sea Lanterns** and replaced them with the custom ore block!
-:shiny: [Survival] 
-
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] Added **Scorpion Stinger** obtained from **Scorpion** in **Deep Volcano**.
-:shiny: [Survival] Added **3** new armory equipments, obtainable through **"/warp volcano"** Spawn NPC
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**DUNGEON WASTELAND CHANGES**
-:shiny: [Survival] Separated **Wasteland Station** from **Volcano Station**.
-:shiny: [Survival] 
-
-**/SHOP** *(_QueenChaos95180)*
-:shiny: [Survival] 
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**HUB REALM**
-:sdragon: [Lobby] 
-
-**NETWORK**
-:spaceheart1: [Network] Updated **Friends System** & Fixed disconnecting issue *(22-Sep-2025)*
-:spaceheart1: [Network] Updated Server's **MOTD**, We are now supporting from 1.20.x to 1.21.8
-:spaceheart1: [Network] Updated the server to support latest bedrock edition *(30-Sep-25)*
-:spaceheart1: [Network] Updated **Friends System** *(30-Sep-2025)*
-:spaceheart1: [Network] 
-
-
-**WEBSITE**
-:computer: [Website] 
-:computer: [Website] 
+**NETWORK**  
+:spaceheart1: [Network] Updated **Friends System** and fixed the disconnecting issue *(22-Sep-2025)*.  
+:spaceheart1: [Network] Updated the server **MOTD** – now supporting versions **1.20.x to 1.21.8**.  
+:spaceheart1: [Network] Updated the server to support the latest **Bedrock Edition** *(30-Sep-25)*.  
+:spaceheart1: [Network] Updated the **Friends System** *(30-Sep-2025)*.  
 
 **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(_RECON1stbat)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
