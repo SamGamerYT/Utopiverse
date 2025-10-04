@@ -37,6 +37,9 @@
 :shiny: [Survival] Removed **GOLD POTATO** requirement from **SCARECROW** Recipe in **Farming Utilities Station**
 :shiny: [Survival] Changed **32 seconds** crafting time to **6 seconds** in **Farming Station** for **Star Crops**.
 :shiny: [Survival] Added **Silver Watering Can** recipe in **Farming Utilities Station**.
+
+:shiny: [Survival] Added **Chinese Cabbage** & **Cabbage** seeds recipe in **Farming Utilities Station**
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
