@@ -40,7 +40,7 @@
 
 :shiny: [Survival] Added **Chinese Cabbage** & **Cabbage** seeds recipe in **Farming Utilities Station**
 :shiny: [Survival] Added Recycle **Chinese Cabbage** & **Cabbage** seeds recipe in **Farming Utilities Station** 
-:shiny: [Survival] 
+:shiny: [Survival] Increased **Apple Twig** chance from **25%** to **50%**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
