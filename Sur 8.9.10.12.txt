@@ -33,6 +33,7 @@
 **FARMING**
 :shiny: [Survival] Fixed **SOIL SURVEYOR** not showing up in **Farming Utilities Station**
 :shiny: [Survival] Added additional recipe for **SOIL SURVEYOR** in **Farming Utilities Station**
+:shiny: [Survival] Bumped **SOIL SURVEYOR** uses from **20** to **100**
 :shiny: [Survival] 
 
 **FISHING** *(YuxuFG)*
