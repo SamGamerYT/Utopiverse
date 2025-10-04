@@ -1,9 +1,9 @@
-**Patch/Changes 8.9.10.11** *(Network Changes)*
-:shiny: [Survival] Fixed **Pets** not working as intended *(27-Sep-25)*
-:shiny: [Survival] Removed **Skill Level Requirement** from the **lore** in **Halloween 2025**
-:shiny: [Survival] Fixed **Repairstone Lootbox** key not showing the proper name and lore.
-:shiny: [Survival] Fixed **Starter Milestone #10** not giving players epic crate key.
-:shiny: [Survival] Replaced **4+** stations recipe interface with the new style.
+**Patch/Changes 8.9.10.12** *(Network Changes)*
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -65,18 +65,13 @@
 :shiny: [Survival] 
 
 **DUNGEON FROST CHANGES**
-:shiny: [Survival] Expanded the platform section within **Boss Room**
-:shiny: [Survival] Removed **Sea Lanterns** and replaced them with the custom ore block!
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] Added **Scorpion Stinger** obtained from **Scorpion** in **Deep Volcano**.
-:shiny: [Survival] Added **3** new armory equipments, obtainable through **"/warp volcano"** Spawn NPC
 :shiny: [Survival] 
 :shiny: [Survival] 
 
 **DUNGEON WASTELAND CHANGES**
-:shiny: [Survival] Separated **Wasteland Station** from **Volcano Station**.
 :shiny: [Survival] 
 
 **/SHOP** *(_QueenChaos95180)*
@@ -102,10 +97,6 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
-:spaceheart1: [Network] Updated **Friends System** & Fixed disconnecting issue *(22-Sep-2025)*
-:spaceheart1: [Network] Updated Server's **MOTD**, We are now supporting from 1.20.x to 1.21.8
-:spaceheart1: [Network] Updated the server to support latest bedrock edition *(30-Sep-25)*
-:spaceheart1: [Network] Updated **Friends System** *(30-Sep-2025)*
 :spaceheart1: [Network] 
 
 
