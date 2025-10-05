@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.10.13** *(Network Changes)*
-:shiny: [Survival] 
+:shiny: [Survival] Added **5 Unstable Rune of Combat** that you can get through **Gracial Scroll** in **Frost Dungeon**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
