@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.10.12** *(Network Changes)*
-:shiny: [Survival] 
+:shiny: [Survival] Added **Mending I** & **Mending II** recipe near **Witch NPC** 
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
