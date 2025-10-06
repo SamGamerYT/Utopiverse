@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.10.13** *(Network Changes)*
 :shiny: [Survival] Added **5 Unstable Rune of Combat** that you can get through **Gracial Scroll** in **Frost Dungeon**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Farming PSA** near **Farmer NPC** to help players.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -97,6 +97,7 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Fixed "http://discord.utopiverse.net" not working properly.
 :spaceheart1: [Network] 
 
 
