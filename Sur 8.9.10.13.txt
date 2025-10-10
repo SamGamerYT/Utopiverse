@@ -70,6 +70,7 @@
 :shiny: [Survival] Added **4** new frost equipments for your **"/armory"**, obtainable through **Glacial Scroll**
 :shiny: [Survival] Added **2** equipments and **1** weapon from **Yeti Boss**
 :shiny: [Survival] 
+:shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] 
