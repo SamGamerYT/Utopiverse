@@ -65,6 +65,7 @@
 :shiny: [Survival] 
 
 **DUNGEON FROST CHANGES**
+:shiny: [Survival] Added **Glacial Scroll** in the summoning Alter of **Yeti Boss**
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
