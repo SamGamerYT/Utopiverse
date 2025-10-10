@@ -74,6 +74,10 @@
 :shiny: [Survival] **Frostmaw** will now take random strolls & aggressively chase the player.
 :shiny: [Survival] 
 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] 
 :shiny: [Survival] 
