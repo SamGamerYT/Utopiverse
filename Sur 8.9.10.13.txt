@@ -76,6 +76,8 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+:shiny: [Survival] Nerfed both **Frostbinder's Runestone** from **6** Refined Ice to **1** Refined Ice.
+:shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
 
