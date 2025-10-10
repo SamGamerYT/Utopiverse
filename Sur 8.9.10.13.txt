@@ -1,48 +1,6 @@
 **Patch/Changes 8.9.10.13** *(Network Changes)*
 :shiny: [Survival] Added **5 Unstable Rune of Combat** that you can get through **Gracial Scroll** in **Frost Dungeon**
 :shiny: [Survival] Added **Farming PSA** near **Farmer NPC** to help players.
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**ENTITIY CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**TOURNAMENT**
-:shiny: [Survival] 
-
-**BANK**
-:shiny: [Survival] 
-
-**FARMING**
-:shiny: [Survival] 
-
-**FISHING** *(YuxuFG)*
-**FISHING**
-:shiny: [Survival] 
-
-**SHOP CHANGES**
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
 :shiny: [Survival] Updated the lower lore label for over **13 Cloaks**.
@@ -78,38 +36,8 @@
 
 :shiny: [Survival] Nerfed **Frostbinder Staff** from **6** Refined Ice to **1** Refined Ice.
 :shiny: [Survival] Nerfed both **Frostbinder's Runestone** from **6** Refined Ice to **1** Refined Ice.
+:shiny: [Survival] Nerfed both **ShiverFang's Runestone** from **6** Refined Ice to **1** Refined Ice.
 :shiny: [Survival] Updated **Arctic Sentinel** crafting interface recipe menu to match other stations.
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**DUNGEON WASTELAND CHANGES**
-:shiny: [Survival] 
-
-**/SHOP** *(_QueenChaos95180)*
-:shiny: [Survival] 
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**HUB REALM**
-:sdragon: [Lobby] 
 
 **NETWORK**
 :spaceheart1: [Network] Fixed "http://discord.utopiverse.net" not working properly.
