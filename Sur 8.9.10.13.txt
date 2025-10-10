@@ -66,6 +66,7 @@
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] Added **Glacial Scroll** in the summoning Alter of **Yeti Boss**
+:shiny: [Survival] Expanded **Frost Dungeon** map and added more spawners
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
