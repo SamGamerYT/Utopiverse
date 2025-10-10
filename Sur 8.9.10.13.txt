@@ -45,6 +45,7 @@
 :shiny: [Hypogeum Arena] 
 
 **BLACKSMITH**
+:shiny: [Survival] Updated the lower lore label for over **13 Cloaks**.
 :shiny: [Survival] 
 
 **CODEX**
@@ -73,8 +74,8 @@
 :shiny: [Survival] Buffed **Frostmaw's** range from **20** to **40**
 :shiny: [Survival] **Frostmaw** will now take random strolls & aggressively chase the player.
 :shiny: [Survival] 
-
 :shiny: [Survival] 
+
 :shiny: [Survival] 
 :shiny: [Survival] 
 
