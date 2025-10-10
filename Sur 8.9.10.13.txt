@@ -76,8 +76,9 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
+:shiny: [Survival] Nerfed **Frostbinder Staff** from **6** Refined Ice to **1** Refined Ice.
 :shiny: [Survival] Nerfed both **Frostbinder's Runestone** from **6** Refined Ice to **1** Refined Ice.
-:shiny: [Survival] 
+:shiny: [Survival] Updated **Arctic Sentinel**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
