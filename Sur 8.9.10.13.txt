@@ -1,25 +1,25 @@
-**Patch/Changes 8.9.10.13** *(Network Changes)*
-:shiny: [Survival] Added **5 Unstable Rune of Combat** that you can get through **Gracial Scroll** in **Frost Dungeon**
-:shiny: [Survival] Added **Farming PSA** near **Farmer NPC** to help players.
+**Patch/Changes 8.9.10.13** *(Network Changes)*  
+:shiny: [Survival] Added **5 Unstable Runes of Combat**, obtainable through the **Glacial Scroll** in the **Frost Dungeon**.  
+:shiny: [Survival] Added a **Farming PSA** near the **Farmer NPC** to assist players.  
 
-**BLACKSMITH**
-:shiny: [Survival] Updated the lower lore label for over **13 Cloaks**.
+**BLACKSMITH**  
+:shiny: [Survival] Updated the lower lore label for over **13 Cloaks**.  
 
-**DUNGEON FROST CHANGES**
-:shiny: [Survival] Added **Glacial Scroll** in the summoning Alter of **Yeti Boss**
-:shiny: [Survival] Expanded **Frost Dungeon** map and added more spawners
-:shiny: [Survival] Added **4** new frost equipments for your **"/armory"**, obtainable through **Glacial Scroll**
-:shiny: [Survival] Added **2** equipments and **1** weapon from **Yeti Boss**
+**DUNGEON FROST CHANGES**  
+:shiny: [Survival] Added the **Glacial Scroll** to the summoning altar of the **Yeti Boss**.  
+:shiny: [Survival] Expanded the **Frost Dungeon** map and added more spawners.  
+:shiny: [Survival] Added **4 new frost equipment pieces** for your **"/armory"**, obtainable through the **Glacial Scroll**.  
+:shiny: [Survival] Added **2 equipment pieces** and **1 weapon** from the **Yeti Boss**.  
 
-:shiny: [Survival] Buffed **Frostmaw's** range from **20** to **40**
-:shiny: [Survival] **Frostmaw** will now take random strolls & aggressively chase the player.
+:shiny: [Survival] Buffed **Frostmaw’s** range from **20** to **40**.  
+:shiny: [Survival] **Frostmaw** will now wander randomly and aggressively chase players.  
 
-:shiny: [Survival] Nerfed **Frostbinder Staff** from **6** Refined Ice to **1** Refined Ice.
-:shiny: [Survival] Nerfed both **Frostbinder's Runestone** from **6** Refined Ice to **1** Refined Ice.
-:shiny: [Survival] Nerfed both **ShiverFang's Runestone** from **6** Refined Ice to **1** Refined Ice.
-:shiny: [Survival] Updated **Arctic Sentinel** crafting interface recipe menu to match other stations.
+:shiny: [Survival] Nerfed **Frostbinder Staff** from **6 Refined Ice** to **1 Refined Ice**.  
+:shiny: [Survival] Nerfed both **Frostbinder’s Runestones** from **6 Refined Ice** to **1 Refined Ice**.  
+:shiny: [Survival] Nerfed both **ShiverFang’s Runestones** from **6 Refined Ice** to **1 Refined Ice**.  
+:shiny: [Survival] Updated the **Arctic Sentinel** crafting interface recipe menu to match other stations.  
 
-**NETWORK**
-:spaceheart1: [Network] Fixed "http://discord.utopiverse.net" not working properly.
+**NETWORK**  
+:spaceheart1: [Network] Fixed the **http://discord.utopiverse.net** link not working properly.  
 
 **[ @Changelogs ]**
