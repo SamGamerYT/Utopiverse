@@ -71,6 +71,7 @@
 :shiny: [Survival] Added **2** equipments and **1** weapon from **Yeti Boss**
 
 :shiny: [Survival] Buffed **Frostmaw's** range from **20** to **40**
+:shiny: [Survival] **Frostmaw** will now take random strolls & aggressively chase the player.
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
