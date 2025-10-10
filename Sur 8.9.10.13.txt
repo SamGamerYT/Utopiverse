@@ -4,24 +4,6 @@
 
 **BLACKSMITH**
 :shiny: [Survival] Updated the lower lore label for over **13 Cloaks**.
-:shiny: [Survival] 
-
-**CODEX**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
-**DUNGEON**
-:shiny: [Survival] 
-
-**DUNGEON MINE CHANGES**
-:shiny: [Survival] 
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] Added **Glacial Scroll** in the summoning Alter of **Yeti Boss**
@@ -31,8 +13,6 @@
 
 :shiny: [Survival] Buffed **Frostmaw's** range from **20** to **40**
 :shiny: [Survival] **Frostmaw** will now take random strolls & aggressively chase the player.
-:shiny: [Survival] 
-:shiny: [Survival] 
 
 :shiny: [Survival] Nerfed **Frostbinder Staff** from **6** Refined Ice to **1** Refined Ice.
 :shiny: [Survival] Nerfed both **Frostbinder's Runestone** from **6** Refined Ice to **1** Refined Ice.
@@ -41,63 +21,5 @@
 
 **NETWORK**
 :spaceheart1: [Network] Fixed "http://discord.utopiverse.net" not working properly.
-:spaceheart1: [Network] 
-
-
-**WEBSITE**
-:computer: [Website] 
-:computer: [Website] 
 
 **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-**BUILD** *(_RECON1stbat)*
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
