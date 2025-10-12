@@ -111,6 +111,8 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Updated dependencies *(11-Oct-2025)*
+:spaceheart1: [Network] Updated **Entities Pack**, Smoother pack operation.
 :spaceheart1: [Network] 
 
 
