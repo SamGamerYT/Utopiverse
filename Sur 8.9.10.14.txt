@@ -72,7 +72,7 @@
 
 :shiny: [Survival] Added more **Glacial Miner's** spawn point.
 :shiny: [Survival] Added more **Snow Guard's** spawn point.
-:shiny: [Survival] 
+:shiny: [Survival] Added more **Glacial Guard's** spawn point.
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
