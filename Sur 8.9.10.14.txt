@@ -71,7 +71,7 @@
 :shiny: [Survival] **Frostmaw's** movement speed has been increased from **0.3** to **0.5**
 
 :shiny: [Survival] Added more **Glacial Miner's** spawn point.
-:shiny: [Survival] 
+:shiny: [Survival] Added more **Snow Guard's** spawn point.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
