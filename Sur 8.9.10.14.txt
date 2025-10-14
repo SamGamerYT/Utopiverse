@@ -66,8 +66,9 @@
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] **Snow Guard** has been increased in size to appear more intimidating.
+:shiny: [Survival] **Snow Guard's** movement speed has been increased from **0.25** to **0.5**
 :shiny: [Survival] **Frostmaw** has been increased in size to appear more intimidating.
-:shiny: [Survival] 
+:shiny: [Survival] **Frostmaw's** movement speed has been increased from **0.3** to **0.5**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
