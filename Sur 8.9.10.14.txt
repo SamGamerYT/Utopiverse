@@ -75,7 +75,7 @@
 :shiny: [Survival] Added more **Glacial Guard's** spawn point.
 :shiny: [Survival] 
 
-:shiny: [Survival] 
+:shiny: [Survival] Buffed **Arctic Sentinel's** loot drop from **1-3 max** to **1-5 max**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
