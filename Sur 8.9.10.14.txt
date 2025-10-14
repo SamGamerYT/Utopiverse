@@ -66,6 +66,7 @@
 
 **DUNGEON FROST CHANGES**
 :shiny: [Survival] **Snow Guard** has been increased in size to appear more intimidating.
+:shiny: [Survival] **Frostmaw** has been increased in size to appear more intimidating.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
