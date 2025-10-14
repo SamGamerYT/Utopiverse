@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.10.14** *(Network Changes)*
 :shiny: [Survival] Added **Arctic Sentinel** information to **Bosses Codex**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Frosty Waddler** information to **Frost Codex**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
