@@ -5,7 +5,7 @@
 :shiny: [Survival] Modified **Frost Miner Adventurer** GUI, Added **Frost Station** that will have some new armory items.
 :shiny: [Survival] Added **Frozen SKMASYKW** NPC near the start of **Frost Dungeon**
 :shiny: [Survival] Added **PSA** Message for **Frost Miner Adventurer** interface.
-:shiny: [Survival] 
+:shiny: [Survival] Added **9+** equipable items for **Armory** located at **Frost Miner Adventurer's** interface, in **Frost Station**
 :shiny: [Survival] 
 :shiny: [Survival] 
 
