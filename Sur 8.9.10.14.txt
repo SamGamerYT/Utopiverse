@@ -1,9 +1,9 @@
 **Patch/Changes 8.9.10.14** *(Network Changes)*
 :shiny: [Survival] Added **Arctic Sentinel** information to **Bosses Codex**
 :shiny: [Survival] Added **Frosty Waddler** information to **Frost Codex**
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Frost Miner Adventurer** hologram having "Text Display" error
+:shiny: [Survival] Modified **Frost Miner Adventurer** GUI, Added **Frost Station** that will have some new armory items.
+:shiny: [Survival] Added **Frozen SKMASYKW** NPC near the start of **Frost Dungeon**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
