@@ -79,6 +79,7 @@
 
 **DUNGEON HALLOWEEN CHANGES**
 :shiny: [Survival] Added **Easter Egg** hologram that shows your current progress.
+:shiny: [Survival] Added **Four Important** NPC's that will assist you in your journey.
 :shiny: [Survival] 
 
 **/SHOP** *(_QueenChaos95180)*
