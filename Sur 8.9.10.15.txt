@@ -77,6 +77,10 @@
 **DUNGEON WASTELAND CHANGES**
 :shiny: [Survival] 
 
+**DUNGEON HALLOWEEN CHANGES**
+:shiny: [Survival] Added **Easter Egg** hologram that shows your current progress.
+:shiny: [Survival] 
+
 **/SHOP** *(_QueenChaos95180)*
 :shiny: [Survival] 
 
