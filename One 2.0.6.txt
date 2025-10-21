@@ -34,12 +34,13 @@
 :grass: **The Guard** Onyx drop increased from **30%** to **45%** & Topaz drop increased from **10%** to **25%**.
 :grass: Increased **Zombie Miner**, **Crimson Weaver**, **Phantom Creeper**, **Stationary Archer** onyx drop from **10%** to **20%**.
 :grass: **Mobs** will no longer despawn when you leave the chunk.
-:grass: 
+:grass: **Mobs** will now drop **Fighting Experience** points.
 :grass: 
 
 **CAVE DUNGEON**
 :grass: **Mobs** will no longer despawn when you leave the chunk.
 :grass: **Mobs** will now show their health bar properly instead of static name.
+:grass: 
 :grass: 
 
 **HOLOGRAMS**
