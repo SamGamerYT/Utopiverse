@@ -30,7 +30,7 @@
 
 **COAL DUNGEON**
 :grass: 
-:grass: **Elder Miner** maximum drop has been increased from **3** to **5**
+:grass: **Elder Miner** maximum possible drop has been increased from **3** to **5**
 :grass: 
 
 **CAVE DUNGEON**
