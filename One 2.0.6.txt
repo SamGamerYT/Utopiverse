@@ -45,7 +45,8 @@
 
 **BLACKSMITH**
 :grass: Added **Lost Miner Armour**, Craftable with **Coal Dungeon** materials.
-:grass: 
+:grass: Added **Upgraded Miner Armour**, Craftable with **Coal Dungeon** materials.
+:grass: Added **Aegis Sapphire** to **Tools Station**, Use it to upgrade **Lost Miner, Upgraded Miner & Refined Miner** gear to the next level.
 :grass: 
 
 **TINKERER**
