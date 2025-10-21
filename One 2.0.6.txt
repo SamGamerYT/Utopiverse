@@ -40,6 +40,7 @@
 **CAVE DUNGEON**
 :grass: **Mobs** will no longer despawn when you leave the chunk.
 :grass: **Mobs** will now show their health bar properly instead of static name.
+:grass: **Mobs** will now drop **Fighting Experience** points.
 :grass: 
 :grass: 
 
