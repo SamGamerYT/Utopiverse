@@ -56,7 +56,7 @@
 
 **TINKERER**
 :grass: Removed **Polisher's** custom lore in the crafting station.
-:grass: 
+:grass: Nerfed **Repair stones** prices **Heavily**, making them a lot more affordable.
 :grass: 
 :grass: 
 :grass: 
