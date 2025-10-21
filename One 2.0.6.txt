@@ -32,6 +32,9 @@
 :grass: Increased **all** maximum possible mobs drop from **3** to **4**.
 :grass: **Elder Miner** maximum possible drop has been increased from **3** to **5**.
 :grass: **The Guard** Onyx drop increased from **30%** to **45%** & Topaz drop increased from **10%** to **25%**.
+:grass: Increased **Zombie Miner**, **Crimson Weaver**, **Phantom Creeper**, **Stationary Archer** onyx drop from **10%** to **20%**.
+:grass: 
+:grass: 
 :grass: 
 
 **CAVE DUNGEON**
