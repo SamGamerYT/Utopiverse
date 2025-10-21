@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.6** *[Oneblock]*
-:grass: 
+:grass: Fixed **Mob Specialist** npc not opening the trading station.
 :grass: 
 :grass: 
 :grass: 
