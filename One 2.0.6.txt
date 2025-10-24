@@ -2,8 +2,8 @@
 :grass: Fixed **Mob Specialist** npc not opening the crafting station.
 :grass: Added **Special Egg** recipe in **Mob Specialist** crafting station.
 :grass: Updated dependencies *(24-Oct-25)*
-:grass: Modified **Dungeon Double Drop** hologram in Cave
-:grass: 
+:grass: Modified **Double Dungeon Drop** hologram in **Cave Dungeon**
+:grass: Added **Double Dungeon Drop** hologram in **Coal Dungeon**
 :grass: 
 :grass: 
 :grass: 
