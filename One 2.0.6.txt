@@ -1,31 +1,31 @@
-**Patch/Changes 2.0.6** *[Oneblock]*
-:grass: Fixed **Mob Specialist** npc not opening the crafting station.
-:grass: Added **Special Egg** recipe in **Mob Specialist** crafting station.
-:grass: Updated dependencies *(24-Oct-25)*
-:grass: Modified **Double Dungeon Drop** hologram in **Cave Dungeon**
-:grass: Added **Double Dungeon Drop** hologram in **Coal Dungeon**
+**Patch/Changes 2.0.6** *[Oneblock]*  
+:grass: Fixed **Mob Specialist** NPC not opening the crafting station.  
+:grass: Added **Special Egg** recipe to the **Mob Specialist** crafting station.  
+:grass: Updated dependencies *(24-Oct-25)*.  
+:grass: Modified the **Double Dungeon Drop** hologram in the **Cave Dungeon**.  
+:grass: Added a **Double Dungeon Drop** hologram in the **Coal Dungeon**.  
 
-**COAL DUNGEON**
-:grass: Increased **all** maximum possible mobs drop from **3** to **4**.
-:grass: **Elder Miner** maximum possible drop has been increased from **3** to **5**.
-:grass: **The Guard** Onyx drop increased from **30%** to **45%** & Topaz drop increased from **10%** to **25%**.
-:grass: Increased **Zombie Miner**, **Crimson Weaver**, **Phantom Creeper**, **Stationary Archer** onyx drop from **10%** to **20%**.
-:grass: **Mobs** will no longer despawn when you leave the chunk.
-:grass: **Mobs** will now drop **Fighting Experience** points.
+**COAL DUNGEON**  
+:grass: Increased **all** maximum possible mob drops from **3** to **4**.  
+:grass: Increased **Elder Miner’s** maximum possible drop from **3** to **5**.  
+:grass: Increased **The Guard’s** Onyx drop rate from **30%** to **45%**, and Topaz drop rate from **10%** to **25%**.  
+:grass: Increased **Zombie Miner**, **Crimson Weaver**, **Phantom Creeper**, and **Stationary Archer** Onyx drop rate from **10%** to **20%**.  
+:grass: **Mobs** will no longer despawn when leaving the chunk.  
+:grass: **Mobs** will now drop **Fighting Experience** points.  
 
-**CAVE DUNGEON**
-:grass: **Mobs** will no longer despawn when you leave the chunk.
-:grass: **Mobs** will now show their health bar properly instead of static name.
-:grass: **Mobs** will now drop **Fighting Experience** points.
+**CAVE DUNGEON**  
+:grass: **Mobs** will no longer despawn when leaving the chunk.  
+:grass: **Mobs** now display their health bar properly instead of a static name.  
+:grass: **Mobs** will now drop **Fighting Experience** points.  
 
-**BLACKSMITH**
-:grass: Added **Lost Miner Armour**, Craftable with **Coal Dungeon** materials.
-:grass: Added **Upgraded Miner Armour**, Craftable with **Coal Dungeon** materials.
-:grass: Added **Aegis Sapphire** to **Tools Station**, Use it to upgrade **Lost Miner, Upgraded Miner & Refined Miner** gear to the next level.
+**BLACKSMITH**  
+:grass: Added **Lost Miner Armour**, craftable with **Coal Dungeon** materials.  
+:grass: Added **Upgraded Miner Armour**, craftable with **Coal Dungeon** materials.  
+:grass: Added **Aegis Sapphire** to the **Tools Station**, allowing players to upgrade **Lost Miner**, **Upgraded Miner**, and **Refined Miner** gear to the next level.  
 
-**TINKERER**
-:grass: Removed **Polisher's** custom lore in the crafting station.
-:grass: Removed **Milestone** requirements from the crafting recipes.
-:grass: Nerfed **Repair stones** prices **Heavily**, making them a lot more affordable.
- 
+**TINKERER**  
+:grass: Removed **Polisher’s** custom lore in the crafting station.  
+:grass: Removed **Milestone** requirements from crafting recipes.  
+:grass: Heavily reduced **Repair Stones** prices, making them far more affordable.  
+
 **[ @Changelogs ]**
