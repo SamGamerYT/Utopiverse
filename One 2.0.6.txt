@@ -4,29 +4,6 @@
 :grass: Updated dependencies *(24-Oct-25)*
 :grass: Modified **Double Dungeon Drop** hologram in **Cave Dungeon**
 :grass: Added **Double Dungeon Drop** hologram in **Coal Dungeon**
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-
-:Sparkles: [Store] 
-
-**DUNGEON**
-:grass: 
 
 **COAL DUNGEON**
 :grass: Increased **all** maximum possible mobs drop from **3** to **4**.
@@ -35,47 +12,20 @@
 :grass: Increased **Zombie Miner**, **Crimson Weaver**, **Phantom Creeper**, **Stationary Archer** onyx drop from **10%** to **20%**.
 :grass: **Mobs** will no longer despawn when you leave the chunk.
 :grass: **Mobs** will now drop **Fighting Experience** points.
-:grass: 
 
 **CAVE DUNGEON**
 :grass: **Mobs** will no longer despawn when you leave the chunk.
 :grass: **Mobs** will now show their health bar properly instead of static name.
 :grass: **Mobs** will now drop **Fighting Experience** points.
-:grass: 
-:grass: 
-
-**HOLOGRAMS**
-:grass: 
-
-**ISLAND**
-:grass: 
-
-**BANK**
-:grass: 
 
 **BLACKSMITH**
 :grass: Added **Lost Miner Armour**, Craftable with **Coal Dungeon** materials.
 :grass: Added **Upgraded Miner Armour**, Craftable with **Coal Dungeon** materials.
 :grass: Added **Aegis Sapphire** to **Tools Station**, Use it to upgrade **Lost Miner, Upgraded Miner & Refined Miner** gear to the next level.
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
 
 **TINKERER**
 :grass: Removed **Polisher's** custom lore in the crafting station.
 :grass: Removed **Milestone** requirements from the crafting recipes.
 :grass: Nerfed **Repair stones** prices **Heavily**, making them a lot more affordable.
-:grass: 
-:grass: 
-:grass: 
-
-**HOLOGRAMS** *(Created by Idiomaticsss)* 
-:grass: 
  
 **[ @Changelogs ]**
-
-**AUTO RESPONSE**
-**CRATES**
