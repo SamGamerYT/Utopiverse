@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.7** *[Oneblock]*
-:grass: 
+:grass: Fixed **"/tags"** not working as they should be.
 :grass: 
 :grass: 
 :grass: 
