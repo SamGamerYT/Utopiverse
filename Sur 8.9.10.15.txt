@@ -107,6 +107,7 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Fixed **Disconnecting issue** with friends system.
 :spaceheart1: [Network] 
 
 
