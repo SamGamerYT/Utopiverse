@@ -65,7 +65,7 @@
 :shiny: [Survival] 
 
 **DUNGEON FROST CHANGES**  
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Double Drop** not working properly for **Withering Knight** & **Frosty Waddler
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
