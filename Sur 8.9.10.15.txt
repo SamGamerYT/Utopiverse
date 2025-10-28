@@ -108,6 +108,7 @@
 
 **NETWORK**
 :spaceheart1: [Network] Fixed **Disconnecting issue** with friends system.
+:spaceheart1: [Network] Added support for **1.21.120** Version
 :spaceheart1: [Network] 
 
 
