@@ -4,7 +4,7 @@
 :shiny: [Survival] Removed **Custom Zombie Model** from **Graveyard Zone**
 :shiny: [Survival] Added original **Graveyard Zombies** in **Graveyard Zone**
 :shiny: [Survival] Disabled **Candies** & **Cores** items entirely and labelled them as **Discarded**.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Halloween Dungeon** warp perk in **Gentheman** rank.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
