@@ -5,7 +5,7 @@
 :shiny: [Survival] Added original **Graveyard Zombies** in **Graveyard Zone**
 :shiny: [Survival] Disabled **Candies** & **Cores** items entirely and labelled them as **Discarded**.
 :shiny: [Survival] Added **Halloween Dungeon** warp perk in **Gentheman** rank.
-:shiny: [Survival] 
+:shiny: [Survival] Enabled **Halloween Dungeon** for players to visit and for them to solve the scrolls.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
