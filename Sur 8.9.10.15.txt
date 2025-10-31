@@ -1,26 +1,26 @@
-**Patch/Changes 8.9.10.15** *(Network Changes)*
-:shiny: [Survival] Added **ATM Machine** at **"/pond"**
-:shiny: [Survival] Fixed an issue where players were able to use **"/fly"** in **Hypogeum Arena**
-:shiny: [Survival] Removed **Custom Zombie Model** from **Graveyard Zone**
-:shiny: [Survival] Added original **Graveyard Zombies** in **Graveyard Zone**
-:shiny: [Survival] Disabled **Candies** & **Cores** items entirely and labelled them as **Discarded**.
-:shiny: [Survival] Added **Halloween Dungeon** warp perk in **Gentheman** rank.
-:shiny: [Survival] Enabled **Halloween Dungeon** for players to visit and for them to solve the scrolls.
-:shiny: [Survival] Added **3 New** armory equipments in **Legendary Crates**
+**Patch/Changes 8.9.10.15** *(Network Changes)*  
+:shiny: [Survival] Added an **ATM Machine** at **"/pond"**.  
+:shiny: [Survival] Fixed an issue where players could use **"/fly"** in the **Hypogeum Arena**.  
+:shiny: [Survival] Removed the **Custom Zombie Model** from the **Graveyard Zone**.  
+:shiny: [Survival] Restored the original **Graveyard Zombies** in the **Graveyard Zone**.  
+:shiny: [Survival] Disabled **Candies** and **Cores** items entirely, labeling them as **Discarded**.  
+:shiny: [Survival] Added the **Halloween Dungeon** warp perk to the **Gentleman** rank.  
+:shiny: [Survival] Enabled the **Halloween Dungeon** for players to visit and solve the scrolls.  
+:shiny: [Survival] Added **3 new armory equipments** in **Legendary Crates**.  
 
 **DUNGEON FROST CHANGES**  
-:shiny: [Survival] Fixed **Double Drop** not working properly for **Withering Knight** & **Frosty Waddler
+:shiny: [Survival] Fixed **Double Drop** not working properly for **Withering Knight** and **Frosty Waddler**.  
 
-**DUNGEON HALLOWEEN CHANGES**
-:shiny: [Survival] Added **Easter Egg** hologram that shows your current progress.
-:shiny: [Survival] Added **Four Important** NPC's that will assist you in your journey.
+**DUNGEON HALLOWEEN CHANGES**  
+:shiny: [Survival] Added an **Easter Egg** hologram that displays your current progress.  
+:shiny: [Survival] Added **four key NPCs** that will assist you in your journey.  
 
-**HUB REALM**
-:sdragon: [Lobby] Updated dependencies *(19-Oct-25)*
-:sdragon: [Lobby] Updated dependencies *(20-Oct-25)*
+**HUB REALM**  
+:sdragon: [Lobby] Updated dependencies *(19-Oct-25)*.  
+:sdragon: [Lobby] Updated dependencies *(20-Oct-25)*.  
 
-**NETWORK**
-:spaceheart1: [Network] Fixed **Disconnecting issue** with friends system.
-:spaceheart1: [Network] Added support for **1.21.120** Version
+**NETWORK**  
+:spaceheart1: [Network] Fixed the **disconnecting issue** with the Friends System.  
+:spaceheart1: [Network] Added support for **version 1.21.120**.  
 
 **[ @Changelogs ]**
