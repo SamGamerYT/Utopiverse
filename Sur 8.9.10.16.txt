@@ -97,6 +97,7 @@
 :shiny: [Survival] 
 
 **HUB REALM**
+:sdragon: [Lobby] Supported **1.21.10** version pack for **Java Edition**
 :sdragon: [Lobby] 
 
 **NETWORK**
