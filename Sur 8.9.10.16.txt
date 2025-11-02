@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.16** *(Network Changes)*
 :shiny: [Survival] Fixed **Crimson Dreadplate Shield** not working properly.
 :shiny: [Survival] Updated **dependencies** *(02-Nov-25)*
-:shiny: [Survival] 
+:shiny: [Survival] Changed **Dodge Damage** to **Dodge Chance** properly
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
