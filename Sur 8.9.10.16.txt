@@ -6,7 +6,7 @@
 :shiny: [Survival] Added **5 new items** in **Embercrest Crate** *(Special thanks to SKMASYKW)*
 :shiny: [Survival] **Death Chest** will no longer save **Experience** on death.
 :shiny: [Survival] **Death Chest** will no longer show **Interface** on death due to a bug with players.
-:shiny: [Survival] 
+:shiny: [Survival] Players will be **Invulnerable** for **10s** when they teleport to their **Death Chest**
 :shiny: [Survival] 
 
 :shiny: [Survival] 
