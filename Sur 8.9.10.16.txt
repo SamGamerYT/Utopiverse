@@ -4,7 +4,7 @@
 :shiny: [Survival] Changed **Dodge Damage** to **Dodge Chance** properly
 :shiny: [Survival] Updated **Cloak's** & **Ring's** items lore.
 :shiny: [Survival] Added **5 new items** in **Embercrest Crate** *(Special thanks to SKMASYKW)*
-:shiny: [Survival] 
+:shiny: [Survival] **Death Chest** will no longer save **Experience** on death.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
