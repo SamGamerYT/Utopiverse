@@ -65,6 +65,7 @@
 :shiny: [Survival] 
 
 **DUNGEON FROST CHANGES**  
+:shiny: [Survival] Increased **Withering Knight** mininum drop rate from **1** to **2** and maximum drop rate from **3** to **4**
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
