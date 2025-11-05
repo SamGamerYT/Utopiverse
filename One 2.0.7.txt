@@ -1,6 +1,6 @@
 **Patch/Changes 2.0.7** *[Oneblock]*
 :grass: Fixed **"/tags"** not working as they should be.
-:grass: 
+:grass: Fixed players not receiving **Special Egg** from **Mob Specialist** NPC
 :grass: 
 :grass: 
 :grass: 
