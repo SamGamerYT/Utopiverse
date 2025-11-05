@@ -32,7 +32,7 @@
 :grass: 
 
 **CAVE DUNGEON**
-:grass: 
+:grass: Reduced **Endshader's** particles amount by **50%**.
 :grass: 
 
 **HOLOGRAMS**
