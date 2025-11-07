@@ -110,6 +110,10 @@
 :computer: [Website] 
 :computer: [Website] 
 
+**WEBSTORE**
+:shiny: [Survival] Changed **Christmas 2024** to **Anniversary 2025** Monthly crate in **Store Milestone Bonus**
+:shiny: [Survival] 
+
 **[ @Changelogs ]**
 
 TO DO LIST:
