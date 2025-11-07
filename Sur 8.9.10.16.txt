@@ -14,7 +14,7 @@
 :shiny: [Survival] Added a **Guaranteed System** to the **Exotic Crate**, accessible via **"/exotic"**.  
 :shiny: [Survival] Updated the **Embercrest** guaranteed crafting stations preview menu.  
 :shiny: [Survival] Fixed **Embercrest Tome** not granting the **Mine Dungeon Level 5** damage boost.  
-:shiny: [Survival] 
+:shiny: [Survival] Pets will now take damage from mobs & players.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
