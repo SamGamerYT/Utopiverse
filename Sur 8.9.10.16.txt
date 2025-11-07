@@ -13,7 +13,7 @@
 :shiny: [Survival] Added **Drop Chances** for **Shiverfang** in **Exotic Crate**
 :shiny: [Survival] Added **Guaranteed System** to **Exotic Crate** accessible through **"/exotic"**
 :shiny: [Survival] Updated **Embercrest** guaranteed crafting stations preview menu.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Embercrest Tome** not giving **Mine Dungeon Level 5** damage boost.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
