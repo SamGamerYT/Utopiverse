@@ -12,7 +12,7 @@
 :shiny: [Survival] Relocated **Summer 2024** crate near **Anniversary** crates.
 :shiny: [Survival] Added **Drop Chances** for **Shiverfang** in **Exotic Crate**
 :shiny: [Survival] Added **Guaranteed System** to **Exotic Crate** accessible through **"/exotic"**
-:shiny: [Survival] 
+:shiny: [Survival] Updated **Embercrest** guaranteed crafting stations preview menu.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
