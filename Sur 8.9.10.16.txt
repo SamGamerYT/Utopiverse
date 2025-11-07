@@ -1,19 +1,19 @@
-**Patch/Changes 8.9.10.16** *(Network Changes)*
-:shiny: [Survival] Fixed **Crimson Dreadplate Shield** not working properly.
-:shiny: [Survival] Updated **dependencies** *(02-Nov-25)*
-:shiny: [Survival] Changed **Dodge Damage** to **Dodge Chance** properly
-:shiny: [Survival] Updated **Cloak's** & **Ring's** items lore.
-:shiny: [Survival] Added **5 new items** in **Embercrest Crate** *(Special thanks to SKMASYKW)*
-:shiny: [Survival] **Death Chest** will no longer save **Experience** on death.
-:shiny: [Survival] **Death Chest** will no longer show **Interface** on death due to a bug with players.
-:shiny: [Survival] Players will be **Invulnerable** for **10s** when they teleport to their **Death Chest**
-:shiny: [Survival] Added **Anniversary 2025** crate in **Summer 2024's** place
+**Patch/Changes 8.9.10.16** *(Network Changes)*  
+:shiny: [Survival] Fixed **Crimson Dreadplate Shield** not working properly.  
+:shiny: [Survival] Updated **dependencies** *(02-Nov-25)*.  
+:shiny: [Survival] Changed **Dodge Damage** to **Dodge Chance** correctly.  
+:shiny: [Survival] Updated **Cloak** and **Ring** item lores.  
+:shiny: [Survival] Added **5 new items** to the **Embercrest Crate** *(Special thanks to _SKMASYKW_)*.  
+:shiny: [Survival] **Death Chest** will no longer save **Experience** upon death.  
+:shiny: [Survival] **Death Chest** will no longer display the **Interface** on death due to a player-related bug.  
+:shiny: [Survival] Players will now be **Invulnerable** for **10 seconds** when teleporting to their **Death Chest**.  
+:shiny: [Survival] Added the **Anniversary 2025** crate in place of **Summer 2024**.  
 
-:shiny: [Survival] Relocated **Summer 2024** crate near **Anniversary** crates.
-:shiny: [Survival] Added **Drop Chances** for **Shiverfang** in **Exotic Crate**
-:shiny: [Survival] Added **Guaranteed System** to **Exotic Crate** accessible through **"/exotic"**
-:shiny: [Survival] Updated **Embercrest** guaranteed crafting stations preview menu.
-:shiny: [Survival] Fixed **Embercrest Tome** not giving **Mine Dungeon Level 5** damage boost.
+:shiny: [Survival] Relocated the **Summer 2024** crate near the **Anniversary** crates.  
+:shiny: [Survival] Added **Drop Chances** for **Shiverfang** in the **Exotic Crate**.  
+:shiny: [Survival] Added a **Guaranteed System** to the **Exotic Crate**, accessible via **"/exotic"**.  
+:shiny: [Survival] Updated the **Embercrest** guaranteed crafting stations preview menu.  
+:shiny: [Survival] Fixed **Embercrest Tome** not granting the **Mine Dungeon Level 5** damage boost.  
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
@@ -98,8 +98,8 @@
 :shiny: [Survival] 
 
 **HUB REALM**
-:sdragon: [Lobby] Supported **1.21.10** version pack for **Java Edition**
-:sdragon: [Lobby] Updated **dependencies** *(02-Nov-25)*
+:sdragon: [Lobby] Added support for **version 1.21.10** pack on **Java Edition**.
+:sdragon: [Lobby] Updated **dependencies** *(02-Nov-25)*.
 :sdragon: [Lobby] 
 
 **NETWORK**
