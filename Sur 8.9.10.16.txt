@@ -15,7 +15,7 @@
 :shiny: [Survival] Updated the **Embercrest** guaranteed crafting stations preview menu.  
 :shiny: [Survival] Fixed **Embercrest Tome** not granting the **Mine Dungeon Level 5** damage boost.  
 :shiny: [Survival] Pets will now take damage from mobs & players.
-:shiny: [Survival] 
+:shiny: [Survival] **Oneblock** & **Survival** will now have shared data in top voters
 :shiny: [Survival] 
 
 **ENTITIY CHANGES**
