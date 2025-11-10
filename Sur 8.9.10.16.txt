@@ -16,7 +16,7 @@
 :shiny: [Survival] Fixed **Embercrest Tome** not granting the **Mine Dungeon Level 5** damage boost.  
 :shiny: [Survival] Pets will now take damage from mobs & players.
 :shiny: [Survival] **Oneblock** & **Survival** will now have shared data in top voters
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Repairstones** from **Exotic Crate**
 
 **ENTITIY CHANGES**
 :shiny: [Survival] 
