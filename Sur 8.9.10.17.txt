@@ -76,6 +76,7 @@
 :shiny: [Survival] 
 
 **DUNGEON HALLOWEEN CHANGES**
+:shiny: [Survival] Buffed **Angry Cow**'s health as it had wrong values
 :shiny: [Survival] 
 
 **/SHOP** *(_QueenChaos95180)*
