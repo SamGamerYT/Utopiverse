@@ -17,6 +17,7 @@
 :shiny: [Survival] Pets will now take damage from mobs & players.
 :shiny: [Survival] **Oneblock** & **Survival** will now have shared data in top voters
 :shiny: [Survival] Removed **Repairstones** from **Exotic Crate**
+:shiny: [Survival] Added **10** new **"/armory"** items in **Exotic Crate**
 
 **ENTITIY CHANGES**
 :shiny: [Survival] 
