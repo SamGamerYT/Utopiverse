@@ -104,7 +104,7 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
-:spaceheart1: [Network] 
+:spaceheart1: [Network] Updated **Friends System** to support the newer version. *(13-Nov-2025)*
 :spaceheart1: [Network] 
 
 
