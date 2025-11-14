@@ -101,6 +101,7 @@
 **HUB REALM**
 :sdragon: [Lobby] Updated to Hub **1.21.8** *(13-Nov-2025)*
 :sdragon: [Lobby] Updated major dependencies *(13-Nov-2025)*
+:sdragon: [Lobby] Fixed **Messages** showing up **bolded** in chat after the update.
 :sdragon: [Lobby] 
 
 **NETWORK**
