@@ -99,9 +99,11 @@
 :shiny: [Survival] 
 
 **HUB REALM**
+:sdragon: [Lobby] Updated to Hub **1.21.8** *(13-Nov-2025)*
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] 
 :spaceheart1: [Network] 
 
 
