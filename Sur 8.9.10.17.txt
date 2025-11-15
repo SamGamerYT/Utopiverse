@@ -77,6 +77,7 @@
 
 **DUNGEON HALLOWEEN CHANGES**
 :shiny: [Survival] Buffed **Angry Cow**'s health as it had wrong values
+:shiny: [Survival] Added **Halloween Dungeon** mobs information in **"/codex"** *(Special thanks to _Skmasykw)*
 :shiny: [Survival] 
 
 **/SHOP** *(_QueenChaos95180)*
