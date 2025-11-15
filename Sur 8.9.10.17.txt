@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.17** *(Network Changes)*  
 :shiny: [Survival] Fixed **{queue}** placeholder appearing in all of **crafting stations** that has a queue.
 :shiny: [Survival] Fixed **Iridium Ore** showing up as Cow Entity in **Volcano Dungeon** on certain conditions.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Summer 2024 Monthlycrate** not showing up as a crate in **"/lootbox"** warp.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
