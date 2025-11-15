@@ -73,6 +73,7 @@
 :shiny: [Survival] 
 
 **DUNGEON WASTELAND CHANGES**
+:shiny: [Survival] Fixed **Minotaur's** posture & Damage as they were both not working as intended.
 :shiny: [Survival] 
 
 **DUNGEON HALLOWEEN CHANGES**
