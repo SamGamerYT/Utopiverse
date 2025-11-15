@@ -74,6 +74,7 @@
 
 **DUNGEON WASTELAND CHANGES**
 :shiny: [Survival] Fixed **Minotaur's** posture & Damage as they were both not working as intended.
+:shiny: [Survival] Minotaur will now deal **Thunder** Elemental Damage on certain occasions.
 :shiny: [Survival] 
 
 **DUNGEON HALLOWEEN CHANGES**
