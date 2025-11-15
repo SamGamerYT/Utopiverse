@@ -78,6 +78,8 @@
 **DUNGEON HALLOWEEN CHANGES**
 :shiny: [Survival] Buffed **Angry Cow**'s health as it had wrong values
 :shiny: [Survival] Added **Halloween Dungeon** mobs information in **"/codex"** *(Special thanks to _Skmasykw)*
+:shiny: [Survival] Added **Demonic Heart, Angry Bone, Bloody Shard, Hollowed Fragment & Merged Candy Bar** dungeon loot drop.
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **/SHOP** *(_QueenChaos95180)*
