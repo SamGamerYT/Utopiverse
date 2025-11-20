@@ -109,6 +109,7 @@
 :sdragon: [Lobby] Updated major dependencies *(13-Nov-2025)*
 :sdragon: [Lobby] Fixed **Messages** showing up **bolded** in chat after the update.
 :sdragon: [Lobby] Added **snow** around the Lobby Map
+:sdragon: [Lobby] Fixed **"/spawn"** not working properly.
 
 **NETWORK**
 :spaceheart1: [Network] Updated **Friends System** to support the newer version. *(13-Nov-2025)*
