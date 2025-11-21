@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.18** *(Network Changes)*  
 :shiny: [Survival] Fixed **Embercrest's Key** having broken lore.
 :shiny: [Survival] Added **Mangrove** & **Pale Oak** blocks under **Protection Stone** *(Break & Place your stone again)*
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Exotic Crate** giving **Astral Amulet** instead of **Hollowlight Charm**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
