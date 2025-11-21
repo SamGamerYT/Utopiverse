@@ -3,7 +3,7 @@
 :shiny: [Survival] Added **Mangrove** & **Pale Oak** blocks under **Protection Stone** *(Break & Place your stone again)*
 :shiny: [Survival] Fixed **Exotic Crate** giving **Astral Amulet** instead of **Hollowlight Charm**
 :shiny: [Survival] Added **"Assassin Cloak"** in **Dungeon's Witch** trader deep inside **Halloween Dungeon**
-:shiny: [Survival] 
+:shiny: [Survival] Increased **Clan Prefix** limit from **16 Letters** to **24 Letters** *(Including Colour Codes)*
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
