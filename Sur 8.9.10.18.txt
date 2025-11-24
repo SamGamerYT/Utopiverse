@@ -39,7 +39,7 @@
 :shiny: [Survival] Added **Bait Bundle**, Allowing players to have higher quantity of bait on their fishing rod.
 :shiny: [Survival] Modified **Bait Shop's** level requirement message from "You are not a high enough fishing level for this." to "Need higher fishing level."
 :shiny: [Survival] Added over **10+** fishable items.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Clam** not showing up in **Fishing Codex**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
