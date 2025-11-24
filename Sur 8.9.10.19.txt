@@ -101,7 +101,6 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
-:spaceheart1: [Network] Updated **Friends System** to newer **Bedrock** version.
 :spaceheart1: [Network] 
 
 **WEBSITE**
