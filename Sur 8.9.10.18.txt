@@ -34,8 +34,14 @@
 **FARMING**
 :shiny: [Survival] 
 
-**FISHING** *(YuxuFG)*
 **FISHING**
+**FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
+:shiny: [Survival] Added **Bait Bundle**, Allowing players to have higher quantity of bait on their fishing rod.
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **SHOP CHANGES**
