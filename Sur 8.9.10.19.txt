@@ -40,6 +40,8 @@
 :shiny: [Survival] **Confusion Key** biome has been changed from **Ocean** & **Jungle** to **Lukewarm Ocean** & **Savanna**.
 :shiny: [Survival] **Vote Key** biome has been changed from **Ocean** & **Jungle** to **Frozen Ocean**
 :shiny: [Survival] Removed **Jungle & Swamp** biomes from **Uncommon Key**
+:shiny: [Survival] **Vote, Confusion & Uncommon Key** will require **Rain Weather**.
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **SHOP CHANGES**
