@@ -109,6 +109,7 @@
 :shiny: [Survival] 
 
 **HUB REALM**
+:sdragon: [Lobby] Added **Welcoming** armorstand NPC near **Spawning Zone**
 :sdragon: [Lobby] 
 
 **NETWORK**
