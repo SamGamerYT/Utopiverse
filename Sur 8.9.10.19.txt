@@ -43,6 +43,7 @@
 :shiny: [Survival] **Vote, Confusion & Uncommon Key** will require **Rain Weather**.
 :shiny: [Survival] You can catch **Maggot** only at night time.
 :shiny: [Survival] You can catch **Black Pearl & White Pearl** only at day time.
+:shiny: [Survival] Retired **WhispyW's** NPC from Fishermen, He is now a **Retired Fishermen** *(New Questline soon)*
 :shiny: [Survival] 
 
 **SHOP CHANGES**
