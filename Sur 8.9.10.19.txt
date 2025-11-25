@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.10.19** *(Network Changes)*  
-:shiny: [Survival] 
+:shiny: [Survival] Removed **RPG Level** and replaced it with **Fishing Lvl** on Scoreboard.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
