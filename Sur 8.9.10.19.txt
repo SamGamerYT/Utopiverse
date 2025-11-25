@@ -37,6 +37,7 @@
 **FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
 **FISHING**
 :shiny: [Survival] **Green Eel** can now be caught with **Worm Bait** instead of just **Hook Bait**
+:shiny: [Survival] **Confusion Key** biome has been changed from **Ocean** & **Jungle** to **Lukewarm Ocean** & **Savanna**.
 :shiny: [Survival] 
 
 **SHOP CHANGES**
