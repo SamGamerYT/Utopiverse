@@ -46,6 +46,7 @@
 :shiny: [Survival] You can catch **Black Pearl & White Pearl** only at day time.
 :shiny: [Survival] Retired **WhispyW's** NPC from Fishermen, He is now a **Retired Fishermen** *(New Questline soon)*
 :shiny: [Survival] Added **_Rhys961043** Skin as the **Fishermen Garry**.
+:shiny: [Survival] Fixed **Rare Drop** messages not popping up in **Chat**.
 :shiny: [Survival] 
 
 **SHOP CHANGES**
