@@ -48,6 +48,8 @@
 :shiny: [Survival] Added **_Rhys961043** Skin as the **Fishermen Garry**.
 :shiny: [Survival] Fixed **Rare Drop** messages not popping up in **Chat**.
 :shiny: [Survival] Fixed **Fished Bone** not showing up properly in **Fishing Codex**
+:shiny: [Survival] Added more requirements on **Money Drops, Crate Drops & Money Pouch Drops.**, view requirements in **"/fish codex"**
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **SHOP CHANGES**
