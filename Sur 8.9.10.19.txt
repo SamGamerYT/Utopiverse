@@ -2,7 +2,7 @@
 :shiny: [Survival] Removed **RPG Level** and replaced it with **Fishing Lvl** on Scoreboard.
 :shiny: [Survival] Removed **Attrib** and replaced it with **Entropy** on Scoreboard.
 :shiny: [Survival] Added **"/help"** and **"/tutorial"** command showcase on Scoreboard.
-:shiny: [Survival] 
+:shiny: [Survival] Updated **Spawners** in preparation for **1.21.8** update.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
