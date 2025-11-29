@@ -117,6 +117,8 @@
 
 **NETWORK**
 :spaceheart1: [Network] Fixed **Intrigue Wings** for Bedrock Edition.
+:spaceheart1: [Network] Disabled Scoreboard **Numbers** from being visible on the side
+:spaceheart1: [Network] Set a max size for **Scoreboard** to ensure it doesn't take half the screen.
 :spaceheart1: [Network] 
 
 **WEBSITE**
