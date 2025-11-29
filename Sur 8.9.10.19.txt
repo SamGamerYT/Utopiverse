@@ -116,6 +116,7 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Fixed **Intrigue Wings** for Bedrock Edition.
 :spaceheart1: [Network] 
 
 **WEBSITE**
