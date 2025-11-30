@@ -7,7 +7,7 @@
 :shiny: [Survival] Added **Advent Calender** Santa NPC at **Seasonal House**.
 :shiny: [Survival] Relocated **Dungeon Lootbox** crate and added **2 new upcoming crates** crate.
 :shiny: [Survival] Fixed **Cursed Pumpkin Amulet** not working as it should.
-:shiny: [Survival] 
+:shiny: [Survival] Updated **Tournaments** objective for **December Month!**
 
 :shiny: [Survival] 
 :shiny: [Survival] 
