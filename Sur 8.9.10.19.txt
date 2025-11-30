@@ -1,38 +1,38 @@
 **Patch/Changes 8.9.10.19** *(Network Changes)*  
-:shiny: [Survival] Removed **RPG Level** and replaced it with **Fishing Lvl** on Scoreboard.
-:shiny: [Survival] Removed **Attrib** and replaced it with **Entropy** on Scoreboard.
-:shiny: [Survival] Added **"/help"** and **"/tutorial"** command showcase on Scoreboard.
-:shiny: [Survival] Updated **Spawners** in preparation for **1.21.8** update.
-:shiny: [Survival] Created **Christmas Special** Elf's Questline, doable near **Seasonal House.**
-:shiny: [Survival] Added **Advent Calender** Santa NPC at **Seasonal House**.
-:shiny: [Survival] Relocated **Dungeon Lootbox** crate and added **2 new upcoming crates** crate.
-:shiny: [Survival] Fixed **Cursed Pumpkin Amulet** not working as it should.
-:shiny: [Survival] Updated **Tournaments** objective for **December Month!**
+:shiny: [Survival] Removed **RPG Level** and replaced it with **Fishing Lvl** on the scoreboard.  
+:shiny: [Survival] Removed **Attrib** and replaced it with **Entropy** on the scoreboard.  
+:shiny: [Survival] Added **"/help"** and **"/tutorial"** command showcases on the scoreboard.  
+:shiny: [Survival] Updated **Spawners** in preparation for the **1.21.8** update.  
+:shiny: [Survival] Created a **Christmas Special Elf’s Questline**, available near the **Seasonal House**.  
+:shiny: [Survival] Added the **Advent Calendar** Santa NPC at the **Seasonal House**.  
+:shiny: [Survival] Relocated the **Dungeon Lootbox** crate and added **2 new upcoming crates**.  
+:shiny: [Survival] Fixed the **Cursed Pumpkin Amulet** not functioning as intended.  
+:shiny: [Survival] Updated **Tournaments** objectives for the **December Month**.  
 
-**FISHING**
-:shiny: [Survival] **Green Eel** can now be caught with **Worm Bait** instead of just **Hook Bait**
-:shiny: [Survival] **Confusion Key** biome has been changed from **Ocean** & **Jungle** to **Lukewarm Ocean** & **Savanna**.
-:shiny: [Survival] **Vote Key** biome has been changed from **Ocean** & **Jungle** to **Frozen Ocean**
-:shiny: [Survival] **Rare Key** biome has been changed from **Ocean** & **Jungle** to **Swamp & Desert**
-:shiny: [Survival] Removed **Jungle & Swamp** biomes from **Uncommon Key**
-:shiny: [Survival] **Vote, Confusion & Uncommon Key** will require **Rain Weather**.
-:shiny: [Survival] You can catch **Maggot** only at night time.
-:shiny: [Survival] You can catch **Black Pearl & White Pearl** only at day time.
-:shiny: [Survival] Retired **WhispyW's** NPC from Fishermen, He is now a **Retired Fishermen** *(New Questline soon)*
-:shiny: [Survival] Added **_Rhys961043** Skin as the **Fishermen Garry**.
-:shiny: [Survival] Fixed **Rare Drop** messages not popping up in **Chat**.
-:shiny: [Survival] Fixed **Fished Bone** not showing up properly in **Fishing Codex**
-:shiny: [Survival] Added more requirements on **Money Drops, Crate Drops & Money Pouch Drops.**, view requirements in **"/fish codex"**
+**FISHING**  
+:shiny: [Survival] **Green Eel** can now be caught with **Worm Bait** instead of only **Hook Bait**.  
+:shiny: [Survival] Changed the **Confusion Key** biome from **Ocean & Jungle** to **Lukewarm Ocean & Savanna**.  
+:shiny: [Survival] Changed the **Vote Key** biome from **Ocean & Jungle** to **Frozen Ocean**.  
+:shiny: [Survival] Changed the **Rare Key** biome from **Ocean & Jungle** to **Swamp & Desert**.  
+:shiny: [Survival] Removed **Jungle & Swamp** biomes from the **Uncommon Key**.  
+:shiny: [Survival] **Vote, Confusion & Uncommon Keys** now require **Rain Weather**.  
+:shiny: [Survival] **Maggots** can only be caught at **night**.  
+:shiny: [Survival] **Black Pearl** and **White Pearl** can only be caught during the **day**.  
+:shiny: [Survival] Retired **WhispyW’s** NPC from the Fishermen — he is now a **Retired Fisherman** *(new questline coming soon)*.  
+:shiny: [Survival] Added **_Rhys961043’s** skin as the new **Fisherman Garry**.  
+:shiny: [Survival] Fixed **Rare Drop** messages not appearing in chat.  
+:shiny: [Survival] Fixed **Fished Bone** not displaying properly in the **Fishing Codex**.  
+:shiny: [Survival] Added more requirements for **Money Drops**, **Crate Drops**, and **Money Pouch Drops** — viewable in **"/fish codex"**.  
 
-**HUB REALM**
-:sdragon: [Lobby] Added **Welcoming** armorstand NPC near **Spawning Zone**
+**HUB REALM**  
+:sdragon: [Lobby] Added a **Welcoming Armorstand NPC** near the **Spawn Zone**.  
 
-**NETWORK**
-:spaceheart1: [Network] Fixed **Intrigue Wings** for Bedrock Edition.
-:spaceheart1: [Network] Disabled Scoreboard **Numbers** from being visible on the side
-:spaceheart1: [Network] Set a max size for **Scoreboard** to ensure it doesn't take half the screen.
+**NETWORK**  
+:spaceheart1: [Network] Fixed **Intrigue Wings** for **Bedrock Edition**.  
+:spaceheart1: [Network] Disabled scoreboard **numbers** from showing on the side.  
+:spaceheart1: [Network] Set a maximum scoreboard size to prevent it from taking up half the screen.  
 
-**WEBSITE**
-:computer: [Website] Brought **Winter Plushies** on **Global** category.
+**WEBSITE**  
+:computer: [Website] Brought **Winter Plushies** to the **Global Category**.  
 
 **[ @Changelogs ]**
