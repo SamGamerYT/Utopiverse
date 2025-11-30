@@ -6,7 +6,7 @@
 :shiny: [Survival] Created **Christmas Special** Elf's Questline, doable near **Seasonal House.**
 :shiny: [Survival] Added **Advent Calender** Santa NPC at **Seasonal House**.
 :shiny: [Survival] Relocated **Dungeon Lootbox** crate and added **2 new upcoming crates** crate.
-:shiny: [Survival] 
+:shiny: [Survival] Fixed **Cursed Pumpkin Amulet** not working as it should.
 :shiny: [Survival] 
 
 :shiny: [Survival] 
