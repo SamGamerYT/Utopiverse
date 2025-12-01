@@ -1,7 +1,7 @@
 **Patch/Changes 2.0.7** *[Oneblock]*
 :grass: Fixed **"/tags"** not working as they should be.
 :grass: Fixed players not receiving **Special Egg** from **Mob Specialist** NPC
-:grass: 
+:grass: Disabled **Oneblock's** Border Feature due to an issue with block-placing issue.
 :grass: 
 :grass: 
 :grass: 
