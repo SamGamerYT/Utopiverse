@@ -2,7 +2,7 @@
 :grass: Fixed **"/tags"** not working as they should be.
 :grass: Fixed players not receiving **Special Egg** from **Mob Specialist** NPC
 :grass: Disabled **Oneblock's** Border Feature due to an issue with block-placing issue.
-:grass: 
+:grass: Fixed an issue where players were able to place Lava or Water bucket at **"/spawn"**
 :grass: 
 :grass: 
 :grass: 
