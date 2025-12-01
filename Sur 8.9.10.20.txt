@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.10.20** *(Network Changes)*  
 :shiny: [Survival] Changed Block Break **Tournament** from **Coral Block** to **Purpur Pillar**
-:shiny: [Survival] 
+:shiny: [Survival] Updated **Volcano Codex** to include **percentage** for Geode Drop
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
