@@ -69,7 +69,7 @@
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
+:shiny: [Survival] Added **Geode** as a drop from mobs in **Volcano Dungeon**
 :shiny: [Survival] 
 
 **DUNGEON WASTELAND CHANGES**
