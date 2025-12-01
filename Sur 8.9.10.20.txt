@@ -107,6 +107,7 @@
 :computer: [Website] 
 
 **WEBSTORE**
+:computer: [Website] Updated **Legendary, Exotic & Embercrest's** preview picture.
 :shiny: [Survival] 
 
 **[ @Changelogs ]**
