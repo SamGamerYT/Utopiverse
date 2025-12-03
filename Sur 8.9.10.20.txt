@@ -76,6 +76,7 @@
 :shiny: [Survival] 
 
 **DUNGEON HALLOWEEN CHANGES**
+:shiny: [Survival] Added **Two Mouse** spawning location near the **Kitchen**
 :shiny: [Survival] 
 
 **/SHOP** *(_QueenChaos95180)*
