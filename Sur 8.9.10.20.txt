@@ -6,8 +6,7 @@
 :shiny: [Survival] Fixed an issue where **deliveries** weren't working as they should be.
 :shiny: [Survival] **Retired Fishermen** questline is now completely live and ready to participate in.
 :shiny: [Survival] Fixed **Soil Surveyor's** second recipe listing **Gold Coin** as **Silver Coin**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] **Fish Furniture** shop questline is now live with recipes!
 
 **DUNGEON VOLCANO CHANGES**
 :shiny: [Survival] Added **Geode** as a drop from mobs in **Volcano Dungeon**
