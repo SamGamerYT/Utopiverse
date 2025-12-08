@@ -1,20 +1,20 @@
 **Patch/Changes 8.9.10.20** *(Network Changes)*  
-:shiny: [Survival] Changed Block Break **Tournament** from **Coral Block** to **Purpur Pillar**
-:shiny: [Survival] Updated **Volcano Codex** to include **percentage** for Geode Drop
-:shiny: [Survival] Modified ***Volcano & Wasteland** special armour material crafting time from **120s & 60s** to **9s & 6s**.
-:shiny: [Survival] **Fishing Milestone #2** Level requirement has been reduced from **25** to **20**
-:shiny: [Survival] Fixed an issue where **deliveries** weren't working as they should be.
-:shiny: [Survival] **Retired Fishermen** questline is now completely live and ready to participate in.
-:shiny: [Survival] Fixed **Soil Surveyor's** second recipe listing **Gold Coin** as **Silver Coin**
-:shiny: [Survival] **Fish Furniture** shop questline is now live with recipes!
+:shiny: [Survival] Changed the Block Break **Tournament** objective from **Coral Block** to **Purpur Pillar**.  
+:shiny: [Survival] Updated the **Volcano Codex** to include **percentage values** for Geode drops.  
+:shiny: [Survival] Modified **Volcano & Wasteland** special armor material crafting times from **120s & 60s** to **9s & 6s**.  
+:shiny: [Survival] Reduced the **Fishing Milestone #2** level requirement from **25** to **20**.  
+:shiny: [Survival] Fixed an issue where **Deliveries** were not functioning properly.  
+:shiny: [Survival] The **Retired Fisherman** questline is now fully live and available to participate in.  
+:shiny: [Survival] Fixed the **Soil Surveyor’s** second recipe listing **Gold Coin** instead of **Silver Coin**.  
+:shiny: [Survival] The **Fish Furniture** shop questline is now live, complete with new recipes.  
 
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] Added **Geode** as a drop from mobs in **Volcano Dungeon**
+**DUNGEON VOLCANO CHANGES**  
+:shiny: [Survival] Added **Geode** as a mob drop in the **Volcano Dungeon**.  
 
-**DUNGEON HALLOWEEN CHANGES**
-:shiny: [Survival] Added **Two Mouse** spawning location near the **Kitchen**
+**DUNGEON HALLOWEEN CHANGES**  
+:shiny: [Survival] Added **Two Mouse** spawn locations near the **Kitchen** area.  
 
-**WEBSTORE**
-:computer: [Website] Updated **Legendary, Exotic & Embercrest's** preview picture.
+**WEBSTORE**  
+:computer: [Website] Updated **Legendary**, **Exotic**, and **Embercrest** preview pictures.  
 
 **[ @Changelogs ]**
