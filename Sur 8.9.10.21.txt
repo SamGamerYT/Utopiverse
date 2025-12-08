@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.21** *(Network Changes)*  
 :shiny: [Survival] Added **SmartName's** Graveyard questline for **Starter Players**
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Added **Rotten, Chipped & Cursed Grave Token**, dropped by **Graveyard Mobs**.
+:shiny: [Survival] Added **Chests** around **Dead Zone** to let people share loot easily.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
