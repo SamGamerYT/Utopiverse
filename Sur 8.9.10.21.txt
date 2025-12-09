@@ -75,6 +75,7 @@
 :shiny: [Survival] 
 
 **DUNGEON HALLOWEEN CHANGES**
+:shiny: [Survival] Added **$25,000,000** requirement to **Assassin Cloak**
 :shiny: [Survival] 
 
 **/SHOP** *(_QueenChaos95180)*
