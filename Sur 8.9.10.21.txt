@@ -78,6 +78,8 @@
 :shiny: [Survival] Added **$25,000,000** requirement to **Assassin Cloak**
 :shiny: [Survival] Added **Merged Candy Bar** crafting recipe to **Dungeon's Witch Trader**
 :shiny: [Survival] Added **Custom Icon** to **Assassin Cloak**
+:shiny: [Survival] Added **Necromancer Cloak**, **Sticky Amulet** to **Dungeon's Witch Trader**
+:shiny: [Survival] 
 :shiny: [Survival] 
 
 **/SHOP** *(_QueenChaos95180)*
