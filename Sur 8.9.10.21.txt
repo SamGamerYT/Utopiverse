@@ -79,6 +79,7 @@
 :shiny: [Survival] Added **Merged Candy Bar** crafting recipe to **Dungeon's Witch Trader**
 :shiny: [Survival] Added **Custom Icon** to **Assassin Cloak**
 :shiny: [Survival] Added **Necromancer Cloak**, **Sticky Amulet** & **Amulet of the Hollow Night** to **Dungeon's Witch Trader**
+:shiny: [Survival] Added **Dracula Amulet** Boss drop to **Dracula Boss**
 :shiny: [Survival] 
 
 **/SHOP** *(_QueenChaos95180)*
