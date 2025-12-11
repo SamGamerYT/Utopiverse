@@ -108,6 +108,7 @@
 :sdragon: [Lobby] 
 
 **NETWORK**
+:spaceheart1: [Network] Fixed **Christmas Advent** interface not working as intended.
 :spaceheart1: [Network] 
 
 **WEBSITE**
