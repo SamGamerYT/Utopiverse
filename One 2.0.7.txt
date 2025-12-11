@@ -4,7 +4,7 @@
 :grass: Disabled **Oneblock's** Border Feature due to an issue with block-placing issue.
 :grass: Fixed an issue where players were able to place Lava or Water bucket at **"/spawn"**
 :grass: Added **Fishing Assistant** near **Rick the Fishermen**, Will help you delete **Deliveries** easily on **Bedrock**
-:grass: 
+:grass: Updated to **1.21.8**, We now have Happy Ghast and other updates!
 :grass: 
 :grass: 
 :grass: 
