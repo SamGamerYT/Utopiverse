@@ -38,6 +38,7 @@
 **FISHING**
 :shiny: [Survival] Added **6 to 15** delivery removal in **ORANGE FISH** NPC.
 :shiny: [Survival] Removed **Custom Economical, Materials & Pouches** from **Fishing Deliveries**.
+:shiny: [Survival] Nerfed **Biome Disruption**, Level 2 from **40%** to **25%**, and Level 3 from **60%** to **50%**.
 :shiny: [Survival] 
 
 **SHOP CHANGES**
