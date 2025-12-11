@@ -1,62 +1,12 @@
-**Patch/Changes 2.0.7** *[Oneblock]*
-:grass: Fixed **"/tags"** not working as they should be.
-:grass: Fixed players not receiving **Special Egg** from **Mob Specialist** NPC
-:grass: Disabled **Oneblock's** Border Feature due to an issue with block-placing issue.
-:grass: Fixed an issue where players were able to place Lava or Water bucket at **"/spawn"**
-:grass: Added **Fishing Assistant** near **Rick the Fishermen**, Will help you delete **Deliveries** easily on **Bedrock**
-:grass: Updated to **1.21.8**, We now have Happy Ghast and other updates!
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
+**Patch/Changes 2.0.7** *[Oneblock]*  
+:grass: Fixed **"/tags"** not working as intended.  
+:grass: Fixed players not receiving the **Special Egg** from the **Mob Specialist** NPC.  
+:grass: Disabled **Oneblock’s** border feature due to a block placement issue.  
+:grass: Fixed an issue where players were able to place **Lava** or **Water buckets** at **"/spawn"**.  
+:grass: Added a **Fishing Assistant** near **Rick the Fisherman**, allowing Bedrock players to easily delete **Deliveries**.  
+:grass: Updated to **1.21.8** — enjoy the **Happy Ghast** and other new additions!  
 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
-:grass: 
+**CAVE DUNGEON**  
+:grass: Reduced **Endshader’s** particle effects by **50%**.  
 
-:Sparkles: [Store] 
-
-**DUNGEON**
-:grass: 
-
-**COAL DUNGEON**
-:grass: 
-
-**CAVE DUNGEON**
-:grass: Reduced **Endshader's** particles amount by **50%**.
-:grass: 
-
-**HOLOGRAMS**
-:grass: 
-
-**ISLAND**
-:grass: 
-
-**BANK**
-:grass: 
-
-**BLACKSMITH**
-:grass: 
-:grass: 
-
-**TINKERER**
-:grass: 
-:grass: 
-:grass: 
-
-**HOLOGRAMS** *(Created by Idiomaticsss)* 
-:grass: 
- 
 **[ @Changelogs ]**
-
-**AUTO RESPONSE**
-**CRATES**
