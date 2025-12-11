@@ -36,6 +36,7 @@
 
 **FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
 **FISHING**
+:shiny: [Survival] Added **6 to 15** delivery removal in **ORANGE FISH** NPC.
 :shiny: [Survival] 
 
 **SHOP CHANGES**
