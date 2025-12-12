@@ -35,6 +35,7 @@
 **FARMING**
 :shiny: [Survival] **Silver Watering Can** capacity has been increased from **3** to **4**
 :shiny: [Survival] Added **Gold Watering Can** recipe at **Farming Utilities** station.
+:shiny: [Survival] Improved **Cabbage** Silver & Gold **Varient** drop rate.
 :shiny: [Survival] 
 
 **FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
