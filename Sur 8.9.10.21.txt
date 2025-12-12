@@ -33,6 +33,7 @@
 :shiny: [Survival] 
 
 **FARMING**
+:shiny: [Survival] **Silver Watering Can** capacity has been increased from **3** to **4**
 :shiny: [Survival] 
 
 **FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
