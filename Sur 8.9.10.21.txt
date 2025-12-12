@@ -9,9 +9,10 @@
 :shiny: [Survival] 
 :shiny: [Survival] 
 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
+**BUILD CHANGES**
+:shiny: [Survival] Due to poor support, **Blacksmith** bridge has collapsed, and a new one has been made.
+:shiny: [Survival] Modified **Bank Area**, Added a new npc house near **Bank Area**
+:shiny: [Survival] Modified **AFK Zone Pool**, Made it bit more spacious and added a water fall.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
