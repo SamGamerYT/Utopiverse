@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.8** *[Oneblock]*
-:grass: 
+:grass: Updated **Bank's Upgrade** interface's value to up to date information.
 :grass: 
 :grass: 
 :grass: 
