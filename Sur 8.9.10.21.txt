@@ -13,7 +13,7 @@
 :shiny: [Survival] Increased **Silver Watering Can** capacity from **3** to **4**.  
 :shiny: [Survival] Added a **Gold Watering Can** recipe at the **Farming Utilities** station.  
 :shiny: [Survival] Improved **Cabbage** silver and gold **variant** drop rates.  
-:shiny: [Survival] Added **Ernet’s Farming Questline** — talk to him at **"/farms"**.  
+:shiny: [Survival] Added **Ernet’s Farming Questline**, talk to him at **"/farms"**.  
 
 **FISHING**
 :shiny: [Survival] Added **6 to 15** delivery removals in the **ORANGE FISH** NPC.  
