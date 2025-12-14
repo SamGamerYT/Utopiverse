@@ -1,8 +1,8 @@
 **Patch/Changes 2.0.8** *[Oneblock]*
 :grass: Updated **Bank's Upgrade** interface's value to up to date information.
-:grass: Fixed **Bank's Island Upgrade** not having an **Upgrade order** bug and allowing players to skip 1-2 and go for straight 3rd upgrade.
+:grass: Fixed **Island Size Upgrade** not having an **Upgrade order** bug and allowing players to skip 1-2 and go for straight 3rd upgrade.
 :grass: Fixed **"/buy"** not working as intended.
-:grass: 
+:grass: Fixed **Island Member Size Upgrade** not working properly.
 :grass: 
 :grass: 
 :grass: 
