@@ -3,7 +3,7 @@
 :shiny: [Survival] Added **Halloween Dungeon** Teleportation area amongst other dungeons.
 :shiny: [Survival] Relocated **Dungeon Leaderboard & Poster** elsewhere.
 :shiny: [Survival] Relocated **Rewarder** NPC to near **Guard Shop**
-:shiny: [Survival] 
+:shiny: [Survival] Removed **Archer NPC** for **Milestones** and re-added **SmartName's** NPC near **"/spawn"**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
