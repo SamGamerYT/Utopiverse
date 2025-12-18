@@ -3,7 +3,7 @@
 :grass: Fixed **Island Size Upgrade** not having an **Upgrade order** bug and allowing players to skip 1-2 and go for straight 3rd upgrade.
 :grass: Fixed **"/buy"** not working as intended.
 :grass: Fixed **Island Member Size Upgrade** not working properly.
-:grass: 
+:grass: Fixed **Elevators** not working properly in the server.
 :grass: 
 :grass: 
 :grass: 
