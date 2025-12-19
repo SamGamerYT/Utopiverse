@@ -32,6 +32,7 @@
 :grass: 
 
 **CAVE DUNGEON**
+:grass: Heavily reduced **Endshade**'s attack particles.
 :grass: 
 
 **HOLOGRAMS**
