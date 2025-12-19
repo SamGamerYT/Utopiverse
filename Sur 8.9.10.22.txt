@@ -65,6 +65,7 @@
 
 **DUNGEON FROST CHANGES**  
 :shiny: [Survival] Removed **Personalized Pet** hologram due to **Store's** Regulation.
+:shiny: [Survival] Modified the entire **"/warp frost"** area, brand new location and look.
 :shiny: [Survival] 
 
 **DUNGEON VOLCANO CHANGES**
