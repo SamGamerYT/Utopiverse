@@ -72,6 +72,7 @@
 :shiny: [Survival] 
 
 **DUNGEON WASTELAND CHANGES**
+:shiny: [Survival] Added **Asterion** Soul, Dropped from **Minotaur Boss**
 :shiny: [Survival] 
 
 **DUNGEON HALLOWEEN CHANGES**
