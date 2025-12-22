@@ -6,7 +6,7 @@
 :shiny: [Survival] Removed **Archer NPC** for **Milestones** and re-added **SmartName's** NPC near **"/spawn"**
 :shiny: [Survival] Fixed **Elevators** not working properly in the server.
 :shiny: [Survival] Updated over **60+** items to adhere to the new **Minecraft Update**, Drop & Pickup your dungeon loot.
-:shiny: [Survival]
+:shiny: [Survival] Modified **Rewarder** NPC's Hologram
 :shiny: [Survival] 
 
 :shiny: [Survival] 
