@@ -4,7 +4,7 @@
 :grass: Fixed **"/buy"** not working as intended.
 :grass: Fixed **Island Member Size Upgrade** not working properly.
 :grass: Fixed **Elevators** not working properly in the server.
-:grass: 
+:grass: Fixed **Mooshroom** Statistics not showing up properly in **"/stats"**
 :grass: 
 :grass: 
 :grass: 
