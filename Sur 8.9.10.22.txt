@@ -11,7 +11,7 @@
 
 :shiny: [Survival] Updated **Dungeon Soul Leaderboard** to include **Asterion Soul**
 :shiny: [Survival] Fixed **Mooshroom** Statistics not showing up properly in **"/stats"**
-:shiny: [Survival] 
+:shiny: [Survival] Fixed "/fish menu" not working properly.
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
