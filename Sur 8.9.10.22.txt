@@ -13,8 +13,8 @@
 :shiny: [Survival] Fixed **Mooshroom** Statistics not showing up properly in **"/stats"**
 :shiny: [Survival] Fixed "/fish menu" not working properly.
 :shiny: [Survival] Removed **Baby Spooder** model due to bedrock client visibility issue.
-:shiny: [Survival] 
-:shiny: [Survival] 
+:shiny: [Survival] Changed **Baby Spooder** into a smaller version of **Vanilla Cave Spider**.
+:shiny: [Survival] Added **6 New** possible spawning locations for **Baby Spooders**
 :shiny: [Survival] 
 :shiny: [Survival] 
 :shiny: [Survival] 
