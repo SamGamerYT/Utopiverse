@@ -5,7 +5,7 @@
 :grass: Fixed **Island Member Size Upgrade** not working properly.
 :grass: Fixed **Elevators** not working properly in the server.
 :grass: Fixed **Mooshroom** Statistics not showing up properly in **"/stats"**
-:grass: 
+:grass: Heavily Buffed **Daily Rewards**, Added **Repairstones** starting from **Day #5** reward.
 :grass: 
 :grass: 
 :grass: 
