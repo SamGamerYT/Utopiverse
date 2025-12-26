@@ -16,7 +16,7 @@
 :shiny: [Survival] Changed **Baby Spooder** into a smaller version of **Vanilla Cave Spider**.
 :shiny: [Survival] Added **6 New** possible spawning locations for **Baby Spooders**
 :shiny: [Survival] Added **Bee Guaranteed** hologram.
-:shiny: [Survival] 
+:shiny: [Survival] Added **Bee Crate's** Guaranteed crafting menu.
 :shiny: [Survival] 
 :shiny: [Survival] 
 
