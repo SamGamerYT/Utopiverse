@@ -1,31 +1,31 @@
-**Patch/Changes 8.9.10.22** *(Network Changes)*  
-:shiny: [Survival] Fixed **Unbreaking Runestone** not applying on **Frostbane Axe**.  
-:shiny: [Survival] Added **Halloween Dungeon** teleportation area among other dungeons.  
-:shiny: [Survival] Relocated the **Dungeon Leaderboard & Poster** elsewhere.  
-:shiny: [Survival] Relocated the **Rewarder** NPC near the **Guard Shop**.  
-:shiny: [Survival] Removed **Archer NPC** for **Milestones** and re-added **SmartName's** NPC near **"/spawn"**.  
-:shiny: [Survival] Fixed **Elevators** not working properly on the server.  
-:shiny: [Survival] Updated over **60** items to adhere to the new **Minecraft Update** – drop & pick up your dungeon loot.  
-:shiny: [Survival] Modified the **Rewarder** NPC hologram.  
-:shiny: [Survival] Added a **Halloween Dungeon** NPC near the other **Dungeon NPCs**.  
-
-:shiny: [Survival] Updated the **Dungeon Soul Leaderboard** to include **Asterion Soul**.  
-:shiny: [Survival] Fixed **Mooshroom** statistics not showing up properly in **"/stats"**.  
-:shiny: [Survival] Fixed **"/fish menu"** not working properly.  
-:shiny: [Survival] Removed the **Baby Spooder** model due to a Bedrock client visibility issue.  
-:shiny: [Survival] Changed **Baby Spooder** into a smaller version of the **vanilla Cave Spider**.  
-:shiny: [Survival] Added **6 new** possible spawning locations for **Baby Spooders**.  
-:shiny: [Survival] Added a **Bee Guaranteed** hologram.  
-:shiny: [Survival] Added **Bee Crate's** guaranteed crafting menu.  
-
-**FISHING**  
-:shiny: [Survival] **White Pearl** & **Black Pearl** are now crushable!  
-
-**DUNGEON FROST CHANGES**  
-:shiny: [Survival] Removed the **Personalized Pet** hologram due to **Store** regulations.  
-:shiny: [Survival] Modified the entire **"/warp frost"** area – brand new location and look.  
-
-**DUNGEON WASTELAND CHANGES**  
-:shiny: [Survival] Added **Asterion Soul**, dropped from the **Minotaur Boss**.  
-
-**[ @Changelogs ]**
+> **Patch/Changes 8.9.10.22** *(Network Changes)*  
+> :shiny: [Survival] Fixed **Unbreaking Runestone** not applying on **Frostbane Axe**.  
+> :shiny: [Survival] Added **Halloween Dungeon** teleportation area among other dungeons.  
+> :shiny: [Survival] Relocated the **Dungeon Leaderboard & Poster** elsewhere.  
+> :shiny: [Survival] Relocated the **Rewarder** NPC near the **Guard Shop**.  
+> :shiny: [Survival] Removed **Archer NPC** for **Milestones** and re-added **SmartName's** NPC near **"/spawn"**.  
+> :shiny: [Survival] Fixed **Elevators** not working properly on the server.  
+> :shiny: [Survival] Updated over **60** items to adhere to the new **Minecraft Update** – drop & pick up your dungeon loot.  
+> :shiny: [Survival] Modified the **Rewarder** NPC hologram.  
+> :shiny: [Survival] Added a **Halloween Dungeon** NPC near the other **Dungeon NPCs**.  
+> 
+> :shiny: [Survival] Updated the **Dungeon Soul Leaderboard** to include **Asterion Soul**.  
+> :shiny: [Survival] Fixed **Mooshroom** statistics not showing up properly in **"/stats"**.  
+> :shiny: [Survival] Fixed **"/fish menu"** not working properly.  
+> :shiny: [Survival] Removed the **Baby Spooder** model due to a Bedrock client visibility issue.  
+> :shiny: [Survival] Changed **Baby Spooder** into a smaller version of the **vanilla Cave Spider**.  
+> :shiny: [Survival] Added **6 new** possible spawning locations for **Baby Spooders**.  
+> :shiny: [Survival] Added a **Bee Guaranteed** hologram.  
+> :shiny: [Survival] Added **Bee Crate's** guaranteed crafting menu.  
+> 
+> **FISHING**  
+> :shiny: [Survival] **White Pearl** & **Black Pearl** are now crushable!  
+> 
+> **DUNGEON FROST CHANGES**  
+> :shiny: [Survival] Removed the **Personalized Pet** hologram due to **Store** regulations.  
+> :shiny: [Survival] Modified the entire **"/warp frost"** area – brand new location and look.  
+> 
+> **DUNGEON WASTELAND CHANGES**  
+> :shiny: [Survival] Added **Asterion Soul**, dropped from the **Minotaur Boss**.  
+> 
+> **[ @Changelogs ]**

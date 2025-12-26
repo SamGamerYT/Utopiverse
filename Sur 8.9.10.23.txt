@@ -1,113 +1,113 @@
 **Patch/Changes 8.9.10.22** *(Network Changes)*  
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-:shiny: [Survival] 
-
-**ENTITIY CHANGES**
-:shiny: [Survival] 
-
-**TOURNAMENT**
-:shiny: [Survival] 
-
-**BANK**
-:shiny: [Survival] 
-
-**FARMING**
-:shiny: [Survival] 
-
-**FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
-**FISHING**
-:shiny: [Survival] 
-
-**SHOP CHANGES**
-:shiny: [Survival] 
-
-**ARENA CHANGES**
-:shiny: [Survival] 
-:shiny: [Hypogeum Arena] 
-
-**BLACKSMITH**
-:shiny: [Survival] 
-
-**CODEX**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-:shiny: [Survival] 
-
-**TINKERER**
-:shiny: [Survival] 
-
-**DUNGEON**
-:shiny: [Survival] 
-
-**DUNGEON MINE CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON FROST CHANGES**  
-:shiny: [Survival] 
-
-**DUNGEON VOLCANO CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON WASTELAND CHANGES**
-:shiny: [Survival] 
-
-**DUNGEON HALLOWEEN CHANGES**
-:shiny: [Survival] 
-
-**/SHOP** *(_QueenChaos95180)*
-:shiny: [Survival] 
-
-**SPOODER LAIR**
-:shiny: [Survival] 
-
-**CRATES**
-:shiny: [Survival] 
-
-**WEBSITE**
-:xmas_Snowflake: [Website] 
-
-**TEXTURES**
-:shiny: [Textures]
-:shiny: [Bedrock] 
-
-**OPTIMIZATION**
-:shiny: [Survival] 
-
-**HUB REALM**
-:sdragon: [Lobby] 
-
-**NETWORK**
-:spaceheart1: [Network] 
-
-**WEBSITE**
-:computer: [Website] 
-
-**WEBSTORE**
-:computer: [Website] 
-:shiny: [Survival] 
-
-**[ @Changelogs ]**
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> 
+> **ENTITIY CHANGES**
+> :shiny: [Survival] 
+> 
+> **TOURNAMENT**
+> :shiny: [Survival] 
+> 
+> **BANK**
+> :shiny: [Survival] 
+> 
+> **FARMING**
+> :shiny: [Survival] 
+> 
+> **FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
+> **FISHING**
+> :shiny: [Survival] 
+> 
+> **SHOP CHANGES**
+> :shiny: [Survival] 
+> 
+> **ARENA CHANGES**
+> :shiny: [Survival] 
+> :shiny: [Hypogeum Arena] 
+> 
+> **BLACKSMITH**
+> :shiny: [Survival] 
+> 
+> **CODEX**
+> :shiny: [Survival] 
+> 
+> **CRATES**
+> :shiny: [Survival] 
+> 
+> :shiny: [Survival] 
+> 
+> **TINKERER**
+> :shiny: [Survival] 
+> 
+> **DUNGEON**
+> :shiny: [Survival] 
+> 
+> **DUNGEON MINE CHANGES**
+> :shiny: [Survival] 
+> 
+> **DUNGEON FROST CHANGES**  
+> :shiny: [Survival] 
+> 
+> **DUNGEON VOLCANO CHANGES**
+> :shiny: [Survival] 
+> 
+> **DUNGEON WASTELAND CHANGES**
+> :shiny: [Survival] 
+> 
+> **DUNGEON HALLOWEEN CHANGES**
+> :shiny: [Survival] 
+> 
+> **/SHOP** *(_QueenChaos95180)*
+> :shiny: [Survival] 
+> 
+> **SPOODER LAIR**
+> :shiny: [Survival] 
+> 
+> **CRATES**
+> :shiny: [Survival] 
+> 
+> **WEBSITE**
+> :xmas_Snowflake: [Website] 
+> 
+> **TEXTURES**
+> :shiny: [Textures]
+> :shiny: [Bedrock] 
+> 
+> **OPTIMIZATION**
+> :shiny: [Survival] 
+> 
+> **HUB REALM**
+> :sdragon: [Lobby] 
+> 
+> **NETWORK**
+> :spaceheart1: [Network] 
+> 
+> **WEBSITE**
+> :computer: [Website] 
+> 
+> **WEBSTORE**
+> :computer: [Website] 
+> :shiny: [Survival] 
+> 
+> **[ @Changelogs ]**
 
 TO DO LIST:
 tik tok tag (freeby) 
