@@ -29,6 +29,7 @@
 :grass: 
 
 **COAL DUNGEON**
+:grass: Reduced **Elder Miner** respawn time from **an hour** to **30minutes**
 :grass: 
 
 **CAVE DUNGEON**
