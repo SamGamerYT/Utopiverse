@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.22** *(Network Changes)*  
 > :shiny: [Survival] Players are now allowed to use **Auction House** in **Dungeon**.
 > :shiny: [Survival] Fixed a bug where players were able to break & place blocks in **Frost Dungeon**
-> :shiny: [Survival] 
+> :shiny: [Survival] Relocated the information hologram to be center instead of being placed near **"/spawn"** randomly.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
