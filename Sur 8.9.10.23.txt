@@ -45,6 +45,7 @@
 > 
 > **BLACKSMITH**
 > :shiny: [Survival] Replaced **Tinkerer** NPC with **Villager NPC** due to Bedrock players not being able to see the NPC's.
+> :shiny: [Survival] Replaced **Aaron** NPC with **Villager NPC** due to Bedrock players not being able to see the NPC's.
 > :shiny: [Survival] 
 > 
 > **CODEX**
