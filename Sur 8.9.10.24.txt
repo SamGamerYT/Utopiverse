@@ -1,10 +1,10 @@
-**Patch/Changes 8.9.10.22** *(Network Changes)*  
-> :shiny: [Survival] Players are now allowed to use **Auction House** in **Dungeon**.
-> :shiny: [Survival] Fixed a bug where players were able to break & place blocks in **Frost Dungeon**
-> :shiny: [Survival] Relocated the information hologram to be center instead of being placed near **"/spawn"** randomly.
-> :shiny: [Survival] Buffed **Spooder Boss** damaged by 40%
-> :shiny: [Survival] Updated **Bosses Codex** with up to date information for **Spooder Boss** & Added **Broodmother Boss** information.
-> :shiny: [Survival] Added **Broodmother Boss* spawning mechanic in the **Spooder Altar**.
+**Patch/Changes 8.9.10.24** *(Network Changes)*  
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
+> :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
@@ -44,8 +44,6 @@
 > :shiny: [Hypogeum Arena] 
 > 
 > **BLACKSMITH**
-> :shiny: [Survival] Replaced **Tinkerer** NPC with **Villager NPC** due to Bedrock players not being able to see the NPC's.
-> :shiny: [Survival] Replaced **Aaron** NPC with **Villager NPC** due to Bedrock players not being able to see the NPC's.
 > :shiny: [Survival] 
 > 
 > **CODEX**
@@ -69,7 +67,6 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] Modified **"/warp volcano"** spawn area, and relocated NPC's & Testing dummy.
 > :shiny: [Survival] 
 > 
 > **DUNGEON WASTELAND CHANGES**
@@ -98,8 +95,6 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
-> :sdragon: [Lobby] Removed **Oneblock 1.0.17** location hologram.
-> :sdragon: [Lobby] Removed **Oneblock 1.0.17** NPC & Modified the NPC's hologram.
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
