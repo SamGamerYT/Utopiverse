@@ -2,7 +2,7 @@
 > :shiny: [Survival] Players are now allowed to use **Auction House** in **Dungeon**.
 > :shiny: [Survival] Fixed a bug where players were able to break & place blocks in **Frost Dungeon**
 > :shiny: [Survival] Relocated the information hologram to be center instead of being placed near **"/spawn"** randomly.
-> :shiny: [Survival] 
+> :shiny: [Survival] Buffed **Spooder Boss** damaged by 40%
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
