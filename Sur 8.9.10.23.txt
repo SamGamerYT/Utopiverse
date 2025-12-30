@@ -67,6 +67,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
+> :shiny: [Survival] Modified **"/warp volcano"** spawn area, and relocated NPC's & Testing dummy.
 > :shiny: [Survival] 
 > 
 > **DUNGEON WASTELAND CHANGES**
