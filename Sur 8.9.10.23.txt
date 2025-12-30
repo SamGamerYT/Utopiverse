@@ -95,6 +95,8 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
+> :sdragon: [Lobby] Removed **Oneblock 1.0.17** location hologram.
+> :sdragon: [Lobby] Removed **Oneblock 1.0.17** NPC & Modified the NPC's hologram.
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
