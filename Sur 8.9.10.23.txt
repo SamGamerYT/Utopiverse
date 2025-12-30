@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.10.22** *(Network Changes)*  
-> :shiny: [Survival] 
+> :shiny: [Survival] Players are now allowed to use **Auction House** in **Dungeon**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
