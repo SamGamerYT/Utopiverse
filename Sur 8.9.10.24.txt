@@ -5,7 +5,7 @@
 > :shiny: [Survival] Updated the server from **1.21.4** to **1.21.8**
 > :shiny: [Survival] **Nether & The End** has gotten a reset with the update.
 > :shiny: [Survival] Fixed **Halloween Treat** not stacking properly update the server update.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Black & White Pearls** not working as expected.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
