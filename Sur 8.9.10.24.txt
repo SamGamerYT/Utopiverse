@@ -6,8 +6,8 @@
 > :shiny: [Survival] **Nether & The End** has gotten a reset with the update.
 > :shiny: [Survival] Fixed **Halloween Treat** not stacking properly update the server update.
 > :shiny: [Survival] Fixed **Black & White Pearls** not working as expected.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Fishing Milestone** not explaining what requirement is what properly.
+> :shiny: [Survival] Fixed the Exotic, Bee, Dungeon Lootbox & Volcanic Lootbox crate not giving players rewards.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
