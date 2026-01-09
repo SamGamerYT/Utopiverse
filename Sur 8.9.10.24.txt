@@ -10,7 +10,7 @@
 > :shiny: [Survival] Fixed the Exotic, Bee, Dungeon Lootbox & Volcanic Lootbox crate not giving players rewards.
 > 
 > :shiny: [Survival] Added **Biome Scanner** consumable item, Available to craft at **Guard NPC** located at **"/spawn"**
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Henry The Cowboy** Questline, Place where you can buy all type of cosmetic hats!
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
