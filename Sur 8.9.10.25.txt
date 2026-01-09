@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.10.25** *(Network Changes)*  
-> :shiny: [Survival] 
+> :shiny: [Survival] Changed **Henry The Cowboy** Quest requirement from **Diamond Horse Armor** to **Iron Horse Armor** due to issues.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
