@@ -95,6 +95,8 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
+> :sdragon: [Lobby] Updated **Dependencies** *14-Jan-26*
+> :sdragon: [Lobby] Fixed the random message spam that happens in chat whenever you log on.
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
