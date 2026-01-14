@@ -6,8 +6,8 @@
 > :grass: Fixed **Elevators** not working properly in the server.
 > :grass: Fixed **Mooshroom** Statistics not showing up properly in **"/stats"**
 > :grass: Heavily Buffed **Daily Rewards**, Added **Repairstones** starting from **Day #5** reward.
-> :grass: 
-> :grass: 
+> :grass: **"/phases"** and **"/phase"** commands will show up in tab complete.
+> :grass: **"/phases"** menu has been modified, Players can now go to a lower or a higher phase after completing all of their phases.
 > :grass: 
 > :grass: 
 > 
