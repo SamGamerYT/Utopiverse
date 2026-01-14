@@ -1,6 +1,6 @@
 **Patch/Changes 2.0.9** *[Oneblock]*
-> :grass: 
-> :grass: 
+> :grass: Removed **Ender Dragon** Boss killing **Quest** until **The End** has been added.
+> :grass: Nerfed **Elder Miner** Quest by a lot to ensure players can complete it in a day.
 > :grass: 
 > :grass: 
 > :grass: 
