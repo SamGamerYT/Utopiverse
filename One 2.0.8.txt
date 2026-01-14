@@ -1,63 +1,19 @@
-**Patch/Changes 2.0.8** *[Oneblock]*
-> :grass: Updated **Bank's Upgrade** interface's value to up to date information.
-> :grass: Fixed **Island Size Upgrade** not having an **Upgrade order** bug and allowing players to skip 1-2 and go for straight 3rd upgrade.
-> :grass: Fixed **"/buy"** not working as intended.
-> :grass: Fixed **Island Member Size Upgrade** not working properly.
-> :grass: Fixed **Elevators** not working properly in the server.
-> :grass: Fixed **Mooshroom** Statistics not showing up properly in **"/stats"**
-> :grass: Heavily Buffed **Daily Rewards**, Added **Repairstones** starting from **Day #5** reward.
-> :grass: **"/phases"** and **"/phase"** commands will show up in tab complete.
-> :grass: **"/phases"** menu has been modified, Players can now go to a lower or a higher phase after completing all of their phases.
-> :grass: Switching **Phases** now has a cost of **50 Levels XP**.
-> :grass: 
-> 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> :Sparkles: [Store] 
-> 
-> **DUNGEON**
-> :grass: 
+**Patch/Changes 2.0.8** *[Oneblock]*  
+> :grass: Updated the **Bank Upgrade** interface values to reflect up-to-date information.  
+> :grass: Fixed an issue where the **Island Size Upgrade** had no proper **upgrade order**, allowing players to skip upgrades and jump straight to the 3rd tier.  
+> :grass: Fixed **"/buy"** not working as intended.  
+> :grass: Fixed **Island Member Size Upgrade** not functioning properly.  
+> :grass: Fixed **Elevators** not working correctly on the server.  
+> :grass: Fixed **Mooshroom** statistics not displaying properly in **"/stats"**.  
+> :grass: Heavily buffed **Daily Rewards**, adding **Repairstones** starting from **Day #5**.  
+> :grass: **"/phases"** and **"/phase"** commands will now appear in tab completion.  
+> :grass: Modified the **"/phases"** menu; players can now move to lower or higher phases after completing all phases.  
+> :grass: Switching **Phases** now costs **50 XP Levels**.  
 > 
 > **COAL DUNGEON**
-> :grass: Reduced **Elder Miner** respawn time from **an hour** to **30minutes**
-> :grass: 
+> :grass: Reduced **Elder Miner** respawn time from **1 hour** to **30 minutes**.  
 > 
 > **CAVE DUNGEON**
-> :grass: Heavily reduced **Endshade**'s attack particles.
-> :grass: 
+> :grass: Heavily reduced **Endshade’s** attack particle effects.  
 > 
-> **HOLOGRAMS**
-> :grass: 
-> 
-> **ISLAND**
-> :grass: 
-> 
-> **BANK**
-> :grass: 
-> 
-> **BLACKSMITH**
-> :grass: 
-> :grass: 
-> 
-> **TINKERER**
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> **HOLOGRAMS** *(Created by Idiomaticsss)* 
-> :grass: 
->  
 > **[ @Changelogs ]**
-
-**AUTO RESPONSE**
-**CRATES**
