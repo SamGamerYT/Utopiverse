@@ -3,7 +3,7 @@
 > :shiny: [Survival] Nerfed **Cowboy & Farmer Hat** after a suggestion was made.
 > :shiny: [Survival] **Cowboy & Farmer Hat** can now be upgraded through an upgrade stone.
 > :shiny: [Survival] Fixed **Peace Stone** limitation issue.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Barrier Blocks** above **"/warp afk"** to stop players from bouncing high and leaving the zone.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
