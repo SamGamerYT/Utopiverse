@@ -8,7 +8,7 @@
 > :grass: Heavily Buffed **Daily Rewards**, Added **Repairstones** starting from **Day #5** reward.
 > :grass: **"/phases"** and **"/phase"** commands will show up in tab complete.
 > :grass: **"/phases"** menu has been modified, Players can now go to a lower or a higher phase after completing all of their phases.
-> :grass: 
+> :grass: Switching **Phases** now has a cost of **50 Levels XP**.
 > :grass: 
 > 
 > :grass: 
