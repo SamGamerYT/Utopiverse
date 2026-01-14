@@ -4,7 +4,7 @@
 > :shiny: [Survival] **Cowboy & Farmer Hat** can now be upgraded through an upgrade stone.
 > :shiny: [Survival] Fixed **Peace Stone** limitation issue.
 > :shiny: [Survival] Added **Barrier Blocks** above **"/warp afk"** to stop players from bouncing high and leaving the zone.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added new **Questline** between **Nyx Glacielle** & **Kael Pyrestone** located at **"/warp frost"** and **"/warp volcano"**
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
