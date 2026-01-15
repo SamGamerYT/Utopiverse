@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.26** *(Network Changes)*  
 > :shiny: [Survival] Updated **Furniture's Shop** recipe preview interface.
 > :shiny: [Survival] Added **15** new furnitures in **Furniture Shop**, **Hotel Collection**.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Heavily** buffed **Broodmother's** drop rate.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
