@@ -4,7 +4,7 @@
 > :grass: Added **Elvin's Questline** near **"/warp mine** entrance.
 > :grass: Fixed **Bosses Leaderboard** not showing the proper volume.
 > :grass: Fixed **Linking Permission** error that happens every now and then.
-> :grass: Fixed **NPC'S Title** scaling down slowly for bedrock players.
+> :grass: Fixed **NPC'S Title** scaling downwards slowly for bedrock players.
 > :grass: 
 > :grass: 
 > :grass: 
