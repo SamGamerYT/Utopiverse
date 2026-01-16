@@ -2,7 +2,7 @@
 > :grass: Removed **Ender Dragon** Boss killing **Quest** until **The End** has been added.
 > :grass: Nerfed **Elder Miner** Quest by a lot to ensure players can complete it in a day.
 > :grass: Added **Elvin's Questline** near **"/warp mine** entrance.
-> :grass: 
+> :grass: Fixed **Bosses Leaderboard** not showing the proper volume.
 > :grass: 
 > :grass: 
 > :grass: 
