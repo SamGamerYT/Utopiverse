@@ -3,7 +3,7 @@
 > :grass: Nerfed **Elder Miner** Quest by a lot to ensure players can complete it in a day.
 > :grass: Added **Elvin's Questline** near **"/warp mine** entrance.
 > :grass: Fixed **Bosses Leaderboard** not showing the proper volume.
-> :grass: 
+> :grass: Fixed **Linking Permission** error that happens every now and then.
 > :grass: 
 > :grass: 
 > :grass: 
