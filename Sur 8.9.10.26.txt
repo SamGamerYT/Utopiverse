@@ -2,7 +2,7 @@
 > :shiny: [Survival] Updated **Furniture's Shop** recipe preview interface.
 > :shiny: [Survival] Added **15** new furnitures in **Furniture Shop**, **Hotel Collection**.
 > :shiny: [Survival] **Heavily** buffed **Broodmother's** drop rate.
-> :shiny: [Survival] 
+> :shiny: [Survival] Brand new **Dueling System**, Players can now Duel each other and bet money OR items on the line, (/duels)
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
