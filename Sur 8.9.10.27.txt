@@ -39,6 +39,7 @@
 > **SHOP CHANGES**
 > :shiny: [Survival] Added **Candles Sub Category** in **Miscellaneous Category**.
 > :shiny: [Survival] Added **7 new decorations** in **Decorations Category**.
+> :shiny: [Survival] Fixed **Previous Page** icon not showing the information on 50 pages and instead just showed "Paper" as display name.
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
