@@ -6,7 +6,7 @@
 > :grass: Fixed **Linking Permission** error that happens every now and then.
 > :grass: Fixed **NPC'S Title** scaling downwards slowly for bedrock players.
 > :grass: Increased trading's **Timout time** from **60s** to **120s**.
-> :grass: 
+> :grass: Increased trading's **Distance** from **10** to **Unlimited**.
 > :grass: 
 > :grass: 
 > :grass: 
