@@ -5,6 +5,7 @@
 > :grass: Fixed **Bosses Leaderboard** not showing the proper volume.
 > :grass: Fixed **Linking Permission** error that happens every now and then.
 > :grass: Fixed **NPC'S Title** scaling downwards slowly for bedrock players.
+> :grass: Increased trading's **Timout time** from **60s** to **120s**.
 > :grass: 
 > :grass: 
 > :grass: 
