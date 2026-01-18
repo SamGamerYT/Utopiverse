@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.10.27** *(Network Changes)*  
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an issue where players couldn't claim the kits they have access to.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
