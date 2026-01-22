@@ -3,7 +3,7 @@
 > :shiny: [Survival] Added **PSA Message** about **Block Break** event only counting **Resource World's** stats.
 > :shiny: [Survival] Increased trading's **Timout time** from **60s** to **120s**.
 > :shiny: [Survival] Fixed **Arena Dungeon** not accepting player's party.
-> :shiny: [Survival] 
+> :shiny: [Survival] Permanently fixed **Duels** interfering with kits & party commands.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
