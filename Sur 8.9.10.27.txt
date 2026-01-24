@@ -67,6 +67,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
+> :shiny: [Survival] Added **Frostbone Set** recipe at the **Icicle Dino** altar.
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
