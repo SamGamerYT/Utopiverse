@@ -68,6 +68,7 @@
 > 
 > **DUNGEON FROST CHANGES**  
 > :shiny: [Survival] Added **Frostbone Set** recipe at the **Icicle Dino** altar.
+> :shiny: [Survival] **Icicle Dino** is now the final spawnable boss in **Frost Dungeon**
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
