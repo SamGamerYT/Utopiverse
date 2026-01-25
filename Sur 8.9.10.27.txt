@@ -6,7 +6,7 @@
 > :shiny: [Survival] Permanently fixed **Duels** interfering with kits & party commands.
 > :shiny: [Survival] Elytra has been banned from **Hypogeum Arena Dungeon**
 > :shiny: [Survival] Removed **Resilience Runestone** from **Embercrest Helmet** & **Bee+ Helmet**
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Blacksmith** Enchantment not working properly.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
