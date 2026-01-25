@@ -7,6 +7,7 @@
 > :shiny: [Survival] Elytra has been banned from **Hypogeum Arena Dungeon**
 > :shiny: [Survival] Removed **Resilience Runestone** from **Embercrest Helmet** & **Bee+ Helmet**
 > :shiny: [Survival] Fixed **Blacksmith**, **Disintegrate** Enchantment not working properly.
+> :shiny: [Survival] Fixed **Demon Skull Ring** having the wrong percentage for damage in lore.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
