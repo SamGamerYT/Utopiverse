@@ -10,7 +10,7 @@
 > :shiny: [Survival] Fixed **Demon Skull Ring** having the wrong percentage for damage in lore.
 > 
 > :shiny: [Survival] Fixed **Rune of Mending I** not being applied properly on **Frostbane Axe** item.
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Random Teleportation** radius for **Primary World**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
