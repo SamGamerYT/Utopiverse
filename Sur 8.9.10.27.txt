@@ -5,7 +5,7 @@
 > :shiny: [Survival] Fixed **Arena Dungeon** not accepting player's party.
 > :shiny: [Survival] Permanently fixed **Duels** interfering with kits & party commands.
 > :shiny: [Survival] Elytra has been banned from **Hypogeum Arena Dungeon**
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Resilience Runestone** from **Embercrest Helmet** & **Bee+ Helmet**
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
