@@ -7,7 +7,7 @@
 > :grass: Fixed **NPC'S Title** scaling downwards slowly for bedrock players.
 > :grass: Increased trading's **Timout time** from **60s** to **120s**.
 > :grass: Increased trading's **Distance** from **10** to **Unlimited**.
-> :grass: 
+> :grass: Changed **Teleportation Cooldown** from **3s** to **1s**
 > :grass: 
 > :grass: 
 > :grass: 
