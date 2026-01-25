@@ -9,7 +9,7 @@
 > :grass: Increased trading's **Distance** from **10** to **Unlimited**.
 > :grass: Changed **Teleportation Cooldown** from **3s** to **1s**
 > :grass: Added **Spawner Drop Chances** within **Spawner Tools** lore.
-> :grass: 
+> :grass: Modified **Zones Codex**, Added hint for **Graveyard Zone** & Modified **Undiscovered Area's** Lore.
 > :grass: 
 > 
 > :grass: 
