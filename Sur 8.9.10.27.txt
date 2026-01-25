@@ -9,7 +9,7 @@
 > :shiny: [Survival] Fixed **Blacksmith**, **Disintegrate** Enchantment not working properly.
 > :shiny: [Survival] Fixed **Demon Skull Ring** having the wrong percentage for damage in lore.
 > 
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Rune of Mending I** not being applied properly on **Frostbane Axe** item.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
