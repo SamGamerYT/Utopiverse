@@ -1,25 +1,25 @@
 **Patch/Changes 8.9.10.27** *(Network Changes)*  
-> :shiny: [Survival] Fixed an issue where players couldn't claim the kits they have access to.
-> :shiny: [Survival] Added **PSA Message** about **Block Break** event only counting **Resource World's** stats.
-> :shiny: [Survival] Increased trading's **Timout time** from **60s** to **120s**.
-> :shiny: [Survival] Fixed **Arena Dungeon** not accepting player's party.
-> :shiny: [Survival] Permanently fixed **Duels** interfering with kits & party commands.
-> :shiny: [Survival] Elytra has been banned from **Hypogeum Arena Dungeon**
-> :shiny: [Survival] Removed **Resilience Runestone** from **Embercrest Helmet** & **Bee+ Helmet**
-> :shiny: [Survival] Fixed **Blacksmith**, **Disintegrate** Enchantment not working properly.
-> :shiny: [Survival] Fixed **Demon Skull Ring** having the wrong percentage for damage in lore.
-> 
-> :shiny: [Survival] Fixed **Rune of Mending I** not being applied properly on **Frostbane Axe** item.
-> :shiny: [Survival] Modified **Random Teleportation** radius for **Primary World**.
-> 
-> **SHOP CHANGES**
-> :shiny: [Survival] Added **Candles Sub Category** in **Miscellaneous Category**.
-> :shiny: [Survival] Added **7 new decorations** in **Decorations Category**.
-> :shiny: [Survival] Fixed **Previous Page** icon not showing the information on 50 pages and instead just showed "Paper" as display name.
-> 
-> **DUNGEON FROST CHANGES**  
-> :shiny: [Survival] Added **Frostbone Set** recipe at the **Icicle Dino** altar.
-> :shiny: [Survival] **Icicle Dino** is now the final spawnable boss in **Frost Dungeon**
-> :shiny: [Survival] Buffed **Icicle Dino's** loot drop chances for the rare special loot. *(25-Jan-2026)*
-> 
-> **[ @Changelogs ]**
+> :shiny: [Survival] Fixed an issue where players couldn’t claim the kits they have access to.  
+> :shiny: [Survival] Added a **PSA Message** explaining that **Block Break** events only count **Resource World** stats.  
+> :shiny: [Survival] Increased trading **timeout** from **60s** to **120s**.  
+> :shiny: [Survival] Fixed the **Arena Dungeon** not accepting players’ parties.  
+> :shiny: [Survival] Permanently fixed **Duels** interfering with kits and party commands.  
+> :shiny: [Survival] Elytra has been banned from the **Hypogeum Arena Dungeon**.  
+> :shiny: [Survival] Removed the **Resilience Runestone** from the **Embercrest Helmet** and **Bee+ Helmet**.  
+> :shiny: [Survival] Fixed the **Blacksmith Disintegrate Enchantment** not working properly.  
+> :shiny: [Survival] Fixed the **Demon Skull Ring** displaying the wrong damage percentage in its lore.  
+
+> :shiny: [Survival] Fixed **Rune of Mending I** not being applied properly to the **Frostbane Axe**.  
+> :shiny: [Survival] Modified the **Random Teleportation** radius for the **Primary World**.  
+
+**SHOP CHANGES**  
+> :shiny: [Survival] Added a **Candles** subcategory under the **Miscellaneous** category.  
+> :shiny: [Survival] Added **7 new decorations** to the **Decorations** category.  
+> :shiny: [Survival] Fixed the **Previous Page** icon not displaying information on pages past 50, where it previously only showed "Paper" as the display name.  
+
+**DUNGEON FROST CHANGES**  
+> :shiny: [Survival] Added the **Frostbone Set** recipe at the **Icicle Dino** altar.  
+> :shiny: [Survival] **Icicle Dino** is now the final spawnable boss in the **Frost Dungeon**.  
+> :shiny: [Survival] Buffed **Icicle Dino’s** rare loot drop chances. *(25-Jan-2026)*  
+
+**[ @Changelogs ]**
