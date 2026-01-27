@@ -1,62 +1,15 @@
-**Patch/Changes 2.0.9** *[Oneblock]*
-> :grass: Removed **Ender Dragon** Boss killing **Quest** until **The End** has been added.
-> :grass: Nerfed **Elder Miner** Quest by a lot to ensure players can complete it in a day.
-> :grass: Added **Elvin's Questline** near **"/warp mine** entrance.
-> :grass: Fixed **Bosses Leaderboard** not showing the proper volume.
-> :grass: Fixed **Linking Permission** error that happens every now and then.
-> :grass: Fixed **NPC'S Title** scaling downwards slowly for bedrock players.
-> :grass: Increased trading's **Timout time** from **60s** to **120s**.
-> :grass: Increased trading's **Distance** from **10** to **Unlimited**.
-> :grass: Changed **Teleportation Cooldown** from **3s** to **1s**
-> :grass: Added **Spawner Drop Chances** within **Spawner Tools** lore.
-> :grass: Modified **Zones Codex**, Added hint for **Graveyard Zone** & Modified **Undiscovered Area's** Lore.
-> :grass: **Santa** NPC has been removed from **Spawn**
-> 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> :Sparkles: [Store] 
-> 
-> **DUNGEON**
-> :grass: 
-> 
-> **COAL DUNGEON**
-> :grass: 
-> 
-> **CAVE DUNGEON**
-> :grass: 
-> 
-> **HOLOGRAMS**
-> :grass: 
-> 
-> **ISLAND**
-> :grass: 
-> 
-> **BANK**
-> :grass: 
-> 
-> **BLACKSMITH**
-> :grass: 
-> :grass: 
-> 
-> **TINKERER**
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> **HOLOGRAMS** *(Created by Idiomaticsss)* 
-> :grass: 
->  
-> **[ @Changelogs ]**
+**Patch/Changes 2.0.9** *[Oneblock]*  
+> :grass: Removed the **Ender Dragon** boss-killing **Quest** until **The End** is added.  
+> :grass: Heavily nerfed the **Elder Miner** quest to ensure players can complete it within a day.  
+> :grass: Added **Elvin’s Questline** near the **"/warp mine"** entrance.  
+> :grass: Fixed the **Bosses Leaderboard** not displaying the proper volume.  
+> :grass: Fixed an intermittent **Linking Permission** error.  
+> :grass: Fixed **NPC Titles** slowly scaling downward for Bedrock players.  
+> :grass: Increased trading **timeout** from **60s** to **120s**.  
+> :grass: Increased trading **distance** from **10 blocks** to **unlimited**.  
+> :grass: Reduced **Teleportation Cooldown** from **3s** to **1s**.  
+> :grass: Added **Spawner Drop Chances** to **Spawner Tools** lore.  
+> :grass: Modified the **Zones Codex** — added a hint for the **Graveyard Zone** and updated **Undiscovered Areas** lore.  
+> :grass: Removed the **Santa** NPC from **Spawn**.  
 
-**AUTO RESPONSE**
-**CRATES**
+**[ @Changelogs ]**
