@@ -10,7 +10,7 @@
 > :grass: Changed **Teleportation Cooldown** from **3s** to **1s**
 > :grass: Added **Spawner Drop Chances** within **Spawner Tools** lore.
 > :grass: Modified **Zones Codex**, Added hint for **Graveyard Zone** & Modified **Undiscovered Area's** Lore.
-> :grass: 
+> :grass: **Santa** NPC has been removed from **Spawn**
 > 
 > :grass: 
 > :grass: 
