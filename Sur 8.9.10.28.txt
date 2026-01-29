@@ -41,6 +41,7 @@
 > 
 > **ARENA CHANGES**
 > :shiny: [Survival] 
+> :shiny: [Hypogeum Arena] Fixed a bug where **[Boss] Kane** was not giving players his defeated permission.
 > :shiny: [Hypogeum Arena] 
 > 
 > **BLACKSMITH**
