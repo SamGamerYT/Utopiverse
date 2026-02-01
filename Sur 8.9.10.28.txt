@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.10.28** *(Network Changes)*  
 > :shiny: [Survival] Fixed **Builder** Role having extra space in **Chat**
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Beetroots** statistics in **"/stats"**
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
