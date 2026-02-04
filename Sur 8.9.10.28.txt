@@ -96,9 +96,12 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
+> :sdragon: [Lobby] Updated **Hub Realm** to **1.21.10**
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
+> :spaceheart1: [Network] Fixed **Frostbone Wings** not showing up properly for bedrock players.
+> :spaceheart1: [Network] Fixed **Additional 5 Wings** wings that were not showing up properly for bedrock players.
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
