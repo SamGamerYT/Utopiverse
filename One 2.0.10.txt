@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.10** *[Oneblock]*
-> :grass: 
+> :grass: Fixed an issue where players were not able to craft **Coal Dungeon [Easy]** scroll.
 > :grass: 
 > :grass: 
 > :grass: 
