@@ -1,6 +1,6 @@
 **Patch/Changes 2.0.10** *[Oneblock]*
 > :grass: Fixed an issue where players were not able to craft **Coal Dungeon [Easy]** scroll.
-> :grass: 
+> :grass: Fixed **Generous Points** Leaderboard not showing any values or names.
 > :grass: 
 > :grass: 
 > :grass: 
