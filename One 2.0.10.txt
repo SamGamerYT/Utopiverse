@@ -2,7 +2,7 @@
 > :grass: Fixed an issue where players were not able to craft **Coal Dungeon [Easy]** scroll.
 > :grass: Fixed **Generous Points** Leaderboard not showing any values or names.
 > :grass: Fixed **Top Island** leaderboard not showing username's.
-> :grass: 
+> :grass: Added **Quest's Reroll** item in **Scroll Trader** at **Witch Trader**.
 > :grass: 
 > :grass: 
 > :grass: 
