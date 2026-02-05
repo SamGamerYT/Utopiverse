@@ -14,9 +14,8 @@
 > 
 > :grass: Reduced **Core of Ironheart** from **Defense 13** requirement to **Defense 6**.
 > :grass: Reduced **Bloodstone Amulet** from **Defense 6**, **Alchemy 12** requirement to **Defense 5**, **Alchemy 7**.
-> :grass: 
-> :grass: 
-> :grass: 
+> :grass: **Coal Ring** crafting recipe has been changed, Removed **Sapphire Requirement** & **Increased** Onyx from **21** to **39**
+> :grass: Added **Generous Shop** located at **Castle**.
 > :grass: 
 > :grass: 
 > :grass: 
