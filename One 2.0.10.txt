@@ -9,7 +9,7 @@
 > :grass: Reduced **Weaver Toxic Ring** from **Defense 15** requirement to **Defense 7**.
 > :grass: Reduced **Glacial Spike Ring** from **Fighting 15** requirement to **Fighting 6**.
 > :grass: Reduced **Weaver Toxic Ring** crafting requirement from **Fighting 11** to **Fighting 7**.
-> :grass: 
+> :grass: Reduced **Core of Ironheart** crafting requirement from **Enchanting 13** to **Enchanting 6**.
 > :grass: 
 > 
 > :grass: 
