@@ -97,6 +97,7 @@
 > 
 > **HUB REALM**
 > :sdragon: [Lobby] Updated **Hub Realm** to **1.21.10**
+> :sdragon: [Lobby] Fixed **Crispy Pack** problem on **Java Edition**
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
