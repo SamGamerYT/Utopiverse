@@ -18,7 +18,7 @@
 > :grass: Added **Generous Shop** located at **Castle**.
 > :grass: Added **UMBRAL RIFTBLADE** crafting recipe at **Generous Shop's** trader.
 > :grass: Reduced **Coal Wings** crafting requirement from **Enchanting 15** to **Enchanting 6**.
-> :grass: 
+> :grass: Reduced **Coal Wings** crafting requirement from **Enchanting 20** to **Enchanting 12**.
 > :grass: 
 > :grass: 
 > :grass: 
