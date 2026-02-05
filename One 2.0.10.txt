@@ -3,12 +3,12 @@
 > :grass: Fixed **Generous Points** Leaderboard not showing any values or names.
 > :grass: Fixed **Top Island** leaderboard not showing username's.
 > :grass: Added **Quest's Reroll** item in **Scroll Trader** at **Witch Trader**.
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
+> :grass: Reduced **Redstone Ring** from **Fighting 4** requirement to **Fighting 2**.
+> :grass: Reduced **Iron Ring** from **Fighting 5** requirement to **Fighting 2**.
+> :grass: Reduced **Tin Ring** from **Fighting 7** requirement to **Fighting 4**.
+> :grass: Reduced **Weaver Toxic Ring** from **Defense 15** requirement to **Defense 7**.
+> :grass: Reduced **Glacial Spike Ring** from **Fighting 15** requirement to **Fighting 6**.
+> :grass: Reduced **Weaver Toxic Ring** crafting requirement from **Fighting 11** to **Fighting 7**.
 > :grass: 
 > :grass: 
 > 
