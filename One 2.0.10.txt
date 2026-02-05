@@ -12,7 +12,18 @@
 > :grass: Reduced **Core of Ironheart** crafting requirement from **Enchanting 13** to **Enchanting 6**.
 > :grass: Reduced **Frostshard Amulet** from **Defense 19** requirement to **Defense 8**.
 > 
+> :grass: Reduced **Core of Ironheart** from **Defense 13** requirement to **Defense 6**.
+> :grass: Reduced **Bloodstone Amulet** from **Defense 6**, **Alchemy 12** requirement to **Defense 5**, **Alchemy 7**.
 > :grass: 
+> :grass: 
+> :grass: 
+> :grass: 
+> :grass: 
+> :grass: 
+> :grass: 
+> :grass: 
+> :grass: 
+
 > :grass: 
 > :grass: 
 > :grass: 
