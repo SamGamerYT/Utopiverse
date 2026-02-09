@@ -20,7 +20,7 @@
 > :grass: Reduced **Coal Wings** crafting requirement from **Enchanting 15** to **Enchanting 6**.
 > :grass: Reduced **Coal Wings** crafting requirement from **Enchanting 20** to **Enchanting 12**.
 > :grass: Fixed an issue where **Angel & Demon Companion** would get consumed by **Sheep**.
-> :grass: 
+> :grass: Changed the entire **Ore & Farms** generation system to a smoother one for server's performance.
 > :grass: 
 > :grass: 
 
