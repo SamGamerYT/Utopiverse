@@ -21,7 +21,7 @@
 > :grass: Reduced **Coal Wings** crafting requirement from **Enchanting 20** to **Enchanting 12**.
 > :grass: Fixed an issue where **Angel & Demon Companion** would get consumed by **Sheep**.
 > :grass: Changed the entire **Ore & Farms** generation system to a smoother one for server's performance.
-> :grass: 
+> :grass: **Queen's Questline**, Available in **Potion Shop**, get your hand on queen's first model!
 > :grass: 
 
 > :grass: 
