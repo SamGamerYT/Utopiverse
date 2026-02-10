@@ -1,73 +1,27 @@
-**Patch/Changes 2.0.10** *[Oneblock]*
-> :grass: Fixed an issue where players were not able to craft **Coal Dungeon [Easy]** scroll.
-> :grass: Fixed **Generous Points** Leaderboard not showing any values or names.
-> :grass: Fixed **Top Island** leaderboard not showing username's.
-> :grass: Added **Quest's Reroll** item in **Scroll Trader** at **Witch Trader**.
-> :grass: Reduced **Redstone Ring** from **Fighting 4** requirement to **Fighting 2**.
-> :grass: Reduced **Iron Ring** from **Fighting 5** requirement to **Fighting 2**.
-> :grass: Reduced **Tin Ring** from **Fighting 7** requirement to **Fighting 4**.
-> :grass: Reduced **Weaver Toxic Ring** from **Defense 15** requirement to **Defense 7**.
-> :grass: Reduced **Glacial Spike Ring** from **Fighting 15** requirement to **Fighting 6**.
-> :grass: Reduced **Weaver Toxic Ring** crafting requirement from **Fighting 11** to **Fighting 7**.
-> :grass: Reduced **Core of Ironheart** crafting requirement from **Enchanting 13** to **Enchanting 6**.
-> :grass: Reduced **Frostshard Amulet** from **Defense 19** requirement to **Defense 8**.
-> 
-> :grass: Reduced **Core of Ironheart** from **Defense 13** requirement to **Defense 6**.
-> :grass: Reduced **Bloodstone Amulet** from **Defense 6**, **Alchemy 12** requirement to **Defense 5**, **Alchemy 7**.
-> :grass: **Coal Ring** crafting recipe has been changed, Removed **Sapphire Requirement** & **Increased** Onyx from **21** to **39**
-> :grass: Added **Generous Shop** located at **Castle**.
-> :grass: Added **UMBRAL RIFTBLADE** crafting recipe at **Generous Shop's** trader.
-> :grass: Reduced **Coal Wings** crafting requirement from **Enchanting 15** to **Enchanting 6**.
-> :grass: Reduced **Coal Wings** crafting requirement from **Enchanting 20** to **Enchanting 12**.
-> :grass: Fixed an issue where **Angel & Demon Companion** would get consumed by **Sheep**.
-> :grass: Changed the entire **Ore & Farms** generation system to a smoother one for server's performance.
-> :grass: **Queen's Questline**, Available in **Potion Shop**, get your hand on queen's first model!
-> :grass: **BRAND NEW** Valentine 2026 Monthly crate available for **Oneblock**.
+**Patch/Changes 2.0.10** *[Oneblock]*  
+> :grass: Fixed an issue where players were not able to craft the **Coal Dungeon [Easy]** scroll.  
+> :grass: Fixed the **Generous Points** leaderboard not showing any values or names.  
+> :grass: Fixed the **Top Island** leaderboard not displaying usernames.  
+> :grass: Added a **Quest Reroll** item to the **Scroll Trader** at the **Witch Trader**.  
+> :grass: Reduced **Redstone Ring** requirement from **Fighting 4** to **Fighting 2**.  
+> :grass: Reduced **Iron Ring** requirement from **Fighting 5** to **Fighting 2**.  
+> :grass: Reduced **Tin Ring** requirement from **Fighting 7** to **Fighting 4**.  
+> :grass: Reduced **Weaver Toxic Ring** requirement from **Defense 15** to **Defense 7**.  
+> :grass: Reduced **Glacial Spike Ring** requirement from **Fighting 15** to **Fighting 6**.  
+> :grass: Reduced **Weaver Toxic Ring** crafting requirement from **Fighting 11** to **Fighting 7**.  
+> :grass: Reduced **Core of Ironheart** crafting requirement from **Enchanting 13** to **Enchanting 6**.  
+> :grass: Reduced **Frostshard Amulet** requirement from **Defense 19** to **Defense 8**.  
 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> :Sparkles: [Store] 
-> 
-> **DUNGEON**
-> :grass: 
-> 
-> **COAL DUNGEON**
-> :grass: 
-> 
-> **CAVE DUNGEON**
-> :grass: 
-> 
-> **HOLOGRAMS**
-> :grass: 
-> 
-> **ISLAND**
-> :grass: 
-> 
-> **BANK**
-> :grass: 
-> 
-> **BLACKSMITH**
-> :grass: 
-> :grass: 
-> 
-> **TINKERER**
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> **HOLOGRAMS** *(Created by Idiomaticsss)* 
-> :grass: 
+> :grass: Reduced **Core of Ironheart** requirement from **Defense 13** to **Defense 6**.  
+> :grass: Reduced **Bloodstone Amulet** requirements from **Defense 6** / **Alchemy 12** to **Defense 5** / **Alchemy 7**.  
+> :grass: Updated the **Coal Ring** crafting recipe: removed the **Sapphire** requirement and increased **Onyx** from **21** to **39**.  
+> :grass: Added a **Generous Shop** located at **Castle**.  
+> :grass: Added the **UMBRAL RIFTBLADE** crafting recipe to the **Generous Shop** trader.  
+> :grass: Reduced **Coal Wings** crafting requirement from **Enchanting 15** to **Enchanting 6**.  
+> :grass: Reduced **Coal Wings** crafting requirement from **Enchanting 20** to **Enchanting 12**.  
+> :grass: Fixed an issue where **Angel & Demon Companion** would get consumed by **Sheep**.  
+> :grass: Changed the entire **Ore & Farms** generation system to a smoother system to improve server performance.  
+> :grass: **Queen’s Questline** is now available in the **Potion Shop** — get your hands on the Queen’s first model!  
+> :grass: **BRAND NEW** Valentine **2026** Monthly Crate is now available for **Oneblock**.  
 >  
 > **[ @Changelogs ]**
-
-**AUTO RESPONSE**
-**CRATES**
