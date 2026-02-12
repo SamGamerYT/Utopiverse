@@ -2,7 +2,7 @@
 > :grass: **Collector Minion** level has been increased from **3** to 5**
 > :grass: Players can now make their **Collector Minion** sell things the minion collects.
 > :grass: **Healer** & **Spawner** minions have been removed due to no longer being compatible.
-> :grass: 
+> :grass: **Ironheart Titan Shard** now is an guaranteed drop with chances to get additional 2 more.
 > :grass: 
 > :grass: 
 > :grass: 
