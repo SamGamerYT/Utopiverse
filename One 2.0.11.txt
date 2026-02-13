@@ -3,7 +3,8 @@
 > :grass: Players can now make their **Collector Minion** sell things the minion collects.
 > :grass: **Healer** & **Spawner** minions have been removed due to no longer being compatible.
 > :grass: **Ironheart Titan Shard** now is an guaranteed drop with chances to get additional 2 more.
-> :grass: 
+> :grass: Changed **Heartbound Chestplate** Damage Reduction stats from 0% to 5%.
+> :grass: Changed **Heartbound Leggings** Damage Reduction stats from 0% to 4%.
 > :grass: 
 > :grass: 
 > :grass: 
