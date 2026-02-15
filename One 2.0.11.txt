@@ -5,8 +5,8 @@
 > :grass: **Ironheart Titan Shard** now is an guaranteed drop with chances to get additional 2 more.
 > :grass: Changed **Heartbound Chestplate** Damage Reduction stats from 0% to 5%.
 > :grass: Changed **Heartbound Leggings** Damage Reduction stats from 0% to 4%.
-> :grass: 
-> :grass: 
+> :grass: Added **Guaranteed System** to **Cherry Crate**.
+> :grass: Fixed an issue where players weren't able to place **Minions** at their island.
 > :grass: 
 > :grass: 
 > :grass: 
