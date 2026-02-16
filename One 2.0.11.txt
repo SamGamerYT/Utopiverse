@@ -9,7 +9,7 @@
 > :grass: Fixed an issue where players weren't able to place **Minions** at their island.
 > :grass: Increased **Spawner Limit** from **10** to **15** after the **Discord Poll**.
 > :grass: Fixed **Auction House** limits permission not properly assigning the limit.
-> :grass: 
+> :grass: Fixed an issue where players were not able to equip **Core Equipments** in **Core Slot**. 
 > :grass: 
 > :grass: 
 > 
