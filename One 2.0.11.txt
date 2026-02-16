@@ -7,7 +7,7 @@
 > :grass: Changed **Heartbound Leggings** Damage Reduction stats from 0% to 4%.
 > :grass: Added **Guaranteed System** to **Cherry Crate**.
 > :grass: Fixed an issue where players weren't able to place **Minions** at their island.
-> :grass: 
+> :grass: Increased **Spawner Limit** from **10** to **15** after the **Discord Poll**.
 > :grass: 
 > :grass: 
 > :grass: 
