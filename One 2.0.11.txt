@@ -8,7 +8,7 @@
 > :grass: Added **Guaranteed System** to **Cherry Crate**.
 > :grass: Fixed an issue where players weren't able to place **Minions** at their island.
 > :grass: Increased **Spawner Limit** from **10** to **15** after the **Discord Poll**.
-> :grass: 
+> :grass: Fixed **Auction House** limits permission not properly assigning the limit.
 > :grass: 
 > :grass: 
 > :grass: 
