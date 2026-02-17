@@ -14,7 +14,7 @@
 > :grass: Fixed an issue where players were not getting some **Consumables** from **Daily Rewards**.
 > 
 > :grass: Added **Ernet Quest** at **"/farms"** location.
-> :grass: 
+> :grass: Fixed **/welcome** not giving players **Ethereal Essence**.
 > :grass: 
 > :grass: 
 > :grass: 
