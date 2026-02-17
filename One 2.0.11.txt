@@ -11,7 +11,7 @@
 > :grass: Fixed **Auction House** limits permission not properly assigning the limit.
 > :grass: Fixed an issue where players were not able to equip **Core Equipments** in **Core Slot**. 
 > :grass: Added **Coal Dungeon Medium & Hard** scrolls at **Scroll Quests** NPC.
-> :grass: 
+> :grass: Fixed an issue where players were not getting some **Consumables** from **Daily Rewards**.
 > 
 > :grass: 
 > :grass: 
