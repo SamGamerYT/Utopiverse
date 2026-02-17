@@ -13,7 +13,7 @@
 > :grass: Added **Coal Dungeon Medium & Hard** scrolls at **Scroll Quests** NPC.
 > :grass: Fixed an issue where players were not getting some **Consumables** from **Daily Rewards**.
 > 
-> :grass: 
+> :grass: Added **Ernet Quest** at **"/farms"** location.
 > :grass: 
 > :grass: 
 > :grass: 
