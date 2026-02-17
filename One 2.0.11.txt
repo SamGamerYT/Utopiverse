@@ -15,7 +15,7 @@
 > 
 > :grass: Added **Ernet Quest** at **"/farms"** location.
 > :grass: Fixed **/welcome** not giving players **Ethereal Essence**.
-> :grass: 
+> :grass: Added **Zones, Coal Dungeon & Cave Dungeon** Codex rewards in **"/codex"**.
 > :grass: 
 > :grass: 
 > :grass: 
