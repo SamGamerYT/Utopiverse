@@ -1,74 +1,21 @@
-**Patch/Changes 2.0.11** *[Oneblock]*
-> :grass: **Collector Minion** level has been increased from **3** to 5**
-> :grass: Players can now make their **Collector Minion** sell things the minion collects.
-> :grass: **Healer** & **Spawner** minions have been removed due to no longer being compatible.
-> :grass: **Ironheart Titan Shard** now is an guaranteed drop with chances to get additional 2 more.
-> :grass: Changed **Heartbound Chestplate** Damage Reduction stats from 0% to 5%.
-> :grass: Changed **Heartbound Leggings** Damage Reduction stats from 0% to 4%.
-> :grass: Added **Guaranteed System** to **Cherry Crate**.
-> :grass: Fixed an issue where players weren't able to place **Minions** at their island.
-> :grass: Increased **Spawner Limit** from **10** to **15** after the **Discord Poll**.
-> :grass: Fixed **Auction House** limits permission not properly assigning the limit.
-> :grass: Fixed an issue where players were not able to equip **Core Equipments** in **Core Slot**. 
-> :grass: Added **Coal Dungeon Medium & Hard** scrolls at **Scroll Quests** NPC.
-> :grass: Fixed an issue where players were not getting some **Consumables** from **Daily Rewards**.
-> 
-> :grass: Added **Ernet Quest** at **"/farms"** location.
-> :grass: Fixed **/welcome** not giving players **Ethereal Essence**.
-> :grass: Added **Zones, Coal Dungeon & Cave Dungeon** Codex rewards in **"/codex"**.
-> :grass: Players can now craft **Silver & Gold Version** of crops at **"/farms"**.
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
+**Patch/Changes 2.0.11** *[Oneblock]*  
+> :grass: Increased **Collector Minion** level from **3** to **5**.  
+> :grass: Players can now make their **Collector Minion** sell the items it collects.  
+> :grass: Removed **Healer** and **Spawner** minions, as they are no longer compatible.  
+> :grass: **Ironheart Titan Shard** is now a guaranteed drop, with a chance to receive up to **2** additional shards.  
+> :grass: Changed **Heartbound Chestplate** Damage Reduction stats from **0%** to **5%**.  
+> :grass: Changed **Heartbound Leggings** Damage Reduction stats from **0%** to **4%**.  
+> :grass: Added a **Guaranteed System** to the **Cherry Crate**.  
+> :grass: Fixed an issue where players weren’t able to place **Minions** on their island.  
+> :grass: Increased **Spawner Limit** from **10** to **15** following the **Discord Poll**.  
+> :grass: Fixed **Auction House** limit permissions not properly applying the correct limit.  
+> :grass: Fixed an issue where players were not able to equip **Core Equipment** in the **Core Slot**.  
+> :grass: Added **Coal Dungeon Medium** and **Hard** scrolls to the **Scroll Quests** NPC.  
+> :grass: Fixed an issue where players were not receiving some **Consumables** from **Daily Rewards**.  
 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> :Sparkles: [Store] 
-> 
-> **DUNGEON**
-> :grass: 
-> 
-> **COAL DUNGEON**
-> :grass: 
-> 
-> **CAVE DUNGEON**
-> :grass: 
-> 
-> **HOLOGRAMS**
-> :grass: 
-> 
-> **ISLAND**
-> :grass: 
-> 
-> **BANK**
-> :grass: 
-> 
-> **BLACKSMITH**
-> :grass: 
-> :grass: 
-> 
-> **TINKERER**
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> **HOLOGRAMS** *(Created by Idiomaticsss)* 
-> :grass: 
->  
-> **[ @Changelogs ]**
+> :grass: Added the **Ernet Quest** at **"/farms"**.  
+> :grass: Fixed **"/welcome"** not giving players **Ethereal Essence**.  
+> :grass: Added **Zones**, **Coal Dungeon**, and **Cave Dungeon** Codex rewards to **"/codex"**.  
+> :grass: Players can now craft **Silver** and **Gold** versions of crops at **"/farms"**.  
 
-**AUTO RESPONSE**
-**CRATES**
+> **[ @Changelogs ]**  
