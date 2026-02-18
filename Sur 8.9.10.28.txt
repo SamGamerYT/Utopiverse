@@ -30,6 +30,7 @@
 > :shiny: [Survival] 
 > 
 > **FARMING**
+> :shiny: [Survival] Added **Silver & Gold** variant for **Wheat** at **Farming NPC**.
 > :shiny: [Survival] 
 > 
 > **FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
