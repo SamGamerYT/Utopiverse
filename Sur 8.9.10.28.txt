@@ -4,7 +4,7 @@
 > :shiny: [Survival] Fixed issue with **Lifesteal Perk** where it wasn't working properly.
 > :shiny: [Survival] Added **Valentine 2026** Monthlycrate.
 > :shiny: [Survival] Relocated **Halloween 2025** Monthlycrate to **"/lootbox"
-> :shiny: [Survival] 
+> :shiny: [Survival] **Book** writing has been limited to **30** pages.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
