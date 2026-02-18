@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.12** *[Oneblock]*
-> :grass: 
+> :grass: Added **Silver & Gold** variant for **Wheat** at **Farming NPC**.
 > :grass: 
 > :grass: 
 > :grass: 
