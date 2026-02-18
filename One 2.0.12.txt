@@ -2,7 +2,7 @@
 > :grass: Added **Silver & Gold** variant for **Wheat** at **Farming NPC**.
 > :grass: Reduced **Seeds Recipes** from **50 Levels requirement** to **10 levels requirement**.
 > :grass: Added **Chilly Seeds Bundle** recipe at **Farming NPC**.
-> :grass: 
+> :grass: Added **Basic Fertilizer** recipe at **Farming NPC**.
 > :grass: 
 > :grass: 
 > :grass: 
