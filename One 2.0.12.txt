@@ -42,6 +42,7 @@
 > :grass: 
 > 
 > **COAL DUNGEON**
+> :grass: **Splash Potions** are now allowed to use.
 > :grass: 
 > 
 > **CAVE DUNGEON**
