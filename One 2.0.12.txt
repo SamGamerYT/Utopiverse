@@ -3,7 +3,7 @@
 > :grass: Reduced **Seeds Recipes** from **50 Levels requirement** to **10 levels requirement**.
 > :grass: Added **Chilly Seeds Bundle** recipe at **Farming NPC**.
 > :grass: Added **Basic Fertilizer** recipe at **Farming NPC**.
-> :grass: 
+> :grass: Fixed **Sniffer Egg** crafting recipe at **Farmer NPC**.
 > :grass: 
 > :grass: 
 > :grass: 
