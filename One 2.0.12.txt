@@ -5,7 +5,7 @@
 > :grass: Added **Basic Fertilizer** recipe at **Farming NPC**.
 > :grass: Fixed **Sniffer Egg** crafting recipe at **Farmer NPC**.
 > :grass: Fixed **Quests Sign Board** not opening **Quests Menu**.
-> :grass: Removed **Particles** from **Cursed Harvest Set**.
+> :grass: Fixed mana requirement issue for **Cursed Harvest Set**.
 > :grass: 
 > :grass: 
 > :grass: 
