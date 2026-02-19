@@ -8,7 +8,7 @@
 > :grass: Fixed mana requirement issue for **Cursed Harvest Set**.
 > :grass: Fixed **Mana** overflowing from the intended max amount.
 > :grass: Added **/chunkchecker** for **Ammolite Rank**.
-> :grass: 
+> :grass: Increased **Farmer Minion** max rank from **4** to **5**.
 > :grass: 
 > :grass: 
 > :grass: 
