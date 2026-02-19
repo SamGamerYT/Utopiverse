@@ -7,7 +7,7 @@
 > :grass: Fixed **Quests Sign Board** not opening **Quests Menu**.
 > :grass: Fixed mana requirement issue for **Cursed Harvest Set**.
 > :grass: Fixed **Mana** overflowing from the intended max amount.
-> :grass: 
+> :grass: Added **/chunkchecker** for **Ammolite Rank**.
 > :grass: 
 > :grass: 
 > :grass: 
