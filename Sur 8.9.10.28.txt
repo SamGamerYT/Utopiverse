@@ -5,7 +5,7 @@
 > :shiny: [Survival] Added **Valentine 2026** Monthlycrate.
 > :shiny: [Survival] Relocated **Halloween 2025** Monthlycrate to **"/lootbox"
 > :shiny: [Survival] **Book** writing has been limited to **30** pages.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Heartbound Boots** missing stats on **Damage Reduct:** stat.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
