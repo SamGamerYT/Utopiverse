@@ -10,7 +10,7 @@
 > :grass: Added **/chunkchecker** for **Ammolite Rank**.
 > :grass: Increased **Farmer Minion** max rank from **4** to **5**.
 > :grass: Fixed **Heartbound Boots** missing stats on **Damage Reduct:** stat.
-> :grass: 
+> :grass: Fixed **"/warp dungeons"** command not working properly.
 > :grass: 
 > 
 > :grass: 
