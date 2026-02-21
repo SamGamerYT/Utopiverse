@@ -11,9 +11,9 @@
 > :grass: Increased **Farmer Minion** max rank from **4** to **5**.
 > :grass: Fixed **Heartbound Boots** missing stats on **Damage Reduct:** stat.
 > :grass: Fixed **"/warp dungeons"** command not working properly.
-> :grass: 
+> :grass: Added **Trial Chambers** phase!
 > 
-> :grass: 
+> :grass: Added **Trial Chambers** phase change in **"/phase"**
 > :grass: 
 > :grass: 
 > :grass: 
