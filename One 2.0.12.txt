@@ -14,7 +14,7 @@
 > :grass: Added **Trial Chambers** phase!
 > 
 > :grass: Added **Trial Chambers** phase change in **"/phase"**
-> :grass: 
+> :grass: Fixed an issue where player's weren't able to kill **Inkling's** in **Cave Dungeon**.
 > :grass: 
 > :grass: 
 > :grass: 
