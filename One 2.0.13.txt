@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.13** *[Oneblock]*
-> :grass: 
+> :grass: Fixed a **Voucher typo** on day **30**.
 > :grass: 
 > :grass: 
 > :grass: 
