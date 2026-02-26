@@ -1,6 +1,6 @@
 **Patch/Changes 2.0.13** *[Oneblock]*
 > :grass: Fixed a **Voucher typo** on day **30**.
-> :grass: 
+> :grass: Fixed **"Queen's Bloomwings"** getting consumed when you interacted with a **sheep**.
 > :grass: 
 > :grass: 
 > :grass: 
