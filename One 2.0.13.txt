@@ -2,7 +2,7 @@
 > :grass: Fixed a **Voucher typo** on day **30**.
 > :grass: Fixed **"Queen's Bloomwings"** getting consumed when you interacted with a **sheep**.
 > :grass: Increased the **Jungle Pond's** depth by 2 blocks at **"/warp dock"**.
-> :grass: 
+> :grass: Added **Dock Zone** to **"/codex"** & **"/warps"**.
 > :grass: 
 > :grass: 
 > :grass: 
