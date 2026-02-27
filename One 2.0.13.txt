@@ -1,7 +1,7 @@
 **Patch/Changes 2.0.13** *[Oneblock]*
 > :grass: Fixed a **Voucher typo** on day **30**.
 > :grass: Fixed **"Queen's Bloomwings"** getting consumed when you interacted with a **sheep**.
-> :grass: 
+> :grass: Increased the **Jungle Pond's** depth by 2 blocks.
 > :grass: 
 > :grass: 
 > :grass: 
