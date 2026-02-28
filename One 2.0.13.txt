@@ -3,7 +3,7 @@
 > :grass: Fixed **"Queen's Bloomwings"** getting consumed when you interacted with a **sheep**.
 > :grass: Increased the **Jungle Pond's** depth by 2 blocks at **"/warp dock"**.
 > :grass: Added **Dock Zone** to **"/codex"** & **"/warps"**.
-> :grass: 
+> :grass: Added **Coal Dungeon's** skills experience drop information to **"/codex"**.
 > :grass: 
 > :grass: 
 > :grass: 
@@ -46,6 +46,7 @@
 > :grass: **Two new** mobs been added, **CHAIN WARDEN** Level: 8 and **SOOT SHAMAN** Level: 7.
 > :grass: Fixed **The Guard's** loottable.
 > :grass: Updated **"/codex"** with the two new mobs information.
+> :grass: 
 > :grass: 
 > 
 > **CAVE DUNGEON**
