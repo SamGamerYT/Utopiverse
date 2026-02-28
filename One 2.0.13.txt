@@ -4,7 +4,7 @@
 > :grass: Increased the **Jungle Pond's** depth by 2 blocks at **"/warp dock"**.
 > :grass: Added **Dock Zone** to **"/codex"** & **"/warps"**.
 > :grass: Added **Coal Dungeon's** skills experience drop information to **"/codex"**.
-> :grass: 
+> :grass: Fixed **"/cherry"** command not working.
 > :grass: 
 > :grass: 
 > :grass: 
