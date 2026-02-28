@@ -43,6 +43,8 @@
 > 
 > **COAL DUNGEON**
 > :grass: **Splash Potions** are now allowed to use.
+> :grass: **Two new** mobs been added, **CHAIN WARDEN** Level: 8 and **SOOT SHAMAN** Level: 7.
+> :grass: Fixed **The Guard's** loottable.
 > :grass: 
 > 
 > **CAVE DUNGEON**
