@@ -45,6 +45,7 @@
 > :grass: **Splash Potions** are now allowed to use.
 > :grass: **Two new** mobs been added, **CHAIN WARDEN** Level: 8 and **SOOT SHAMAN** Level: 7.
 > :grass: Fixed **The Guard's** loottable.
+> :grass: Updated **"/codex"** with the two new mobs information.
 > :grass: 
 > 
 > **CAVE DUNGEON**
