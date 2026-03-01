@@ -73,6 +73,8 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON WASTELAND CHANGES**
+> :shiny: [Survival] Added **Earth Damage** to **Villagers**.
+> :shiny: [Survival] Added **Thunder Damage** to **Werewolf**.
 > :shiny: [Survival] 
 > 
 > **DUNGEON HALLOWEEN CHANGES**
