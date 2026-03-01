@@ -64,6 +64,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON MINE CHANGES**
+> :shiny: [Survival] **Ice Prison** skill from **Iced Ghouls** has been Disabled & Removed.
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
