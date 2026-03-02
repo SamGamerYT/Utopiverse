@@ -2,7 +2,7 @@
 > :shiny: [Survival] Removed **Special Limited Harvest** tournament for **Beetroots**.
 > :shiny: [Survival] Changed **Hostile, Passive & Blocks** Tournament.
 > :shiny: [Survival] Changed **Regeneration System** to match **Oneblock's** for smoothness.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed a bug where jumping in the void in the end would result in **Bedrock Block** to spawn.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
@@ -104,6 +104,8 @@
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
+> :spaceheart1: [Network] Removed **Limited Edition Sellwand's** message from announcement.
+> :spaceheart1: [Network] 
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
