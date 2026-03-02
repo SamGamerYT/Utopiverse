@@ -101,6 +101,7 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
+> :sdragon: [Lobby] Dependencies Updated *(02-Mar-25)*
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
