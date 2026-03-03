@@ -5,7 +5,7 @@
 > :grass: Added **Dock Zone** to **"/codex"** & **"/warps"**.
 > :grass: Added **Coal Dungeon's** skills experience drop information to **"/codex"**.
 > :grass: Fixed **"/cherry"** command not working.
-> :grass: 
+> :grass: Added **Crab** & **Crab Lootdrop**, players can now fish up crabs for their scale/claws.
 > :grass: 
 > :grass: 
 > :grass: 
