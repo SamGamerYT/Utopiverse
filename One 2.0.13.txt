@@ -8,7 +8,7 @@
 > :grass: Added **Crab** & **Crab Lootdrop**, players can now fish up crabs for their scale/claws.
 > :grass: Added **Mass Open** for **Crusader Rankup**.
 > :grass: **Wither & Ender Dragon** has a chance of **50%** to drop **Compressed Rock**
-> :grass: 
+> :grass: **Zombie, Drowned & Husk** has a chance of **10%** to drop **Rock**
 > :grass: 
 > :grass: 
 > :grass: 
