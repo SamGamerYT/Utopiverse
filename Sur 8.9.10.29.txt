@@ -30,7 +30,7 @@
 > :shiny: [Survival] 
 > 
 > **FARMING**
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Basic Speed Grow** fertilizer at **Farming NPC**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
@@ -68,6 +68,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
+> :shiny: [Survival] Removed **Two Frosty Waddler's** spawn locations near the boss room.
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
