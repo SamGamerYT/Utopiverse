@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.14** *[Oneblock]*
-> :grass: 
+> :grass: Added **Basic Speed Grow** fertilizer at **Farming NPC**.
 > :grass: 
 > :grass: 
 > :grass: 
