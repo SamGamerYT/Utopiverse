@@ -9,6 +9,7 @@
 > :grass: Added **Mass Open** for **Crusader Rankup**.  
 > :grass: **Wither** and **Ender Dragon** now have a **50%** chance to drop **Compressed Rock**.  
 > :grass: **Zombie**, **Drowned**, and **Husk** now have a **10%** chance to drop **Rock**.  
+> :grass: Fixed players not being able to create **Fishing Totem** on their private island.
 
 **COAL DUNGEON**  
 > :grass: **Splash Potions** are now allowed.  
