@@ -10,12 +10,12 @@
 > :grass: **Wither** and **Ender Dragon** now have a **50%** chance to drop **Compressed Rock**.  
 > :grass: **Zombie**, **Drowned**, and **Husk** now have a **10%** chance to drop **Rock**.  
 > :grass: Fixed players not being able to create **Fishing Totem** on their private island.
-
-**COAL DUNGEON**  
+> 
+> **COAL DUNGEON**  
 > :grass: **Splash Potions** are now allowed.  
 > :grass: Added **two new mobs** — **CHAIN WARDEN** *(Level 8)* and **SOOT SHAMAN** *(Level 7)*.  
 > :grass: Fixed **The Guard’s** loot table.  
 > :grass: Updated **"/codex"** with the two new mob entries.  
 > :grass: **The Guard** will no longer drop **Iron Sword** and **Chainmail Helmet**; these have been replaced with **Raw Iron**.  
-
+> 
 > **[ @Changelogs ]**
