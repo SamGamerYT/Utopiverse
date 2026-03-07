@@ -5,7 +5,7 @@
 > :shiny: [Survival] Fixed a bug where jumping in the void in the end would result in **Bedrock Block** to spawn.
 > :shiny: [Survival] Removed **Ender Chest** from **Crab's Drop**
 > :shiny: [Survival] Fixed an issue where players were not able to use rpg weapons, scrolls etc in **Graveyard Zone**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **_WhippyFireX9's** quest in **Volcano Dungeon**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
