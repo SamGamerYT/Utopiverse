@@ -1,7 +1,7 @@
 **Patch/Changes 2.0.14** *[Oneblock]*
 > :grass: Added **Basic Speed Grow** fertilizer at **Farming NPC**.
 > :grass: **Sponsorslot** has been increased from **5** to **9**.
-> :grass: 
+> :grass: Modified **/pwarps** Interface, made it more **Bedrock Friendly**.
 > :grass: 
 > :grass: 
 > :grass: 
