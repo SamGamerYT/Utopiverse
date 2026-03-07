@@ -5,7 +5,7 @@
 > :grass: **Mage** now has access to **1 Player Warp**
 > :grass: **Crusader** now has access to **2 Player Warp**
 > :grass: **Runeseeker** now has access to **3 Player Warp**
-> :grass: 
+> :grass: **Cleric** now has access to **Skin Remover** consumable crafting recipe.
 > :grass: 
 > :grass: 
 > :grass: 
