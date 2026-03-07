@@ -2,7 +2,9 @@
 > :grass: Added **Basic Speed Grow** fertilizer at **Farming NPC**.
 > :grass: **Sponsorslot** has been increased from **5** to **9**.
 > :grass: Modified **/pwarps** Interface, made it more **Bedrock Friendly**.
-> :grass: 
+> :grass: **Mage** now has access to **1 Player Warp**
+> :grass: **Crusader** now has access to **2 Player Warp**
+> :grass: **Runeseeker** now has access to **3 Player Warp**
 > :grass: 
 > :grass: 
 > :grass: 
