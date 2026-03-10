@@ -11,7 +11,7 @@
 > 
 > :shiny: [Survival] Modified **Toddler Amulet's** lore to match the new style bit more.
 > :shiny: [Survival] Updated **Dragon Beast's** drop table in **"/codex"** to include **Unstable Runestone's Drop chances**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an issue where **newly issued** items that has abilities were not executing properly.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
