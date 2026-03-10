@@ -69,6 +69,7 @@
 > :shiny: [Survival] **Ice Prison** skill from **Iced Ghouls** has been Disabled & Removed.
 > :shiny: [Survival] Players can now use **"/ah"** & **"/enderchest"** command.
 > :shiny: [Survival] Fixed an error where players were able to set home in **Mine Dungeon Boss Zone**
+> :shiny: [Survival] Added **Unstable Rune of Combat** to **EnderBeast's** drop table.
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
