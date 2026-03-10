@@ -58,6 +58,8 @@
 > :shiny: [Survival] 
 > 
 > **TINKERER**
+> :shiny: [Survival] Added **Toddler Earth Amulet** & **Toddler Frost Amulet** at **Tinkerer's Crafting Station**.
+> :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
 > **DUNGEON**
