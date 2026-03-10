@@ -7,7 +7,7 @@
 > :shiny: [Survival] Fixed an issue where players were not able to use rpg weapons, scrolls etc in **Graveyard Zone**.
 > :shiny: [Survival] Added **_WhippyFireX9's** quest in **Volcano Dungeon**.
 > :shiny: [Survival] Fixed an issue where players couldn't **PvP** at **"/pvp"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Baby Amulet's** lore to ensure new players will properly equip them.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
