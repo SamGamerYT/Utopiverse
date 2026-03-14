@@ -98,6 +98,7 @@
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
+> :spaceheart1: [Network] Updated **MOTD** to match the new minecraft's version
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
