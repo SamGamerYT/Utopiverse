@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.30** *(Network Changes)*  
 > :shiny: [Survival] Modified **Front Community NPC Hologram** to match **Milestone's NPC** hologram
 > :shiny: [Survival] Players will only get **1** vote crate key for **voting**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Relocated **Nyx Glacielle** Quest NPC a bit closer to **Frost Dungeon's Entrance**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
