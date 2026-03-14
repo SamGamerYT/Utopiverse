@@ -2,7 +2,7 @@
 > :shiny: [Survival] Modified **Front Community NPC Hologram** to match **Milestone's NPC** hologram
 > :shiny: [Survival] Players will only get **1** vote crate key for **voting**.
 > :shiny: [Survival] Relocated **Nyx Glacielle** Quest NPC a bit closer to **Frost Dungeon's Entrance**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **NPC's Hologram** to match the server's new styling.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
