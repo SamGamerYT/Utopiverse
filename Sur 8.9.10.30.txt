@@ -61,6 +61,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON MINE CHANGES**
+> :shiny: [Survival] Relocated the **ATM** & **Enderchest** near the bottom entrance.
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
