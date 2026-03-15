@@ -62,6 +62,8 @@
 > 
 > **DUNGEON MINE CHANGES**
 > :shiny: [Survival] Relocated the **ATM** & **Enderchest** near the bottom entrance.
+> :shiny: [Survival] Added **Voting Cumulative Rewards** information hologram
+> :shiny: [Survival] Added **Vote Sites** information hologram.
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
