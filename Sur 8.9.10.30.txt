@@ -44,8 +44,10 @@
 > :shiny: [Hypogeum Arena] 
 > 
 > **BLACKSMITH**
+> :shiny: [Survival] Removed **Experience Condition** from **Polisher** crafting recipe.
+> :shiny: [Survival] Nerfed **Polisher** crafting recipe requirement **Amber** from **19** to **9**.
 > :shiny: [Survival] Removed **Experience Condition** from **Menders** crafting recipe.
-> :shiny: [Survival] Nerfed **Menders** crafting recipe requirement **Amber** from **19**.
+> :shiny: [Survival] Removed **Onix** from **Menders** crafting recipe.
 > :shiny: [Survival] 
 > 
 > **CODEX**
