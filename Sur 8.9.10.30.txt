@@ -45,7 +45,7 @@
 > 
 > **BLACKSMITH**
 > :shiny: [Survival] Removed **Experience Condition** from **Menders** crafting recipe.
-> :shiny: [Survival] 
+> :shiny: [Survival] Nerfed **Menders** crafting recipe requirement **Amber** from **19**.
 > :shiny: [Survival] 
 > 
 > **CODEX**
