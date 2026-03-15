@@ -44,6 +44,8 @@
 > :shiny: [Hypogeum Arena] 
 > 
 > **BLACKSMITH**
+> :shiny: [Survival] Removed **Experience Condition** from **Menders** crafting recipe.
+> :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
 > **CODEX**
