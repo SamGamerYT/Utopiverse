@@ -5,7 +5,7 @@
 > :shiny: [Survival] Modified **NPC's Hologram** to match the server's new styling.
 > :shiny: [Survival] Removed **Voting GUI** & Instead added holograms in **Frost Dungeon** explaining how to vote & the rewards
 > :shiny: [Survival] Fixed **The Exchanger** hologram's grammar error.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **"/vote"** GUI Interface & Modified **"/vote"** chat message.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
