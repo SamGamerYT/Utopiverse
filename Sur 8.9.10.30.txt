@@ -71,6 +71,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
+> :shiny: [Survival] Improved **Icicle Dino's** Fin drop rate from **30%** to **35%**.
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
