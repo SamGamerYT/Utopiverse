@@ -7,7 +7,7 @@
 > :shiny: [Survival] Fixed **The Exchanger** hologram's grammar error.
 > :shiny: [Survival] Removed **"/vote"** GUI Interface & Modified **"/vote"** chat message.
 > :shiny: [Survival] Reduced **Starter Milestone #2** from **15 Days Streak** to **5 Days Streak**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Player **Collision** has been disabled.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
