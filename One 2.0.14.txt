@@ -7,7 +7,7 @@
 > :grass: **Runeseeker** now has access to **3 Player Warp**
 > :grass: **Cleric** now has access to **Skin Remover** consumable crafting recipe.
 > :grass: Fixed an issue where using ability within **Coal Dungeon** opened up Furniture Shop or Enchanting Shop.
-> :grass: 
+> :grass: **Cleric** now has access to **20** chestshops **Default is 10**
 > :grass: 
 > :grass: 
 > :grass: 
