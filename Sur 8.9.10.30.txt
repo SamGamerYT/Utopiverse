@@ -51,6 +51,7 @@
 > :shiny: [Survival] Removed **Refined Dungeon Loot** & **Helmet Skins** from **Blacksmith's Forge**.
 > :shiny: [Survival] Added **Refinery Grindstone** next to **Repair Station**.
 > :shiny: [Survival] Reduced **All Refined Dungeon Loot** crafting time from **5s** to **3s**.
+> :shiny: [Survival] Added **Refined Alexandrite** & **Infused Amethyst** in **Refinery Station**.
 > :shiny: [Survival] 
 > 
 > **CODEX**
