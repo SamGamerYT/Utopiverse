@@ -48,6 +48,8 @@
 > :shiny: [Survival] Nerfed **Polisher** crafting recipe requirement **Amber** from **19** to **9**.
 > :shiny: [Survival] Removed **Experience Condition** from **Menders** crafting recipe.
 > :shiny: [Survival] Removed **Onix** from **Menders** crafting recipe.
+> :shiny: [Survival] Removed **Refined Dungeon Loot** & **Helmet Skins** from **Blacksmith's Forge**.
+> :shiny: [Survival] Added **Refinery Grindstone** next to **Repair Station**.
 > :shiny: [Survival] 
 > 
 > **CODEX**
