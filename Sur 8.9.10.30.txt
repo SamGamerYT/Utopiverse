@@ -68,6 +68,7 @@
 > :shiny: [Survival] Relocated the **ATM** & **Enderchest** near the bottom entrance.
 > :shiny: [Survival] Added **Voting Cumulative Rewards** information hologram
 > :shiny: [Survival] Added **Vote Sites** information hologram.
+> :shiny: [Survival] Added **Money Warning** at the entrance of **Mine Dungeon**.
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
