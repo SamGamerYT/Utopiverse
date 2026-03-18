@@ -1,76 +1,16 @@
-**Patch/Changes 2.0.14** *[Oneblock]*
-> :grass: Added **Basic Speed Grow** fertilizer at **Farming NPC**.
-> :grass: **Sponsorslot** has been increased from **5** to **9**.
-> :grass: Modified **/pwarps** Interface, made it more **Bedrock Friendly**.
-> :grass: **Mage** now has access to **1 Player Warp**
-> :grass: **Crusader** now has access to **2 Player Warp**
-> :grass: **Runeseeker** now has access to **3 Player Warp**
-> :grass: **Cleric** now has access to **Skin Remover** consumable crafting recipe.
-> :grass: Fixed an issue where using ability within **Coal Dungeon** opened up Furniture Shop or Enchanting Shop.
-> :grass: **Cleric** now has access to **20** chestshops **Default is 10**
-> :grass: **Sentinel** now has access to **30** chestshops
-> :grass: **Templar** now has access to **40** chestshops
-> :grass: **Warlock** now has access to **50** chestshops
-> :grass: **Paladin** now has access to **60** chestshops
-> :grass: 
-> :grass: 
-> 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> :Sparkles: [Store] 
-> 
-> **DUNGEON**
-> :grass: 
-> 
-> **COAL DUNGEON**
-> :grass: 
-> 
-> **CAVE DUNGEON**
-> :grass: 
-> 
-> **HOLOGRAMS**
-> :grass: 
-> 
-> **ISLAND**
-> :grass: 
-> 
-> **BANK**
-> :grass: 
-> 
-> **BLACKSMITH**
-> :grass: 
-> :grass: 
-> 
-> **TINKERER**
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> **HOLOGRAMS** *(Created by Idiomaticsss)* 
-> :grass: 
+**Patch/Changes 2.0.14** *[Oneblock]*  
+> :grass: Added **Basic Speed Grow** fertilizer at the **Farming NPC**.  
+> :grass: Increased **Sponsor Slots** from **5** to **9**.  
+> :grass: Modified the **/pwarps** interface to be more **Bedrock-friendly**.  
+> :grass: **Mage** now has access to **1 Player Warp**.  
+> :grass: **Crusader** now has access to **2 Player Warps**.  
+> :grass: **Runeseeker** now has access to **3 Player Warps**.  
+> :grass: **Cleric** now has access to the **Skin Remover** consumable crafting recipe.  
+> :grass: Fixed an issue where using abilities within the **Coal Dungeon** would open the **Furniture Shop** or **Enchanting Shop**.  
+> :grass: **Cleric** now has access to **20 ChestShops** *(default: 10)*.  
+> :grass: **Sentinel** now has access to **30 ChestShops**.  
+> :grass: **Templar** now has access to **40 ChestShops**.  
+> :grass: **Warlock** now has access to **50 ChestShops**.  
+> :grass: **Paladin** now has access to **60 ChestShops**.  
 >  
 > **[ @Changelogs ]**
-
-**AUTO RESPONSE**
-**CRATES**
