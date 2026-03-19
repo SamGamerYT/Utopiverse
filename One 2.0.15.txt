@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.15** *[Oneblock]*
-> :grass: 
+> :grass: Fixed an issue where players weren't able to do **"/pwarp reset"**.
 > :grass: 
 > :grass: 
 > :grass: 
