@@ -60,6 +60,7 @@
 > :grass: 
 > 
 > **BLACKSMITH**
+> :grass: Added **Refined Miner Armor** in **Armor Station** category at **"/blacksmith"**.
 > :grass: 
 > :grass: 
 > 
