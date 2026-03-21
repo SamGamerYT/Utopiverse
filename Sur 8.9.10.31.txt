@@ -30,6 +30,7 @@
 > :shiny: [Survival] 
 > 
 > **FARMING**
+> :shiny: [Survival] Renamed **Chilly Seeds** to **Pepper Seeds**. *(Get old seeds replaced via ticket)*
 > :shiny: [Survival] 
 > 
 > **FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
