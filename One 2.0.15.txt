@@ -1,6 +1,6 @@
 **Patch/Changes 2.0.15** *[Oneblock]*
 > :grass: Fixed an issue where players weren't able to do **"/pwarp reset"**.
-> :grass: 
+> :grass: Added **Skin Remover** utility item at **Generous Shop**.
 > :grass: 
 > :grass: 
 > :grass: 
