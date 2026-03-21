@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.31** *(Network Changes)*  
 > :shiny: [Survival] Disabled **Health Scaling**, Hearts will no longer scale back down to 10. (20)
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an issue where **Bosses** were double-spawning.
+> :shiny: [Survival] Fixed an issue where **Dungeon Mobs** were overpopulated.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
