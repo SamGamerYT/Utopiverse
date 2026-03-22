@@ -31,7 +31,7 @@
 > 
 > **FARMING**
 > :shiny: [Survival] Renamed **Chilly Seeds** to **Pepper Seeds**. *(Get old seeds replaced via ticket)*
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Mandrake** spawn at **"/farms"**, allowing players to find and chase the mandrake for its loot!
 > 
 > **FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
 > **FISHING**
