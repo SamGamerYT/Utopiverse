@@ -5,7 +5,7 @@
 > :shiny: [Survival] Updated all **33** Relics to the newer **Equipment Style**.
 > :shiny: [Survival] Updated information on **Miner Relic**, Removed unneccessary lore.
 > :shiny: [Survival] Brand new questline! run errands for **Thaddeus Barrow** located at **Mine Dungeon**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Questline NPC's** hologram.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
