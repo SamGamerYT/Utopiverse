@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.10.31** *(Network Changes)*  
-> :shiny: [Survival] Disabled **Health Scaling**, Hearts will no longer scale back down to 10. (20)
+> :shiny: [Survival] Fixed **Health Drop** issue, Hearts will no longer scale back down to 20 on relog.
 > :shiny: [Survival] Fixed an issue where **Bosses** were double-spawning.
 > :shiny: [Survival] Fixed an issue where **Dungeon Mobs** were overpopulated.
 > :shiny: [Survival] Updated all **33** Relics to the newer **Equipment Style**.
