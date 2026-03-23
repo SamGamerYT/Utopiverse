@@ -3,7 +3,7 @@
 > :grass: Added **Skin Remover** utility item at **Generous Shop**.
 > :grass: Added **Hat Perk** consumable item at **Scroll Shop**.
 > :grass: All **Scrolls** will drop some form of **Enchanting XP** when players craft them.
-> :grass: 
+> :grass: Fixed an issue where players were not able to make shops with custom items.
 > :grass: 
 > :grass: 
 > :grass: 
