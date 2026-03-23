@@ -2,7 +2,7 @@
 > :grass: Fixed an issue where players weren't able to do **"/pwarp reset"**.
 > :grass: Added **Skin Remover** utility item at **Generous Shop**.
 > :grass: Added **Hat Perk** consumable item at **Scroll Shop**.
-> :grass: 
+> :grass: All **Scrolls** will drop some form of **Enchanting XP** when players craft them.
 > :grass: 
 > :grass: 
 > :grass: 
