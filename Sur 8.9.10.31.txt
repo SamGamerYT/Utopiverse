@@ -7,7 +7,7 @@
 > :shiny: [Survival] Brand new questline! run errands for **Thaddeus Barrow** located at **Mine Dungeon**.
 > :shiny: [Survival] Modified **Questline NPC's** hologram.
 > :shiny: [Survival] Fixed **Guard Shop** not opening up the trader interface.
-> :shiny: [Survival] 
+> :shiny: [Survival] Completing **Thaddeus Barrow**'s quest will also give you an exclusive **"/tag"**
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
