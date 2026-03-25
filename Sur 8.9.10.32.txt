@@ -97,6 +97,7 @@
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
+> :spaceheart1: [Network] Supporting Java Version **26.1** now.
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
