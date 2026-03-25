@@ -93,6 +93,7 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
+> :sdragon: [Lobby] Updated to version **1.21.11** from **1.21.8**.
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
