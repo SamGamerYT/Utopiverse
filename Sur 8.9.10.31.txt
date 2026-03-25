@@ -1,160 +1,20 @@
 **Patch/Changes 8.9.10.31** *(Network Changes)*  
-> :shiny: [Survival] Fixed **Health Drop** issue, Hearts will no longer scale back down to 20 on relog.
-> :shiny: [Survival] Fixed an issue where **Bosses** were double-spawning.
-> :shiny: [Survival] Fixed an issue where **Dungeon Mobs** were overpopulated.
-> :shiny: [Survival] Updated all **33** Relics to the newer **Equipment Style**.
-> :shiny: [Survival] Updated information on **Miner Relic**, Removed unneccessary lore.
-> :shiny: [Survival] Brand new questline! run errands for **Thaddeus Barrow** located at **Mine Dungeon**.
-> :shiny: [Survival] Modified **Questline NPC's** hologram.
-> :shiny: [Survival] Fixed **Guard Shop** not opening up the trader interface.
-> :shiny: [Survival] Completing **Thaddeus Barrow**'s quest will also give you an exclusive **"/tag"**
+> :shiny: [Survival] Fixed **Health Drop** issue — hearts will no longer scale back down to **20** on relog.  
+> :shiny: [Survival] Fixed an issue where **Bosses** were double-spawning.  
+> :shiny: [Survival] Fixed an issue where **Dungeon Mobs** were overpopulated.  
+> :shiny: [Survival] Updated all **33 Relics** to the newer **Equipment Style**.  
+> :shiny: [Survival] Updated **Miner Relic** information and removed unnecessary lore.  
+> :shiny: [Survival] Added a brand-new questline — run errands for **Thaddeus Barrow** located in the **Mine Dungeon**.  
+> :shiny: [Survival] Modified **Questline NPC** holograms.  
+> :shiny: [Survival] Fixed **Guard Shop** not opening the trader interface.  
+> :shiny: [Survival] Completing **Thaddeus Barrow’s** quest will now grant an exclusive **"/tag"**.  
 > 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> **FARMING**  
+> :shiny: [Survival] Renamed **Chilly Seeds** to **Pepper Seeds** *(replace old seeds via ticket)*.  
+> :shiny: [Survival] Added **Mandrake** spawn at **"/farms"**, allowing players to chase it for loot.  
 > 
-> **ENTITIY CHANGES**
-> :shiny: [Survival] 
-> 
-> **TOURNAMENT**
-> :shiny: [Survival] 
-> 
-> **BANK**
-> :shiny: [Survival] 
-> 
-> **FARMING**
-> :shiny: [Survival] Renamed **Chilly Seeds** to **Pepper Seeds**. *(Get old seeds replaced via ticket)*
-> :shiny: [Survival] Added **Mandrake** spawn at **"/farms"**, allowing players to find and chase the mandrake for its loot!
-> 
-> **FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
-> **FISHING**
-> :shiny: [Survival] 
-> 
-> **SHOP CHANGES**
-> :shiny: [Survival] 
-> 
-> **ARENA CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Hypogeum Arena] 
-> 
-> **BLACKSMITH**
-> :shiny: [Survival] 
-> 
-> **CODEX**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **TINKERER**
-> :shiny: [Survival] 
-> 
-> **DUNGEON**
-> :shiny: [Survival] 
-> 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON FROST CHANGES**  
-> :shiny: [Survival] 
-> 
-> **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON WASTELAND CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON HALLOWEEN CHANGES**
-> :shiny: [Survival] 
-> 
-> **/SHOP** *(_QueenChaos95180)*
-> :shiny: [Survival] 
-> 
-> **SPOODER LAIR**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **WEBSITE**
-> :xmas_Snowflake: [Website] 
-> 
-> **TEXTURES**
-> :shiny: [Textures]
-> :shiny: [Bedrock] 
-> 
-> **OPTIMIZATION**
-> :shiny: [Survival] 
-> 
-> **HUB REALM**
-> :sdragon: [Lobby] 
-> 
-> **NETWORK**
-> :spaceheart1: [Network] 
-> 
-> **WEBSITE**
-> :computer: [Website] 
-> 
-> **WEBSTORE**
-> :computer: [Website] 
-> :shiny: [Survival] 
+> **NETWORK**  
+> :spaceheart1: [Network] Updated server to the latest **Bedrock version**.  
+> :spaceheart1: [Network] Updated the **Friends System**.  
 > 
 > **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**

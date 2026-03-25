@@ -1,79 +1,17 @@
-**Patch/Changes 2.0.15** *[Oneblock]*
-> :grass: Fixed an issue where players weren't able to do **"/pwarp reset"**.
-> :grass: Added **Skin Remover** utility item at **Generous Shop**.
-> :grass: Added **Hat Perk** consumable item at **Scroll Shop**.
-> :grass: All **Scrolls** will drop some form of **Enchanting XP** when players craft them.
-> :grass: Fixed an issue where players were not able to make shops with custom items.
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
+**Patch/Changes 2.0.15** *[Oneblock]*  
+> :grass: Fixed an issue where players couldn’t use **"/pwarp reset"**.  
+> :grass: Added **Skin Remover** utility item at the **Generous Shop**.  
+> :grass: Added **Hat Perk** consumable item at the **Scroll Shop**.  
+> :grass: All **Scrolls** will now grant **Enchanting XP** when crafted.  
+> :grass: Fixed an issue where players were unable to create shops with custom items.  
 > 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
+> **COAL DUNGEON**  
+> :grass: Fixed an issue where **SOOT SHAMAN** was dropping **Topaz** instead of **Ruby**.  
 > 
-> :Sparkles: [Store] 
+> **CAVE DUNGEON**  
+> :grass: Reduced **Endshade’s** particles by **90%**.  
 > 
-> **DUNGEON**
-> :grass: 
-> 
-> **COAL DUNGEON**
-> :grass: Fixed an issue with **SOOT SHAMAN** dropping Topaz instead of Ruby.
-> :grass: 
-> 
-> **CAVE DUNGEON**
-> :grass: Nerfed **Endshade's** particles by **90%**.
-> :grass: 
-> 
-> **HOLOGRAMS**
-> :grass: 
-> 
-> **ISLAND**
-> :grass: 
-> 
-> **BANK**
-> :grass: 
-> 
-> **BLACKSMITH**
-> :grass: Added **Refined Miner Armor** in **Armor Station** category at **"/blacksmith"**.
-> :grass: 
-> :grass: 
-> 
-> **TINKERER**
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> **HOLOGRAMS** *(Created by Idiomaticsss)* 
-> :grass: 
+> **BLACKSMITH**  
+> :grass: Added **Refined Miner Armor** to the **Armor Station** category at **"/blacksmith"**.  
 >  
 > **[ @Changelogs ]**
-
-**AUTO RESPONSE**
-**CRATES**
