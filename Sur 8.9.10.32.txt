@@ -44,6 +44,7 @@
 > :shiny: [Hypogeum Arena] 
 > 
 > **BLACKSMITH**
+> :shiny: [Survival] Reduced **Steel Armor's** recipe from **128 Iron Ingot** to **48 Iron Ingot**
 > :shiny: [Survival] 
 > 
 > **CODEX**
