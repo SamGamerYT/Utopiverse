@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.16** *[Oneblock]*
-> :grass: 
+> :grass: Modified **Questline NPC's** hologram.
 > :grass: 
 > :grass: 
 > :grass: 
