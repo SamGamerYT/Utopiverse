@@ -98,6 +98,7 @@
 > 
 > **HUB REALM**
 > :sdragon: [Lobby] Updated to version **1.21.11** from **1.21.8**.
+> :sdragon: [Lobby] Updated **Server Selector** for **Bedrock Edition**, Skyblock is now no longer coming soon.
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
