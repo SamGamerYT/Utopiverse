@@ -1,7 +1,7 @@
 **Patch/Changes 2.0.16** *[Oneblock]*
 > :grass: Modified **Questline NPC's** hologram.
 > :grass: **Elvin's Questline NPC** hologram has been modified
-> :grass: 
+> :grass: Relocated **Guide NPC** & **Oneblock Teleportation** NPC.
 > :grass: 
 > :grass: 
 > :grass: 
