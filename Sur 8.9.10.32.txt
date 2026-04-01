@@ -5,7 +5,7 @@
 > :shiny: [Survival] Modified **Hostile, Passive & Block Mined** tournament.
 > :shiny: [Survival] Players will now get notification on **Logging** for unclaimed money in auction or what they sold and to whom.
 > :shiny: [Survival] Added **Auction History** button in **"/ah"**
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Sort Cooldown** for auction house from **5s** to **2s**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
