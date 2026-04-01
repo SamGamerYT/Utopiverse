@@ -2,7 +2,7 @@
 > :shiny: [Survival] Fixed an issue where **SKMASYKW's Questline** won't accept **Crimson Vein Amulet**.
 > :shiny: [Survival] Fixed **SKMASYKW's Questline** quest 21 dialog.
 > :shiny: [Survival] Fixed **Arena NPC** not opening the trading station.
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Hostile, Passive & Block Mined** tournament.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
