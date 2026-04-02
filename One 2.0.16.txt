@@ -8,7 +8,7 @@
 > :grass: Fixed an issue where **Elevators** were not properly displaying colours in chat messages.
 > :grass: **Essence Trader** is now available at the **Castle**!
 > :grass: Complete **Lady Mirelle's** questline to unlock **Essence Shop**.
-> :grass: 
+> :grass: Other players will now see the your equipped player tag below your visible name.
 > :grass: 
 > :grass: 
 > :grass: 
