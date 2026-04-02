@@ -7,7 +7,7 @@
 > :grass: **Crates Area** has been expanded, added placement for **Additional Lootboxes & Monthlycrates**.
 > :grass: Fixed an issue where **Elevators** were not properly displaying colours in chat messages.
 > :grass: **Essence Trader** is now available at the **Castle**!
-> :grass: 
+> :grass: Complete **Lady Mirelle's** questline to unlock **Essence Shop**.
 > :grass: 
 > :grass: 
 > :grass: 
