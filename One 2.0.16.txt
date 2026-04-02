@@ -5,7 +5,7 @@
 > :grass: **Elvin's** Questline has gotten a side quest, go back to him after completing his primary quest after 5 days.
 > :grass: Updated **Store Milestone Bonus**, added **halloween 2025** crate key as a bonus.
 > :grass: **Crates Area** has been expanded, added placement for **Additional Lootboxes & Monthlycrates**.
-> :grass: 
+> :grass: Fixed an issue where **Elevators** were not properly displaying colours in chat messages.
 > :grass: 
 > :grass: 
 > :grass: 
