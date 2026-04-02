@@ -6,7 +6,7 @@
 > :grass: Updated **Store Milestone Bonus**, added **halloween 2025** crate key as a bonus.
 > :grass: **Crates Area** has been expanded, added placement for **Additional Lootboxes & Monthlycrates**.
 > :grass: Fixed an issue where **Elevators** were not properly displaying colours in chat messages.
-> :grass: 
+> :grass: **Essence Trader** is now available at the **Castle**!
 > :grass: 
 > :grass: 
 > :grass: 
