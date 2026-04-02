@@ -6,7 +6,7 @@
 > :shiny: [Survival] Players will now get notification on **Logging** for unclaimed money in auction or what they sold and to whom.
 > :shiny: [Survival] Added **Auction History** button in **"/ah"**
 > :shiny: [Survival] Reduced **Sort Cooldown** for auction house from **5s** to **2s**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an issue where **Elevators** were not properly displaying colours in chat messages.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
