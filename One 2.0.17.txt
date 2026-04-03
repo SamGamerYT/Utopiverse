@@ -4,7 +4,7 @@
 > :grass: Added **Ice Spike, Taiga & Plains** biome ponds.
 > :grass: Added **"/pw"** as an alias for **"/pwarps"**.
 > :grass: **Mystra** will now sell **Unbreaking I** Shield at **Refineshop**.
-> :grass: 
+> :grass: Added **Runestone Merging Station** at **Refineshop**.
 > :grass: 
 > :grass: 
 > :grass: 
