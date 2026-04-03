@@ -2,7 +2,7 @@
 > :grass: Added **ATM** at **"/pvp"**.
 > :grass: Removed **Floating Holograms** at **Biome Ponds**.
 > :grass: Added **Ice Spike, Taiga & Plains** biome ponds.
-> :grass: 
+> :grass: Added **"/pw"** as an alias for **"/pwarps"**.
 > :grass: 
 > :grass: 
 > :grass: 
