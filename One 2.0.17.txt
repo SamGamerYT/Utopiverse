@@ -5,7 +5,7 @@
 > :grass: Added **"/pw"** as an alias for **"/pwarps"**.
 > :grass: **Mystra** will now sell **Unbreaking I** Shield at **Refineshop**.
 > :grass: Added **Runestone Merging Station** at **Refineshop**.
-> :grass: 
+> :grass: Added **Truth Seeker Charm** recipe in **Essence Trader**.
 > :grass: 
 > :grass: 
 > :grass: 
