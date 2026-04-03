@@ -3,7 +3,7 @@
 > :grass: Removed **Floating Holograms** at **Biome Ponds**.
 > :grass: Added **Ice Spike, Taiga & Plains** biome ponds.
 > :grass: Added **"/pw"** as an alias for **"/pwarps"**.
-> :grass: 
+> :grass: **Mystra** will now sell **Unbreaking I** Shield at **Refineshop**.
 > :grass: 
 > :grass: 
 > :grass: 
