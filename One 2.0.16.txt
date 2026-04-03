@@ -1,76 +1,14 @@
-**Patch/Changes 2.0.16** *[Oneblock]*
-> :grass: Modified **Questline NPC's** hologram.
-> :grass: **Elvin's Questline NPC** hologram has been modified
-> :grass: Relocated **Guide NPC** & **Oneblock Teleportation** NPC.
-> :grass: **Elvin's** Questline has gotten a side quest, go back to him after completing his primary quest after 5 days.
-> :grass: Updated **Store Milestone Bonus**, added **halloween 2025** crate key as a bonus.
-> :grass: **Crates Area** has been expanded, added placement for **Additional Lootboxes & Monthlycrates**.
-> :grass: Fixed an issue where **Elevators** were not properly displaying colours in chat messages.
-> :grass: **Essence Trader** is now available at the **Castle**!
-> :grass: Complete **Lady Mirelle's** questline to unlock **Essence Shop**.
-> :grass: Other players will now see the your equipped player tag below your visible name.
-> :grass: Updated **Beggar's Interface**, instead of it calling you broke 24/7, it will tell you the cooldown for donation.
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> :Sparkles: [Store] 
-> 
-> **DUNGEON**
-> :grass: 
-> 
-> **COAL DUNGEON**
-> :grass: 
-> 
-> **CAVE DUNGEON**
-> :grass: 
-> 
-> **HOLOGRAMS**
-> :grass: 
-> 
-> **ISLAND**
-> :grass: 
-> 
-> **BANK**
-> :grass: 
-> 
-> **BLACKSMITH**
-> :grass: 
-> :grass: 
-> 
-> **TINKERER**
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> **HOLOGRAMS** *(Created by Idiomaticsss)* 
-> :grass: 
+**Patch/Changes 2.0.16** *[Oneblock]*  
+> :grass: Modified **Questline NPC** holograms.  
+> :grass: Modified **Elvin’s Questline NPC** hologram.  
+> :grass: Relocated **Guide NPC** and **Oneblock Teleportation** NPC.  
+> :grass: **Elvin’s Questline** now has a side quest, return after completing the primary quest and wait **5 days**.  
+> :grass: Updated **Store Milestone Bonus**, added **Halloween 2025** crate key as a bonus.  
+> :grass: Expanded **Crates Area**, added placements for **additional lootboxes** and **monthly crates**.  
+> :grass: Fixed an issue where **Elevators** were not properly displaying colors in chat messages.  
+> :grass: **Essence Trader** is now available at the **Castle**.  
+> :grass: Complete **Lady Mirelle’s** questline to unlock the **Essence Shop**.  
+> :grass: Other players will now see your equipped **player tag** below your visible name.  
+> :grass: Updated **Beggar’s Interface**, now displays donation cooldown instead of showing "You have no money".  
 >  
 > **[ @Changelogs ]**
-
-**AUTO RESPONSE**
-**CRATES**
