@@ -1,7 +1,7 @@
 **Patch/Changes 2.0.17** *[Oneblock]*
 > :grass: Added **ATM** at **"/pvp"**.
 > :grass: Removed **Floating Holograms** at **Biome Ponds**.
-> :grass: 
+> :grass: Added **Ice Spike, Taiga & Plains** biome ponds.
 > :grass: 
 > :grass: 
 > :grass: 
