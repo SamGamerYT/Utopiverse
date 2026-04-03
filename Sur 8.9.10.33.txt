@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.10.33** *(Network Changes)*  
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Dweller Tag** you get from completing **Thaddeus Barrow's** Questline.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
