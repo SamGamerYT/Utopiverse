@@ -1,6 +1,6 @@
 **Patch/Changes 2.0.17** *[Oneblock]*
 > :grass: Added **ATM** at **"/pvp"**.
-> :grass: 
+> :grass: Removed **Floating Holograms** at **Biome Ponds**.
 > :grass: 
 > :grass: 
 > :grass: 
