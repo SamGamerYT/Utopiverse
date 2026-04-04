@@ -26,8 +26,10 @@
 > :grass: 
 > :grass: 
 > :grass: 
-
-> :grass: 
+> 
+> **FARMING**
+> :grass: Nerfed **Chinese Cabbage Seeds Bundle** primary recipe price from **$500,000** to **$75,000**
+> :grass: Nerfed **Chinese Cabbage Seeds Bundle** secondary recipe price from **$1,500,000** to **$250,000**
 > :grass: 
 > :grass: 
 > :grass: 
