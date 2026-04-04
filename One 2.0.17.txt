@@ -7,7 +7,7 @@
 > :grass: Added **Runestone Merging Station** at **Refineshop**.
 > :grass: Added **Truth Seeker Charm** recipe in **Essence Trader**.
 > :grass: Added **Interaction Button** signs around the interactive furnitures.
-> :grass: 
+> :grass: Fixed **Kicking issue** when players opened **Halloween 2025** Monthlycrate.
 > :grass: 
 > :grass: 
 > :grass: 
