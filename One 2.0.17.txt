@@ -6,7 +6,7 @@
 > :grass: **Mystra** will now sell **Unbreaking I** Shield at **Refineshop**.
 > :grass: Added **Runestone Merging Station** at **Refineshop**.
 > :grass: Added **Truth Seeker Charm** recipe in **Essence Trader**.
-> :grass: Added **
+> :grass: Added **Interaction Button** signs around the interactive furnitures.
 > :grass: 
 > :grass: 
 > :grass: 
