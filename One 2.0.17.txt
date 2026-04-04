@@ -66,7 +66,7 @@
 > 
 > **REFINESHOP**
 > :grass: Added **Runestone Station** and **Refinery Station**.
-> :grass: 
+> :grass: Changed **Equipments Information** hologram from stating **"/rpginv"** to **"/armory"**.
 > :grass: 
 > 
 > **HOLOGRAMS** *(Created by Idiomaticsss)* 
