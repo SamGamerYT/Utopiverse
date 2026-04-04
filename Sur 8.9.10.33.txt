@@ -59,6 +59,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON MINE CHANGES**
+> :shiny: [Survival] Expanded **Mine Dungeon** spawn section near the stairway.
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
