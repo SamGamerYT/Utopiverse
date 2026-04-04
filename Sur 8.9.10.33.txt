@@ -60,6 +60,7 @@
 > 
 > **DUNGEON MINE CHANGES**
 > :shiny: [Survival] Expanded **Mine Dungeon** spawn section near the stairway.
+> :shiny: [Survival] Added **Equipments** advertising NPC to assist new players.
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
