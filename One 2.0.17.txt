@@ -6,7 +6,7 @@
 > :grass: **Mystra** will now sell **Unbreaking I** Shield at **Refineshop**.
 > :grass: Added **Runestone Merging Station** at **Refineshop**.
 > :grass: Added **Truth Seeker Charm** recipe in **Essence Trader**.
-> :grass: 
+> :grass: Added **
 > :grass: 
 > :grass: 
 > :grass: 
@@ -62,8 +62,8 @@
 > :grass: 
 > :grass: 
 > 
-> **TINKERER**
-> :grass: 
+> **REFINESHOP**
+> :grass: Added **Runestone Station** and **Refinery Station**.
 > :grass: 
 > :grass: 
 > 
