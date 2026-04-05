@@ -2,8 +2,8 @@
 > :shiny: [Survival] Modified **Dweller Tag** you get from completing **Thaddeus Barrow's** Questline.
 > :shiny: [Survival] All bandages will now repair armor durability.
 > :shiny: [Survival] Green Bandage from **5 Heal, 30 Mana** to **10 Heal, 100 Mana**
-> :shiny: [Survival] Red Bandage from to **5 Heal, 60 Mana** to **25 Heal, 200 Mana/Repair**
-> :shiny: [Survival] Magenta Bandage from **5 Heal, 100 Mana** to **50 Heal, 250 Mana/Repair**
+> :shiny: [Survival] Red Bandage from to **5 Heal, 60 Mana** to **25 Heal, 200 Mana**
+> :shiny: [Survival] Magenta Bandage from **5 Heal, 100 Mana** to **50 Heal, 250 Mana**
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
