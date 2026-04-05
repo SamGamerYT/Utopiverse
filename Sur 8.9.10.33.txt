@@ -9,7 +9,7 @@
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Class** related information from **Scoreboard**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
