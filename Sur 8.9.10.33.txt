@@ -6,7 +6,7 @@
 > :shiny: [Survival] Magenta Bandage from **5 Heal, 100 Mana** to **50 Heal, 250 Mana**
 > :shiny: [Survival] Added **Herbal Whetstone** and **Aetherstone** recipes in **Repair Station**.
 > :shiny: [Survival] **Milestone: Copper #2** will unlock **Herbal Whetstone's** recipe.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **1x Gapple** recipe not showing up in **Guard Trader**.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] Removed **Class** related information from **Scoreboard**.
