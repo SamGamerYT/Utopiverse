@@ -1,71 +1,24 @@
-**Patch/Changes 2.0.17** *[Oneblock]*
-> :grass: Added **ATM** at **"/pvp"**.
-> :grass: Removed **Floating Holograms** at **Biome Ponds**.
-> :grass: Added **Ice Spike, Taiga & Plains** biome ponds.
-> :grass: Added **"/pw"** as an alias for **"/pwarps"**.
-> :grass: **Mystra** will now sell **Unbreaking I** Shield at **Refineshop**.
-> :grass: Added **Runestone Merging Station** at **Refineshop**.
-> :grass: Added **Truth Seeker Charm** recipe in **Essence Trader**.
-> :grass: Added **Interaction Button** signs around the interactive furnitures.
-> :grass: Fixed **Kicking issue** when players opened **Halloween 2025** Monthlycrate.
+**Patch/Changes 2.0.17** *[Oneblock]*  
+> :grass: Added **ATM** at **"/pvp"**.  
+> :grass: Removed **Floating Holograms** at **Biome Ponds**.  
+> :grass: Added **Ice Spike**, **Taiga**, and **Plains** biome ponds.  
+> :grass: Added **"/pw"** as an alias for **"/pwarps"**.  
+> :grass: **Mystra** will now sell **Unbreaking I Shield** at **Refineshop**.  
+> :grass: Added **Runestone Merging Station** at **Refineshop**.  
+> :grass: Added **Truth Seeker Charm** recipe in **Essence Trader**.  
+> :grass: Added **Interaction Button** signs around interactive furniture.  
+> :grass: Fixed **kicking issue** when players opened **Halloween 2025** Monthly Crate.  
 > :grass: Added **Easter 2026** Lootbox at **"/warp crates"**.  
 > :grass: Added **Easter Bunny** questline at **"/farms"**.  
 > 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
+> **FARMING**  
+> :grass: Reduced **Chinese Cabbage Seeds Bundle** primary recipe price from **$500,000** to **$75,000**.  
+> :grass: Reduced **Chinese Cabbage Seeds Bundle** secondary recipe price from **$1,500,000** to **$250,000**.  
+> :grass: Reduced **Cabbage Seeds Bundle** primary recipe price from **$500,000** to **$75,000**.  
+> :grass: Reduced **Cabbage Seeds Bundle** secondary recipe price from **$1,500,000** to **$250,000**.  
 > 
-> **FARMING**
-> :grass: Nerfed **Chinese Cabbage Seeds Bundle** primary recipe price from **$500,000** to **$75,000**
-> :grass: Nerfed **Chinese Cabbage Seeds Bundle** secondary recipe price from **$1,500,000** to **$250,000**
-> :grass: Nerfed **Cabbage Seeds Bundle** primary recipe price from **$500,000** to **$75,000**
-> :grass: Nerfed **Cabbage Seeds Bundle** secondary recipe price from **$1,500,000** to **$250,000**
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> :Sparkles: [Store] 
-> 
-> **DUNGEON**
-> :grass: 
-> 
-> **COAL DUNGEON**
-> :grass: 
-> 
-> **CAVE DUNGEON**
-> :grass: 
-> 
-> **HOLOGRAMS**
-> :grass: 
-> 
-> **ISLAND**
-> :grass: 
-> 
-> **BANK**
-> :grass: 
-> 
-> **BLACKSMITH**
-> :grass: 
-> :grass: 
-> 
-> **REFINESHOP**
-> :grass: Added **Runestone Station** and **Refinery Station**.
-> :grass: Changed **Equipments Information** hologram from stating **"/rpginv"** to **"/armory"**.
-> :grass: 
-> 
-> **HOLOGRAMS** *(Created by Idiomaticsss)* 
-> :grass: 
+> **REFINESHOP**  
+> :grass: Added **Runestone Station** and **Refinery Station**.  
+> :grass: Changed **Equipment Information** hologram from **"/rpginv"** to **"/armory"**.  
 >  
 > **[ @Changelogs ]**
