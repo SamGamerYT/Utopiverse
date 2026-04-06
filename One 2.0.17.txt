@@ -8,8 +8,8 @@
 > :grass: Added **Truth Seeker Charm** recipe in **Essence Trader**.
 > :grass: Added **Interaction Button** signs around the interactive furnitures.
 > :grass: Fixed **Kicking issue** when players opened **Halloween 2025** Monthlycrate.
-> :grass: 
-> :grass: 
+> :grass: Added **Easter 2026** Lootbox at **"/warp crates"**.  
+> :grass: Added **Easter Bunny** questline at **"/farms"**.  
 > :grass: 
 > :grass: 
 > :grass: 

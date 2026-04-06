@@ -1,19 +1,19 @@
 **Patch/Changes 8.9.10.33** *(Network Changes)*  
-> :shiny: [Survival] Modified **Dweller Tag** you get from completing **Thaddeus Barrow's** Questline.
-> :shiny: [Survival] All bandages will now repair armor durability.
-> :shiny: [Survival] Green Bandage from **5 Heal, 30 Mana** to **10 Heal, 100 Mana**
-> :shiny: [Survival] Red Bandage from to **5 Heal, 60 Mana** to **25 Heal, 200 Mana**
-> :shiny: [Survival] Magenta Bandage from **5 Heal, 100 Mana** to **50 Heal, 250 Mana**
-> :shiny: [Survival] Added **Herbal Whetstone** and **Aetherstone** recipes in **Repair Station**.
-> :shiny: [Survival] **Milestone: Copper #2** will unlock **Herbal Whetstone's** recipe.
-> :shiny: [Survival] Fixed **1x Gapple** recipe not showing up in **Guard Trader**.
-> :shiny: [Survival] Added **Easter 2026** Lootbox at **"/warp crates"**
+> :shiny: [Survival] Modified **Dweller Tag** obtained from completing **Thaddeus Barrow’s** questline.  
+> :shiny: [Survival] All **Bandages** will now repair **armor durability**.  
+> :shiny: [Survival] **Green Bandage** changed from **5 Heal, 30 Mana** to **10 Heal, 100 Mana**.  
+> :shiny: [Survival] **Red Bandage** changed from **5 Heal, 60 Mana** to **25 Heal, 200 Mana**.  
+> :shiny: [Survival] **Magenta Bandage** changed from **5 Heal, 100 Mana** to **50 Heal, 250 Mana**.  
+> :shiny: [Survival] Added **Herbal Whetstone** and **Aetherstone** recipes to the **Repair Station**.  
+> :shiny: [Survival] **Milestone: Copper #2** will unlock the **Herbal Whetstone** recipe.  
+> :shiny: [Survival] Fixed **1x Gapple** recipe not appearing in the **Guard Trader**.  
+> :shiny: [Survival] Added **Easter 2026** Lootbox at **"/warp crates"**.  
 > 
-> :shiny: [Survival] Removed **Class** related information from **Scoreboard**.
-> :shiny: [Survival] Added **Easter Bunny** Questline at **"/farms"**.
+> :shiny: [Survival] Removed **Class**-related information from the **Scoreboard**.  
+> :shiny: [Survival] Added **Easter Bunny** questline at **"/farms"**.  
 > 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] Expanded **Mine Dungeon** spawn section near the stairway.
-> :shiny: [Survival] Added **Equipments** advertising NPC to assist new players.
+> **DUNGEON MINE CHANGES**  
+> :shiny: [Survival] Expanded **Mine Dungeon** spawn section near the stairway.  
+> :shiny: [Survival] Added an **Equipment Advertising NPC** to assist new players.  
 > 
 > **[ @Changelogs ]**
