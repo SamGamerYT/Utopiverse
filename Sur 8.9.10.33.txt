@@ -7,10 +7,10 @@
 > :shiny: [Survival] Added **Herbal Whetstone** and **Aetherstone** recipes in **Repair Station**.
 > :shiny: [Survival] **Milestone: Copper #2** will unlock **Herbal Whetstone's** recipe.
 > :shiny: [Survival] Fixed **1x Gapple** recipe not showing up in **Guard Trader**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Easter 2026** Lootbox at **"/warp crates"**
 > 
 > :shiny: [Survival] Removed **Class** related information from **Scoreboard**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Easter Bunny** Questline at **"/farms"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
