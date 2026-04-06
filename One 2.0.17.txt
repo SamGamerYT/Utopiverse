@@ -10,10 +10,6 @@
 > :grass: Fixed **Kicking issue** when players opened **Halloween 2025** Monthlycrate.
 > :grass: Added **Easter 2026** Lootbox at **"/warp crates"**.  
 > :grass: Added **Easter Bunny** questline at **"/farms"**.  
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
 > 
 > :grass: 
 > :grass: 
