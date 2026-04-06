@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.10.34** *(Network Changes)*  
 > :shiny: [Survival] Relocated **Dungeon Tip** hologram from **Dungeon Portal** to **"/warp mine"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **"/mall"** command.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
