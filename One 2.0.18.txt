@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.18** *[Oneblock]*
-> :grass: 
+> :grass: Fixed **Silver Hoe** showing the wrong rank in **Crafting Station**.
 > :grass: 
 > :grass: 
 > :grass: 
