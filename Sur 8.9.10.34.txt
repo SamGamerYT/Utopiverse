@@ -60,6 +60,7 @@
 > 
 > **DUNGEON MINE CHANGES**
 > :shiny: [Survival] Added **Auction Information** banner in the **Coal Layer**.
+> :shiny: [Survival] Modified **Farmer NPC** background image.
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
