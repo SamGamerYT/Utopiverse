@@ -3,7 +3,7 @@
 > :shiny: [Survival] Added **"/mall"** command.
 > :shiny: [Survival] Modified **Death Chest** chat command, from [UNLOCK] [TELEPORT] to [/acunlock] [/actp]
 > :shiny: [Survival] Modified **Death Chest** hologram, removed **Experience** line.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Death Chest** banner near **"/spawn"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
