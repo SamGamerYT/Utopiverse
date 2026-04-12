@@ -1,17 +1,17 @@
 **Patch/Changes 8.9.10.34** *(Network Changes)*  
-> :shiny: [Survival] Relocated **Dungeon Tip** hologram from **Dungeon Portal** to **"/warp mine"**.
-> :shiny: [Survival] Added **"/mall"** command.
-> :shiny: [Survival] Modified **Death Chest** chat command, from [UNLOCK] [TELEPORT] to [/acunlock] [/actp]
-> :shiny: [Survival] Modified **Death Chest** hologram, removed **Experience** line.
-> :shiny: [Survival] Added **Death Chest** banner near **"/spawn"**.
-> :shiny: [Survival] Fixed **Divinity** rank not increasing **Mall Limit** to **4**.
-> :shiny: [Survival] Another revamp on **Block/Farm Regeneration** new system to ensure everything continues to work as it should.
+> :shiny: [Survival] Relocated **Dungeon Tip** hologram from **Dungeon Portal** to **"/warp mine"**.  
+> :shiny: [Survival] Added **"/mall"** command.  
+> :shiny: [Survival] Modified **Death Chest** chat commands from **[UNLOCK] [TELEPORT]** to **[/acunlock] [/actp]**.  
+> :shiny: [Survival] Modified **Death Chest** hologram, removed **Experience** line.  
+> :shiny: [Survival] Added **Death Chest** banner near **"/spawn"**.  
+> :shiny: [Survival] Fixed **Divinity** rank not increasing **Mall Limit** to **4**.  
+> :shiny: [Survival] Revamped **Block/Farm Regeneration** system again to ensure stability.  
 > 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] Added **Auction Information** banner in the **Coal Layer**.
-> :shiny: [Survival] Modified **Farmer NPC** background image.
-> :shiny: [Survival] Relocated **Trader Azure** from **Redstone Layer** to **Lapis Layer**.
-> :shiny: [Survival] Added **Codex** banner to **Lapis Layer** near **Azure Trader**.
-> :shiny: [Survival] Added **Two Rentable** mall shops near **Mine Dungeon's Entrance**.
+> **DUNGEON MINE CHANGES**  
+> :shiny: [Survival] Added **Auction Information** banner in the **Coal Layer**.  
+> :shiny: [Survival] Modified **Farmer NPC** background image.  
+> :shiny: [Survival] Relocated **Trader Azure** from **Redstone Layer** to **Lapis Layer**.  
+> :shiny: [Survival] Added **Codex** banner to **Lapis Layer** near **Azure Trader**.  
+> :shiny: [Survival] Added **Two Rentable** mall shops near **Mine Dungeon Entrance**.  
 > 
 > **[ @Changelogs ]**
