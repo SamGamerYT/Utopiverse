@@ -5,7 +5,7 @@
 > :shiny: [Survival] Modified **Death Chest** hologram, removed **Experience** line.
 > :shiny: [Survival] Added **Death Chest** banner near **"/spawn"**.
 > :shiny: [Survival] Fixed **Divinity** rank not increasing **Mall Limit** to **4**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Another revamp on **Block/Farm Regeneration** new system to ensure everything continues to work as it should.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
