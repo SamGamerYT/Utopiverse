@@ -1,7 +1,7 @@
 **Patch/Changes 2.0.18** *[Oneblock]*
 > :grass: Fixed **Silver Hoe** showing the wrong rank in **Crafting Station**.
 > :grass: Added **Auction Information** banner near **Auction Building**.
-> :grass: 
+> :grass: Added **Codex Information** banner infront of **"/warp Coal"**.
 > :grass: 
 > :grass: 
 > :grass: 
