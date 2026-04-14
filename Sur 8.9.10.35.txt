@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.10.35** *(Network Changes)*  
 > :shiny: [Survival] Fixed **Cobalt Ore** not working properly in **Frost Dungeon**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Welcome Gift** information hologram.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
