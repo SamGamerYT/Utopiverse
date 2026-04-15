@@ -2,7 +2,7 @@
 > :grass: Fixed **Silver Hoe** showing the wrong rank in **Crafting Station**.
 > :grass: Added **Auction Information** banner near **Auction Building**.
 > :grass: Added **Codex Information** banner infront of **"/warp Coal"**.
-> :grass: 
+> :grass: Server has been updated to **1.21.11**.
 > :grass: 
 > :grass: 
 > :grass: 
