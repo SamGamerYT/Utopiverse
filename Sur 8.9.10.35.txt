@@ -4,7 +4,7 @@
 > :shiny: [Survival] **Artmap**'s cursor bug has been fixed.
 > :shiny: [Survival] Fixed **RPG Gear** allowing enchantments or CE's without the label.
 > :shiny: [Survival] Fixed **Bee Crossbow** & **Bee Fishing Rod** not showing their label properly.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Debug Message** from **Henry the Cowboy** questline.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
