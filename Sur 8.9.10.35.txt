@@ -45,6 +45,7 @@
 > 
 > **BLACKSMITH**
 > :shiny: [Survival] Added **Lost Miner Set**, **Upgraded Miner Set**, & **Refined Miner Set** Upgrade math in **Reforge NPC**.
+> :shiny: [Survival] Nerfed **Upgraded Miner Set** crafting recipe, **Refined Kyanite** quantity has been decreased to **1**.
 > :shiny: [Survival] 
 > 
 > **CODEX**
