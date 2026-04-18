@@ -6,7 +6,7 @@
 > :shiny: [Survival] Fixed **Bee Crossbow** & **Bee Fishing Rod** not showing their label properly.
 > :shiny: [Survival] Removed **Debug Message** from **Henry the Cowboy** questline.
 > :shiny: [Survival] Fixed **Steel Set**, **Lost Miner Set**, **Upgraded Miner Set**, & **Refined Miner Set** durability bug.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Mob Catcher**'s recipe at **Farmer NPC** in **Farming Utilities** station.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
