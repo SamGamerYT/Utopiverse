@@ -7,7 +7,7 @@
 > :shiny: [Survival] Removed **Debug Message** from **Henry the Cowboy** questline.
 > :shiny: [Survival] Fixed **Steel Set**, **Lost Miner Set**, **Upgraded Miner Set**, & **Refined Miner Set** durability bug.
 > :shiny: [Survival] Added **Mob Catcher**'s recipe at **Farmer NPC** in **Farming Utilities** station.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Nether** & **The End** Random Teleportation are now locked behind rankup.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
