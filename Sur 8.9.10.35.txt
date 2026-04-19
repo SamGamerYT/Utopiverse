@@ -9,7 +9,7 @@
 > :shiny: [Survival] Added **Mob Catcher**'s recipe at **Farmer NPC** in **Farming Utilities** station.
 > :shiny: [Survival] **Nether** & **The End** Random Teleportation are now locked behind rankup.
 > 
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed a bug with **Page 2** of **Rankup** interface.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
