@@ -3,7 +3,7 @@
 > :grass: Added **Auction Information** banner near **Auction Building**.
 > :grass: Added **Codex Information** banner infront of **"/warp Coal"**.
 > :grass: Server has been updated to **1.21.11**.
-> :grass: Fixed **The Exchanger**, **Farmer** Trading Station not opening.
+> :grass: Fixed **The Exchanger**, **Farmer** & **The Smither** Trading Station not opening.
 > :grass: 
 > :grass: 
 > :grass: 
