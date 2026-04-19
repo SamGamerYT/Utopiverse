@@ -4,7 +4,7 @@
 > :grass: Added **Codex Information** banner infront of **"/warp Coal"**.
 > :grass: Server has been updated to **1.21.11**.
 > :grass: Fixed **The Exchanger**, **Farmer** & **The Smither** Trading Station not opening.
-> :grass: 
+> :grass: Fixed **Loot Exchanger**'s Trading Station not accepting dungeon loot.
 > :grass: 
 > :grass: 
 > :grass: 
