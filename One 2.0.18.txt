@@ -5,7 +5,7 @@
 > :grass: Server has been updated to **1.21.11**.
 > :grass: Fixed **The Exchanger**, **Farmer** & **The Smither** Trading Station not opening.
 > :grass: Fixed **Loot Exchanger**'s Trading Station not accepting dungeon loot.
-> :grass: 
+> :grass: Added **Welcome Gift** banner at **"/spawn"**.
 > :grass: 
 > :grass: 
 > :grass: 
