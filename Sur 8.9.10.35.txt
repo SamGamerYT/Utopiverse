@@ -12,7 +12,7 @@
 > :shiny: [Survival] Fixed a bug with **Page 2** of **Rankup** interface.
 > :shiny: [Survival] Added **Previous Page** button to **"/ranks"**.
 > :shiny: [Survival] Disabled **Veinminer** & **Smelting** in **Dungeon Worlds**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Improved **Starter Kit** for new players, added multiple tips for players to learn from.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
