@@ -1,162 +1,22 @@
-**Patch/Changes 8.9.10.35** *(Network Changes)*  
-> :shiny: [Survival] Fixed **Cobalt Ore** not working properly in **Frost Dungeon**.
+**Patch/Changes 8.9.10.35** *(Network Changes)*
+> :shiny: [Survival] Fixed **Cobalt Ore** not working properly in the **Frost Dungeon**.
 > :shiny: [Survival] Added **Welcome Gift** information hologram.
-> :shiny: [Survival] **Artmap**'s cursor bug has been fixed.
-> :shiny: [Survival] Fixed **RPG Gear** allowing enchantments or CE's without the label.
-> :shiny: [Survival] Fixed **Bee Crossbow** & **Bee Fishing Rod** not showing their label properly.
+> :shiny: [Survival] Fixed **Artmap** cursor bug.
+> :shiny: [Survival] Fixed **RPG Gear** allowing enchantments or CEs without the proper label.
+> :shiny: [Survival] Fixed **Bee Crossbow** and **Bee Fishing Rod** not showing their labels properly.
 > :shiny: [Survival] Removed **Debug Message** from **Henry the Cowboy** questline.
-> :shiny: [Survival] Fixed **Steel Set**, **Lost Miner Set**, **Upgraded Miner Set**, & **Refined Miner Set** durability bug.
-> :shiny: [Survival] Added **Mob Catcher**'s recipe at **Farmer NPC** in **Farming Utilities** station.
-> :shiny: [Survival] **Nether** & **The End** Random Teleportation are now locked behind rankup.
+> :shiny: [Survival] Fixed durability bugs for **Steel Set**, **Lost Miner Set**, **Upgraded Miner Set**, and **Refined Miner Set**.
+> :shiny: [Survival] Added **Mob Catcher** recipe at the **Farmer NPC** in the **Farming Utilities** station.
+> :shiny: [Survival] **Nether** and **The End** random teleportation are now locked behind rankup.
 > 
-> :shiny: [Survival] Fixed a bug with **Page 2** of **Rankup** interface.
+> :shiny: [Survival] Fixed a bug with **Page 2** of the **Rankup** interface.
 > :shiny: [Survival] Added **Previous Page** button to **"/ranks"**.
-> :shiny: [Survival] Disabled **Veinminer** & **Smelting** in **Dungeon Worlds**.
-> :shiny: [Survival] Improved **Starter Kit** for new players, added multiple tips for players to learn from.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> 
-> **ENTITIY CHANGES**
-> :shiny: [Survival] 
-> 
-> **TOURNAMENT**
-> :shiny: [Survival] 
-> 
-> **BANK**
-> :shiny: [Survival] 
-> 
-> **FARMING**
-> :shiny: [Survival] 
-> 
-> **FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
-> **FISHING**
-> :shiny: [Survival] 
-> 
-> **SHOP CHANGES**
-> :shiny: [Survival] 
-> 
-> **ARENA CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Hypogeum Arena] 
+> :shiny: [Survival] Disabled **Veinminer** and **Smelting** in **Dungeon Worlds**.
+> :shiny: [Survival] Improved **Starter Kit** for new players and added multiple tips to help them learn.
 > 
 > **BLACKSMITH**
-> :shiny: [Survival] Added **Lost Miner Set**, **Upgraded Miner Set**, & **Refined Miner Set** Upgrade math in **Reforge NPC**.
-> :shiny: [Survival] Nerfed **Upgraded Miner Set** crafting recipe, **Refined Kyanite** quantity has been decreased to **1**.
-> :shiny: [Survival] Updated **Metamorphic Rock**'s description to match the new upgrades.
-> :shiny: [Survival] 
-> 
-> **CODEX**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **TINKERER**
-> :shiny: [Survival] 
-> 
-> **DUNGEON**
-> :shiny: [Survival] 
-> 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON FROST CHANGES**  
-> :shiny: [Survival] 
-> 
-> **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON WASTELAND CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON HALLOWEEN CHANGES**
-> :shiny: [Survival] 
-> 
-> **/SHOP** *(_QueenChaos95180)*
-> :shiny: [Survival] 
-> 
-> **SPOODER LAIR**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **WEBSITE**
-> :xmas_Snowflake: [Website] 
-> 
-> **TEXTURES**
-> :shiny: [Textures]
-> :shiny: [Bedrock] 
-> 
-> **OPTIMIZATION**
-> :shiny: [Survival] 
-> 
-> **HUB REALM**
-> :sdragon: [Lobby] 
-> 
-> **NETWORK**
-> :spaceheart1: [Network] 
-> 
-> **WEBSITE**
-> :computer: [Website] 
-> 
-> **WEBSTORE**
-> :computer: [Website] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Lost Miner Set**, **Upgraded Miner Set**, and **Refined Miner Set** upgrade math in the **Reforge NPC**.
+> :shiny: [Survival] Nerfed **Upgraded Miner Set** crafting recipe; **Refined Kyanite** quantity has been decreased to **1**.
+> :shiny: [Survival] Updated **Metamorphic Rock** description to match the new upgrades.
 > 
 > **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
