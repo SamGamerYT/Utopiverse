@@ -3,7 +3,7 @@
 > :shiny: [Survival] Added **Unbreaking V's** recipe in **Witchcraft Pedestal** station.
 > :shiny: [Survival] Reduced **Mending II's** recipe from **6 Mending I** to **2 Mending I**.
 > :shiny: [Survival] Added **Resilience Applicator** recipe in **Witchcraft Pedestal** station.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Dreadplate Armour Set** now has **CE Compatible** label.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
