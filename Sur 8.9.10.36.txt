@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.10.36** *(Network Changes)*  
-> :shiny: [Survival] 
+> :shiny: [Survival] Added dialog to **Skmasykw's** questline if you have not completed **_WhippyFireX9**'s questline.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
