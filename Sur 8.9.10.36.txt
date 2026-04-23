@@ -47,6 +47,7 @@
 > :shiny: [Survival] Added **Refined Copper** recipe in **Refinery Station**.
 > :shiny: [Survival] Updated **Witch's** Scrolls & **Witchcraft Pedestal** Stations preview menu.
 > :shiny: [Survival] Reorganized **Scroll Station** for better look.
+> :shiny: [Survival] Added **Micro & Small Protection Stones** teleportations permission scrolls.
 > :shiny: [Survival] 
 > 
 > **CODEX**
