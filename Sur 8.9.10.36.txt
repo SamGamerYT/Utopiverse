@@ -45,6 +45,7 @@
 > 
 > **BLACKSMITH**
 > :shiny: [Survival] Added **Refined Copper** recipe in **Refinery Station**.
+> :shiny: [Survival] Updated **Witch's** Scrolls & **Witchcraft Pedestal** Stations preview menu.
 > :shiny: [Survival] 
 > 
 > **CODEX**
