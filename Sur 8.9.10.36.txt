@@ -4,7 +4,7 @@
 > :shiny: [Survival] Reduced **Mending II's** recipe from **6 Mending I** to **2 Mending I**.
 > :shiny: [Survival] Added **Resilience Applicator** recipe in **Witchcraft Pedestal** station.
 > :shiny: [Survival] **Dreadplate Armour Set** now has **CE Compatible** label.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Double $$** from **/sellg** messages.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
