@@ -5,7 +5,7 @@
 > :shiny: [Survival] Added **Resilience Applicator** recipe in **Witchcraft Pedestal** station.
 > :shiny: [Survival] **Dreadplate Armour Set** now has **CE Compatible** label.
 > :shiny: [Survival] Removed **Double $$** from **/sellg** messages.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Codex Furniture & Hologram** from the entrance of **Arena**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
