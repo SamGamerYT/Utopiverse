@@ -99,6 +99,7 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
+> :sdragon: [Lobby] Added **Zoo Event** information hologram.
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
