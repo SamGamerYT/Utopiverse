@@ -9,7 +9,7 @@
 > :shiny: [Survival] **Visitor** will no longer be able sell items on **Auction House**
 > :shiny: [Survival] Added **Eternal Fire** drop chances information to **King in Flames** codex.
 > 
-> :shiny: [Survival] **King in Flames** has a new drop called **Eternal Fire**.
+> :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
@@ -69,7 +69,8 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] 
+> :shiny: [Survival] **King in Flames** has a new drop called **Eternal Fire**.
+> :shiny: [Survival] **HEAVILY** buffed **King in Flames'** drop minimum.
 > 
 > **DUNGEON WASTELAND CHANGES**
 > :shiny: [Survival] 
