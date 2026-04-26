@@ -66,6 +66,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
+> :shiny: [Survival] Fixed an issue where players with 1000+ Souls weren't able to properly craft stuff.
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
