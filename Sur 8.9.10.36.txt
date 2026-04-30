@@ -12,7 +12,7 @@
 > :shiny: [Survival] **Ravencross's** Questline is now available near the **Tutorial Zone** at the **Cosmetic Shop**.
 > :shiny: [Survival] **Timber** feature has been removed from **Resource World**.
 > :shiny: [Survival] Fixed **Crop Pepper** bug where players would be getting Leather & Paper instead of normal pepper.
-> :shiny: [Survival] 
+> :shiny: [Survival] **INTRODUCING NEW LOOTBOX** Exclusive for short period of time! **MAY THE FORCE LOOTBOX**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
