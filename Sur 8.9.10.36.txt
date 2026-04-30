@@ -17,7 +17,7 @@
 > :shiny: [Survival] Added hints to **Codex's Regions**, allowing players to find the locations a little easily.
 > :shiny: [Survival] Removed **Bartender** from the codex interface.
 > :shiny: [Survival] Added **Questline** codex that shows what you earned and when you completed the quests.
-> :shiny: [Survival] 
+> :shiny: [Survival] Certain questlines will now announce in chat for everyone to read whenever you complete the quest.
 > :shiny: [Survival] 
 > 
 > **ENTITIY CHANGES**
