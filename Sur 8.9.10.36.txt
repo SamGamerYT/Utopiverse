@@ -16,7 +16,7 @@
 > :shiny: [Survival] Added **Warps Icons** for players to easily recognize each **Warping Area** 
 > :shiny: [Survival] Added hints to **Codex's Regions**, allowing players to find the locations a little easily.
 > :shiny: [Survival] Removed **Bartender** from the codex interface.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Questline** codex that shows what you earned and when you completed the quests.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
