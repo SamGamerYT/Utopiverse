@@ -14,7 +14,7 @@
 > :shiny: [Survival] Fixed **Crop Pepper** bug where players would be getting Leather & Paper instead of normal pepper.
 > :shiny: [Survival] **INTRODUCING NEW LOOTBOX** Exclusive for short period of time! **MAY THE FORCE LOOTBOX**.
 > :shiny: [Survival] Added **Warps Icons** for players to easily recognize each **Warping Area** 
-> :shiny: [Survival] 
+> :shiny: [Survival] Added hints to **Codex's Regions**, allowing players to find the locations a little easily.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
