@@ -15,7 +15,7 @@
 > :shiny: [Survival] **INTRODUCING NEW LOOTBOX** Exclusive for short period of time! **MAY THE FORCE LOOTBOX**.
 > :shiny: [Survival] Added **Warps Icons** for players to easily recognize each **Warping Area** 
 > :shiny: [Survival] Added hints to **Codex's Regions**, allowing players to find the locations a little easily.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Bartender** from the codex interface.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
