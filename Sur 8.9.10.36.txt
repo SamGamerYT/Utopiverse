@@ -1,166 +1,39 @@
 **Patch/Changes 8.9.10.36** *(Network Changes)*  
-> :shiny: [Survival] Added dialog to **Skmasykw's** questline if you have not completed **_WhippyFireX9**'s questline.
-> :shiny: [Survival] Added **Unbreaking V's** recipe in **Witchcraft Pedestal** station.
-> :shiny: [Survival] Reduced **Mending II's** recipe from **6 Mending I** to **2 Mending I**.
-> :shiny: [Survival] Added **Resilience Applicator** recipe in **Witchcraft Pedestal** station.
-> :shiny: [Survival] **Dreadplate Armour Set** now has **CE Compatible** label.
-> :shiny: [Survival] Removed **Double $$** from **/sellg** messages.
-> :shiny: [Survival] Removed **Codex Furniture & Hologram** from the entrance of **Arena**.
-> :shiny: [Survival] **Visitor** will no longer be able sell items on **Auction House**
-> :shiny: [Survival] Added **Eternal Fire** drop chances information to **King in Flames** codex.
+> :shiny: [Survival] Added dialog to **Skmasykw’s** questline if you have not completed **_WhippyFireX9’s** questline.  
+> :shiny: [Survival] Added **Unbreaking V** recipe in the **Witchcraft Pedestal** station.  
+> :shiny: [Survival] Reduced **Mending II** recipe from **6x Mending I** to **2x Mending I**.  
+> :shiny: [Survival] Added **Resilience Applicator** recipe in the **Witchcraft Pedestal** station.  
+> :shiny: [Survival] **Dreadplate Armor Set** now has a **CE Compatible** label.  
+> :shiny: [Survival] Removed duplicate **$$** from **/sellg** messages.  
+> :shiny: [Survival] Removed **Codex Furniture** and hologram from the entrance of the **Arena**.  
+> :shiny: [Survival] **Visitor** rank can no longer sell items on the **Auction House**.  
+> :shiny: [Survival] Added **Eternal Fire** drop chance information to the **King in Flames** codex.  
 > 
-> :shiny: [Survival] **Ravencross's** Questline is now available near the **Tutorial Zone** at the **Cosmetic Shop**.
-> :shiny: [Survival] **Timber** feature has been removed from **Resource World**.
-> :shiny: [Survival] Fixed **Crop Pepper** bug where players would be getting Leather & Paper instead of normal pepper.
-> :shiny: [Survival] **INTRODUCING NEW LOOTBOX** Exclusive for short period of time! **MAY THE FORCE LOOTBOX**.
-> :shiny: [Survival] Added **Warps Icons** for players to easily recognize each **Warping Area** 
-> :shiny: [Survival] Added hints to **Codex's Regions**, allowing players to find the locations a little easily.
-> :shiny: [Survival] Removed **Bartender** from the codex interface.
-> :shiny: [Survival] Added **Questline** codex that shows what you earned and when you completed the quests.
-> :shiny: [Survival] Certain questlines will now announce in chat for everyone to read whenever you complete the quest.
-> :shiny: [Survival] Modified **Tournaments** for **May's Month**.
+> :shiny: [Survival] **Ravencross’s** questline is now available near the **Tutorial Zone** at the **Cosmetic Shop**.  
+> :shiny: [Survival] Removed **Timber** feature from the **Resource World**.  
+> :shiny: [Survival] Fixed **Pepper Crop** bug where players received **Leather** and **Paper** instead of peppers.  
+> :shiny: [Survival] **INTRODUCING NEW LOOTBOX** — limited-time **MAY THE FORCE LOOTBOX**.  
+> :shiny: [Survival] Added **Warp Icons** for easier navigation between warping areas.  
+> :shiny: [Survival] Added hints to **Codex Regions** to help players find locations more easily.  
+> :shiny: [Survival] Removed **Bartender** from the codex interface.  
+> :shiny: [Survival] Added **Questline Codex**, showing rewards and completion dates.  
+> :shiny: [Survival] Certain questlines will now announce in chat when completed.  
+> :shiny: [Survival] Modified **Tournaments** for the **May** month.  
 > 
-> **ENTITIY CHANGES**
-> :shiny: [Survival] 
-> 
-> **TOURNAMENT**
-> :shiny: [Survival] 
-> 
-> **BANK**
-> :shiny: [Survival] 
-> 
-> **FARMING**
-> :shiny: [Survival] 
-> 
-> **FISHING** *(Special Thanks to YuxuFG & Idiomaticsss)*
-> **FISHING**
-> :shiny: [Survival] 
-> 
-> **SHOP CHANGES**
-> :shiny: [Survival] 
-> 
-> **ARENA CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Hypogeum Arena] 
-> 
-> **BLACKSMITH**
-> :shiny: [Survival] Added **Refined Copper** recipe in **Refinery Station**.
-> :shiny: [Survival] Updated **Witch's** Scrolls & **Witchcraft Pedestal** Stations preview menu.
-> :shiny: [Survival] Reorganized **Scroll Station** for better look.
-> :shiny: [Survival] Added **Micro & Small Protection Stones** teleportations permission scrolls.
-> :shiny: [Survival] 
-> 
-> **CODEX**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **TINKERER**
-> :shiny: [Survival] 
-> 
-> **DUNGEON**
-> :shiny: [Survival] 
-> 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] 
+> **BLACKSMITH**  
+> :shiny: [Survival] Added **Refined Copper** recipe in the **Refinery Station**.  
+> :shiny: [Survival] Updated **Witch Scrolls** and **Witchcraft Pedestal** station preview menus.  
+> :shiny: [Survival] Reorganized the **Scroll Station** for better layout.  
+> :shiny: [Survival] Added **Micro** and **Small Protection Stone** teleportation permission scrolls.  
 > 
 > **DUNGEON FROST CHANGES**  
-> :shiny: [Survival] Fixed an issue where players with 1000+ Souls weren't able to properly craft stuff.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an issue where players with **1000+ Souls** were unable to craft properly.  
 > 
-> **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] **King in Flames** has a new drop called **Eternal Fire**.
-> :shiny: [Survival] **HEAVILY** buffed **King in Flames'** drop minimum.
+> **DUNGEON VOLCANO CHANGES**  
+> :shiny: [Survival] **King in Flames** now drops **Eternal Fire**.  
+> :shiny: [Survival] **HEAVILY** increased **King in Flames’** minimum drop rate.  
 > 
-> **DUNGEON WASTELAND CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON HALLOWEEN CHANGES**
-> :shiny: [Survival] 
-> 
-> **/SHOP** *(_QueenChaos95180)*
-> :shiny: [Survival] 
-> 
-> **SPOODER LAIR**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **WEBSITE**
-> :xmas_Snowflake: [Website] 
-> 
-> **TEXTURES**
-> :shiny: [Textures]
-> :shiny: [Bedrock] 
-> 
-> **OPTIMIZATION**
-> :shiny: [Survival] 
-> 
-> **HUB REALM**
-> :sdragon: [Lobby] Added **Zoo Event** information hologram.
-> :sdragon: [Lobby] 
-> 
-> **NETWORK**
-> :spaceheart1: [Network] 
-> 
-> **WEBSITE**
-> :computer: [Website] 
-> 
-> **WEBSTORE**
-> :computer: [Website] 
-> :shiny: [Survival] 
+> **HUB REALM**  
+> :sdragon: [Lobby] Added **Zoo Event** information hologram.  
 > 
 > **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
