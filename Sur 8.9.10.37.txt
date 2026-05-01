@@ -37,6 +37,7 @@
 > :shiny: [Survival] 
 > 
 > **SHOP CHANGES**
+> :shiny: [Survival] Fixed **Chain** not showing up in **Decoration Category.**
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
