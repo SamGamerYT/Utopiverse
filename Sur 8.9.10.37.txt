@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.37** *(Network Changes)*  
 > :shiny: [Survival] **"/ps locations"** will no longer show the ps owner's username in Allowed List lore.
 > :shiny: [Survival] Fixed an issue where players couldn't apply **Custom Enchantments** on **3D Heads** that had **CE Compatible** label.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Dungeon Mobs** & **Crabs** were not dropping loot properly.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
