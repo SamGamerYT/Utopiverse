@@ -5,7 +5,7 @@
 > :shiny: [Survival] Added **Crafting Tournament** for players to **Participate in**.
 > :shiny: [Survival] Fixed **Brewery Tournament** not counting scroll properly.
 > :shiny: [Survival] Fixed **13+** Mobs that had 30% chance instead of 80% chance to capture with **Mob Catcher**
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an issue with **Mooshroom** Catching permission.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
