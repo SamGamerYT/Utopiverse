@@ -10,7 +10,7 @@
 > :shiny: [Survival] Heavily all **Mobs** Catching permission recipes.
 > 
 > :shiny: [Survival] Buffed **Julia & Seiya's** Questline's reward.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed a bug where **Questline Codex** was showing next page button to **Zones Codex**
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
