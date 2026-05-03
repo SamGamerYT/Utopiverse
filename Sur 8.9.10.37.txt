@@ -7,7 +7,7 @@
 > :shiny: [Survival] Fixed **13+** Mobs that had 30% chance instead of 80% chance to capture with **Mob Catcher**
 > :shiny: [Survival] Fixed an issue with **Mooshroom** Catching permission.
 > :shiny: [Survival] Added **Nautilus** Catching permission to **Farmer Station**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Heavily reduced **Wolf's** Catching permission recipe.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
