@@ -4,7 +4,7 @@
 > :shiny: [Survival] Fixed **Dungeon Mobs** & **Crabs** were not dropping loot properly.
 > :shiny: [Survival] Added **Crafting Tournament** for players to **Participate in**.
 > :shiny: [Survival] Fixed **Brewery Tournament** not counting scroll properly.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **13+** Mobs that had 30% chance instead of 80% chance to capture with **Mob Catcher**
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
