@@ -39,6 +39,7 @@
 > :shiny: [Survival] Fixed **Chain** not showing up in **Decoration Category.**
 > :shiny: [Survival] Fixed **Pale Oak Door** not showing up in **Door's Sub Category.**
 > :shiny: [Survival] Fixed **Glowstone Dust** not showing up in **Drops Category.**
+> :shiny: [Survival] Added **Open Eyeblossom** in **Decoration Category.**
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
