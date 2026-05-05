@@ -6,7 +6,7 @@
 > :grass: Fixed **The Exchanger**, **Farmer** & **The Smither** Trading Station not opening.
 > :grass: Fixed **Loot Exchanger**'s Trading Station not accepting dungeon loot.
 > :grass: Added **Welcome Gift** banner at **"/spawn"**.
-> :grass: 
+> :grass: Fixed **Player Name Tag** showing their chat tag twice.
 > :grass: 
 > :grass: 
 > :grass: 
