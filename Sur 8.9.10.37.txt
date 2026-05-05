@@ -14,7 +14,7 @@
 > :shiny: [Survival] All **Questlines** have been added to **Questline Codex** to view your progress.
 > :shiny: [Survival] Optimized mobs spawning a bit
 > :shiny: [Survival] Modified **Villagers** search radius due to server performance tanking again.
-> :shiny: [Survival] 
+> :shiny: [Survival] **NEW FEATURE ADDED** Simply do **"/tpag"** & **/tpahereg**, it will open up an interface that you can use to teleport to online players & there's a bedrock filter.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
