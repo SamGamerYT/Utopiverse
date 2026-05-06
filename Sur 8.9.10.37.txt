@@ -42,6 +42,8 @@
 > :shiny: [Survival] Added **Open Eyeblossom** in **Decoration Category.**
 > :shiny: [Survival] Added **Resin Brick Wall** & **Tuff Wall** block in **Wall Sub Category.**
 > :shiny: [Survival] Moved **Stairs** & **Slabs** sub category to **Decoration Category.**
+> :shiny: [Survival] Added **Resin Block** & **Tuff Block** in **Blocks Category.**
+> :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
