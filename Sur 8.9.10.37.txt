@@ -1,166 +1,30 @@
 **Patch/Changes 8.9.10.37** *(Network Changes)*  
-> :shiny: [Survival] **"/ps locations"** will no longer show the ps owner's username in Allowed List lore.
-> :shiny: [Survival] Fixed an issue where players couldn't apply **Custom Enchantments** on **3D Heads** that had **CE Compatible** label.
-> :shiny: [Survival] Fixed **Dungeon Mobs** & **Crabs** were not dropping loot properly.
-> :shiny: [Survival] Added **Crafting Tournament** for players to **Participate in**.
-> :shiny: [Survival] Fixed **Brewery Tournament** not counting scroll properly.
-> :shiny: [Survival] Fixed **13+** Mobs that had 30% chance instead of 80% chance to capture with **Mob Catcher**
-> :shiny: [Survival] Fixed an issue with **Mooshroom** Catching permission.
-> :shiny: [Survival] Added **Nautilus** Catching permission to **Farmer Station**.
-> :shiny: [Survival] Heavily all **Mobs** Catching permission recipes.
+> :shiny: [Survival] **"/ps locations"** will no longer show the protection stone owner’s username in the Allowed List lore.  
+> :shiny: [Survival] Fixed an issue where players couldn’t apply **Custom Enchantments** to **3D Heads** with the **CE Compatible** label.  
+> :shiny: [Survival] Fixed **Dungeon Mobs** and **Crabs** not dropping loot properly.  
+> :shiny: [Survival] Added a **Crafting Tournament** for players to participate in.  
+> :shiny: [Survival] Fixed **Brewery Tournament** not counting scrolls properly.  
+> :shiny: [Survival] Fixed **13+ mobs** that had a **30%** capture chance instead of **80%** with the **Mob Catcher**.  
+> :shiny: [Survival] Fixed an issue with **Mooshroom** catching permission.  
+> :shiny: [Survival] Added **Nautilus** catching permission to the **Farmer Station**.  
+> :shiny: [Survival] Heavily reduced all **Mob Catching** permission recipe requirements.  
 > 
-> :shiny: [Survival] Buffed **Julia & Seiya's** Questline's reward.
-> :shiny: [Survival] Fixed a bug where **Questline Codex** was showing next page button to **Zones Codex**
-> :shiny: [Survival] All **Questlines** have been added to **Questline Codex** to view your progress.
-> :shiny: [Survival] Optimized mobs spawning a bit
-> :shiny: [Survival] Modified **Villagers** search radius due to server performance tanking again.
-> :shiny: [Survival] **NEW FEATURE ADDED** Simply do **"/tpag"** & **/tpahereg**, it will open up an interface that you can use to teleport to online players & there's a bedrock filter.
-> :shiny: [Survival] Fixed **"/welcome"** where it wasn't working properly every now and then.
-> :shiny: [Survival] Fixed **[i]** & **[item]** perk not working properly in chat after the update.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> 
-> **ENTITIY CHANGES**
-> :shiny: [Survival] 
-> 
-> **TOURNAMENT**
-> :shiny: [Survival] 
-> 
-> **BANK**
-> :shiny: [Survival] 
-> 
-> **FARMING**
-> :shiny: [Survival] 
-> 
-> **FISHING**
-> :shiny: [Survival] 
+> :shiny: [Survival] Buffed **Julia & Seiya’s** questline rewards.  
+> :shiny: [Survival] Fixed a bug where **Questline Codex** was showing the next page button to **Zones Codex**.  
+> :shiny: [Survival] Added all **Questlines** to **Questline Codex** to view your progress.  
+> :shiny: [Survival] Slightly optimized mob spawning.  
+> :shiny: [Survival] Modified **Villagers** search radius due to server performance dropping again.  
+> :shiny: [Survival] **NEW FEATURE ADDED:** Use **"/tpag"** and **"/tpahereg"** to open an interface that lets you teleport to online players, with a Bedrock filter included.  
+> :shiny: [Survival] Fixed **"/welcome"** not working properly from time to time.  
+> :shiny: [Survival] Fixed **[i]** and **[item]** perks not working properly in chat after the update.  
 > 
 > **SHOP CHANGES**
-> :shiny: [Survival] Fixed **Chain** not showing up in **Decoration Category.**
-> :shiny: [Survival] Fixed **Pale Oak Door** not showing up in **Doors Sub Category.**
-> :shiny: [Survival] Fixed **Glowstone Dust** not showing up in **Drops Category.**
-> :shiny: [Survival] Added **Open Eyeblossom** in **Decoration Category.**
-> :shiny: [Survival] Added **Resin Brick Wall** & **Tuff Wall** block in **Wall Sub Category.**
-> :shiny: [Survival] Moved **Stairs** & **Slabs** sub category to **Decoration Category.**
-> :shiny: [Survival] Added **Resin Block** & **Tuff Block** in **Blocks Category.**
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> 
-> **ARENA CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Hypogeum Arena] 
-> 
-> **BLACKSMITH**
-> :shiny: [Survival] 
-> 
-> **CODEX**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **TINKERER**
-> :shiny: [Survival] 
-> 
-> **DUNGEON**
-> :shiny: [Survival] 
-> 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON FROST CHANGES**  
-> :shiny: [Survival] 
-> 
-> **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON WASTELAND CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON HALLOWEEN CHANGES**
-> :shiny: [Survival] 
-> 
-> **/SHOP** *(_QueenChaos95180)*
-> :shiny: [Survival] 
-> 
-> **SPOODER LAIR**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **WEBSITE**
-> :xmas_Snowflake: [Website] 
-> 
-> **TEXTURES**
-> :shiny: [Textures]
-> :shiny: [Bedrock] 
-> 
-> **OPTIMIZATION**
-> :shiny: [Survival] 
-> 
-> **HUB REALM**
-> :sdragon: [Lobby] 
-> 
-> **NETWORK**
-> :spaceheart1: [Network] 
-> 
-> **WEBSITE**
-> :computer: [Website] 
-> 
-> **WEBSTORE**
-> :computer: [Website] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Chain** not showing up in the **Decoration Category**.  
+> :shiny: [Survival] Fixed **Pale Oak Door** not showing up in the **Doors Subcategory**.  
+> :shiny: [Survival] Fixed **Glowstone Dust** not showing up in the **Drops Category**.  
+> :shiny: [Survival] Added **Open Eyeblossom** to the **Decoration Category**.  
+> :shiny: [Survival] Added **Resin Brick Wall** and **Tuff Wall** blocks to the **Wall Subcategory**.  
+> :shiny: [Survival] Moved **Stairs** and **Slabs** subcategories to the **Decoration Category**.  
+> :shiny: [Survival] Added **Resin Block** and **Tuff Block** to the **Blocks Category**.  
 > 
 > **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
