@@ -76,7 +76,7 @@
 > :shiny: [Survival] Removed **Rename Quill** from **Exchanger Station**.
 > :shiny: [Survival] Fixed **Enchanting Golden Apple** & **Totem of Undying** not showing up in **Exchanger Station**.
 > :shiny: [Survival] Increased **Menders** and **Hotfixer** recipe output from **1 quantity** to **8 quantity**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Increased **Alternative Hotfixer's** recipe output from **1 quantity** to **4** & increased price from **10** to **20** Vote Points.
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
