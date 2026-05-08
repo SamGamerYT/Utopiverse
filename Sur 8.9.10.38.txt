@@ -72,6 +72,9 @@
 > :shiny: [Survival] Centered **Exchanger's** hologram.
 > :shiny: [Survival] Updated **Exchanger's** crate keys icon.
 > :shiny: [Survival] 
+> :shiny: [Survival] Nerfed **Vote Staff's** crafting recipe from **50** Vote point to **10**.
+> :shiny: [Survival] 
+> :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
 > :shiny: [Survival] 
