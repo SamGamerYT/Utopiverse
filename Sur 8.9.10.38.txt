@@ -69,15 +69,15 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**  
-> :shiny: [Survival] Centered **Exchanger's** hologram.
-> :shiny: [Survival] Updated **Exchanger's** crate keys icon.
-> :shiny: [Survival] Updated **Exchanger's** trading interface to the new style.
-> :shiny: [Survival] Nerfed **Vote Staff's** crafting recipe from **50** Vote point to **10**.
-> :shiny: [Survival] Removed **Rename Quill** from **Exchanger Station**.
-> :shiny: [Survival] Fixed **Enchanting Golden Apple** & **Totem of Undying** not showing up in **Exchanger Station**.
-> :shiny: [Survival] Increased **Menders** and **Hotfixer** recipe output from **1 quantity** to **8 quantity**.
-> :shiny: [Survival] Increased **Alternative Hotfixer's** recipe output from **1 quantity** to **4** & increased price from **10** to **20** Vote Points.
-> :shiny: [Survival] 
+> :shiny: [Survival] Centered **Exchanger’s** hologram.  
+> :shiny: [Survival] Updated **Exchanger’s** crate key icons.  
+> :shiny: [Survival] Updated **Exchanger’s** trading interface to the new style.  
+> :shiny: [Survival] Nerfed **Vote Staff’s** crafting recipe from **50 Vote Points** to **10**.  
+> :shiny: [Survival] Removed **Rename Quill** from the **Exchanger Station**.  
+> :shiny: [Survival] Fixed **Enchanted Golden Apple** and **Totem of Undying** not showing up in the **Exchanger Station**.  
+> :shiny: [Survival] Increased **Menders** and **Hotfixer** recipe output from **1** to **8**.  
+> :shiny: [Survival] Increased **Alternative Hotfixer’s** recipe output from **1** to **4** and increased the price from **10** to **20 Vote Points**.  
+> :shiny: [Survival]  
 > 
 > **DUNGEON VOLCANO CHANGES**
 > :shiny: [Survival] 
