@@ -70,6 +70,7 @@
 > 
 > **DUNGEON FROST CHANGES**  
 > :shiny: [Survival] Centered **Exchanger's** hologram.
+> :shiny: [Survival] Updated **Exchanger's** crate keys icon.
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
