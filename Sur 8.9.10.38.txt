@@ -73,6 +73,8 @@
 > :shiny: [Survival] Updated **Exchanger's** crate keys icon.
 > :shiny: [Survival] Updated **Exchanger's** trading interface to the new style.
 > :shiny: [Survival] Nerfed **Vote Staff's** crafting recipe from **50** Vote point to **10**.
+> :shiny: [Survival] Removed **Rename Quill** from **Exchanger Station**.
+> :shiny: [Survival] Fixed **Enchanting Golden Apple** & **Totem of Undying** not showing up in **Exchanger Station**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
