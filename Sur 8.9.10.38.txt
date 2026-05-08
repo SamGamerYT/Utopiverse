@@ -75,6 +75,7 @@
 > :shiny: [Survival] Nerfed **Vote Staff's** crafting recipe from **50** Vote point to **10**.
 > :shiny: [Survival] Removed **Rename Quill** from **Exchanger Station**.
 > :shiny: [Survival] Fixed **Enchanting Golden Apple** & **Totem of Undying** not showing up in **Exchanger Station**.
+> :shiny: [Survival] Increased **Menders** and **Hotfixer** recipe output from **1 quantity** to **8 quantity**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
