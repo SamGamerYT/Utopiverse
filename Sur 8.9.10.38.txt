@@ -9,10 +9,10 @@
 > :shiny: [Survival] Increased **Alternative Hotfixer’s** recipe output from **1** to **4** and increased the price from **10** to **20 Vote Points**. 
 > :shiny: [Survival] Added **AFK Crate** key in **Exchanger Station**.
 > 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] **NEW FEATURE** **"/ps coop"** grant temporary access until logout or for a fixed time via interface
+> :shiny: [Survival] **NEW FEATURE** **"/ps uncoop <player|all>"** and /ps coops to manage active co-ops
+> :shiny: [Survival] **NEW FEATURE** **"/ps allow"** now opens a player picker → pick Guest or Co-Owner
+> :shiny: [Survival] **NEW FEATURE** **"/ps allowed"** shows a paginated list with role labels; click to remove
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
