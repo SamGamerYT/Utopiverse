@@ -7,7 +7,7 @@
 > :shiny: [Survival] Fixed **Enchanted Golden Apple** and **Totem of Undying** not showing up in the **Exchanger Station**.  
 > :shiny: [Survival] Increased **Menders** and **Hotfixer** recipe output from **1** to **8**.  
 > :shiny: [Survival] Increased **Alternative Hotfixer’s** recipe output from **1** to **4** and increased the price from **10** to **20 Vote Points**. 
-> :shiny: [Survival] Added **AFK Crate** key in **Exchanger Station**.
+> :shiny: [Survival] **NEW FEATURE** Added **AFK Crate** key in **Exchanger Station**.
 > 
 > :shiny: [Survival] **NEW FEATURE** **"/ps coop"** grant temporary access until logout or for a fixed time via interface
 > :shiny: [Survival] **NEW FEATURE** **"/ps uncoop <player|all>"** and /ps coops to manage active co-ops
