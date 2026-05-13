@@ -54,6 +54,7 @@
 > :shiny: [Survival] Hammering Guy now has a name, **Walice**
 > :shiny: [Survival] Modified **Lore's Information** for **Intrigue Station**.
 > :shiny: [Survival] Added **Draconic Reign's** station in **Walice's Interface**.
+> :shiny: [Survival] Updated all **Walice's** reforge stations preview interface.
 > :shiny: [Survival] 
 > 
 > **CODEX**
