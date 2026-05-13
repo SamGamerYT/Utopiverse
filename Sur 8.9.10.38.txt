@@ -70,6 +70,7 @@
 > 
 > **DUNGEON FROST CHANGES**  
 > :shiny: [Survival] Removed **Frost PSA** hologram near the NPC.
+> :shiny: [Survival] Added **Interactive Station** near **Essence Trader's** building where you can craft your frost's equipments.
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
