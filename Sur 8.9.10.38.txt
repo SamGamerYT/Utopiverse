@@ -51,6 +51,7 @@
 > :shiny: [Hypogeum Arena] 
 > 
 > **BLACKSMITH**
+> :shiny: [Survival] Hammering Guy now has a name, **Walice**
 > :shiny: [Survival] 
 > 
 > **CODEX**
