@@ -52,6 +52,7 @@
 > 
 > **BLACKSMITH**
 > :shiny: [Survival] Hammering Guy now has a name, **Walice**
+> :shiny: [Survival] Modified **Lore's Information** for **Intrigue Station**.
 > :shiny: [Survival] 
 > 
 > **CODEX**
