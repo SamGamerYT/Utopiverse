@@ -106,6 +106,7 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
+> :sdragon: [Lobby] Removed **Armorstand Welcomer** & Replaced it with **Queen's NPC**.
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
