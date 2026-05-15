@@ -15,7 +15,7 @@
 > :shiny: [Survival] **NEW FEATURE** **"/ps allowed"** shows a paginated list with role labels; click to remove
 > :shiny: [Survival] Added **Icicle Dino** information in **Codex** within **Bosses** category.
 > :shiny: [Survival] **Hawkeye** bow now has **CE Compatible** tag.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **"/enchanter"** command not working properly.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
