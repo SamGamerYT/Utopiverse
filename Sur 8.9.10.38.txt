@@ -16,7 +16,7 @@
 > :shiny: [Survival] Added **Icicle Dino** information in **Codex** within **Bosses** category.
 > :shiny: [Survival] **Hawkeye** bow now has **CE Compatible** tag.
 > :shiny: [Survival] Fixed **"/enchanter"** command not working properly.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Silk Touch** spawner percentage at **"/warp tutorial"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
