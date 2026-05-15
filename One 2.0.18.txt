@@ -7,7 +7,7 @@
 > :grass: Fixed **Loot Exchanger**'s Trading Station not accepting dungeon loot.
 > :grass: Added **Welcome Gift** banner at **"/spawn"**.
 > :grass: Fixed **Player Name Tag** showing their chat tag twice.
-> :grass: 
+> :grass: Fixed **"/enchanter"** command not working properly.
 > :grass: 
 > :grass: 
 > 
