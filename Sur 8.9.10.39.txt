@@ -68,8 +68,15 @@
 > **DUNGEON MINE CHANGES**
 > :shiny: [Survival] 
 > 
-> **DUNGEON FROST CHANGES**  
-> :shiny: [Survival] 
+> **DUNGEON FROST CHANGES**
+> :shiny: [Survival] Increased **Security Gunner’s** Archery XP from **20** to **40**.
+> :shiny: [Survival] Increased **Security Guard’s** Fighter XP from **22** to **50**.
+> :shiny: [Survival] Increased **Glacial Guard’s** Archery XP from **24** to **60**.
+> :shiny: [Survival] Increased **Glacial Explorer’s** Fighter XP from **26** to **75**.
+> :shiny: [Survival] Increased **Glacial Miner’s** Archery XP from **28** to **85**.
+> :shiny: [Survival] Increased **Frosty Waddler’s** Fighter XP from **30** to **100**.
+> :shiny: [Survival] Increased **Snow Guard’s** Fighter XP from **38** to **195**.
+> :shiny: [Survival] Increased **Withering Knight’s** Fighter XP from **45** to **240**.
 > 
 > **DUNGEON VOLCANO CHANGES**
 > :shiny: [Survival] 
