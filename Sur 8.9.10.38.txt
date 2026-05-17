@@ -6,34 +6,34 @@
 > :shiny: [Survival] Removed **Rename Quill** from the **Exchanger Station**.  
 > :shiny: [Survival] Fixed **Enchanted Golden Apple** and **Totem of Undying** not showing up in the **Exchanger Station**.  
 > :shiny: [Survival] Increased **Menders** and **Hotfixer** recipe output from **1** to **8**.  
-> :shiny: [Survival] Increased **Alternative Hotfixer’s** recipe output from **1** to **4** and increased the price from **10** to **20 Vote Points**. 
-> :shiny: [Survival] **NEW FEATURE** Added **AFK Crate** key in **Exchanger Station**.
+> :shiny: [Survival] Increased **Alternative Hotfixer’s** recipe output from **1** to **4** and increased the price from **10** to **20 Vote Points**.  
+> :shiny: [Survival] **NEW FEATURE** Added **AFK Crate** key to the **Exchanger Station**.  
 > 
-> :shiny: [Survival] **NEW FEATURE** **"/ps coop"** grant temporary access until logout or for a fixed time via interface
-> :shiny: [Survival] **NEW FEATURE** **"/ps uncoop <player|all>"** and /ps coops to manage active co-ops
-> :shiny: [Survival] **NEW FEATURE** **"/ps allow"** now opens a player picker → pick Guest or Co-Owner
-> :shiny: [Survival] **NEW FEATURE** **"/ps allowed"** shows a paginated list with role labels; click to remove
-> :shiny: [Survival] Added **Icicle Dino** information in **Codex** within **Bosses** category.
-> :shiny: [Survival] **Hawkeye** bow now has **CE Compatible** tag.
-> :shiny: [Survival] Fixed **"/enchanter"** command not working properly.
-> :shiny: [Survival] Added **Silk Touch** spawner percentage at **"/warp tutorial"**.
-> :shiny: [Survival] Modified **2 Ancient Tutorial** holograms that were not up to date with new style.
-> :shiny: [Survival] **Apollo Crossbow** is now **CE Compatible**.
-
-> :shiny: [Survival] Fixed an issue where players were consuming item when they right-clicked a bed or chest.
-> :shiny: [Survival] Stats will now show negative and positive colouring on the item.
+> :shiny: [Survival] **NEW FEATURE** **"/ps coop"** now grants temporary access until logout or for a fixed time through an interface.  
+> :shiny: [Survival] **NEW FEATURE** Added **"/ps uncoop <player|all>"** and **"/ps coops"** to manage active co-ops.  
+> :shiny: [Survival] **NEW FEATURE** **"/ps allow"** now opens a player picker to select **Guest** or **Co-Owner**.  
+> :shiny: [Survival] **NEW FEATURE** **"/ps allowed"** now shows a paginated list with role labels; click to remove.  
+> :shiny: [Survival] Added **Icicle Dino** information to the **Bosses** category in **Codex**.  
+> :shiny: [Survival] **Hawkeye** bow now has the **CE Compatible** tag.  
+> :shiny: [Survival] Fixed **"/enchanter"** command not working properly.  
+> :shiny: [Survival] Added **Silk Touch** spawner percentage at **"/warp tutorial"**.  
+> :shiny: [Survival] Modified **2 ancient tutorial** holograms that were not up to date with the new style.  
+> :shiny: [Survival] **Apollo Crossbow** is now **CE Compatible**.  
+> 
+> :shiny: [Survival] Fixed an issue where players were consuming items when right-clicking a bed or chest.  
+> :shiny: [Survival] Stats will now show negative and positive coloring on items.  
 > 
 > **BLACKSMITH**
-> :shiny: [Survival] Hammering Guy now has a name, **Walice**
-> :shiny: [Survival] Modified **Lore's Information** for **Intrigue Station**.
-> :shiny: [Survival] Added **Draconic Reign's** station in **Walice's Interface**.
-> :shiny: [Survival] Updated all **Walice's** reforge stations preview interface.
+> :shiny: [Survival] Hammering Guy now has a name: **Walice**.  
+> :shiny: [Survival] Modified **Lore Information** for the **Intrigue Station**.  
+> :shiny: [Survival] Added **Draconic Reign’s** station to **Walice’s Interface**.  
+> :shiny: [Survival] Updated all **Walice’s** reforge station preview interfaces.  
 > 
 > **DUNGEON FROST CHANGES**  
-> :shiny: [Survival] Removed **Frost PSA** hologram near the NPC.
-> :shiny: [Survival] Added **Interactive Station** near **Essence Trader's** building where you can craft your frost's equipments.
+> :shiny: [Survival] Removed **Frost PSA** hologram near the NPC.  
+> :shiny: [Survival] Added an **Interactive Station** near **Essence Trader’s** building where players can craft their frost equipment.  
 > 
 > **HUB REALM**
-> :sdragon: [Lobby] Removed **Armorstand Welcomer** & Replaced it with **Queen's NPC**.
+> :sdragon: [Lobby] Removed **Armorstand Welcomer** and replaced it with **Queen’s NPC**.  
 > 
 > **[ @Changelogs ]**
