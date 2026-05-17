@@ -79,7 +79,12 @@
 > :shiny: [Survival] Increased **Withering Knight’s** Fighter XP from **45** to **170**.
 > 
 > **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] 
+> :shiny: [Survival] Increased **Infernal Squire’s** Fighter XP from **40** to **290**.
+> :shiny: [Survival] Increased **Element of Fire’s** Archery XP from **42** to **320**.
+> :shiny: [Survival] Increased **Magma Zombie’s** Fighter XP from **44** to **345**.
+> :shiny: [Survival] Increased **Arrogant’s** Fighter XP from **47** to **405**.
+> :shiny: [Survival] Increased **Scorpion’s** Fighter XP from **49** to **405**.
+> :shiny: [Survival] Increased **Burnt Bones’** Fighter XP from **55** to **470**.
 > 
 > **DUNGEON WASTELAND CHANGES**
 > :shiny: [Survival] 
