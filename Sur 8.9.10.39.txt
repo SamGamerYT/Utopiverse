@@ -17,7 +17,7 @@
 > :shiny: [Survival] Added **Boosters** remaining time checker in **"/help"** interface
 > :shiny: [Survival] **Heart of Ender** requirement from **Fighting 15** to **4**.
 > :shiny: [Survival] **Zombie Flesh** requirement from **Defense 12** to **Defense 2**.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Spider Eye** requirement from **Agility 12** to **Agility 3**.
 > :shiny: [Survival] 
 > 
 > **ENTITIY CHANGES**
