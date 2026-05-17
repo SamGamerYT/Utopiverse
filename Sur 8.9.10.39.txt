@@ -22,54 +22,6 @@
 
 > :shiny: [Survival] **Skeleton Bone** requirement from **Archery 15** to **Archery 4**.
 > 
-> **ENTITIY CHANGES**
-> :shiny: [Survival] 
-> 
-> **TOURNAMENT**
-> :shiny: [Survival] 
-> 
-> **BANK**
-> :shiny: [Survival] 
-> 
-> **FARMING**
-> :shiny: [Survival] 
-> 
-> **FISHING**
-> :shiny: [Survival] 
-> 
-> **SHOP CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> 
-> **ARENA CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Hypogeum Arena] 
-> 
-> **BLACKSMITH**
-> :shiny: [Survival] 
-> 
-> **CODEX**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **TINKERER**
-> :shiny: [Survival] 
-> 
-> **DUNGEON**
-> :shiny: [Survival] 
-> 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] 
-> 
 > **DUNGEON FROST CHANGES**
 > :shiny: [Survival] Increased **Security Gunner’s** Archery XP from **20** to **40**.
 > :shiny: [Survival] Increased **Security Guard’s** Fighter XP from **22** to **50**.
@@ -88,95 +40,8 @@
 > :shiny: [Survival] Increased **Scorpion’s** Fighter XP from **49** to **405**.
 > :shiny: [Survival] Increased **Burnt Bones’** Fighter XP from **55** to **470**.
 > 
-> **DUNGEON WASTELAND CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON HALLOWEEN CHANGES**
-> :shiny: [Survival] 
-> 
-> **/SHOP** *(_QueenChaos95180)*
-> :shiny: [Survival] 
-> 
-> **SPOODER LAIR**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **WEBSITE**
-> :xmas_Snowflake: [Website] 
-> 
-> **TEXTURES**
-> :shiny: [Textures]
-> :shiny: [Bedrock] 
-> 
-> **OPTIMIZATION**
-> :shiny: [Survival] 
-> 
 > **HUB REALM**
 > :sdragon: [Lobby] We are now properly supporting 26.1.2 Version.
-> :sdragon: [Lobby] **Chests**, **Signs** & **Player Skulls** will now show up in your inventory on 26.1.2
-> :sdragon: [Lobby] 
-> 
-> **NETWORK**
-> :spaceheart1: [Network] 
-> 
-> **WEBSITE**
-> :computer: [Website] 
-> 
-> **WEBSTORE**
-> :computer: [Website] 
-> :shiny: [Survival] 
+> :sdragon: [Lobby] **Chests**, **Signs** & **Player Skulls** will now show up in your inventory on 26.1.
 > 
 > **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
