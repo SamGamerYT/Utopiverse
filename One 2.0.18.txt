@@ -8,7 +8,7 @@
 > :grass: Added **Welcome Gift** banner at **"/spawn"**.
 > :grass: Fixed **Player Name Tag** showing their chat tag twice.
 > :grass: Fixed **"/enchanter"** command not working properly.
-> :grass: 
+> :grass: Updated **Boosters** remaining time checker in **"/help"** interface to a better style.
 > :grass: 
 > 
 > :grass: 
