@@ -16,7 +16,7 @@
 > :shiny: [Survival] Modified **Farm NPC** & **Warp NPC** hologram, added more details.
 > :shiny: [Survival] Added **Boosters** remaining time checker in **"/help"** interface
 > :shiny: [Survival] **Heart of Ender** requirement from **Fighting 15** to **4**.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Zombie Flesh** requirement from **Defense 12** to **Defense 2**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
