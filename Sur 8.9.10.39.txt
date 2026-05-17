@@ -107,6 +107,8 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
+> :sdragon: [Lobby] We are now properly supporting 26.1.2 Version.
+> :sdragon: [Lobby] **Chests**, **Signs** & **Player Skulls** will now show up in your inventory on 26.1.2
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
