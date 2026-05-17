@@ -9,8 +9,8 @@
 > :shiny: [Survival] **Glacial Grasp Gloves** requirement from **Enchanting 24** to **6** & **Defense 16** to **8**, Added **Agility 4**.
 > :shiny: [Survival] **Tidecall Amulet** requirement from **Enchanting 13** to **6** & **Agility 9** to **5**.
 > 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] **Crystalbound Amulet** requirement from **Defense 15** to **9** & **Fighting 12** to **7**.
+> :shiny: [Survival] Fixed **"/skills"** typo on **Alchemy Skill Description**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
