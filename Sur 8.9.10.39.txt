@@ -18,8 +18,7 @@
 > :shiny: [Survival] Reduced **Heart of Ender** requirement from **Fighting 15** to **4**.  
 > :shiny: [Survival] Reduced **Zombie Flesh** requirement from **Defense 12** to **Defense 2**.  
 > :shiny: [Survival] Reduced **Spider Eye** requirement from **Agility 12** to **Agility 3**.  
-> :shiny: [Survival] Reduced **Ashes of a Creeper** requirement from **Defense 10** to **Defense 3**.
-  
+> :shiny: [Survival] Reduced **Ashes of a Creeper** requirement from **Defense 10** to **Defense 3**.  
 > :shiny: [Survival] Reduced **Skeleton Bone** requirement from **Archery 15** to **Archery 4**.  
 > 
 > **DUNGEON FROST CHANGES**
