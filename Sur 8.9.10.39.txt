@@ -5,7 +5,7 @@
 > :shiny: [Survival] **Stonecrusher Belt** & **Mineral Bind Belt** removed requirement **Mining** & Reduced **Defense 4** to **2**.
 > :shiny: [Survival] **Rubyflare Belt** requirement from **Fighting 20** to **10** & **Defense 16** to **6**.
 > :shiny: [Survival] **Beehive Gloves** requirement from **Defense 14** to **6** & **Fighting 24** to **20**.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Granite Grip Gloves** requirement from **Excavation 5** to **2** & Added **Fighting 2**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
