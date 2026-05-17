@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.10.39** *(Network Changes)*  
 > :shiny: [Survival] **Abyssal Fang Talisman** requirement from **Enchanting 20** to **10**, **Fighting 16** to **10**.
 > :shiny: [Survival] **Tidecrest Ring** requirement from **Enchanting 10** to **5**.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Waxbound Belt** removed requirement **Fighting**, Changed **Defense 15** to **16** & Added **Agility 8**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
