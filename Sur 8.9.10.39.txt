@@ -13,7 +13,7 @@
 > :shiny: [Survival] Fixed **"/skills"** typo on **Alchemy Skill Description**.
 > :shiny: [Survival] Disabled **Hasten**, **Haste** & **Trench** from **Dungeon World**.
 > :shiny: [Survival] **Frosted Artifact** requirement from **Enchanting 25** to **10**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Farm NPC** & **Warp NPC** hologram, added more details.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
