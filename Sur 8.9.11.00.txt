@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.11.00** *(Network Changes)*  
 > :shiny: [Survival] Removed **Spawner Pickaxe (Iron Version)** **Mining** skill requirement.
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Spawner Pickaxe (Gold Version)** from **Mining 10** to **4**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
