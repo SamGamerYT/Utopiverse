@@ -1,9 +1,9 @@
 **Patch/Changes 8.9.11.00** *(Network Changes)*  
 > :shiny: [Survival] Removed **Spawner Pickaxe (Iron Version)** **Mining** skill requirement.
 > :shiny: [Survival] Reduced **Spawner Pickaxe (Gold Version)** from **Mining 10** to **4**.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Bee Axe** from **Fighting 23** to **14**, Removed **Defense** & Added **Foraging 8**.
+> :shiny: [Survival] Made **Insane Parkour** little bit easier at the end.
+> :shiny: [Survival] Reduced **Vanguard Steel** from **Fighting 8** to **Fighting 3**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
