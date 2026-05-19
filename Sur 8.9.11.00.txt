@@ -5,7 +5,7 @@
 > :shiny: [Survival] Made **Insane Parkour** little bit easier at the end.
 > :shiny: [Survival] Reduced **Vanguard Steel** from **Fighting 8** to **Fighting 3**.
 > :shiny: [Survival] Reduced **Parkour Cooldown** from **24 hours** to **12 hours**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Updated **"/welcomekit"** interface & Fixed an issue where players couldn't claim the kit.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
