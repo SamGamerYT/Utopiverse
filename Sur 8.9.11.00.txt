@@ -8,7 +8,7 @@
 > :shiny: [Survival] Updated **"/welcomekit"** interface & Fixed an issue where players couldn't claim the kit.
 > :shiny: [Survival] Reduced **Bee Bow** from **Archery 27** to **15**
 > :shiny: [Survival] Reduced **Crimson Dreadplate Bow** from **Archery 27** to **16** & Changed tier from **Legendary** to **Mythical**
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Hawkeye** from **Archery 25** to **19**
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
