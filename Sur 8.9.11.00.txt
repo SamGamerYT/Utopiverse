@@ -4,7 +4,7 @@
 > :shiny: [Survival] Reduced **Bee Axe** from **Fighting 23** to **14**, Removed **Defense** & Added **Foraging 8**.
 > :shiny: [Survival] Made **Insane Parkour** little bit easier at the end.
 > :shiny: [Survival] Reduced **Vanguard Steel** from **Fighting 8** to **Fighting 3**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Parkour Cooldown** from **24 hours** to **12 hours**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
