@@ -6,6 +6,7 @@
 > :shiny: [Survival] Reduced **Vanguard Steel** from **Fighting 8** to **Fighting 3**.
 > :shiny: [Survival] Reduced **Parkour Cooldown** from **24 hours** to **12 hours**.
 > :shiny: [Survival] Updated **"/welcomekit"** interface & Fixed an issue where players couldn't claim the kit.
+> :shiny: [Survival] Reduced **Bee Bow** from **Archery 27** to **15**
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
