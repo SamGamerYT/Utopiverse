@@ -9,7 +9,7 @@
 > :grass: Fixed **Player Name Tag** showing their chat tag twice.
 > :grass: Fixed **"/enchanter"** command not working properly.
 > :grass: Updated **Boosters** remaining time checker in **"/help"** interface to a better style.
-> :grass: 
+> :grass: Nerfed **Spawner Crate** crafting recipe by removing **Vote Crystal** requirement.
 > 
 > :grass: 
 > :grass: 
