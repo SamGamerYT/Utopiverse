@@ -79,6 +79,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON HALLOWEEN CHANGES**
+> :shiny: [Survival] Players are now allowed to run **"/hat"** & **"/armory"** command in the dungeon.
 > :shiny: [Survival] 
 > 
 > **/SHOP** *(_QueenChaos95180)*
