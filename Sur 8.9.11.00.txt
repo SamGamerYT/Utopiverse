@@ -76,6 +76,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON WASTELAND CHANGES**
+> :shiny: [Survival] Fixed an issue where **Minotaur** wasn't giving **Skill Experience**.
 > :shiny: [Survival] 
 > 
 > **DUNGEON HALLOWEEN CHANGES**
