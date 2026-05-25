@@ -18,7 +18,7 @@
 > :shiny: [Survival] Fixed an issue where **Book and Quill** would kick players out.
 > :shiny: [Survival] **Cobalt** will now give Excavation XP (25) & **Palladium** will give Excavation XP (40).
 > :shiny: [Survival] Heavily optimized the **Altar & Crafting Station** furniture activator.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Voting Tempfly** system, a better & more accurate system.
 > :shiny: [Survival] 
 > 
 > **ENTITIY CHANGES**
