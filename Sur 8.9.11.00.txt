@@ -17,7 +17,7 @@
 > :shiny: [Survival] Heavily **Optimized Flight** system & Disabled flight in worlds that are not meant to have it enabled.
 > :shiny: [Survival] Fixed an issue where **Book and Quill** would kick players out.
 > :shiny: [Survival] **Cobalt** will now give Excavation XP (25) & **Palladium** will give Excavation XP (40).
-> :shiny: [Survival] 
+> :shiny: [Survival] Heavily optimized the **Altar & Crafting Station** furniture activator.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
