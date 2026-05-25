@@ -14,7 +14,7 @@
 > :shiny: [Survival] Added **Permanently XP Multiplier** items in **Bee Crate**.
 > :shiny: [Survival] Added **Skill Orbs** in **Embercrest Crate**.
 > :shiny: [Survival] Updated **Nyx Glacielle & Kael Pyrestone** questline code, more optimized & properly elaborates when they request something.
-> :shiny: [Survival] 
+> :shiny: [Survival] Heavily **Optimized Flight** system & Disabled flight in worlds that are not meant to have it enabled.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
