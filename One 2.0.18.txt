@@ -32,7 +32,7 @@
 > :grass: 
 > 
 > **COAL DUNGEON**
-> :grass: 
+> :grass: Fixed a bugged spot within the deep part of the **Coal Dungeon**.
 > 
 > **CAVE DUNGEON**
 > :grass: 
