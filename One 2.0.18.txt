@@ -11,7 +11,7 @@
 > :grass: Updated **Boosters** remaining time checker in **"/help"** interface to a better style.
 > :grass: Nerfed **Spawner Crate** crafting recipe by removing **Vote Crystal** requirement.
 > 
-> :grass: 
+> :grass: Fixed a bug where player's weren't able to mass-open as crusader rankup rank.
 > :grass: 
 > :grass: 
 > :grass: 
