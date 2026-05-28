@@ -13,7 +13,7 @@
 > 
 > :grass: Fixed a bug where player's weren't able to mass-open as crusader rankup rank.
 > :grass: Added **Summer 2026** Monthlycrate.
-> :grass: 
+> :grass: **Zombie, Drowned & Skeleton** will now drop **Rock**.
 > :grass: 
 > :grass: 
 > :grass: 
