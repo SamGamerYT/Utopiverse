@@ -19,7 +19,7 @@
 > :shiny: [Survival] **Cobalt** will now give Excavation XP (25) & **Palladium** will give Excavation XP (40).
 > :shiny: [Survival] Heavily optimized the **Altar & Crafting Station** furniture activator.
 > :shiny: [Survival] Added **Voting Tempfly** system, a better & more accurate system.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an exploit where players were able to interact with **Shelves** in someone's base **(Pickup your pstone and place it again)**.
 > 
 > **ENTITIY CHANGES**
 > :shiny: [Survival] 
