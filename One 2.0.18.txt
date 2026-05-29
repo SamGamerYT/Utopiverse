@@ -1,22 +1,22 @@
-**Patch/Changes 2.0.18** *[Oneblock]*
-> :grass: Fixed **Silver Hoe** showing the wrong rank in **Crafting Station**.
-> :grass: Added **Auction Information** banner near **Auction Building**.
-> :grass: Added **Codex Information** banner infront of **"/warp Coal"**.
-> :grass: Server has been updated to **1.21.11**.
-> :grass: Fixed **The Exchanger**, **Farmer** & **The Smither** Trading Station not opening.
-> :grass: Fixed **Loot Exchanger**'s Trading Station not accepting dungeon loot.
-> :grass: Added **Welcome Gift** banner at **"/spawn"**.
-> :grass: Fixed **Player Name Tag** showing their chat tag twice.
-> :grass: Fixed **"/enchanter"** command not working properly.
-> :grass: Updated **Boosters** remaining time checker in **"/help"** interface to a better style.
-> :grass: Nerfed **Spawner Crate** crafting recipe by removing **Vote Crystal** requirement.
+**Patch/Changes 2.0.18** *[Oneblock]*  
+> :grass: Fixed **Silver Hoe** showing the wrong rank in the **Crafting Station**.  
+> :grass: Added **Auction Information** banner near the **Auction Building**.  
+> :grass: Added **Codex Information** banner in front of **"/warp coal"**.  
+> :grass: Updated the server to **1.21.11**.  
+> :grass: Fixed **The Exchanger**, **Farmer**, and **The Smither** trading stations not opening properly.  
+> :grass: Fixed **Loot Exchanger’s** trading station not accepting dungeon loot.  
+> :grass: Added **Welcome Gift** banner at **"/spawn"**.  
+> :grass: Fixed **Player Name Tags** displaying chat tags twice.  
+> :grass: Fixed **"/enchanter"** command not working properly.  
+> :grass: Updated the **Boosters** remaining time checker in the **"/help"** interface with a better design.  
+> :grass: Nerfed **Spawner Crate** crafting recipe by removing the **Vote Crystal** requirement.  
 > 
-> :grass: Fixed a bug where player's weren't able to mass-open as crusader rankup rank.
-> :grass: Added **Summer 2026** Monthlycrate.
-> :grass: **Zombie, Drowned & Skeleton** will now drop **Rock**.
-> :grass: **Rock** repair capability has been increased from **3** to **5**.
+> :grass: Fixed a bug where **Crusader** players were unable to use **mass-open**.  
+> :grass: Added **Summer 2026** Monthly Crate.  
+> :grass: **Zombies**, **Drowned**, and **Skeletons** will now drop **Rock**.  
+> :grass: Increased **Rock** repair capability from **3** to **5**.  
 > 
-> **COAL DUNGEON**
-> :grass: Fixed a bugged spot within the deep part of the **Coal Dungeon**.
+> **COAL DUNGEON**  
+> :grass: Fixed a bugged spot within the deeper section of the **Coal Dungeon**.  
 >  
 > **[ @Changelogs ]**
