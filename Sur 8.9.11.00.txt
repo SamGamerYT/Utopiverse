@@ -22,6 +22,7 @@
 > :shiny: [Survival] Fixed an exploit where players were able to interact with **Shelves** in someone's base **(Pickup your pstone and place it again)**.
 
 > :shiny: [Survival] Reduced **Hawkeye** from **Defense 15** to **6**
+> :shiny: [Survival] Added **Blast2Past Points System** to Monthly/Seasonal Crates.
 > 
 > **ENTITIY CHANGES**
 > :shiny: [Survival] 
