@@ -23,6 +23,8 @@
 
 > :shiny: [Survival] Reduced **Hawkeye** from **Defense 15** to **6**
 > :shiny: [Survival] Added **Blast2Past Points System** to Monthly/Seasonal Crates.
+> :shiny: [Survival] Reduced **Upgraded Miner Set** from **Defense 10** to **6**, Mining **4** to **3**.
+> :shiny: [Survival] Fixed **Upgraded Miner Boots** showing **Leggings** label instead of **Boots** label.
 > 
 > **ENTITIY CHANGES**
 > :shiny: [Survival] 
