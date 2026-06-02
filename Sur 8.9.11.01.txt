@@ -40,7 +40,7 @@
 > **FARMING**
 > :shiny: [Survival] Disabled **Enderpearl** usage in **Farming Zone**.
 > :shiny: [Survival] **Custom Crops** will now drop **Farming Experience**, **Apple: 140**, **Chinese Cabbage: 265**, **Cabbage: 265** & **Pepper: 295**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Farming Crops Hologram** near the **Farmer NPC** with 2 pages of information.
 > :shiny: [Survival] 
 > 
 > **FISHING**
