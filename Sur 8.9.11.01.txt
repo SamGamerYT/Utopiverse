@@ -38,6 +38,7 @@
 > :shiny: [Survival] 
 > 
 > **FARMING**
+> :shiny: [Survival] Disabled **Enderpearl** usage in **Farming Zone**.
 > :shiny: [Survival] 
 > 
 > **FISHING**

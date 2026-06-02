@@ -1,176 +1,37 @@
 **Patch/Changes 8.9.11.00** *(Network Changes)*  
-> :shiny: [Survival] Removed **Spawner Pickaxe (Iron Version)** **Mining** skill requirement.
-> :shiny: [Survival] Reduced **Spawner Pickaxe (Gold Version)** from **Mining 10** to **4**.
-> :shiny: [Survival] Reduced **Bee Axe** from **Fighting 23** to **14**, Removed **Defense** & Added **Foraging 8**.
-> :shiny: [Survival] Made **Insane Parkour** little bit easier at the end.
-> :shiny: [Survival] Reduced **Vanguard Steel** from **Fighting 8** to **Fighting 3**.
-> :shiny: [Survival] Reduced **Parkour Cooldown** from **24 hours** to **12 hours**.
-> :shiny: [Survival] Updated **"/welcomekit"** interface & Fixed an issue where players couldn't claim the kit.
-> :shiny: [Survival] Reduced **Bee Bow** from **Archery 27** to **15**
-> :shiny: [Survival] Reduced **Crimson Dreadplate Bow** from **Archery 27** to **16** & Changed tier from **Legendary** to **Mythical**
-> :shiny: [Survival] Reduced **Hawkeye** from **Archery 25** to **19**
+> :shiny: [Survival] Removed **Mining** skill requirement from **Spawner Pickaxe (Iron Version)**.  
+> :shiny: [Survival] Reduced **Spawner Pickaxe (Gold Version)** requirement from **Mining 10** to **Mining 4**.  
+> :shiny: [Survival] Reduced **Bee Axe** requirements from **Fighting 23** to **14**, removed **Defense**, and added **Foraging 8**.  
+> :shiny: [Survival] Made **Insane Parkour** slightly easier near the end.  
+> :shiny: [Survival] Reduced **Vanguard Steel** requirement from **Fighting 8** to **Fighting 3**.  
+> :shiny: [Survival] Reduced **Parkour Cooldown** from **24 hours** to **12 hours**.  
+> :shiny: [Survival] Updated **"/welcomekit"** interface and fixed an issue where players could not claim the kit.  
+> :shiny: [Survival] Reduced **Bee Bow** requirement from **Archery 27** to **15**.  
+> :shiny: [Survival] Reduced **Crimson Dreadplate Bow** requirement from **Archery 27** to **16** and changed its tier from **Legendary** to **Mythical**.  
+> :shiny: [Survival] Reduced **Hawkeye** requirement from **Archery 25** to **19**.  
 > 
-> :shiny: [Survival] Fixed **Exotic Crate** guaranteed system not working properly.
-> :shiny: [Survival] Added **Permanently XP Multiplier** items in **Bee Crate**.
-> :shiny: [Survival] Added **Skill Orbs** in **Embercrest Crate**.
-> :shiny: [Survival] Updated **Nyx Glacielle & Kael Pyrestone** questline code, more optimized & properly elaborates when they request something.
-> :shiny: [Survival] Heavily **Optimized Flight** system & Disabled flight in worlds that are not meant to have it enabled.
-> :shiny: [Survival] Fixed an issue where **Book and Quill** would kick players out.
-> :shiny: [Survival] **Cobalt** will now give Excavation XP (25) & **Palladium** will give Excavation XP (40).
-> :shiny: [Survival] Heavily optimized the **Altar & Crafting Station** furniture activator.
-> :shiny: [Survival] Added **Voting Tempfly** system, a better & more accurate system.
-> :shiny: [Survival] Fixed an exploit where players were able to interact with **Shelves** in someone's base **(Pickup your pstone and place it again)**.
-
-> :shiny: [Survival] Reduced **Hawkeye** from **Defense 15** to **6**
-> :shiny: [Survival] Added **Blast2Past Points System** to Monthly/Seasonal Crates.
-> :shiny: [Survival] Reduced **Upgraded Miner Set** from **Defense 10** to **6**, Mining **4** to **3**.
-> :shiny: [Survival] Fixed **Upgraded Miner Boots** showing **Leggings** label instead of **Boots** label.
-> :shiny: [Survival] Reduced **Refined Miner Set** from **Defense 15** to **10**
-> :shiny: [Survival] Added **"/tempfly toggle"** to disable your temp fly.
+> :shiny: [Survival] Fixed **Exotic Crate** guaranteed system not working properly.  
+> :shiny: [Survival] Added **Permanent XP Multiplier** items to the **Bee Crate**.  
+> :shiny: [Survival] Added **Skill Orbs** to the **Embercrest Crate**.  
+> :shiny: [Survival] Updated **Nyx Glacielle & Kael Pyrestone** questline code to be more optimized and provide clearer quest requirements.  
+> :shiny: [Survival] Heavily optimized the **Flight** system and disabled flight in worlds where it is not intended to be used.  
+> :shiny: [Survival] Fixed an issue where **Book and Quill** would kick players.  
+> :shiny: [Survival] **Cobalt** now grants **25 Excavation XP**, and **Palladium** now grants **40 Excavation XP**.  
+> :shiny: [Survival] Heavily optimized the **Altar** and **Crafting Station** furniture activators.  
+> :shiny: [Survival] Added a new **Voting Temp Fly** system for better accuracy and reliability.  
+> :shiny: [Survival] Fixed an exploit where players could interact with **Shelves** inside another player's base. *(Pick up and place your Protection Stone again.)*  
 > 
-> **ENTITIY CHANGES**
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Hawkeye** requirement from **Defense 15** to **6**.  
+> :shiny: [Survival] Added **Blast2Past Points System** to **Monthly** and **Seasonal Crates**.  
+> :shiny: [Survival] Reduced **Upgraded Miner Set** requirements from **Defense 10** to **6** and **Mining 4** to **3**.  
+> :shiny: [Survival] Fixed **Upgraded Miner Boots** showing the **Leggings** label instead of the **Boots** label.  
+> :shiny: [Survival] Reduced **Refined Miner Set** requirement from **Defense 15** to **10**.  
+> :shiny: [Survival] Added **"/tempfly toggle"** to allow players to disable their temporary flight.  
 > 
-> **TOURNAMENT**
-> :shiny: [Survival] 
+> **DUNGEON WASTELAND CHANGES**  
+> :shiny: [Survival] Fixed an issue where **Minotaur** was not granting **Skill Experience**.  
 > 
-> **BANK**
-> :shiny: [Survival] 
-> 
-> **FARMING**
-> :shiny: [Survival] 
-> 
-> **FISHING**
-> :shiny: [Survival] 
-> 
-> **SHOP CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> 
-> **ARENA CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Hypogeum Arena] 
-> 
-> **BLACKSMITH**
-> :shiny: [Survival] 
-> 
-> **CODEX**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **TINKERER**
-> :shiny: [Survival] 
-> 
-> **DUNGEON**
-> :shiny: [Survival] 
-> 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON FROST CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON WASTELAND CHANGES**
-> :shiny: [Survival] Fixed an issue where **Minotaur** wasn't giving **Skill Experience**.
-> :shiny: [Survival] 
-> 
-> **DUNGEON HALLOWEEN CHANGES**
-> :shiny: [Survival] Players are now allowed to run **"/hat"** & **"/armory"** command in the dungeon.
-> :shiny: [Survival] 
-> 
-> **/SHOP** *(_QueenChaos95180)*
-> :shiny: [Survival] 
-> 
-> **SPOODER LAIR**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **WEBSITE**
-> :xmas_Snowflake: [Website] 
-> 
-> **TEXTURES**
-> :shiny: [Textures]
-> :shiny: [Bedrock] 
-> 
-> **OPTIMIZATION**
-> :shiny: [Survival] 
-> 
-> **HUB REALM**
-> :sdragon: [Lobby] 
-> 
-> **NETWORK**
-> :spaceheart1: [Network] 
-> 
-> **WEBSITE**
-> :computer: [Website] 
-> 
-> **WEBSTORE**
-> :computer: [Website] 
-> :shiny: [Survival] 
+> **DUNGEON HALLOWEEN CHANGES**  
+> :shiny: [Survival] Players can now use **"/hat"** and **"/armory"** commands inside the dungeon.  
 > 
 > **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
