@@ -2,7 +2,7 @@
 > :shiny: [Survival] Fixed **Dungeon Leaderboard** showing page 3 instead of page 4 when they switch to **Wasteland**.
 > :shiny: [Survival] **Main Damage** stat boost has been removed from **Ender Dragon Plushie** due to an unfixable bug.
 > :shiny: [Survival] Added **SERAPHINA WILLOWMERE** Questline at **Frost Dungeon**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Polisher, Menders & HotFixer's** crafting time to **10 seconds** from **20 seconds**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
