@@ -5,7 +5,7 @@
 > :shiny: [Survival] Reduced **Polisher, Menders & HotFixer's** crafting time to **10 seconds** from **20 seconds**.
 > :shiny: [Survival] Changed **Polisher's** recipe, **Amber** requirement from **9** to **3**.
 > :shiny: [Survival] Maintenance on **(04-June-26)** - Optimizations.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Pickaxe of the Unyielding** being bugged from **Medal Trader** category.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
