@@ -8,7 +8,7 @@
 > :shiny: [Survival] Fixed **Pickaxe of the Unyielding** being bugged from **Medal Trader** category.
 > :shiny: [Survival] Changed **Spoody the Spider** spawning recipe has changed from **128 Copper Coins** to **256 Copper Coins**.
 > :shiny: [Survival] Changed **Broodmother** spawning recipe has changed from **256 Copper Coins** to **512 Copper Coins**.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Spoody the Spider** will give **10,000 Agility Skill XP** & **Broodmother** will give **20,000 Agility Skill XP**.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
