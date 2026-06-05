@@ -6,7 +6,7 @@
 > :shiny: [Survival] Changed **Polisher's** recipe, **Amber** requirement from **9** to **3**.
 > :shiny: [Survival] Maintenance on **(04-June-26)** - Optimizations.
 > :shiny: [Survival] Fixed **Pickaxe of the Unyielding** being bugged from **Medal Trader** category.
-> :shiny: [Survival] 
+> :shiny: [Survival] Changed **Spoody the Spider** recipe has changed from **128 Copper Coins** to **256 Copper Coins**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
