@@ -12,7 +12,7 @@
 > 
 > :shiny: [Survival] **Baby Spooder** will give **250 Agility Skill XP**.
 > :shiny: [Survival] Changed **Frostmar Fur's** name from **Gradient** to **Normal** Colourcode.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Copper Medal** recipe 3 has been nerfed, Added **48 Copper Coin** requirement.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
