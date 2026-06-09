@@ -15,7 +15,7 @@
 > :shiny: [Survival] **Copper Medal** recipe 3 has been nerfed, Added **48 Copper Coin** requirement.
 > :shiny: [Survival] Fixed display error for **Silver Wheat** crafting recipe, Wheat was showing up as **"WHEATes"**
 > :shiny: [Survival] Fixed **Broken Placeholder** in **"/guide"** interface for bedrock players.
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Making Money** Tip hologram infront of **"/warp bank"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
