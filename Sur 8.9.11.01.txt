@@ -17,7 +17,7 @@
 > :shiny: [Survival] Fixed **Broken Placeholder** in **"/guide"** interface for bedrock players.
 > :shiny: [Survival] Modified **Making Money** Tip hologram infront of **"/warp bank"**.
 > :shiny: [Survival] Modified **Bank Information** Tip hologram infront of **"/warp bank"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Warps & Skills** Front NPC's hologram from **Yellow** to **Light Green**
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 
