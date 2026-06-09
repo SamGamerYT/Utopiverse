@@ -14,7 +14,7 @@
 > :shiny: [Survival] Changed **Frostmar Fur's** name from **Gradient** to **Normal** Colourcode.
 > :shiny: [Survival] **Copper Medal** recipe 3 has been nerfed, Added **48 Copper Coin** requirement.
 > :shiny: [Survival] Fixed display error for **Silver Wheat** crafting recipe, Wheat was showing up as **"WHEATes"**
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Broken Placeholder** in **"/guide"** interface for bedrock players.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
