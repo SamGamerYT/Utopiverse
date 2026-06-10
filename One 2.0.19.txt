@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.19** *[Oneblock]*
-> :grass: 
+> :grass: Reduced **Repairstone's Crafting** time down to **2 seconds** from **5, 10 & 20 seconds**.
 > :grass: 
 > :grass: 
 > :grass: 

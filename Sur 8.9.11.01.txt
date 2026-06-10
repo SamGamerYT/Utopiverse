@@ -18,7 +18,7 @@
 > :shiny: [Survival] Modified **Making Money** Tip hologram infront of **"/warp bank"**.
 > :shiny: [Survival] Modified **Bank Information** Tip hologram infront of **"/warp bank"**.
 > :shiny: [Survival] Modified **Warps & Skills** Front NPC's hologram from **Yellow** to **Light Green**
-> :shiny: [Survival] 
+> :shiny: [Survival] Relocated **Community & Milestone** NPC next to the random teleportation & Modified their hologram.
 > :shiny: [Survival] 
 
 > :shiny: [Survival] 
