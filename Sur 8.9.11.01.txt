@@ -1,24 +1,24 @@
 **Patch/Changes 8.9.11.01** *(Network Changes)*  
-> :shiny: [Survival] Fixed **Dungeon Leaderboard** showing page 3 instead of page 4 when they switch to **Wasteland**.
-> :shiny: [Survival] **Main Damage** stat boost has been removed from **Ender Dragon Plushie** due to an unfixable bug.
-> :shiny: [Survival] Added **SERAPHINA WILLOWMERE** Questline at **Frost Dungeon**.
-> :shiny: [Survival] Reduced **Polisher, Menders & HotFixer's** crafting time to **10 seconds** from **20 seconds**.
-> :shiny: [Survival] Changed **Polisher's** recipe, **Amber** requirement from **9** to **3**.
-> :shiny: [Survival] Maintenance on **(04-June-26)** - Optimizations.
-> :shiny: [Survival] Fixed **Pickaxe of the Unyielding** being bugged from **Medal Trader** category.
-> :shiny: [Survival] Changed **Spoody the Spider** spawning recipe has changed from **128 Copper Coins** to **256 Copper Coins**.
-> :shiny: [Survival] Changed **Broodmother** spawning recipe has changed from **256 Copper Coins** to **512 Copper Coins**.
-> :shiny: [Survival] **Spoody the Spider** will give **10,000 Agility Skill XP** & **Broodmother** will give **20,000 Agility Skill XP**.
+> :shiny: [Survival] Fixed **Dungeon Leaderboard** showing **Page 3** instead of **Page 4** when switching to **Wasteland**.  
+> :shiny: [Survival] **Main Damage** stat boost has been removed from **Ender Dragon Plushie** due to an unfixable bug.  
+> :shiny: [Survival] Added **SERAPHINA WILLOWMERE** questline in the **Frost Dungeon**.  
+> :shiny: [Survival] Reduced **Polisher**, **Menders**, and **HotFixer** crafting times from **20 seconds** to **10 seconds**.  
+> :shiny: [Survival] Changed **Polisher’s** recipe, reducing the **Amber** requirement from **9** to **3**.  
+> :shiny: [Survival] Performed maintenance and optimizations on **04-Jun-2026**.  
+> :shiny: [Survival] Fixed **Pickaxe of the Unyielding** being bugged in the **Medal Trader** category.  
+> :shiny: [Survival] Increased **Spoody the Spider** summoning recipe cost from **128 Copper Coins** to **256 Copper Coins**.  
+> :shiny: [Survival] Increased **Broodmother** summoning recipe cost from **256 Copper Coins** to **512 Copper Coins**.  
+> :shiny: [Survival] **Spoody the Spider** now grants **10,000 Agility Skill XP**, and **Broodmother** now grants **20,000 Agility Skill XP**.  
 > 
-> :shiny: [Survival] **Baby Spooder** will give **250 Agility Skill XP**.
-> :shiny: [Survival] Changed **Frostmaw Fur's** name from **Gradient** to **Normal** Colourcode.
-> :shiny: [Survival] **Copper Medal** recipe 3 has been nerfed, Added **48 Copper Coin** requirement.
-> :shiny: [Survival] Fixed display error for **Silver Wheat** crafting recipe, Wheat was showing up as **"WHEATes"**
-> :shiny: [Survival] Fixed **Broken Placeholder** in **"/guide"** interface for bedrock players.
-> :shiny: [Survival] Modified **Making Money** Tip hologram infront of **"/warp bank"**.
-> :shiny: [Survival] Modified **Bank Information** Tip hologram infront of **"/warp bank"**.
-> :shiny: [Survival] Modified **Warps & Skills** Front NPC's hologram from **Yellow** to **Light Green**
-> :shiny: [Survival] Relocated **Community & Milestone** NPC next to the random teleportation & Modified their hologram.
+> :shiny: [Survival] **Baby Spooder** now grants **250 Agility Skill XP**.  
+> :shiny: [Survival] Changed **Frostmaw Fur’s** name from a **Gradient** format to a **Normal** color code format.  
+> :shiny: [Survival] Nerfed **Copper Medal** Recipe #3 by adding a requirement of **48 Copper Coins**.  
+> :shiny: [Survival] Fixed a display error in the **Silver Wheat** crafting recipe where Wheat appeared as **"WHEATes"**.  
+> :shiny: [Survival] Fixed a **broken placeholder** in the **"/guide"** interface for Bedrock players.  
+> :shiny: [Survival] Modified the **Making Money** tip hologram in front of **"/warp bank"**.  
+> :shiny: [Survival] Modified the **Bank Information** tip hologram in front of **"/warp bank"**.  
+> :shiny: [Survival] Changed the **Warps & Skills** front NPC hologram color from **Yellow** to **Light Green**.  
+> :shiny: [Survival] Relocated the **Community & Milestone** NPC next to the random teleportation area and updated its hologram.  
 > :shiny: [Survival] 
 
 > :shiny: [Survival] 
