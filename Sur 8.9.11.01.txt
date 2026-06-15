@@ -21,7 +21,7 @@
 > :shiny: [Survival] Relocated the **Community & Milestone** NPC next to the random teleportation area and updated its hologram.  
 > :shiny: [Survival] Fixed **Draconic Reign's Set Bonus** lore error.
 
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Rent an Island** poster & Islands.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
