@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.11.02** *(Network Changes)*  
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Blacksmith Waystone** sandstone theme build from **"/warp dungeons"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
