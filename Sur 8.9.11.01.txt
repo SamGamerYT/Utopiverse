@@ -22,7 +22,7 @@
 > :shiny: [Survival] Fixed **Draconic Reign's Set Bonus** lore error.
 
 > :shiny: [Survival] Removed **Rent an Island** poster & Islands.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Underground Crate** from **"/warp dungeons"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
