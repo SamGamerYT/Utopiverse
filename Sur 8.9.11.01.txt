@@ -19,7 +19,7 @@
 > :shiny: [Survival] Modified the **Bank Information** tip hologram in front of **"/warp bank"**.  
 > :shiny: [Survival] Changed the **Warps & Skills** front NPC hologram color from **Yellow** to **Light Green**.  
 > :shiny: [Survival] Relocated the **Community & Milestone** NPC next to the random teleportation area and updated its hologram.  
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Draconic Reign's Set Bonus** lore error.
 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
