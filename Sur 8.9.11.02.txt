@@ -97,6 +97,7 @@
 > 
 > **HUB REALM**
 > :sdragon: [Lobby] Removed **ZOO Event** hologram
+> :sdragon: [Lobby] New **Lobby** has been added.
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
