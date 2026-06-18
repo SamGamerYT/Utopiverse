@@ -3,7 +3,7 @@
 > :shiny: [Survival] Relocated **Player Warps** NPC to **"/warp bank"** building.
 > :shiny: [Survival] Relocated **Mall Information** & Chest preview to **"/warp bank"** building. 
 > :shiny: [Survival] Removed **Runestones** from **Ender Dragon Plushie Helmet** & Added the Damage stats back.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an issue where players were not able to craft the third recipe of **Copper Medal**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
@@ -31,20 +31,13 @@
 > :shiny: [Survival] 
 > 
 > **FARMING**
+> :shiny: [Survival] Allowed **Chest Access** in **Farm House**.
 > :shiny: [Survival] 
 > 
 > **FISHING**
 > :shiny: [Survival] 
 > 
 > **SHOP CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
@@ -73,6 +66,8 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
+> :shiny: [Survival] Modified the **Spawn Area**
+> :shiny: [Survival] Modified the inside of **Volcano** & **Boss Zone**.
 > :shiny: [Survival] 
 > 
 > **DUNGEON WASTELAND CHANGES**
