@@ -96,6 +96,7 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
+> :sdragon: [Lobby] Removed **ZOO Event** hologram
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
