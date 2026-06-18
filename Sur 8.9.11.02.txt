@@ -69,6 +69,7 @@
 > :shiny: [Survival] Modified the **Spawn Area**
 > :shiny: [Survival] Modified the inside of **Volcano** & **Boss Zone**.
 > :shiny: [Survival] 
+> :shiny: [Survival] 
 > 
 > **DUNGEON WASTELAND CHANGES**
 > :shiny: [Survival] 
@@ -98,6 +99,7 @@
 > **HUB REALM**
 > :sdragon: [Lobby] Removed **ZOO Event** hologram
 > :sdragon: [Lobby] New **Lobby** has been added.
+> :sdragon: [Lobby] Removed **BlockParty** NPC & Hologram.
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
