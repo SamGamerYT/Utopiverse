@@ -69,7 +69,6 @@
 > :shiny: [Survival] Modified the **Spawn Area**
 > :shiny: [Survival] Modified the inside of **Volcano** & **Boss Zone**.
 > :shiny: [Survival] 
-> :shiny: [Survival] 
 > 
 > **DUNGEON WASTELAND CHANGES**
 > :shiny: [Survival] 
