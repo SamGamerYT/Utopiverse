@@ -46,7 +46,7 @@
 > 
 > **BLACKSMITH**
 > :shiny: [Survival] Modified **Geode Crusher, Weaponsmith & Armoursmith** holograms.
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **"/blacksmith"** & **"/warp tinkerer"** area, they are now located in a new location.
 > :shiny: [Survival] 
 > 
 > **CODEX**
