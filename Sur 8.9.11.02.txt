@@ -102,7 +102,7 @@
 > :sdragon: [Lobby] New **Lobby** has been added.
 > :sdragon: [Lobby] Removed **BlockParty** NPC & Hologram.
 > :sdragon: [Lobby] Disabled **Wandering Villager** spawning.
-> :sdragon: [Lobby] 
+> :sdragon: [Lobby] **View Distance** has been increased from **6** to **8**.
 > 
 > **NETWORK**
 > :spaceheart1: [Network] 
