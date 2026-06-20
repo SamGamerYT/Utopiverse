@@ -101,6 +101,7 @@
 > :sdragon: [Lobby] Removed **ZOO Event** hologram
 > :sdragon: [Lobby] New **Lobby** has been added.
 > :sdragon: [Lobby] Removed **BlockParty** NPC & Hologram.
+> :sdragon: [Lobby] Disabled **Wandering Villager** spawning.
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
