@@ -8,7 +8,7 @@
 > :shiny: [Survival] Players will now take **25%** damage multiplyier from drowning instead of **50%**.
 > :shiny: [Survival] **View Distance** has been increased from **4** to **7**.
 > :shiny: [Survival] Fixed **Nyx & Kael's** questline, more improvement.
-> :shiny: [Survival] 
+> :shiny: [Survival] Relocated **Skmasykw's** questline NPC to **Volcano Dungeon**.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
