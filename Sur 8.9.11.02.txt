@@ -32,6 +32,7 @@
 > 
 > **FARMING**
 > :shiny: [Survival] Allowed **Chest Access** in **Farm House**.
+> :shiny: [Survival] Relocated **Pond, Butcher, Baby Shark NPC, Farmer NPC, Mandrakes, Henry the Cowboy, Retired Fishermen** to **New Farming Zone**.
 > :shiny: [Survival] 
 > 
 > **FISHING**
