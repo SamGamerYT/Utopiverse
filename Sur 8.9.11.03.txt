@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.11.03** *(Network Changes)*  
 > :shiny: [Survival] Re-relocated **Chestshop** information from **"/warp bank"** to **Farming Zone**.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Vanguard Steel Sword** is now upgradable at **Azure Trader**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
