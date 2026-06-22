@@ -13,7 +13,7 @@
 > :shiny: [Survival] Relocated **Codex Tip** hologram to **Frost Dungeon**.
 > :shiny: [Survival] Enabled Dropping at **Spawn**. (19-June-26)
 > :shiny: [Survival] Disabled Dropping at **Spawn**. (21-June-26)
-> :shiny: [Survival] 
+> :shiny: [Survival] Relocated **Seiya & Julia's** questline NPC's to **Farming Zone**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
