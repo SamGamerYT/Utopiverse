@@ -1,169 +1,37 @@
 **Patch/Changes 8.9.11.02** *(Network Changes)*  
-> :shiny: [Survival] Removed **Blacksmith Waystone** sandstone theme build from **"/warp dungeons"**.
-> :shiny: [Survival] Relocated **Player Warps** NPC to **"/warp bank"** building.
-> :shiny: [Survival] Relocated **Mall Information** & Chest preview to **"/warp bank"** building. 
-> :shiny: [Survival] Removed **Runestones** from **Ender Dragon Plushie Helmet** & Added the Damage stats back.
-> :shiny: [Survival] Fixed an issue where players were not able to craft the third recipe of **Copper Medal**.
-> :shiny: [Survival] Fixed **Nyx and Kael Pyrestone** questline, where players couldn't progress from the cactus flower.
-> :shiny: [Survival] Players will now take **25%** damage multiplyier from drowning instead of **50%**.
-> :shiny: [Survival] **View Distance** has been increased from **4** to **7**.
-> :shiny: [Survival] Fixed **Nyx & Kael's** questline, more improvement.
-> :shiny: [Survival] Relocated **Skmasykw's** questline NPC to **Volcano Dungeon**.
+> :shiny: [Survival] Removed the **Blacksmith Waystone** sandstone-themed build from **"/warp dungeons"**.  
+> :shiny: [Survival] Relocated the **Player Warps** NPC to the **"/warp bank"** building.  
+> :shiny: [Survival] Relocated **Mall Information** and the chest preview to the **"/warp bank"** building.  
+> :shiny: [Survival] Removed **Runestones** from the **Ender Dragon Plushie Helmet** and restored its damage stats.  
+> :shiny: [Survival] Fixed an issue where players were unable to craft the third recipe of the **Copper Medal**.  
+> :shiny: [Survival] Fixed **Nyx Glacielle & Kael Pyrestone's** questline, where players could not progress past the **Cactus Flower** stage.  
+> :shiny: [Survival] Players will now take **25%** drowning damage instead of **50%**.  
+> :shiny: [Survival] Increased **View Distance** from **4** to **7**.  
+> :shiny: [Survival] Further improvements and fixes have been made to **Nyx & Kael’s** questline.  
+> :shiny: [Survival] Relocated **Skmasykw’s** questline NPC to the **Volcano Dungeon**.  
 > 
-> :shiny: [Survival] Relocated **Codex Tip** hologram to **Frost Dungeon**.
-> :shiny: [Survival] Enabled Dropping at **Spawn**. (19-June-26)
-> :shiny: [Survival] Disabled Dropping at **Spawn**. (21-June-26)
-> :shiny: [Survival] Relocated **Seiya & Julia's** questline NPC's to **Farming Zone**.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> 
-> **ENTITIY CHANGES**
-> :shiny: [Survival] 
-> 
-> **TOURNAMENT**
-> :shiny: [Survival] 
-> 
-> **BANK**
-> :shiny: [Survival] 
+> :shiny: [Survival] Relocated the **Codex Tip** hologram to the **Frost Dungeon**.  
+> :shiny: [Survival] Enabled item dropping at **Spawn** *(19-Jun-2026)*.  
+> :shiny: [Survival] Disabled item dropping at **Spawn** *(21-Jun-2026)*.  
+> :shiny: [Survival] Relocated **Seiya & Julia’s** questline NPCs to the **Farming Zone**.  
 > 
 > **FARMING**
-> :shiny: [Survival] Allowed **Chest Access** in **Farm House**.
-> :shiny: [Survival] Relocated **Pond, Butcher, Baby Shark NPC, Farmer NPC, Mandrakes, Henry the Cowboy, Retired Fishermen** to **New Farming Zone**.
-> :shiny: [Survival] 
-> 
-> **FISHING**
-> :shiny: [Survival] 
-> 
-> **SHOP CHANGES**
-> :shiny: [Survival] 
-> 
-> **ARENA CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Hypogeum Arena] 
+> :shiny: [Survival] Allowed **Chest Access** inside the **Farm House**.  
+> :shiny: [Survival] Relocated **Pond**, **Butcher**, **Baby Shark NPC**, **Farmer NPC**, **Mandrakes**, **Henry the Cowboy**, and **Retired Fisherman** to the **New Farming Zone**.  
 > 
 > **BLACKSMITH**
-> :shiny: [Survival] Modified **Geode Crusher, Weaponsmith & Armoursmith** holograms.
-> :shiny: [Survival] Modified **"/blacksmith"** & **"/warp tinkerer"** area, they are now located in a new location.
-> :shiny: [Survival] 
-> 
-> **CODEX**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **TINKERER**
-> :shiny: [Survival] 
-> 
-> **DUNGEON**
-> :shiny: [Survival] 
-> 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON FROST CHANGES**
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Geode Crusher**, **Weaponsmith**, and **Armoursmith** holograms.  
+> :shiny: [Survival] Modified the **"/blacksmith"** and **"/warp tinkerer"** areas; they are now located in a new location.  
 > 
 > **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] Modified the **Spawn Area**
-> :shiny: [Survival] Modified the inside of **Volcano** & **Boss Zone**.
-> :shiny: [Survival] 
-> 
-> **DUNGEON WASTELAND CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON HALLOWEEN CHANGES**
-> :shiny: [Survival] 
-> 
-> **/SHOP** *(_QueenChaos95180)*
-> :shiny: [Survival] 
-> 
-> **SPOODER LAIR**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **WEBSITE**
-> :xmas_Snowflake: [Website] 
-> 
-> **TEXTURES**
-> :shiny: [Textures]
-> :shiny: [Bedrock] 
-> 
-> **OPTIMIZATION**
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified the **Spawn Area**.  
+> :shiny: [Survival] Modified the interior of the **Volcano** and the **Boss Zone**.  
 > 
 > **HUB REALM**
-> :sdragon: [Lobby] Removed **ZOO Event** hologram
-> :sdragon: [Lobby] New **Lobby** has been added.
-> :sdragon: [Lobby] Removed **BlockParty** NPC & Hologram.
-> :sdragon: [Lobby] Disabled **Wandering Villager** spawning.
-> :sdragon: [Lobby] **View Distance** has been increased from **6** to **8**.
-> 
-> **NETWORK**
-> :spaceheart1: [Network] 
-> 
-> **WEBSITE**
-> :computer: [Website] 
-> 
-> **WEBSTORE**
-> :computer: [Website] 
-> :shiny: [Survival] 
+> :sdragon: [Lobby] Removed the **Zoo Event** hologram.  
+> :sdragon: [Lobby] Added a new **Lobby**.  
+> :sdragon: [Lobby] Removed the **BlockParty** NPC and hologram.  
+> :sdragon: [Lobby] Disabled **Wandering Villager** spawning.  
+> :sdragon: [Lobby] Increased **View Distance** from **6** to **8**.  
 > 
 > **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
