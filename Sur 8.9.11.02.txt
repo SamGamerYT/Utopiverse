@@ -11,8 +11,8 @@
 > :shiny: [Survival] Relocated **Skmasykw's** questline NPC to **Volcano Dungeon**.
 > 
 > :shiny: [Survival] Relocated **Codex Tip** hologram to **Frost Dungeon**.
-> :shiny: [Survival] Enabled Dropping at **Spawn**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Enabled Dropping at **Spawn**. (19-June-26)
+> :shiny: [Survival] Disabled Dropping at **Spawn**. (21-June-26)
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
