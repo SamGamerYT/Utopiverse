@@ -44,6 +44,7 @@
 > :shiny: [Hypogeum Arena] 
 > 
 > **BLACKSMITH**
+> :shiny: [Survival] Relocated **The Enchanter** from the old **Blacksmith** to the new **Blacksmith Zone**.
 > :shiny: [Survival] 
 > 
 > **CODEX**
