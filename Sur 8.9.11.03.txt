@@ -2,7 +2,7 @@
 > :shiny: [Survival] Re-relocated **Chestshop** information from **"/warp bank"** to **Farming Zone**.
 > :shiny: [Survival] **Vanguard Steel Sword** is now upgradable at **Azure Trader**.
 > :shiny: [Survival] Relocated **"/warp afk"** to **Frost Dungeon**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **"/arm flageditor"** interface.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
