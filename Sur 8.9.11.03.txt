@@ -4,7 +4,7 @@
 > :shiny: [Survival] Relocated **"/warp afk"** to **Frost Dungeon**.
 > :shiny: [Survival] Modified **"/arm flageditor"** interface.
 > :shiny: [Survival] You can now build **4 blocks deeper** & **15 blocks up** from the old **1 block deeper** & **10 blocks up**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Player's are now able to **fly** in their **Rented Plots** at **Farming Zone**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
