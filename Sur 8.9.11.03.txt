@@ -48,6 +48,8 @@
 > :shiny: [Survival] **Sarnak** will now offer **Compressed Rock** instead of **Rock**.
 > :shiny: [Survival] **Sarnak** menders price has been nerfed from **32 Emerald Block** to **7 Emerald Block** & **57 Emeralds**
 > :shiny: [Survival] **Bandage** has been buffed from **48 emeralds** to **5 Emerald Block & 64 Emerald**.
+> :shiny: [Survival] **Bandage 2** has been buffed from **80 emeralds** to **16 Emerald Block & 64 Emerald**.
+> :shiny: [Survival] **Bandage 3** has been buffed from **16 emeralds block & 64 emeralds** to **70 emerald blocks**.
 > :shiny: [Survival] 
 > 
 > **CODEX**
