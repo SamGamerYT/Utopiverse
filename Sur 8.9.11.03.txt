@@ -45,6 +45,7 @@
 > 
 > **BLACKSMITH**
 > :shiny: [Survival] Relocated **The Enchanter** from the old **Blacksmith** to the new **Blacksmith Zone**.
+> :shiny: [Survival] **Sarnak** will now offer **Compressed Rock** instead of **Rock**.
 > :shiny: [Survival] 
 > 
 > **CODEX**
