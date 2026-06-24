@@ -47,6 +47,7 @@
 > :shiny: [Survival] Relocated **The Enchanter** from the old **Blacksmith** to the new **Blacksmith Zone**.
 > :shiny: [Survival] **Sarnak** will now offer **Compressed Rock** instead of **Rock**.
 > :shiny: [Survival] **Sarnak** menders price has been nerfed from **32 Emerald Block** to **7 Emerald Block** & **57 Emeralds**
+> :shiny: [Survival] **Bandage** has been buffed from **48 emeralds** to **5 Emerald Block & 64 Emerald**.
 > :shiny: [Survival] 
 > 
 > **CODEX**
