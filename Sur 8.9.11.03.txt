@@ -7,7 +7,7 @@
 > :shiny: [Survival] Player's are now able to **fly** in their **Rented Plots** at **Farming Zone**.
 > :shiny: [Survival] **PVP Zone** build has been modified.
 > :shiny: [Survival] Fixed **"/help"** menu where **Warp Interface**, wasn't working properly.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Tempfly** timer information at bottom right corner of **"/help"**.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
