@@ -10,7 +10,7 @@
 > :shiny: [Survival] Added **Tempfly** timer information at bottom right corner of **"/help"**.
 > :shiny: [Survival] Added confirmation **PWarp Teleportation** if the pwarp costs more than **$1000**
 > 
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Pink & Red Liege** prefixes not working as they should.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 

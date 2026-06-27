@@ -1,7 +1,7 @@
 **Patch/Changes 2.0.19** *[Oneblock]*
 > :grass: Reduced **Repairstone's Crafting** time down to **2 seconds** from **5, 10 & 20 seconds**.
 > :grass: Added **Phantom Scale** repairstone in **Repair Station**.
-> :grass: 
+> :grass: Changed **Double Drop** hologram.
 > :grass: 
 > :grass: 
 > :grass: 
