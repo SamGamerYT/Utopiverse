@@ -99,6 +99,7 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
+> :sdragon: [Lobby] Server pack will now support **26.2** version.
 > :sdragon: [Lobby] 
 > 
 > **NETWORK**
