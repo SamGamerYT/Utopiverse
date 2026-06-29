@@ -3,7 +3,7 @@
 > :grass: Added **Phantom Scale** repairstone in **Repair Station**.
 > :grass: Changed **Double Drop** hologram.
 > :grass: Introducing **Dreadrock Dungeon**, 7 New Mobs to fight & Unlocked **Opal, Citrine & A lot more important loot drops!**.
-> :grass: 
+> :grass: Added **Dreadrock Dungeon** NPC at **"/warp dungeons"**.
 > :grass: 
 > :grass: 
 > :grass: 
