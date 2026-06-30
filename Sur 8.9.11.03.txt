@@ -15,7 +15,7 @@
 > :shiny: [Survival] Modified the **"/fish shop"** interface and fixed an issue where certain fish prevented players from opening it.  
 > :shiny: [Survival] Added a **Biomes** category to **"/codex"**, allowing players to quickly teleport to biomes through the interface.  
 > :shiny: [Survival] Moved **Elf Questline** to **"/warp Frost"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Jumping in portals will no longer send an action bar message.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
