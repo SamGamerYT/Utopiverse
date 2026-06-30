@@ -1,9 +1,9 @@
-**Patch/Changes 2.0.19** *[Oneblock]*
-> :grass: Reduced **Repairstone's Crafting** time down to **2 seconds** from **5, 10 & 20 seconds**.
-> :grass: Added **Phantom Scale** repairstone in **Repair Station**.
-> :grass: Changed **Double Drop** hologram.
-> :grass: Introducing **Dreadrock Dungeon**, 7 New Mobs to fight & Unlocked **Opal, Citrine & A lot more important loot drops!**.
-> :grass: Added **Dreadrock Dungeon** NPC at **"/warp dungeons"**.
-> :grass: Added **Dreadrock Dungeon** mobs codex.
+**Patch/Changes 2.0.19** *[Oneblock]*  
+> :grass: Reduced **Repairstone** crafting time from **5, 10, and 20 seconds** to **2 seconds**.  
+> :grass: Added **Phantom Scale Repairstone** to the **Repair Station**.  
+> :grass: Updated the **Double Drop** hologram.  
+> :grass: Introducing **Dreadrock Dungeon** — featuring **7 new mobs** to fight and unlocking **Opal**, **Citrine**, and many more valuable loot drops.  
+> :grass: Added **Dreadrock Dungeon** NPC at **"/warp dungeons"**.  
+> :grass: Added **Dreadrock Dungeon** mobs to the **Codex**.  
 >  
 > **[ @Changelogs ]**
