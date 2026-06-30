@@ -16,7 +16,7 @@
 > :shiny: [Survival] Added a **Biomes** category to **"/codex"**, allowing players to quickly teleport to biomes through the interface.  
 > :shiny: [Survival] Moved **Elf Questline** to **"/warp Frost"**.
 > :shiny: [Survival] Jumping in portals will no longer send an action bar message.
-> :shiny: [Survival] 
+> :shiny: [Survival] Deleted **Interaction** in **Bank Zone**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
