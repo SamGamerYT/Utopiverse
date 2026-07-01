@@ -19,7 +19,7 @@
 > :shiny: [Survival] Deleted **Interaction** in **Bank Zone**.
 > :shiny: [Survival] Removed **Blackmarket NPC** and connected Blackmarket shop directly to **"/shop"**.
 > :shiny: [Survival] Heavily buffed **Epic Crate**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Changed **Tournaments** tasks for the new month.
 > 
 > **ENTITIY CHANGES**
 > :shiny: [Survival] 
