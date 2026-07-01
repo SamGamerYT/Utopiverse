@@ -14,25 +14,25 @@
 > :shiny: [Survival] Updated **Skmasykw’s Questline**, fixing progression issues and adding more hints.  
 > :shiny: [Survival] Modified the **"/fish shop"** interface and fixed an issue where certain fish prevented players from opening it.  
 > :shiny: [Survival] Added a **Biomes** category to **"/codex"**, allowing players to quickly teleport to biomes through the interface.  
-> :shiny: [Survival] Moved **Elf Questline** to **"/warp Frost"**.
-> :shiny: [Survival] Jumping in portals will no longer send an action bar message.
-> :shiny: [Survival] Deleted **Interaction** in **Bank Zone**.
-> :shiny: [Survival] Removed **Blackmarket NPC** and connected Blackmarket shop directly to **"/shop"**.
-> :shiny: [Survival] Heavily buffed **Epic Crate**.
-> :shiny: [Survival] Changed **Tournaments** tasks for the new month.
+> :shiny: [Survival] Moved the **Elf Questline** to **"/warp frost"**.  
+> :shiny: [Survival] Jumping into portals will no longer display an action bar message.  
+> :shiny: [Survival] Removed the **Interaction** prompt in the **Bank Zone**.  
+> :shiny: [Survival] Removed the **Blackmarket NPC** and integrated the Blackmarket shop directly into **"/shop"**.  
+> :shiny: [Survival] Heavily buffed the **Epic Crate**.  
+> :shiny: [Survival] Updated **Tournament** tasks for the new month.  
 > 
 > **BLACKSMITH**
-> :shiny: [Survival] Relocated **The Enchanter** from the old **Blacksmith** to the new **Blacksmith Zone**.
-> :shiny: [Survival] **Sarnak** will now offer **Compressed Rock** instead of **Rock**.
-> :shiny: [Survival] **Sarnak** menders price has been nerfed from **32 Emerald Block** to **7 Emerald Block** & **57 Emeralds**
-> :shiny: [Survival] **Bandage** has been buffed from **48 emeralds** to **5 Emerald Block & 64 Emerald**.
-> :shiny: [Survival] **Bandage 2** has been buffed from **80 emeralds** to **16 Emerald Block & 64 Emerald**.
-> :shiny: [Survival] **Bandage 3** has been buffed from **16 emeralds block & 64 emeralds** to **70 emerald blocks**.
+> :shiny: [Survival] Relocated **The Enchanter** from the old **Blacksmith** to the new **Blacksmith Zone**.  
+> :shiny: [Survival] **Sarnak** will now offer **Compressed Rock** instead of **Rock**.  
+> :shiny: [Survival] Reduced **Sarnak’s Menders** price from **32 Emerald Blocks** to **7 Emerald Blocks** and **57 Emeralds**.  
+> :shiny: [Survival] Increased **Bandage** price from **48 Emeralds** to **5 Emerald Blocks** and **64 Emeralds**.  
+> :shiny: [Survival] Increased **Bandage II** price from **80 Emeralds** to **16 Emerald Blocks** and **64 Emeralds**.  
+> :shiny: [Survival] Increased **Bandage III** price from **16 Emerald Blocks** and **64 Emeralds** to **70 Emerald Blocks**.  
 > 
 > **DUNGEON FROST CHANGES**
-> :shiny: [Survival] **THREE NEW QUESTS**, Three new features now completely available for players to explore in **Frost Dungeon**.
+> :shiny: [Survival] **THREE NEW QUESTS** — three new features are now fully available for players to explore in the **Frost Dungeon**.  
 > 
 > **HUB REALM**
-> :sdragon: [Lobby] Server pack will now support **26.2** version.
+> :sdragon: [Lobby] Server resource pack now supports **26.2**.  
 > 
 > **[ @Changelogs ]**
