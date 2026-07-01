@@ -21,28 +21,6 @@
 > :shiny: [Survival] Heavily buffed **Epic Crate**.
 > :shiny: [Survival] Changed **Tournaments** tasks for the new month.
 > 
-> **ENTITIY CHANGES**
-> :shiny: [Survival] 
-> 
-> **TOURNAMENT**
-> :shiny: [Survival] 
-> 
-> **BANK**
-> :shiny: [Survival] 
-> 
-> **FARMING**
-> :shiny: [Survival] 
-> 
-> **FISHING**
-> :shiny: [Survival] 
-> 
-> **SHOP CHANGES**
-> :shiny: [Survival] 
-> 
-> **ARENA CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Hypogeum Arena] 
-> 
 > **BLACKSMITH**
 > :shiny: [Survival] Relocated **The Enchanter** from the old **Blacksmith** to the new **Blacksmith Zone**.
 > :shiny: [Survival] **Sarnak** will now offer **Compressed Rock** instead of **Rock**.
@@ -50,66 +28,11 @@
 > :shiny: [Survival] **Bandage** has been buffed from **48 emeralds** to **5 Emerald Block & 64 Emerald**.
 > :shiny: [Survival] **Bandage 2** has been buffed from **80 emeralds** to **16 Emerald Block & 64 Emerald**.
 > :shiny: [Survival] **Bandage 3** has been buffed from **16 emeralds block & 64 emeralds** to **70 emerald blocks**.
-> :shiny: [Survival] 
-> 
-> **CODEX**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **TINKERER**
-> :shiny: [Survival] 
-> 
-> **DUNGEON**
-> :shiny: [Survival] 
-> 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**
 > :shiny: [Survival] **THREE NEW QUESTS**, Three new features now completely available for players to explore in **Frost Dungeon**.
 > 
-> **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON WASTELAND CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON HALLOWEEN CHANGES**
-> :shiny: [Survival] 
-> 
-> **/SHOP** *(_QueenChaos95180)*
-> :shiny: [Survival] 
-> 
-> **SPOODER LAIR**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **WEBSITE**
-> :xmas_Snowflake: [Website] 
-> 
-> **TEXTURES**
-> :shiny: [Textures]
-> :shiny: [Bedrock] 
-> 
-> **OPTIMIZATION**
-> :shiny: [Survival] 
-> 
 > **HUB REALM**
 > :sdragon: [Lobby] Server pack will now support **26.2** version.
-> :sdragon: [Lobby] 
-> 
-> **NETWORK**
-> :spaceheart1: [Network] 
-> 
-> **WEBSITE**
-> :computer: [Website] 
-> 
-> **WEBSTORE**
-> :computer: [Website] 
-> :shiny: [Survival] 
 > 
 > **[ @Changelogs ]**
