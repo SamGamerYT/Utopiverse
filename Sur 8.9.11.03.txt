@@ -17,7 +17,7 @@
 > :shiny: [Survival] Moved **Elf Questline** to **"/warp Frost"**.
 > :shiny: [Survival] Jumping in portals will no longer send an action bar message.
 > :shiny: [Survival] Deleted **Interaction** in **Bank Zone**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Blackmarket NPC** and connected Blackmarket shop directly to **"/shop"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
