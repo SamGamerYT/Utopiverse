@@ -18,7 +18,7 @@
 > :shiny: [Survival] Jumping in portals will no longer send an action bar message.
 > :shiny: [Survival] Deleted **Interaction** in **Bank Zone**.
 > :shiny: [Survival] Removed **Blackmarket NPC** and connected Blackmarket shop directly to **"/shop"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Heavily buffed **Epic Crate**.
 > :shiny: [Survival] 
 > 
 > **ENTITIY CHANGES**
