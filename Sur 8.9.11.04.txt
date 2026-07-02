@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.11.04** *(Network Changes)*  
 > :shiny: [Survival] Added **Easter Eggs** at **New Spawn** with the collection hologram.
 > :shiny: [Survival] Fixed **Epic Crate** not giving **Removal Scroll reward**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Changed **Blackmarket** in **"/shop"** - You no longer have to visit a separate place.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
