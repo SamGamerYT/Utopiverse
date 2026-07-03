@@ -4,7 +4,7 @@
 > :shiny: [Survival] Changed **Blackmarket** in **"/shop"** - You no longer have to visit a separate place.
 > :shiny: [Survival] Enabled **Item Dropping** at **"/spawn"** again. - Abusers will be severely punished.
 > :shiny: [Survival] Introducing **Custom Resource World**, New structures and puzzles for players to find.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Courier NPC** will now go to the his stall next to **Crates Zone** at night time.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
