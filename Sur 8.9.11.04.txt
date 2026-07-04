@@ -7,7 +7,7 @@
 > :shiny: [Survival] **Courier NPC** will now go to the his stall next to **Crates Zone** at night time.
 > :shiny: [Survival] Added **Whippy & SmartName** Valentine pet to roam the area around **Pub**.
 > :shiny: [Survival] Added **Doran Stonepath & Flora Briarwood**, They will roam spawn and trade certain items for **Emeralds**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Volcano Codex** requirement from **Custom Crops Seeds**.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
