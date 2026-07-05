@@ -12,7 +12,7 @@
 > 
 > :shiny: [Survival] Added **Ronan Trailward** at **"/warp dungeons"**, Important for new players.
 > :shiny: [Survival] Fixed **Starter Milestones** still counting **old easter eggs data**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Cemetery Zone** also known as **Graveyard Zone**, Build has been moved, Increased Mob Amount & Added Teleportation NPC at **"/warp dungeons"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
