@@ -1,18 +1,18 @@
 **Patch/Changes 8.9.11.04** *(Network Changes)*  
-> :shiny: [Survival] Added **Easter Eggs** at **New Spawn** with the collection hologram.
-> :shiny: [Survival] Fixed **Epic Crate** not giving **Removal Scroll reward**.
-> :shiny: [Survival] Changed **Blackmarket** in **"/shop"** - You no longer have to visit a separate place.
-> :shiny: [Survival] Enabled **Item Dropping** at **"/spawn"** again. - Abusers will be severely punished.
-> :shiny: [Survival] Introducing **Custom Resource World**, New structures and puzzles for players to find.
-> :shiny: [Survival] **Courier NPC** will now go to the his stall next to **Crates Zone** at night time.
-> :shiny: [Survival] Added **Whippy & SmartName** Valentine pet to roam the area around **Pub**.
-> :shiny: [Survival] Added **Doran Stonepath & Flora Briarwood**, They will roam spawn and trade certain items for **Emeralds**.
-> :shiny: [Survival] Removed **Volcano Codex** requirement from **Custom Crops Seeds**.
-> :shiny: [Survival] Removed **"/warp bs"**, **"/warp christ"**, **"/warp christmas"**, **"/warp Upgrade"**.
+> :shiny: [Survival] Added **Easter Eggs** around the **new Spawn**, along with a collection progress hologram.  
+> :shiny: [Survival] Fixed the **Epic Crate** not rewarding **Removal Scrolls**.  
+> :shiny: [Survival] Updated the **Blackmarket** in **"/shop"** — you no longer need to visit a separate location.  
+> :shiny: [Survival] Re-enabled **item dropping** at **"/spawn"**. Abuse of this feature will be dealt with severely.  
+> :shiny: [Survival] Introducing the **Custom Resource World**, featuring new structures and puzzles for players to discover.  
+> :shiny: [Survival] The **Courier NPC** will now return to his stall near the **Crates Zone** during the night.  
+> :shiny: [Survival] Added the **Whippy & SmartName** Valentine pet to roam around the **Pub**.  
+> :shiny: [Survival] Added **Doran Stonepath** and **Flora Briarwood**, who roam Spawn and trade selected items for **Emeralds**.  
+> :shiny: [Survival] Removed the **Volcano Codex** requirement from **Custom Crop Seeds**.  
+> :shiny: [Survival] Removed **"/warp bs"**, **"/warp christ"**, **"/warp christmas"**, and **"/warp upgrade"**.  
 > 
-> :shiny: [Survival] Added **Ronan Trailward** at **"/warp dungeons"**, Important for new players.
-> :shiny: [Survival] Fixed **Starter Milestones** still counting **old easter eggs data**.
-> :shiny: [Survival] Added **Cemetery Zone** also known as **Graveyard Zone**, Build has been moved, Increased Mob Amount & Added Teleportation NPC at **"/warp dungeons"**.
+> :shiny: [Survival] Added **Ronan Trailward** at **"/warp dungeons"**, providing important guidance for new players.  
+> :shiny: [Survival] Fixed **Starter Milestones** still counting data from the previous **Easter Eggs** event.  
+> :shiny: [Survival] Added the **Cemetery Zone** (formerly **Graveyard Zone**). The area has been relocated, expanded with more mobs, and now includes a teleportation NPC at **"/warp dungeons"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
