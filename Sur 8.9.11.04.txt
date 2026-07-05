@@ -8,9 +8,9 @@
 > :shiny: [Survival] Added **Whippy & SmartName** Valentine pet to roam the area around **Pub**.
 > :shiny: [Survival] Added **Doran Stonepath & Flora Briarwood**, They will roam spawn and trade certain items for **Emeralds**.
 > :shiny: [Survival] Removed **Volcano Codex** requirement from **Custom Crops Seeds**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **"/warp bs"**, **"/warp christ"**, **"/warp christmas"**, **"/warp Upgrade"**.
 > 
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Ronan Trailward** at **"/warp dungeons"**, Important for new players.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
