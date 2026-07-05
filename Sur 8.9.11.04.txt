@@ -11,7 +11,7 @@
 > :shiny: [Survival] Removed **"/warp bs"**, **"/warp christ"**, **"/warp christmas"**, **"/warp Upgrade"**.
 > 
 > :shiny: [Survival] Added **Ronan Trailward** at **"/warp dungeons"**, Important for new players.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Starter Milestones** still counting **old easter eggs data**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
