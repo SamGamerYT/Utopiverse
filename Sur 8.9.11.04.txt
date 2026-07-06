@@ -13,7 +13,7 @@
 > :shiny: [Survival] Added **Ronan Trailward** at **"/warp dungeons"**, providing important guidance for new players.  
 > :shiny: [Survival] Fixed **Starter Milestones** still counting data from the previous **Easter Eggs** event.  
 > :shiny: [Survival] Added the **Cemetery Zone** (formerly **Graveyard Zone**). The area has been relocated, expanded with more mobs, and now includes a teleportation NPC at **"/warp dungeons"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Crafting time** from **Enchanted Scute, Refined Scute, Enchanted Magma & Refined Magma**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
