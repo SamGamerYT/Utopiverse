@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.11.05** *(Network Changes)*  
 > :shiny: [Survival] Released **Corn Crop**, Craftable at **"/farms'**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Protection Stone** mob protection setting, Pickup your protectionstone and place it again to update.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
