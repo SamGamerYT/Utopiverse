@@ -4,7 +4,7 @@
 > :shiny: [Survival] Added **10 New Craftable Equipments** in **Trader Azure's** shop.
 > :shiny: [Survival] **Copper Watering Can** recipe condition has been changed from **Volcano Codex** to **Mine Codex**
 > :shiny: [Survival] **Silver Watering Can** recipe condition has been changed from **Volcano Codex** to **Frost Codex**
-> :shiny: [Survival] 
+> :shiny: [Survival] You are now able to add **Shield Patterns** to **Wayfarer's Bulwark**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
