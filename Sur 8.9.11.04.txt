@@ -15,7 +15,7 @@
 > :shiny: [Survival] Added the **Cemetery Zone** (formerly **Graveyard Zone**). The area has been relocated, expanded with more mobs, and now includes a teleportation NPC at **"/warp dungeons"**.
 > :shiny: [Survival] Removed **Crafting time** from **Enchanted Scute, Refined Scute, Enchanted Magma & Refined Magma**.
 > :shiny: [Survival] **Parkour** has gotten an update with more options for parkour.
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Queen's Seal Ring** requirement from **agility 18** to **14**, **Fighting 24** to **18**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
