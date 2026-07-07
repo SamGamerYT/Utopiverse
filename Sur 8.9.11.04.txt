@@ -17,8 +17,8 @@
 > :shiny: [Survival] **Parkour** has gotten an update with more options for parkour.
 > :shiny: [Survival] Reduced **Queen's Seal Ring** requirement from **agility 18** to **14**, **Fighting 24** to **18**.
 > :shiny: [Survival] Reduced **Orchid Mantis Cloak** requirement from **Fighting 25** to **18**.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Orchid Mantis Amulet** requirement from **Defense 24** to **14** changed its tier from **Legendary** to **Mythical**.
+> :shiny: [Survival] Reduced **Bee Set's** requirement from **Defense 30** to **17**, **Fighting 18** to **11**, **Agility 18** to **Agility 11**.
 > :shiny: [Survival] 
 > 
 > **ENTITIY CHANGES**
