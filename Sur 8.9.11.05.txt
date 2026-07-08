@@ -8,7 +8,7 @@
 > :shiny: [Survival] Fixed **Molten Set** tier 2 recipe having the wrong **armour piece requirement**.
 > :shiny: [Survival] Fixed **Yeti Set** tier 2 recipe having the wrong **armour piece requirement**.
 > :shiny: [Survival] Removed **Trailing Zeroes** when you sell in **"/sellg"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Updated messages of **"/sellg"** interface.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
