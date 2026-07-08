@@ -59,6 +59,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON MINE CHANGES**
+> :shiny: [Survival] Added **Enderchest** before **Diamond Layer** entrance.
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**
