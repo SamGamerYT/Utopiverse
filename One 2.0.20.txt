@@ -1,7 +1,7 @@
 **Patch/Changes 2.0.20** *[Oneblock]*
 > :grass: Removed **Trailing Zeroes** when you sell in **"/sellg"**.
 > :grass: Updated messages of **"/sellg"** interface.
-> :grass: 
+> :grass: Players can now do **"/warp castle"** to quickly teleport to the castle.
 > :grass: 
 > :grass: 
 > :grass: 
