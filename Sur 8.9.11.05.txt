@@ -1,14 +1,14 @@
 **Patch/Changes 8.9.11.05** *(Network Changes)*  
-> :shiny: [Survival] Released **Corn Crop**, Craftable at **"/farms'**.
-> :shiny: [Survival] Fixed **Protection Stone** mob protection setting, Pickup your protectionstone and place it again to update.
-> :shiny: [Survival] Added **10 New Craftable Equipments** in **Trader Azure's** shop.
-> :shiny: [Survival] **Copper Watering Can** recipe condition has been changed from **Volcano Codex** to **Mine Codex**
-> :shiny: [Survival] **Silver Watering Can** recipe condition has been changed from **Volcano Codex** to **Frost Codex**
-> :shiny: [Survival] You are now able to add **Shield Patterns** to **Wayfarer's Bulwark**.
-> :shiny: [Survival] Fixed **Molten Set** tier 2 recipe having the wrong **armour piece requirement**.
-> :shiny: [Survival] Fixed **Yeti Set** tier 2 recipe having the wrong **armour piece requirement**.
-> :shiny: [Survival] Removed **Trailing Zeroes** when you sell in **"/sellg"**.
-> :shiny: [Survival] Updated messages of **"/sellg"** interface.
+> :shiny: [Survival] Released the **Corn Crop**, craftable at **"/farms"**.  
+> :shiny: [Survival] Fixed the **Protection Stone** mob protection setting. Pick up and place your **Protection Stone** again to apply the update.  
+> :shiny: [Survival] Added **10 new craftable Equipment** items to **Trader Azure's** shop.  
+> :shiny: [Survival] Changed the **Copper Watering Can** recipe requirement from **Volcano Codex** to **Mine Codex**.  
+> :shiny: [Survival] Changed the **Silver Watering Can** recipe requirement from **Volcano Codex** to **Frost Codex**.  
+> :shiny: [Survival] **Wayfarer's Bulwark** now supports **Shield Patterns**.  
+> :shiny: [Survival] Fixed the **Molten Set** Tier II recipe using the wrong **armor piece** requirement.  
+> :shiny: [Survival] Fixed the **Yeti Set** Tier II recipe using the wrong **armor piece** requirement.  
+> :shiny: [Survival] Removed **trailing zeroes** from **"/sellg"** sell values.  
+> :shiny: [Survival] Updated the messages shown by the **"/sellg"** interface.  
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
