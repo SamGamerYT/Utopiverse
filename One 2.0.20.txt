@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.20** *[Oneblock]*
-> :grass: 
+> :grass: Removed **Trailing Zeroes** when you sell in **"/sellg"**.
 > :grass: 
 > :grass: 
 > :grass: 
