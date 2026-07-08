@@ -7,7 +7,7 @@
 > :shiny: [Survival] You are now able to add **Shield Patterns** to **Wayfarer's Bulwark**.
 > :shiny: [Survival] Fixed **Molten Set** tier 2 recipe having the wrong **armour piece requirement**.
 > :shiny: [Survival] Fixed **Yeti Set** tier 2 recipe having the wrong **armour piece requirement**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Trailing Zeroes** when you sell in **"/sellg"**.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
