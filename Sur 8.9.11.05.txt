@@ -12,7 +12,7 @@
 > 
 > :shiny: [Survival] Relocated **Arena NPC's** to new **"/warp arena"** & Merged **Parties Interface** & **Arena Join interface**.
 > :shiny: [Survival] Modified existing **Information** hologram located near **"/spawn"** & added new information.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **"/mall"** command & Mall World, Redirected **"/mall"** to **"/farms"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
