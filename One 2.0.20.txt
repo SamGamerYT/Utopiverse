@@ -3,7 +3,7 @@
 > :grass: Updated messages of **"/sellg"** interface.
 > :grass: Players can now do **"/warp castle"** to quickly teleport to the castle.
 > :grass: Modified **QueenChaos NPC's hologram** at **"/farms"**.
-> :grass: 
+> :grass: Added **Spawner Pickup** information hologram near **"/spawn"**.
 > :grass: 
 > :grass: 
 > :grass: 
