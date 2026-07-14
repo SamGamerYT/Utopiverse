@@ -16,7 +16,7 @@
 > :shiny: [Survival] Added **"/help"** NPC near **"/spawn"** to assist new players.
 > :shiny: [Survival] Removed **Upgrader Option** from **Trader Aaron**.
 > :shiny: [Survival] Completely **Updated & Changed** **"/upgrades"** interface, with 2 new options.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Crates** opening animation has been changed due to a bug where player's wouldn't receive a reward if they opened too quickly.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
