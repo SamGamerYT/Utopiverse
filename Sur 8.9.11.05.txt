@@ -18,7 +18,7 @@
 > :shiny: [Survival] Completely **Updated & Changed** **"/upgrades"** interface, with 2 new options.
 > :shiny: [Survival] **Crates** opening animation has been changed due to a bug where player's wouldn't receive a reward if they opened too quickly.
 > :shiny: [Survival] Fixed **Hawkeye Bow** not accepting **Custom Enchantments**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **The Ore Warden** questline, someone who's fed up with X-Rayers.
 > :shiny: [Survival] 
 > 
 > **ENTITIY CHANGES**
