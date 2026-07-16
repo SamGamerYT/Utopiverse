@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.11.06** *(Network Changes)*  
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Server Tip** holograms style, they are will now match with one another.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
