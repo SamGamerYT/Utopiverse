@@ -10,151 +10,17 @@
 > :shiny: [Survival] Removed **trailing zeroes** from **"/sellg"** sell values.  
 > :shiny: [Survival] Updated the messages shown by the **"/sellg"** interface.  
 > 
-> :shiny: [Survival] Relocated **Arena NPC's** to new **"/warp arena"** & Merged **Parties Interface** & **Arena Join interface**.
-> :shiny: [Survival] Modified existing **Information** hologram located near **"/spawn"** & added new information.
-> :shiny: [Survival] Removed **"/mall"** command & Mall World, Redirected **"/mall"** to **"/farms"**.
-> :shiny: [Survival] Added **"/help"** NPC near **"/spawn"** to assist new players.
-> :shiny: [Survival] Removed **Upgrader Option** from **Trader Aaron**.
-> :shiny: [Survival] Completely **Updated & Changed** **"/upgrades"** interface, with 2 new options.
-> :shiny: [Survival] **Crates** opening animation has been changed due to a bug where player's wouldn't receive a reward if they opened too quickly.
-> :shiny: [Survival] Fixed **Hawkeye Bow** not accepting **Custom Enchantments**.
-> :shiny: [Survival] Added **The Ore Warden** questline, someone who's fed up with X-Rayers.
-> :shiny: [Survival] 
-> 
-> **ENTITIY CHANGES**
-> :shiny: [Survival] 
-> 
-> **TOURNAMENT**
-> :shiny: [Survival] 
-> 
-> **BANK**
-> :shiny: [Survival] 
-> 
-> **FARMING**
-> :shiny: [Survival] 
-> 
-> **FISHING**
-> :shiny: [Survival] 
-> 
-> **SHOP CHANGES**
-> :shiny: [Survival] 
-> 
-> **ARENA CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Hypogeum Arena] 
-> 
-> **BLACKSMITH**
-> :shiny: [Survival] 
-> 
-> **CODEX**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **TINKERER**
-> :shiny: [Survival] 
-> 
-> **DUNGEON**
-> :shiny: [Survival] 
+> :shiny: [Survival] Relocated the **Arena NPCs** to the new **"/warp arena"** and merged the **Parties** and **Arena Join** interfaces.  
+> :shiny: [Survival] Updated the existing **Information** hologram near **"/spawn"** and added new information.  
+> :shiny: [Survival] Removed the **"/mall"** command and **Mall World**. **"/mall"** now redirects to **"/farms"**.  
+> :shiny: [Survival] Added a **"/help"** NPC near **"/spawn"** to assist new players.  
+> :shiny: [Survival] Removed the **Upgrader** option from **Trader Aaron**.  
+> :shiny: [Survival] Completely redesigned the **"/upgrades"** interface, including **2 new upgrade options**.  
+> :shiny: [Survival] Updated the **Crates** opening animation to fix an issue where players could miss rewards by opening crates too quickly.  
+> :shiny: [Survival] Fixed the **Hawkeye Bow** not accepting **Custom Enchantments**.  
+> :shiny: [Survival] Added **The Ore Warden** questline, featuring an NPC who's had enough of X-Rayers.  
 > 
 > **DUNGEON MINE CHANGES**
-> :shiny: [Survival] Added **Enderchest** before **Diamond Layer** entrance.
-> :shiny: [Survival] 
-> 
-> **DUNGEON FROST CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON WASTELAND CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON HALLOWEEN CHANGES**
-> :shiny: [Survival] 
-> 
-> **/SHOP** *(_QueenChaos95180)*
-> :shiny: [Survival] 
-> 
-> **SPOODER LAIR**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **WEBSITE**
-> :xmas_Snowflake: [Website] 
-> 
-> **TEXTURES**
-> :shiny: [Textures]
-> :shiny: [Bedrock] 
-> 
-> **OPTIMIZATION**
-> :shiny: [Survival] 
-> 
-> **HUB REALM**
-> :sdragon: [Lobby] 
-> 
-> **NETWORK**
-> :spaceheart1: [Network] 
-> 
-> **WEBSITE**
-> :computer: [Website] 
-> 
-> **WEBSTORE**
-> :computer: [Website] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Added an **Ender Chest** before the **Diamond Layer** entrance.  
 > 
 > **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
