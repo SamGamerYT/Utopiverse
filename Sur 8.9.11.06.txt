@@ -4,7 +4,7 @@
 > :shiny: [Survival] Fixed an issue with mana abilities not executing properly.
 > :shiny: [Survival] New **Annie Questline**, located near **Furniture shop**.
 > :shiny: [Survival] Removed **Confusion Key** from **Exchanger Station**.
-> :shiny: [Survival] Removed **FAQ**, **Tags Shop** & **Quests Menu** from **Bedrock's Guide Menu**.
+> :shiny: [Survival] Removed **RPG MENU**, **FAQ**, **Tags Shop** & **Quests Menu** from **Bedrock's Guide Menu**.
 > :shiny: [Survival] Changed **Challenges** to **Milestones** in **Bedrock's Guide Menu**.
 > :shiny: [Survival] Fixed **Settings Menu** not opening the interface properly.
 > :shiny: [Survival] **Dungeon Zone** in **Bedrock's Guide Menu** will now teleport you to **"/warp dungeons"**.
