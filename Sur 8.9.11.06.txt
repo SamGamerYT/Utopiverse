@@ -5,7 +5,7 @@
 > :shiny: [Survival] New **Annie Questline**, located near **Furniture shop**.
 > :shiny: [Survival] Removed **Confusion Key** from **Exchanger Station**.
 > :shiny: [Survival] Removed **Tags Shop** & **Quests Menu** from **Bedrock's Guide Menu**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Changed **Challenges** to **Milestones** in **Bedrock's Guide Menu**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
