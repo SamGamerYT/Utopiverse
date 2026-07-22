@@ -8,7 +8,7 @@
 > :shiny: [Survival] Changed **Challenges** to **Milestones** in **Bedrock's Guide Menu**.
 > :shiny: [Survival] Fixed **Settings Menu** not opening the interface properly.
 > :shiny: [Survival] **Dungeon Zone** in **Bedrock's Guide Menu** will now teleport you to **"/warp dungeons"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Changed **The Tinkerer** to **Refineshop** in **"/warps"**
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
