@@ -10,7 +10,7 @@
 > :shiny: [Survival] **Dungeon Zone** in **Bedrock's Guide Menu** will now teleport you to **"/warp dungeons"**.
 > :shiny: [Survival] Changed **The Tinkerer** to **Refineshop** in **"/warps"**
 > 
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Refinshop** & **Afk Zone** not unlocking within **Regions Codex**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
