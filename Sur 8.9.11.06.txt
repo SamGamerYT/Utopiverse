@@ -11,7 +11,7 @@
 > :shiny: [Survival] Changed **The Tinkerer** to **Refineshop** in **"/warps"**
 > 
 > :shiny: [Survival] Fixed **Refinshop** & **Afk Zone** not unlocking within **Regions Codex**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed a bug where players' were able to water their **Soil Pot** through **Water Bottle**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
