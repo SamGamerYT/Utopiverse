@@ -5,8 +5,8 @@
 > :grass: Modified **QueenChaos NPC's hologram** at **"/farms"**.
 > :grass: Added **Spawner Pickup** information hologram near **"/spawn"**.
 > :grass: Fixed a bug where players' were able to water their **Soil Pot** through **Water Bottle**.
-> :grass: 
-> :grass: 
+> :grass: Lowered the amount of **Wheat** at **"/farms"**.
+> :grass: Added **Beetroot** and **Potato** in **"/farms"**.
 > :grass: 
 > :grass: 
 > :grass: 
