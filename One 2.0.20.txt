@@ -4,7 +4,7 @@
 > :grass: Players can now do **"/warp castle"** to quickly teleport to the castle.
 > :grass: Modified **QueenChaos NPC's hologram** at **"/farms"**.
 > :grass: Added **Spawner Pickup** information hologram near **"/spawn"**.
-> :grass: 
+> :grass: Fixed a bug where players' were able to water their **Soil Pot** through **Water Bottle**.
 > :grass: 
 > :grass: 
 > :grass: 
