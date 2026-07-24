@@ -7,7 +7,7 @@
 > :grass: Fixed a bug where players' were able to water their **Soil Pot** through **Water Bottle**.
 > :grass: Lowered the amount of **Wheat** at **"/farms"**.
 > :grass: Added **Beetroot** and **Potato** in **"/farms"**.
-> :grass: 
+> :grass: Fixed **Close Icon** showing up wrong in **"/sellg"** interface.
 > :grass: 
 > :grass: 
 > 
