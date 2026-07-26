@@ -14,7 +14,7 @@
 > :shiny: [Survival] Fixed a bug where players' were able to water their **Soil Pot** through **Water Bottle**.
 > :shiny: [Survival] Fixed **Close Icon** showing up wrong in **"/sellg"** interface.
 > :shiny: [Survival] Added **Back on Death**, **Workbench** & **Enderchest** commands upgrades at **Upgrades NPC**.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Singular Perks** & **Multi-Perks** upgrades are now separated.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
