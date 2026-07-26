@@ -15,7 +15,7 @@
 > :shiny: [Survival] Fixed the **Close Icon** displaying incorrectly in the **"/sellg"** interface.  
 > :shiny: [Survival] Added **Back on Death**, **Workbench**, and **Ender Chest** command upgrades to the **Upgrades NPC**.  
 > :shiny: [Survival] **Singular Perks** and **Multi-Perks** upgrades are now separated.  
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Skill Power**, **Skill Profile**, & **Submission Points** holograms at **"/warp leaderboard"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
