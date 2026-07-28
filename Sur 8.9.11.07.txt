@@ -4,7 +4,7 @@
 > :shiny: [Survival] Fixed an **Condition** issue in **Legendary Key** trade in **Essence Station**.
 > :shiny: [Survival] **The Grand Alchemist** questline & Codex is now out.
 > :shiny: [Survival] Allowed players to break **Cobweb** with **Dungeon Weapons** at **"/blacksmith"**.
-> :shiny: [Survival] Placed **3 New patches** of **Red Tulips** & **2 New patches** of **Oxeye Daisys**.
+> :shiny: [Survival] Placed **3 New patches** of **Red Tulips** & **2 New patches** of **Oxeye Daisys** at **"/blacksmith"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
