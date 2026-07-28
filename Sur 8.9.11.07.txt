@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.11.07** *(Network Changes)*  
 > :shiny: [Survival] Fixed an issue where players' were able to open **Vote Crate** in the any world.
 > :shiny: [Survival] Modified **Crates Chest** furniture to a new modern look.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an **Condition** issue in **Legendary Key** trade in **Essence Station**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
