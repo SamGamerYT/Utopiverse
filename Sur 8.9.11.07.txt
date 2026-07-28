@@ -7,7 +7,7 @@
 > :shiny: [Survival] Added **3 new patches** of **Red Tulips** and **2 new patches** of **Oxeye Daisies** at **"/blacksmith"**.
 > :shiny: [Survival] Updated **Rule #4**, **Rule #7**, and **Rule #8** with more detailed explanations.
 > :shiny: [Survival] Added **Rule #21** to clarify the rules regarding nicking situations.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Rule #22** to ensure players understand that dropping items at **Spawn** is not allowed.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
