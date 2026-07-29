@@ -10,8 +10,8 @@
 > :shiny: [Survival] Added **Rule #22** to ensure players understand that dropping items at **Spawn** is not allowed.
 > :shiny: [Survival] Added **Rule #23** to clarify the limitations regarding **Caps usage**.
 > 
-> :shiny: [Survival] Updated **Combiner Station's** preview interface to the new modern look.
-> :shiny: [Survival] 
+> :shiny: [Survival] Updated **Combiner Station** preview interface to the new modern look.
+> :shiny: [Survival] Added **Frosted Miner Chestplate, Leggings & Frosted Wayfarer's Bulwark** in **Combiner Station**, new variant with **Ice Defense**
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
