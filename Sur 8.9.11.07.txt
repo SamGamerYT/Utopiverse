@@ -12,7 +12,7 @@
 > 
 > :shiny: [Survival] Updated the **Combiner Station** preview interface with a new modern design.  
 > :shiny: [Survival] Added **Frosted Miner Chestplate**, **Frosted Miner Leggings**, and **Frosted Wayfarer's Bulwark** to the **Combiner Station** as new variants with **Ice Defense**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added ***_WOOD** Variants to **Foraging** experience source.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
