@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.11.08** *(Network Changes)*  
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Frostwyrm Axe** requirement from **Enchanting 11** to **6** & **Fighting 21** to **12**.  
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
