@@ -1,16 +1,16 @@
 **Patch/Changes 8.9.11.08** *(Network Changes)*  
-> :shiny: [Survival] Reduced **Frostwyrm Axe** requirement from **Enchanting 11** to **0** & **Fighting 21** to **12**.
-> :shiny: [Survival] Reduced **Scorched Ember Set** requirement from **Defense 30** to **21** & **Fighting 18** to **5**.
-> :shiny: [Survival] Reduced **Arctic Owl Set** requirement from **Defense 30** to **20** & **Fighting 18** to **5**.
-> :shiny: [Survival] Reduced **Frostwyrm Set** requirement from **Defense 30** to **14** & **Fighting 18** to **8**.
-> :shiny: [Survival] **Scorched Ember Set** will now have **CE COMPATIBLE** Label.
-> :shiny: [Survival] **Arctic Owl Set** will now have **CE COMPATIBLE** Label.
-> :shiny: [Survival] **Frostwyrm Set** will now have **CE COMPATIBLE** Label.
-> :shiny: [Survival] **Arctic Owl Set** will now have **Fire Defense** alongside with **Ice Defense**.
-> :shiny: [Survival] **Frostwyrm Set** will now have **Earth Defense** alongside with **Ice Defense**.
-> :shiny: [Survival] Dropped **Frostwyrm Set's** rarity from **SPECIAL** to **MYTHICAL**.
+> :shiny: [Survival] Reduced **Frostwyrm Axe** requirements from **Enchanting 11** to **0** and **Fighting 21** to **12**.  
+> :shiny: [Survival] Reduced **Scorched Ember Set** requirements from **Defense 30** to **21** and **Fighting 18** to **5**.  
+> :shiny: [Survival] Reduced **Arctic Owl Set** requirements from **Defense 30** to **20** and **Fighting 18** to **5**.  
+> :shiny: [Survival] Reduced **Frostwyrm Set** requirements from **Defense 30** to **14** and **Fighting 18** to **8**.  
+> :shiny: [Survival] **Scorched Ember Set** now includes the **CE COMPATIBLE** label.  
+> :shiny: [Survival] **Arctic Owl Set** now includes the **CE COMPATIBLE** label.  
+> :shiny: [Survival] **Frostwyrm Set** now includes the **CE COMPATIBLE** label.  
+> :shiny: [Survival] **Arctic Owl Set** now provides **Fire Defense** in addition to **Ice Defense**.  
+> :shiny: [Survival] **Frostwyrm Set** now provides **Earth Defense** in addition to **Ice Defense**.  
+> :shiny: [Survival] Reduced **Frostwyrm Set** rarity from **SPECIAL** to **MYTHICAL**.  
 > 
-> :shiny: [Survival] Modified **Player Tag** & Added **Health** stats.
+> :shiny: [Survival] Updated **Player Tags** to display **Health** statistics.  
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
