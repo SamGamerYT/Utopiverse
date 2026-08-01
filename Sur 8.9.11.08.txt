@@ -2,15 +2,15 @@
 > :shiny: [Survival] Reduced **Frostwyrm Axe** requirement from **Enchanting 11** to **0** & **Fighting 21** to **12**.
 > :shiny: [Survival] Reduced **Scorched Ember Set** requirement from **Defense 30** to **21** & **Fighting 18** to **5**.
 > :shiny: [Survival] Reduced **Arctic Owl Set** requirement from **Defense 30** to **20** & **Fighting 18** to **5**.
+> :shiny: [Survival] Reduced **Frostwyrm Set** requirement from **Defense 30** to **14** & **Fighting 18** to **8**.
 > :shiny: [Survival] **Scorched Ember Set** will now have **CE COMPATIBLE** Label.
 > :shiny: [Survival] **Arctic Owl Set** will now have **CE COMPATIBLE** Label.
 > :shiny: [Survival] **Frostwyrm Set** will now have **CE COMPATIBLE** Label.
 > :shiny: [Survival] **Arctic Owl Set** will now have **Fire Defense** alongside with **Ice Defense**.
 > :shiny: [Survival] **Frostwyrm Set** will now have **Earth Defense** alongside with **Ice Defense**.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Dropped **Frostwyrm Set's** rarity from **SPECIAL** to **MYTHICAL**.
 > 
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Player Tag** & Added **Health** stats.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
