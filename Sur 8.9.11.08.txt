@@ -101,6 +101,7 @@
 > **WEBSITE**
 > :computer: [Website] Modified "How to join?" doc page
 > :computer: [Website] Modified "Voting Information" doc page
+> :computer: [Website] Added all new information & location of Survival spawn's easter eggs.
 > :computer: [Website] 
 > 
 > **WEBSTORE**
