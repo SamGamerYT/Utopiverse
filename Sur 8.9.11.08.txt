@@ -99,6 +99,7 @@
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
+> :computer: [Website] Modified "How to join?" doc page
 > :computer: [Website] 
 > 
 > **WEBSTORE**
