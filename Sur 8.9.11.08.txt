@@ -12,7 +12,7 @@
 > 
 > :shiny: [Survival] Updated **Player Tags** to display **Health** statistics.  
 > :shiny: [Survival] Fixed an issue where player's were not able to claim **Deepslate Milestone #1** & **Cobblestone Milestone #1**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an issue with **Home Upgrade**, #1 worked as intended but #2 broke the entire menu if you didn't have a permission.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
