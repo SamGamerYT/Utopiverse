@@ -14,7 +14,7 @@
 > :shiny: [Survival] Fixed an issue where players were unable to claim **Deepslate Milestone #1** and **Cobblestone Milestone #1**.  
 > :shiny: [Survival] Fixed an issue with **Home Upgrade** where **Upgrade #2** would break the entire menu if the player lacked the required permission.  
 > :shiny: [Survival] Fixed an issue with **The Grand Antidote** questline where it would not accept **Fermented Baby Spooder Eyes**.  
-> :shiny: [Survival] 
+> :shiny: [Survival] **Duels System** has been removed and disabled.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
