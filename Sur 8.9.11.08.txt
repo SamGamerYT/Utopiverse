@@ -18,7 +18,7 @@
 > :shiny: [Survival] Removed the sell value of all duplicated **Blackmarket** furniture items.
 > :shiny: [Survival] Reduced **Eagle Wings** requirements from **Defense 30** to **14** and **Agility 20** to **10**.  
 > :shiny: [Survival] Buffed **Volcano Invader** wings stats from **5% Volcano Damage** to **6% Volcano Damage** & **1% Volcano Boss Damage** to **2% Volcano Boss Damage**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Increased **Volcano Invader** tier from **Epic** to **Mythical**.
 > :shiny: [Survival] 
 > 
 > **ENTITIY CHANGES**
