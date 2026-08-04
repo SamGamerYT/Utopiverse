@@ -19,7 +19,7 @@
 > :shiny: [Survival] Reduced **Eagle Wings** requirements from **Defense 30** to **14** and **Agility 20** to **10**.  
 > :shiny: [Survival] Buffed **Volcano Invader** Wings stats from **5% Volcano Damage** to **6% Volcano Damage**, and **1% Volcano Boss Damage** to **2% Volcano Boss Damage**.  
 > :shiny: [Survival] Increased the **Volcano Invader** tier from **Epic** to **Mythical**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Tidecaller Lootbox**, Located at **"/warp dungeons"**.
 > 
 > **ENTITIY CHANGES**
 > :shiny: [Survival] 
