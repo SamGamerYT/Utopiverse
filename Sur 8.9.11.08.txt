@@ -22,7 +22,7 @@
 > :shiny: [Survival] Added **Tidecaller Lootbox**, Located at **"/warp dungeons"**.
 > 
 > **ENTITIY CHANGES**
-> :shiny: [Survival] 
+> :shiny: [Survival] **Fire Rendering** issue on custom models. *(Java Edition)*
 > 
 > **TOURNAMENT**
 > :shiny: [Survival] 
