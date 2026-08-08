@@ -27,83 +27,9 @@
 > **ENTITY CHANGES**
 > :shiny: [Survival] Fixed a **fire rendering** issue affecting custom models on **Java Edition**.
 > 
-> **TOURNAMENT**
-> :shiny: [Survival] 
-> 
-> **BANK**
-> :shiny: [Survival] 
-> 
-> **FARMING**
-> :shiny: [Survival] 
-> 
-> **FISHING**
-> :shiny: [Survival] 
-> 
-> **SHOP CHANGES**
-> :shiny: [Survival] 
-> 
-> **ARENA CHANGES**
-> :shiny: [Survival] 
-> :shiny: [Hypogeum Arena] 
-> 
-> **BLACKSMITH**
-> :shiny: [Survival] 
-> 
-> **CODEX**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **TINKERER**
-> :shiny: [Survival] 
-> 
-> **DUNGEON**
-> :shiny: [Survival] 
-> 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON FROST CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON WASTELAND CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON HALLOWEEN CHANGES**
-> :shiny: [Survival] 
-> 
-> **/SHOP** *(_QueenChaos95180)*
-> :shiny: [Survival] 
-> 
-> **SPOODER LAIR**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
 > **WEBSITE**
-> :xmas_Snowflake: [Website] 
-> 
-> **TEXTURES**
-> :shiny: [Textures]
-> :shiny: [Bedrock] 
-> 
-> **OPTIMIZATION**
-> :shiny: [Survival] 
-> 
-> **HUB REALM**
-> :sdragon: [Lobby] 
-> 
-> **NETWORK**
-> :spaceheart1: [Network] 
-> 
-> **WEBSITE**
-> :computer: [Website] Modified "How to join?" doc page
-> :computer: [Website] Modified "Voting Information" doc page
+> :computer: [Website] Modified "How to join?" doc page.
+> :computer: [Website] Modified "Voting Information" doc page.
 > :computer: [Website] Added all new information & location of Survival spawn's easter eggs.
 > :computer: [Website] 
 > 
