@@ -1,28 +1,31 @@
-**Patch/Changes 8.9.11.08** *(Network Changes)*  
-> :shiny: [Survival] Reduced **Frostwyrm Axe** requirements from **Enchanting 11** to **0** and **Fighting 21** to **12**.  
-> :shiny: [Survival] Reduced **Scorched Ember Set** requirements from **Defense 30** to **21** and **Fighting 18** to **5**.  
-> :shiny: [Survival] Reduced **Arctic Owl Set** requirements from **Defense 30** to **20** and **Fighting 18** to **5**.  
-> :shiny: [Survival] Reduced **Frostwyrm Set** requirements from **Defense 30** to **14** and **Fighting 18** to **8**.  
-> :shiny: [Survival] **Scorched Ember Set** now includes the **CE COMPATIBLE** label.  
-> :shiny: [Survival] **Arctic Owl Set** now includes the **CE COMPATIBLE** label.  
-> :shiny: [Survival] **Frostwyrm Set** now includes the **CE COMPATIBLE** label.  
-> :shiny: [Survival] **Arctic Owl Set** now provides **Fire Defense** in addition to **Ice Defense**.  
-> :shiny: [Survival] **Frostwyrm Set** now provides **Earth Defense** in addition to **Ice Defense**.  
-> :shiny: [Survival] Reduced **Frostwyrm Set** rarity from **SPECIAL** to **MYTHICAL**.  
-> 
-> :shiny: [Survival] Updated **Player Tags** to display **Health** statistics.  
-> :shiny: [Survival] Fixed an issue where players were unable to claim **Deepslate Milestone #1** and **Cobblestone Milestone #1**.  
-> :shiny: [Survival] Fixed an issue with **Home Upgrade** where **Upgrade #2** would break the entire menu if the player lacked the required permission.  
-> :shiny: [Survival] Fixed an issue with **The Grand Antidote** questline where it would not accept **Fermented Baby Spooder Eyes**.  
-> :shiny: [Survival] Removed and disabled the **Duels System**.  
-> :shiny: [Survival] Removed the sell value of all duplicated **Blackmarket** furniture items.  
-> :shiny: [Survival] Reduced **Eagle Wings** requirements from **Defense 30** to **14** and **Agility 20** to **10**.  
-> :shiny: [Survival] Buffed **Volcano Invader** Wings stats from **5% Volcano Damage** to **6% Volcano Damage**, and **1% Volcano Boss Damage** to **2% Volcano Boss Damage**.  
-> :shiny: [Survival] Increased the **Volcano Invader** tier from **Epic** to **Mythical**.
-> :shiny: [Survival] Added **Tidecaller Lootbox**, Located at **"/warp dungeons"**.
-> 
-> **ENTITIY CHANGES**
-> :shiny: [Survival] **Fire Rendering** issue on custom models. *(Java Edition)*
+**Patch/Changes 8.9.11.08** *(Network Changes)*
+
+> :shiny: [Survival] Reduced **Frostwyrm Axe** requirements from **Enchanting 11** to **0** and **Fighting 21** to **12**.
+> :shiny: [Survival] Reduced **Scorched Ember Set** requirements from **Defense 30** to **21** and **Fighting 18** to **5**.
+> :shiny: [Survival] Reduced **Arctic Owl Set** requirements from **Defense 30** to **20** and **Fighting 18** to **5**.
+> :shiny: [Survival] Reduced **Frostwyrm Set** requirements from **Defense 30** to **14** and **Fighting 18** to **8**.
+> :shiny: [Survival] **Scorched Ember Set** now includes the **CE COMPATIBLE** label.
+> :shiny: [Survival] **Arctic Owl Set** now includes the **CE COMPATIBLE** label.
+> :shiny: [Survival] **Frostwyrm Set** now includes the **CE COMPATIBLE** label.
+> :shiny: [Survival] **Arctic Owl Set** now provides **Fire Defense** in addition to **Ice Defense**.
+> :shiny: [Survival] **Frostwyrm Set** now provides **Earth Defense** in addition to **Ice Defense**.
+> :shiny: [Survival] Reduced **Frostwyrm Set** rarity from **SPECIAL** to **MYTHICAL**.
+>
+> :shiny: [Survival] Updated **Player Tags** to display **Health** statistics.
+> :shiny: [Survival] Fixed an issue where players were unable to claim **Deepslate Milestone #1** and **Cobblestone Milestone #1**.
+> :shiny: [Survival] Fixed an issue with **Home Upgrade** where **Upgrade #2** would break the entire menu if the player lacked the required permission.
+> :shiny: [Survival] Fixed an issue with **The Grand Antidote** questline where it would not accept **Fermented Baby Spooder Eyes**.
+> :shiny: [Survival] Removed and disabled the **Duels System**.
+> :shiny: [Survival] Removed the sell value from all duplicated **Blackmarket** furniture items.
+> :shiny: [Survival] Reduced **Eagle Wings** requirements from **Defense 30** to **14** and **Agility 20** to **10**.
+> :shiny: [Survival] Buffed **Volcano Invader Wings** stats from **5% Volcano Damage** to **6% Volcano Damage**, and **1% Volcano Boss Damage** to **2% Volcano Boss Damage**.
+> :shiny: [Survival] Increased the **Volcano Invader Wings** tier from **Epic** to **Mythical**.
+> :shiny: [Survival] Added the **Tidecaller Lootbox**, located at **"/warp dungeons"**.
+>
+> :shiny: [Survival] Patched a serious issue where players were able to stack **Global** and **Personal Boosters** together.
+>
+> **ENTITY CHANGES**
+> :shiny: [Survival] Fixed a **fire rendering** issue affecting custom models on **Java Edition**.
 > 
 > **TOURNAMENT**
 > :shiny: [Survival] 
