@@ -1,5 +1,4 @@
 **Patch/Changes 8.9.11.08** *(Network Changes)*
-
 > :shiny: [Survival] Reduced **Frostwyrm Axe** requirements from **Enchanting 11** to **0** and **Fighting 21** to **12**.
 > :shiny: [Survival] Reduced **Scorched Ember Set** requirements from **Defense 30** to **21** and **Fighting 18** to **5**.
 > :shiny: [Survival] Reduced **Arctic Owl Set** requirements from **Defense 30** to **20** and **Fighting 18** to **5**.
