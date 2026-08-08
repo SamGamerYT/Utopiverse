@@ -9,7 +9,7 @@
 > :shiny: [Survival] **Arctic Owl Set** now provides **Fire Defense** in addition to **Ice Defense**.
 > :shiny: [Survival] **Frostwyrm Set** now provides **Earth Defense** in addition to **Ice Defense**.
 > :shiny: [Survival] Reduced **Frostwyrm Set** rarity from **SPECIAL** to **MYTHICAL**.
->
+> 
 > :shiny: [Survival] Updated **Player Tags** to display **Health** statistics.
 > :shiny: [Survival] Fixed an issue where players were unable to claim **Deepslate Milestone #1** and **Cobblestone Milestone #1**.
 > :shiny: [Survival] Fixed an issue with **Home Upgrade** where **Upgrade #2** would break the entire menu if the player lacked the required permission.
@@ -20,9 +20,9 @@
 > :shiny: [Survival] Buffed **Volcano Invader Wings** stats from **5% Volcano Damage** to **6% Volcano Damage**, and **1% Volcano Boss Damage** to **2% Volcano Boss Damage**.
 > :shiny: [Survival] Increased the **Volcano Invader Wings** tier from **Epic** to **Mythical**.
 > :shiny: [Survival] Added the **Tidecaller Lootbox**, located at **"/warp dungeons"**.
->
+> 
 > :shiny: [Survival] Patched a serious issue where players were able to stack **Global** and **Personal Boosters** together.
->
+> 
 > **ENTITY CHANGES**
 > :shiny: [Survival] Fixed a **fire rendering** issue affecting custom models on **Java Edition**.
 > 
