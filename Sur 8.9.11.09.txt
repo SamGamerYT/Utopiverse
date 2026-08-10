@@ -6,7 +6,7 @@
 > :shiny: [Survival] Reduced **Amber Sword** requirement from **Fighting 8** to **Fighting 4**.
 > :shiny: [Survival] Increased **Amber Sword** durability from **500** to **512**.
 > :shiny: [Survival] Increased the durability gained when upgrading **Steel Gear Set**, **Lost Miner Gear Set**, **Upgraded Miner Gear Set**, and **Refined Miner Gear Set** with **Metamorphic Rock** from **64** to **256**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed the **Confusion Key** from **Essence Trader**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
