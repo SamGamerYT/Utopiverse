@@ -1,56 +1,12 @@
 **Patch/Changes 2.0.20** *[Oneblock]*
-> :grass: Removed **Trailing Zeroes** when you sell in **"/sellg"**.
-> :grass: Updated messages of **"/sellg"** interface.
-> :grass: Players can now do **"/warp castle"** to quickly teleport to the castle.
-> :grass: Modified **QueenChaos NPC's hologram** at **"/farms"**.
-> :grass: Added **Spawner Pickup** information hologram near **"/spawn"**.
-> :grass: Fixed a bug where players' were able to water their **Soil Pot** through **Water Bottle**.
-> :grass: Lowered the amount of **Wheat** at **"/farms"**.
-> :grass: Added **Beetroot** and **Potato** in **"/farms"**.
-> :grass: Fixed **Close Icon** showing up wrong in **"/sellg"** interface.
-> :grass: 
-> :grass: 
-> 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> **FARMING**
-> :grass: 
-> 
-> :Sparkles: [Store] 
-> 
-> **DUNGEON**
-> :grass: 
-> 
-> **COAL DUNGEON**
-> :grass: 
-> 
-> **CAVE DUNGEON**
-> :grass: 
-> 
-> **HOLOGRAMS**
-> :grass: 
-> 
-> **ISLAND**
-> :grass: 
-> 
-> **BANK**
-> :grass: 
-> 
-> **BLACKSMITH**
-> :grass: 
-> :grass: 
-> 
-> **REFINESHOP**
-> :grass: 
->  
+> :grass: Removed **trailing zeroes** from sell values in **"/sellg"**.
+> :grass: Updated the messages in the **"/sellg"** interface.
+> :grass: Players can now use **"/warp castle"** to quickly teleport to the **Castle**.
+> :grass: Modified **QueenChaos NPC's** hologram at **"/farms"**.
+> :grass: Added a **Spawner Pickup** information hologram near **"/spawn"**.
+> :grass: Fixed an issue where players were able to water their **Soil Pots** using **Water Bottles**.
+> :grass: Reduced the amount of **Wheat** at **"/farms"**.
+> :grass: Added **Beetroot** and **Potato** crops at **"/farms"**.
+> :grass: Fixed the **Close Icon** displaying incorrectly in the **"/sellg"** interface.
+>
 > **[ @Changelogs ]**
