@@ -8,5 +8,5 @@
 > :grass: Reduced the amount of **Wheat** at **"/farms"**.
 > :grass: Added **Beetroot** and **Potato** crops at **"/farms"**.
 > :grass: Fixed the **Close Icon** displaying incorrectly in the **"/sellg"** interface.
->
+> 
 > **[ @Changelogs ]**
