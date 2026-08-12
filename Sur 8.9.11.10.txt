@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.11.10** *(Network Changes)*
 > :shiny: [Survival] Increased **[i] Cooldown** from **5s** to **120s**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an issue where players were unable to **fly properly** within their rented **Farm Plots**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
