@@ -1,9 +1,9 @@
 **Patch/Changes 8.9.11.10** *(Network Changes)*
-> :shiny: [Survival] Increased **[i] Cooldown** from **5s** to **120s**.
+> :shiny: [Survival] Increased the **[i] Cooldown** from **5 seconds** to **120 seconds**.
 > :shiny: [Survival] Fixed an issue where players were unable to **fly properly** within their rented **Farm Plots**.
-> :shiny: [Survival] Buffed the **Intrigue Defence** & **Intrigue Attack** rune stones.
-> :shiny: [Survival] Reduced **Intrigue Set** requirements from **Defense 36** to **26**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Buffed the **Intrigue Defence** and **Intrigue Attack Runestones**.
+> :shiny: [Survival] Reduced **Intrigue Set** requirements from **Defense 36** to **Defense 26**.
+> :shiny: [Survival] Fixed an issue where players were not receiving the correct amount of **Tidecaller Upgrade Stones** from the **Tidecaller Lootbox**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
