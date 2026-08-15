@@ -6,7 +6,7 @@
 > :shiny: [Survival] Fixed an issue where players were not receiving the correct amount of **Tidecaller Upgrade Stones** from the **Tidecaller Lootbox**.
 > :shiny: [Survival] Added **Submission Alerts** through **Discord**, **Titles**, and **Chat Messages** to ensure players are properly notified.
 > :shiny: [Survival] Added a **Server Tip** explaining **How to Repair Crafted Gear** near **"/warp crates"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Draconic Looting V** crafting in ingredient requirement of **4x Draconic Looting IV** to **4x Draconic Looting IV**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
