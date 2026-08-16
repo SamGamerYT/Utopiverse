@@ -10,7 +10,7 @@
 > :shiny: [Survival] Reduced **Draconic Looting VI** crafting ingredient requirement of **4x Draconic Looting V** to **2x Draconic Looting V**.
 > :shiny: [Survival] Fixed glitched **Chest & Player heads** in **26.2 Java Edition**.
 > 
-> :shiny: [Survival] 
+> :shiny: [Survival] **Kane Set** will now have **CE Compatible** label.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
