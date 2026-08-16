@@ -8,7 +8,7 @@
 > :shiny: [Survival] Added a **Server Tip** explaining **How to Repair Crafted Gear** near **"/warp crates"**.
 > :shiny: [Survival] Reduced **Draconic Looting V** crafting ingredient requirement of **4x Draconic Looting IV** to **2x Draconic Looting IV**.
 > :shiny: [Survival] Reduced **Draconic Looting VI** crafting ingredient requirement of **4x Draconic Looting V** to **2x Draconic Looting V**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed glitched **Chest & Player heads** in **26.2 Java Edition**.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
