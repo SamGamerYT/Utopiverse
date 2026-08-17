@@ -14,7 +14,7 @@
 > :shiny: [Survival] **Kane Set** can now be upgraded up to **6 times** using **Metamorphic Rock**.
 > :shiny: [Survival] Heavily buffed the **Kane Set** by adding **Critical Strike Power** and **Critical Strike Chance**, while also increasing its **Health** and **Defense** stats.
 > :shiny: [Survival] Decreased **Kelp** sell price from **$5** **$0.1**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Decreased **Cactus** sell price from **$0.05** **$0.1**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
