@@ -9,12 +9,12 @@
 > :shiny: [Survival] Reduced the **Draconic Looting V** crafting requirement from **4x Draconic Looting IV** to **2x Draconic Looting IV**.
 > :shiny: [Survival] Reduced the **Draconic Looting VI** crafting requirement from **4x Draconic Looting V** to **2x Draconic Looting V**.
 > :shiny: [Survival] Fixed glitched **Chests** and **Player Heads** on **Java Edition 26.2**.
->
+> 
 > :shiny: [Survival] **Kane Set** now includes the **CE COMPATIBLE** label.
 > :shiny: [Survival] **Kane Set** can now be upgraded up to **6 times** using **Metamorphic Rock**.
 > :shiny: [Survival] Heavily buffed the **Kane Set** by adding **Critical Strike Power** and **Critical Strike Chance**, while also increasing its **Health** and **Defense** stats.
 > :shiny: [Survival] Decreased the **Kelp** sell price from **$5** to **$0.01**.
 > :shiny: [Survival] Decreased the **Cactus** sell price from **$0.05** to **$0.01**.
 > :shiny: [Survival] Increased **Mob View Distance** by an additional **4 blocks**.
->
+> 
 > **[ @Changelogs ]**
