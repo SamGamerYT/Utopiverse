@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.11.11** *(Network Changes)*
 > :shiny: [Survival] Fixed an issue with **Crates** where multiple **Crate Keys** could be consumed when opening a crate.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Tidecaller Frostblade** not being upgraded properly with the **Tide Upgrade Scroll**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
