@@ -4,8 +4,8 @@
 > :shiny: [Survival] Fixed an issue where **Shields, Pickaxes, Axes, Shovels, Hoes, and Boots** would break upon reaching **0 Durability**. This fix does not currently apply to items using the **Trench CE**.
 > :shiny: [Survival] Modified the **Steel & Miner Sets Reforge** interface.
 > :shiny: [Survival] **Frosted Miner Gear** tier has been increased from **Rare** to **Epic**, increasing its durability from **2560** to **4096**.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Increased **Critical Damage** by **100%**.
+> :shiny: [Survival] Increased **Critical Skill Damage** by **100%**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
