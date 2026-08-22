@@ -6,7 +6,7 @@
 > :shiny: [Survival] **Frosted Miner Gear** tier has been increased from **Rare** to **Epic**, increasing its durability from **2560** to **4096**.
 > :shiny: [Survival] Increased **Critical Damage** by **100%**.
 > :shiny: [Survival] Increased **Critical Skill Damage** by **100%**.
-> :shiny: [Survival] Nerfed **Damage Reduction** by **10%**.
+> :shiny: [Survival] Modified **Frosted Miner Gear** trim. **Frosted** variants will now have a **red outline** to represent their **Ruby Infusion**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
