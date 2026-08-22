@@ -8,7 +8,7 @@
 > :shiny: [Survival] Increased **Critical Skill Damage** by **100%**.
 > :shiny: [Survival] Modified **Frosted Miner Gear** trim. **Frosted** variants will now have a **red outline** to represent their **Ruby Infusion**.
 > :shiny: [Survival] Added **Frosted Miner Gear** upgrade options in **Walice's Interface**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Nerfed **Damage Reduction** by **10%**.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
