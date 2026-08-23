@@ -1,6 +1,6 @@
 **Patch/Changes 2.0.21** *[Oneblock]*
-> :grass: Server Maintenance **23-Aug-26**
-> :grass: 
+> :grass: Server maintenance performed on **23-Aug-2026**.
+> :grass: Fixed an issue with **Island Size Upgrades** where players with a higher level were unable to purchase the upgrade.
 > :grass: 
 > :grass: 
 > :grass: 
