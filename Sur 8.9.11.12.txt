@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.11.12** *(Network Changes)*
 > :shiny: [Survival] Fixed **Vanguard Steel+** not accepting **Custom Enchantments**.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an issue where players were able to **fly** outside their rented plots in the **Farming Zone**.
+> :shiny: [Survival] Improved the performance of the **Submission System**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
