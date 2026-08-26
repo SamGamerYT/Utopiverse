@@ -12,7 +12,7 @@
 > :grass: **Upgraded Miner Gear Set** can now be upgraded up to **6 times**, increased from **4 times**.
 >
 > :grass: **Refined Miner Gear Set** can now be upgraded up to **8 times**, increased from **6 times**.
-> :grass: 
+> :grass: **Aegis Sapphire** will now increase **Defense** from **6** to **8**, while also granting an additional **4 Health**.
 > :grass: 
 > :grass: 
 > :grass: 
