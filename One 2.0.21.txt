@@ -2,8 +2,8 @@
 > :grass: Server maintenance performed on **23-Aug-2026**.
 > :grass: Fixed an issue with **Island Size Upgrades** where players with a higher level were unable to purchase the upgrade.
 > :grass: Server maintenance performed on **26-Aug-2026**.
-> :grass: Modified **"/welcome"**, **[!] Showcase Perk**, **Auto Assistance Response**, and **Player Guide Gear**.
-> :grass: 
+> :grass: Modified **"/welcome"**, **[!] Showcase Perk**, **Auto Assistance Responses**, and **Player Guide Gear**.
+> :grass: Added **3 new automatic responses** covering **OneBlock Creation**, **OneBlock Border**, and **OneBlock Reset**.
 > :grass: 
 > :grass: 
 > :grass: 
