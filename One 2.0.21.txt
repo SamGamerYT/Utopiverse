@@ -7,10 +7,10 @@
 > :grass: Added **Coinbound Ring**, **Opal Whisper Ring**, **Citrine Crusher Ring**, and **Ruby Ravager Ring** to the **Dreadrock Dungeon Crafting Station**.
 > :grass: **Wither** now has a chance to drop **Hotfixer Repairstone** and **Compressed Rock**.
 > :grass: **Warden** now has a chance to drop **Menders Repairstone** and **Compressed Rock**.
+> :grass: Increased the durability gained when upgrading **Lost Miner Gear Set**, **Upgraded Miner Gear Set**, and **Refined Miner Gear Set** with **Metamorphic Rock** from **128** to **256**.
 > :grass: 
 > :grass: 
-> :grass: 
-> 
+>
 > :grass: 
 > :grass: 
 > :grass: 
