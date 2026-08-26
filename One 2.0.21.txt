@@ -4,7 +4,7 @@
 > :grass: Server maintenance performed on **26-Aug-2026**.
 > :grass: Modified **"/welcome"**, **[!] Showcase Perk**, **Auto Assistance Responses**, and **Player Guide Gear**.
 > :grass: Added **3 new automatic responses** covering **OneBlock Creation**, **OneBlock Border**, and **OneBlock Reset**.
-> :grass: 
+> :grass: Added **Coinbound Ring**, **Opal Whisper Ring**, **Citrine Crusher Ring**, and **Ruby Ravager Ring** to the **Dreadrock Dungeon Crafting Station**.
 > :grass: 
 > :grass: 
 > :grass: 
