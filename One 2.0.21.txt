@@ -10,7 +10,7 @@
 > :grass: Increased the durability gained when upgrading **Lost Miner Gear Set**, **Upgraded Miner Gear Set**, and **Refined Miner Gear Set** with **Metamorphic Rock** from **128** to **256**.
 > :grass: **Lost Miner Gear Set** can now be upgraded up to **4 times**, increased from **2 times**.
 > :grass: **Upgraded Miner Gear Set** can now be upgraded up to **6 times**, increased from **4 times**.
->
+> 
 > :grass: **Refined Miner Gear Set** can now be upgraded up to **8 times**, increased from **6 times**.
 > :grass: **Aegis Sapphire** will now increase **Defense** from **6** to **8**, while also granting an additional **4 Health**.
 > :grass: Fixed **Mage Rank** missing the **"/sit"** command perk.
