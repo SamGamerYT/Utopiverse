@@ -8,10 +8,10 @@
 > :grass: **Wither** now has a chance to drop **Hotfixer Repairstone** and **Compressed Rock**.
 > :grass: **Warden** now has a chance to drop **Menders Repairstone** and **Compressed Rock**.
 > :grass: Increased the durability gained when upgrading **Lost Miner Gear Set**, **Upgraded Miner Gear Set**, and **Refined Miner Gear Set** with **Metamorphic Rock** from **128** to **256**.
-> :grass: 
-> :grass: 
+> :grass: **Lost Miner Gear Set** can now be upgraded up to **4 times**, increased from **2 times**.
+> :grass: **Upgraded Miner Gear Set** can now be upgraded up to **6 times**, increased from **4 times**.
 >
-> :grass: 
+> :grass: **Refined Miner Gear Set** can now be upgraded up to **8 times**, increased from **6 times**.
 > :grass: 
 > :grass: 
 > :grass: 
