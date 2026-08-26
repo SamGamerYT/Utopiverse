@@ -5,7 +5,7 @@
 > :grass: Modified **"/welcome"**, **[!] Showcase Perk**, **Auto Assistance Responses**, and **Player Guide Gear**.
 > :grass: Added **3 new automatic responses** covering **OneBlock Creation**, **OneBlock Border**, and **OneBlock Reset**.
 > :grass: Added **Coinbound Ring**, **Opal Whisper Ring**, **Citrine Crusher Ring**, and **Ruby Ravager Ring** to the **Dreadrock Dungeon Crafting Station**.
-> :grass: 
+> :grass: **Wither Boss** now has a chance to drop **Hotfixer Repairstone** and **Compressed Rock**.
 > :grass: 
 > :grass: 
 > :grass: 
