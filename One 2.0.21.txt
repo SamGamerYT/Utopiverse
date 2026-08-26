@@ -15,7 +15,7 @@
 > :grass: **Aegis Sapphire** will now increase **Defense** from **6** to **8**, while also granting an additional **4 Health**.
 > :grass: Fixed **Mage Rank** missing the **"/sit"** command perk.
 > :grass: Fixed **Rogue Rank** missing the **"/craft"** command perk.
-> :grass: Added **Pointed Dripstone**, **Short Dry Grass**, and **Tall Dry Grass** to the **Decoration Category** in **"/shop"**.
+> :grass: Added **Pointed Dripstone**, **Firefly Bush**, **Short Dry Grass**, and **Tall Dry Grass** to the **Decoration Category** in **"/shop"**.
 > :grass: 
 > :grass: 
 > :grass: 
