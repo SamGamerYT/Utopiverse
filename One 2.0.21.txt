@@ -16,41 +16,5 @@
 > :grass: Fixed **Mage Rank** missing the **"/sit"** command perk.
 > :grass: Fixed **Rogue Rank** missing the **"/craft"** command perk.
 > :grass: Added **Pointed Dripstone**, **Firefly Bush**, **Short Dry Grass**, and **Tall Dry Grass** to the **Decoration Category** in **"/shop"**.
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> **FARMING**
-> :grass: 
-> 
-> :Sparkles: [Store] 
-> 
-> **DUNGEON**
-> :grass: 
-> 
-> **COAL DUNGEON**
-> :grass: 
-> 
-> **CAVE DUNGEON**
-> :grass: 
-> 
-> **HOLOGRAMS**
-> :grass: 
-> 
-> **ISLAND**
-> :grass: 
-> 
-> **BANK**
-> :grass: 
-> 
-> **BLACKSMITH**
-> :grass: 
-> :grass: 
-> 
-> **REFINESHOP**
-> :grass: 
 >  
 > **[ @Changelogs ]**
