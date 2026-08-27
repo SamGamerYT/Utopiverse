@@ -1,5 +1,5 @@
 **Patch/Changes 2.0.22** *[Oneblock]*
-> :grass: 
+> :grass: Introducing **"/ob donate"**, donate your items to increase your **OneBlock Level**!
 > :grass: 
 > :grass: 
 > :grass: 
