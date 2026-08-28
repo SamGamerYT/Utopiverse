@@ -93,7 +93,7 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
-> :sdragon: [Lobby] 
+> :sdragon: [Lobby] Added **Decoration, Showcases & Mobs** around spawn location.
 > 
 > **NETWORK**
 > :spaceheart1: [Network] 
