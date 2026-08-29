@@ -93,7 +93,8 @@
 > :shiny: [Survival] 
 > 
 > **HUB REALM**
-> :sdragon: [Lobby] Added **Decoration, Showcases & Mobs** around spawn location.
+> :sdragon: [Lobby] Added **Decorations, Showcases, and Mobs** around the **Spawn** area.
+> :sdragon: [Lobby] Improved the **Server Resource Pack** for **Java Edition**.
 > 
 > **NETWORK**
 > :spaceheart1: [Network] 
