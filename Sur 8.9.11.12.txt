@@ -4,7 +4,7 @@
 > :shiny: [Survival] Improved the performance of the **Submission System**.
 > :shiny: [Survival] Improved **Hopper Performance** by reducing unnecessary container checks through solid blocks.
 > :shiny: [Survival] Fixed an interaction issue with **Swordsman Relic** where players were able to place it on the ground.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed an issue with **Frostbound Trader's Questline** where it did not unlock the **Codex** for players.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
