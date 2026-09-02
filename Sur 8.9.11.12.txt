@@ -41,8 +41,8 @@
 > 
 > **ARENA CHANGES**
 > :shiny: [Survival] Disabled the **New Old Arena System** that was meant to replace the **Old Arena System** and removed the **Parties System** as well.
-> :shiny: [Survival] Removed **Aztec Arena** from **Arena Selection Interface**.
-> :shiny: [Survival] Removed **Pa
+> :shiny: [Survival] Removed **Aztec Arena** from the **Arena Selection Interface**.
+> :shiny: [Survival] Removed the **Parties Command** list from the **Arena Selection Interface**.
 > :shiny: [Survival] 
 > :shiny: [Hypogeum Arena] 
 > 
