@@ -7,7 +7,7 @@
 > :shiny: [Survival] Fixed an issue with **Frostbound Trader's Questline** where it did not unlock the **Codex** for players.
 > :shiny: [Survival] Updated **Tournaments** for **September**.
 > :shiny: [Survival] Disabled the **New Old Arena System** that was meant to replace the **Old Arena System** and removed the **Parties System** as well.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **Aztec Arena** from **Arena Selection Interface**.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
