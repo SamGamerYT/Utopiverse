@@ -1,7 +1,7 @@
 **Patch/Changes 2.0.22** *[Oneblock]*
 > :grass: Introducing **"/ob donate"**, donate your items to increase your **OneBlock Level**!
 > :grass: Players will have to log in at least once a year to ensure their island data is retained.
-> :grass: 
+> :grass: Updated **Dependencies 01-Sep-26**.
 > :grass: 
 > :grass: 
 > :grass: 
