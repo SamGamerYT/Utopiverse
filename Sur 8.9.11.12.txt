@@ -6,8 +6,8 @@
 > :shiny: [Survival] Fixed an interaction issue with **Swordsman Relic** where players were able to place it on the ground.
 > :shiny: [Survival] Fixed an issue with **Frostbound Trader's Questline** where it did not unlock the **Codex** for players.
 > :shiny: [Survival] Updated **Tournaments** for **September**.
-> :shiny: [Survival] Updated **Frostwyrm Set**, **Arctic Owl Set** not showing up.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed the **Frostwyrm Set**, **Arctic Owl Set**, **Intrigue Set**, and **Necromancer Set** not showing up.
+> :shiny: [Survival] Buffed the **Necromancer Set** with **Defense** and **Health**.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
