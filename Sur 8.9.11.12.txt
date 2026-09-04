@@ -46,6 +46,7 @@
 > :shiny: [Survival] Relocated the **Kane Crafting NPC** at **"/warp dungeons"**.
 > :shiny: [Survival] 
 > :shiny: [Hypogeum Arena] Disabled **Wind charges** in **Hypogeum Lobby**.
+> :shiny: [Hypogeum Arena] Doubled the **Mob Spawning** rate.
 > :shiny: [Hypogeum Arena] 
 > 
 > **BLACKSMITH**
