@@ -8,7 +8,7 @@
 > :shiny: [Survival] Updated **Tournaments** for **September**.
 > :shiny: [Survival] Fixed the **Frostwyrm Set**, **Arctic Owl Set**, **Intrigue Set**, and **Necromancer Set** not showing up.
 > :shiny: [Survival] Buffed the **Necromancer Set** with **Defense** and **Health**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Violet Flame Set** requirements from **Defense 33** to **Defense 22**.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
@@ -45,6 +45,7 @@
 > :shiny: [Survival] Removed the **Parties Command** list from the **Arena Selection Interface**.
 > :shiny: [Survival] Relocated the **Kane Crafting NPC** at **"/warp dungeons"**.
 > :shiny: [Survival] 
+> :shiny: [Hypogeum Arena] Disabled **Wind charges** in **Hypogeum Lobby**.
 > :shiny: [Hypogeum Arena] 
 > 
 > **BLACKSMITH**
