@@ -45,6 +45,7 @@
 > :shiny: [Hypogeum Arena] Lowered **Performance Badges** score requirement.
 > :shiny: [Hypogeum Arena] 
 > :shiny: [Underground Arena] Enemies now emerge from the ground when spawning.
+> :shiny: [Underground Arena] Fixed enemies spawning in ceilings or beneath the arena.
 > 
 > **BLACKSMITH**
 > :shiny: [Survival] 
