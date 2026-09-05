@@ -44,6 +44,7 @@
 > :shiny: [Hypogeum Arena] Fixed an issue where player's were getting **Double Hypogeum Arena Key** on **Victory**.
 > :shiny: [Hypogeum Arena] Lowered **Performance Badges** score requirement.
 > :shiny: [Hypogeum Arena] 
+> :shiny: [Underground Arena] Enemies now emerge from the ground when spawning.
 > 
 > **BLACKSMITH**
 > :shiny: [Survival] 
