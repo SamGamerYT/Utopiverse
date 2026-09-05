@@ -47,6 +47,7 @@
 > :shiny: [Underground Arena] Enemies now emerge from the ground when spawning.
 > :shiny: [Underground Arena] Fixed enemies spawning in ceilings or beneath the arena.
 > :shiny: [Underground Arena] Fixed **Glowflies** flying away instead of attacking players.
+> :shiny: [Underground Arena] **Boss Waves** now have more enemies, The bosses will spawn shortly afterward.
 > 
 > **BLACKSMITH**
 > :shiny: [Survival] 
