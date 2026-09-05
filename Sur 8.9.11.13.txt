@@ -41,6 +41,7 @@
 > 
 > **ARENA CHANGES**
 > :shiny: [Survival] 
+> :shiny: [Hypogeum Arena] Fixed an issue where player's were getting **Double Hypogeum Arena Key** on **Victory**.
 > :shiny: [Hypogeum Arena] 
 > 
 > **BLACKSMITH**
