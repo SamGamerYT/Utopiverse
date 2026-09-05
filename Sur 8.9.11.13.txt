@@ -41,6 +41,7 @@
 > 
 > **ARENA CHANGES**
 > :shiny: [Survival] Added a **2-minute** grace period for players to rejoin if they crash or leave the server.
+> :shiny: [Survival] Arena will now show **Round Summary** statistics in chat upon victory or defeat.
 > :shiny: [Hypogeum Arena] Fixed an issue where player's were getting **Double Hypogeum Arena Key** on **Victory**.
 > :shiny: [Hypogeum Arena] Lowered **Performance Badges** score requirement.
 > :shiny: [Underground Arena] Enemies now emerge from the ground when spawning.
