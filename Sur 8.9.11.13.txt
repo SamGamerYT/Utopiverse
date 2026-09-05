@@ -40,10 +40,9 @@
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
-> :shiny: [Survival] 
+> :shiny: [Survival] Added a **2-minute** grace period for players to rejoin if they crash or leave the server.
 > :shiny: [Hypogeum Arena] Fixed an issue where player's were getting **Double Hypogeum Arena Key** on **Victory**.
 > :shiny: [Hypogeum Arena] Lowered **Performance Badges** score requirement.
-> :shiny: [Hypogeum Arena] 
 > :shiny: [Underground Arena] Enemies now emerge from the ground when spawning.
 > :shiny: [Underground Arena] Fixed enemies spawning in ceilings or beneath the arena.
 > :shiny: [Underground Arena] Fixed **Glowflies** flying away instead of attacking players.
