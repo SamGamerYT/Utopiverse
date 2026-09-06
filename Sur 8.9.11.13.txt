@@ -44,6 +44,7 @@
 > :shiny: [Survival] Arena will now show **Round Summary** statistics in chat upon victory or defeat.
 > :shiny: [Survival] **Milk Bucket** has been disabled in arena.
 > :shiny: [Survival] **"/heal"** command has been disabled in arena.
+> :shiny: [Survival] Modified **Arena Leaderboards** at the **Dungeon Zone**.
 > 
 > :shiny: [Hypogeum Arena] Fixed an issue where player's were getting **Double Hypogeum Arena Key** on **Victory**.
 > :shiny: [Hypogeum Arena] Lowered **Performance Badges** score requirement.
