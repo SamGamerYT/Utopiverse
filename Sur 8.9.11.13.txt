@@ -55,7 +55,8 @@
 > :shiny: [Underground Arena] Fixed **Glowflies** flying away instead of attacking players.
 > :shiny: [Underground Arena] **Boss Waves** now have more enemies, The bosses will spawn shortly afterward.
 > :shiny: [Underground Arena] Improved the **Combat Time** countdown. The timer will no longer count the time between waves, saving you time in the long run.
-> 
+> :shiny: [Underground Arena] Increased **Wave delay** from **5s** to **15s**.
+
 > **BLACKSMITH**
 > :shiny: [Survival] 
 > 
