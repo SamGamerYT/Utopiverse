@@ -121,7 +121,8 @@
 > 
 > **WEBSTORE**
 > :computer: [Website] 
-> :shiny: [Survival] Fixed a bug where **Purchase Announcement** were not showing up in chat.
+> :shiny: [Survival] Fixed a bug where **Purchase Announcements** were not showing up in chat.
+> :shiny: [Survival] Modified the **Purchase Announcement** style.
 > 
 > **[ @Changelogs ]**
 
