@@ -47,7 +47,7 @@
 > :shiny: [Survival] Modified **Arena Leaderboards** at the **Dungeon Zone**.
 > :shiny: [Survival] **Arena** will now broadcast in chat when the arena is about to start.
 > :shiny: [Survival] Added the **"/arena unready"** command to allow players to unready themselves.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Performance announcement** in **Discord** games channel.
 > 
 > :shiny: [Hypogeum Arena] Fixed an issue where player's were getting **Double Hypogeum Arena Key** on **Victory**.
 > :shiny: [Hypogeum Arena] Lowered **Performance Badges** score requirement.
