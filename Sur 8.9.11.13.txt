@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.11.13** *(Network Changes)*
-> :shiny: [Survival] 
+> :shiny: [Survival] Nerfed **Natural Mob Spawning** cap.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
