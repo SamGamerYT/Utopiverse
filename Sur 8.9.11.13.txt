@@ -104,7 +104,8 @@
 > :xmas_Snowflake: [Website] 
 > 
 > **TEXTURES**
-> :shiny: [Textures]
+> :shiny: [Textures] 
+> :shiny: [Bedrock] Fixed **Intrigue Wings** not showing up properly.
 > :shiny: [Bedrock] 
 > 
 > **OPTIMIZATION**
