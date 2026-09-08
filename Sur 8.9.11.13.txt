@@ -60,120 +60,12 @@
 > :shiny: [Underground Arena] **Boss Waves** now have more enemies, The bosses will spawn shortly afterward.
 > :shiny: [Underground Arena] Improved the **Combat Time** countdown. The timer will no longer count the time between waves, saving you time in the long run.
 > :shiny: [Underground Arena] Increased **Wave delay** from **5s** to **15s**.
-
-> **BLACKSMITH**
-> :shiny: [Survival] 
-> 
-> **CODEX**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **TINKERER**
-> :shiny: [Survival] 
-> 
-> **DUNGEON**
-> :shiny: [Survival] 
-> 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON FROST CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON WASTELAND CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON HALLOWEEN CHANGES**
-> :shiny: [Survival] 
-> 
-> **/SHOP** *(_QueenChaos95180)*
-> :shiny: [Survival] 
-> 
-> **SPOODER LAIR**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **WEBSITE**
-> :xmas_Snowflake: [Website] 
 > 
 > **TEXTURES**
-> :shiny: [Textures] 
 > :shiny: [Bedrock] Fixed **Intrigue Wings** not showing up properly.
-> :shiny: [Bedrock] 
-> 
-> **OPTIMIZATION**
-> :shiny: [Survival] 
-> 
-> **HUB REALM**
-> :sdragon: [Lobby] 
-> 
-> **NETWORK**
-> :spaceheart1: [Network] 
-> 
-> **WEBSITE**
-> :computer: [Website] 
 > 
 > **WEBSTORE**
-> :computer: [Website] 
 > :shiny: [Survival] Fixed a bug where **Purchase Announcements** were not showing up in chat.
 > :shiny: [Survival] Modified the **Purchase Announcement** style.
 > 
 > **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
