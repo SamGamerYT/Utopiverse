@@ -42,6 +42,7 @@
 > :shiny: [Survival] Nerfed the price of **Azaleas** and **Flowering Azaleas** from **$4** to **$1**.
 > :shiny: [Survival] Added all **Slab Types** to the shop.
 > :shiny: [Survival] Added all **Stairs Types** to the shop.
+> :shiny: [Survival] **Deepslate** price has been reduced from **$175** to **$75**
 > :shiny: [Survival] **Cobbled Deepslate** price has been reduced from **$195** to **$100**
 > :shiny: [Survival] 
 > 
