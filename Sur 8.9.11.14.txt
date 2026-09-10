@@ -37,7 +37,8 @@
 > :shiny: [Survival] 
 > 
 > **SHOP CHANGES**
-> :shiny: [Survival] **Moss Block** sell price has been removed.
+> :shiny: [Survival] Removed the sell price for **Moss Blocks**.
+> :shiny: [Survival] Nerfed the price of **Azaleas** and **Flowering Azaleas** from **$4** to **$1**.
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
