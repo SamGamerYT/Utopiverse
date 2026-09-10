@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.11.14** *(Network Changes)*
 > :shiny: [Survival] Heavily buffed the **Amethyst Gear Set** and **Aquamarine Gear Set**. However, existing sets will not be updated and must be crafted again.
-> :shiny: [Survival] 
+> :shiny: [Survival] Introducing the **Amethyst Spear** and **Aquamarine Tideblade**, craftable at **"/blacksmith"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
