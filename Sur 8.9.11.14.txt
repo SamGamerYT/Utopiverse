@@ -37,6 +37,7 @@
 > :shiny: [Survival] 
 > 
 > **SHOP CHANGES**
+> :shiny: [Survival] **Moss Block** sell price has been removed.
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
