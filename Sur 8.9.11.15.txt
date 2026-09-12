@@ -60,15 +60,15 @@
 > **DUNGEON**
 > :shiny: [Survival] 
 > 
-> **DUNGEON MINE CHANGES**
-> :shiny: [Survival] Introducing the **Copper Zone**, which is limited to players below **Power Level 40**.
-> :shiny: [Survival] **Copper Zone** enemies have **15–20 Health** and deal **2–4 Damage**.
-> :shiny: [Survival] All Copper enemies use unique Earth elemental abilities and drop no items when defeated.
-> :shiny: [Survival] Added the Copperbound Zombie, featuring an Earth Strike and rewarding **12 Fighting XP**.
-> :shiny: [Survival] Added the Oxidized Husk, featuring an Earth Slam and rewarding **20 Fighting XP**.
-> :shiny: [Survival] Added the Verdigris Skeleton, featuring an Earth Arrow and rewarding **14 Archery XP**.
-> :shiny: [Survival] Added the Copperbolt Pillager, featuring an Earth Crossbow Burst and rewarding **18 Archery XP**.
-> :shiny: [Survival] 
+**DUNGEON MINE CHANGES**
+﻿> :shiny:﻿ [Survival] Introducing the **Copper Zone**, which is limited to players below **Power Level 40**.
+﻿> :shiny:﻿ [Survival] **Copper Zone** enemies have **15–20 Health** and deal **2–4 Damage**.
+﻿> :shiny:﻿ [Survival] All Copper enemies use unique Earth elemental abilities and drop no items when defeated.
+﻿> :shiny:﻿ [Survival] Added the **Copperbound Zombie**, featuring an Earth Strike and rewarding **12 Fighting XP**.
+﻿> :shiny:﻿ [Survival] Added the **Oxidized Husk**, featuring an Earth Slam and rewarding **20 Fighting XP**.
+﻿> :shiny:﻿ [Survival] Added the **Verdigris Skeleton**, featuring an Earth Arrow and rewarding **14 Archery XP**.
+﻿> :shiny:﻿ [Survival] Added the **Copperbolt Pillager**, featuring an Earth Crossbow Burst and rewarding **18 Archery XP**.
+﻿> :shiny:﻿ [Survival]
 > 
 > **DUNGEON FROST CHANGES**
 > :shiny: [Survival] 
