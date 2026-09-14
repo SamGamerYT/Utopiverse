@@ -1,13 +1,13 @@
 **Patch/Changes 8.9.11.15** *(Network Changes)*
 > :shiny: [Survival] Improved **Server Performance** by changing **Entity Pathfinding**.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Capped **Fall Reduct** at **70%**.
+> :shiny: [Survival] Capped **Fire Reduct** at **70%**.
+> :shiny: [Survival] Capped **Magic Reduct** at **70%**.
+> :shiny: [Survival] Capped **Projectile Reduct** at **70%**.
+> :shiny: [Survival] Capped **Melee Reduct** at **70%**.
+> :shiny: [Survival] Capped **Mob Reduct** at **70%**.
+> :shiny: [Survival] Capped **PvP Reduct** at **70%**.
+> :shiny: [Survival] Aadded **Combat Timer** for **PvP Zone**.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
