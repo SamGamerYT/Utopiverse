@@ -19,8 +19,8 @@
 > :shiny: [Survival] Added the **Verdigris Skeleton**, featuring an Earth Arrow and rewarding **14 Archery XP**.
 > :shiny: [Survival] Added the **Copperbolt Pillager**, featuring an Earth Crossbow Burst and rewarding **18 Archery XP**.
 > :shiny: [Survival] Introducing the **Spooder Zone**, which is limited to players above **Power Level 40**.
-> 
+>  
 > **NETWORK**
 > :spaceheart1: [Network] Fixed an issue where broadcasts were no longer showing up in chat.
->
+> 
 > **[ @Changelogs ]**
