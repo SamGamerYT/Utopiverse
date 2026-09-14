@@ -7,7 +7,7 @@
 > :shiny: [Survival] Capped **Melee Reduct** at **70%**.
 > :shiny: [Survival] Capped **Mob Reduct** at **70%**.
 > :shiny: [Survival] Capped **PvP Reduct** at **70%**.
-> :shiny: [Survival] Aadded **Combat Timer** for **PvP Zone**.
+> :shiny: [Survival] Added **Combat Timer** for **PvP Zone**.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
@@ -68,101 +68,9 @@
 ﻿> :shiny:﻿ [Survival] Added the **Oxidized Husk**, featuring an Earth Slam and rewarding **20 Fighting XP**.
 ﻿> :shiny:﻿ [Survival] Added the **Verdigris Skeleton**, featuring an Earth Arrow and rewarding **14 Archery XP**.
 ﻿> :shiny:﻿ [Survival] Added the **Copperbolt Pillager**, featuring an Earth Crossbow Burst and rewarding **18 Archery XP**.
-﻿> :shiny:﻿ [Survival]
-> 
-> **DUNGEON FROST CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON WASTELAND CHANGES**
-> :shiny: [Survival] 
-> 
-> **DUNGEON HALLOWEEN CHANGES**
-> :shiny: [Survival] 
-> 
-> **/SHOP** *(_QueenChaos95180)*
-> :shiny: [Survival] 
-> 
-> **SPOODER LAIR**
-> :shiny: [Survival] 
-> 
-> **CRATES**
-> :shiny: [Survival] 
-> 
-> **WEBSITE**
-> :xmas_Snowflake: [Website] 
-> 
-> **TEXTURES**
-> :shiny: [Textures] 
-> :shiny: [Bedrock] 
-> 
-> **OPTIMIZATION**
-> :shiny: [Survival] 
-> 
-> **HUB REALM**
-> :sdragon: [Lobby] 
+﻿> :shiny:﻿ [Survival] Introducing the **Spooder Zone**, which is limited to players above **Power Level 40**.
 > 
 > **NETWORK**
-> :spaceheart1: [Network] 
-> 
-> **WEBSITE**
-> :computer: [Website] 
-> 
-> **WEBSTORE**
-> :computer: [Website] 
-> :shiny: [Survival] 
+> :spaceheart1: [Network] Fixed the issue where broadcast's weren't showing up in chat anymore
 > 
 > **[ @Changelogs ]**
-
-TO DO LIST:
-tik tok tag (freeby) 
-youtube tag (freeby) 
-
-**WEBSTORE**
-**DUNGEON DROPTABLE**
-**FISHING**
-
-**BUILD**
-
-**ARENA CHANGES**
-**UNDERGROUND ARENA CHANGES**
-**RPG LEVEL CHANGES**
-**AUTO RESPONSE**
-
-**PROTECTION STONE**
-:shiny: [Art] 
-:shiny: [Build] 
-*(Special Thanks to _Skmasykw)*
-:shiny: [Loot]
-:shiny: [Codex] 
-:shiny: [Proxy] 
-:shiny: [Global] 
-:shiny: [Dungeon]
-:shiny: [Discord] 
-:shiny: [Bedrock]
-:shiny: [Christmas] 
-:shiny: [Hypogeum Arena]
-:shiny: [Underground Arena]
-:Sparkles: [Store]
-
-:shiny: [Java] 
-:shiny: [Textures]
-
-
-**/SHOP**
-**BOSS ZONE CHANGES**
-**AUTO RESPONSE**
-**JAVA**
-**CRATES**
-**BEDROCK**
-**WEBSITE**
-**TEXTURES**
-**REPAIR STONES**
-**SHOP CHANGES**
-
-**DUNGEON MINE CHANGES**
-**DUNGEON FROST CHANGES**
-**DUNGEON VOLCANO CHANGES**
-**DUNGEON WASTELAND CHANGES**
