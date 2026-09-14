@@ -8,6 +8,7 @@
 > :shiny: [Survival] Capped **Mob Reduct** at **70%**.
 > :shiny: [Survival] Capped **PvP Reduct** at **70%**.
 > :shiny: [Survival] Added a **Combat Timer** for the **PvP Zone**.
+> :shiny: [Survival] **2 New** Crates placed at **Arena Crates**.
 > 
 > **DUNGEON MINE CHANGES**
 > :shiny: [Survival] Introducing the **Copper Zone**, which is limited to players below **Power Level 40**.
