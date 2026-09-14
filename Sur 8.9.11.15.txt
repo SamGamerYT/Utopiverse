@@ -9,7 +9,7 @@
 > :shiny: [Survival] Capped **PvP Reduct** at **70%**.
 > :shiny: [Survival] Added a **Combat Timer** for the **PvP Zone**.
 > 
-**DUNGEON MINE CHANGES**
+> **DUNGEON MINE CHANGES**
 > :shiny: [Survival] Introducing the **Copper Zone**, which is limited to players below **Power Level 40**.
 > :shiny: [Survival] **Copper Zone** enemies have **15–20 Health** and deal **2–4 Damage**.
 > :shiny: [Survival] All Copper enemies use unique Earth elemental abilities and drop no items when defeated.
