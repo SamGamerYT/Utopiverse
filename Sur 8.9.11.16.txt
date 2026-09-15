@@ -69,6 +69,7 @@
 > :shiny: [Survival] 
 >  
 > **NETWORK**
+> :spaceheart1: [Network] Fixed **Watering Can** texture for bedrock players.
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
