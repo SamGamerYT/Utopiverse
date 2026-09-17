@@ -1,9 +1,9 @@
 **Patch/Changes 8.9.11.16** *(Network Changes)*
 > :shiny: [Survival] **Critical Damage** has been buffed by **50%**.
-> :shiny: [Survival] **"/ghome"** has increased from **19** homes to **27**.
-> :shiny: [Survival] Added **"/homeg"** alias to **"/ghome"**.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] **"/ghome"** has been increased from **19** homes to **27**.
+> :shiny: [Survival] Added **"/homeg"** as an alias for **"/ghome"**.
+> :shiny: [Survival] Improved the **"/dsb"** system.
+> :shiny: [Survival] Added Discord tag support to the **"/dsb"** linking system.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
