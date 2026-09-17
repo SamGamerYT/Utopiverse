@@ -4,7 +4,7 @@
 > :shiny: [Survival] Added **"/homeg"** as an alias for **"/ghome"**.
 > :shiny: [Survival] Improved the **"/dsb"** system.
 > :shiny: [Survival] Added Discord tag support to the **"/dsb"** linking system.
-> :shiny: [Survival] 
+> :shiny: [Survival] Heavily improved **"/chunkchecker"** perk performance.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
