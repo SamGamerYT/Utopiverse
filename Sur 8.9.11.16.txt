@@ -10,7 +10,7 @@
 > :shiny: [Survival] Increased **World Border** to **35,000x35,000** from **30,000x30,000**.
 > :shiny: [Survival] Updated **Random Teleportation** interface information for **Primary/Main World**.
 > 
-> :shiny: [Survival] 
+> :shiny: [Survival] Increased **"/rtp"** radius from **10,000x10,000** to **12,000x12,000**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
