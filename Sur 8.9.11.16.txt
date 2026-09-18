@@ -6,7 +6,7 @@
 > :shiny: [Survival] Added Discord tag support to the **"/dsb"** linking system.
 > :shiny: [Survival] Heavily improved **"/chunkchecker"** perk performance.
 > :shiny: [Survival] Fixed an issue with **Kane Gear Set**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Updated the server to **26.2** from **1.21.11**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
