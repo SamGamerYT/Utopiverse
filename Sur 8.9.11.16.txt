@@ -7,7 +7,7 @@
 > :shiny: [Survival] Heavily improved **"/chunkchecker"** perk performance.
 > :shiny: [Survival] Fixed an issue with **Kane Gear Set**.
 > :shiny: [Survival] Updated the server to **26.2** from **1.21.11**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Increased **World Border** to **35,000x35,000** from **30,000x30,000**.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
