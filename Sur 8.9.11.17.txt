@@ -5,8 +5,7 @@
 > :shiny: [Survival] Modified **"/help"** menu, edited **Auctions** button information as it was showing /ah [price] instead of /ah sell [price], and added another example.> :shiny: [Survival] 
 > :shiny: [Survival] Removed **Tempfly & Skill Boosters** information from **"/help"**.
 > :shiny: [Survival] Added **Player Benefits**, which shows Tempfly, Skills, and other useful information.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Guide Book Shop** in the **"/spawn"** area at the **General Store**, allowing players to purchase books on different topics for guidance.> :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
