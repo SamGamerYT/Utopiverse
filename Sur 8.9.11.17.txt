@@ -16,7 +16,7 @@
 > :shiny: [Survival] Disabled **Spawner Mobs** from being labelled as **Leveled Mobs**.
 > :shiny: [Survival] Removed **Bosses Soul** requirement from **Retired Fishermen** crafting station.
 > :shiny: [Survival] Added **Shark Statue** & **Hammer Shark Statue** in **Retired Fishermen** crafting station.
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced **Fishing Tournament** time from **8 Hours** to **4 Hours**.
 > :shiny: [Survival] 
 > 
 > **ENTITY CHANGES**
