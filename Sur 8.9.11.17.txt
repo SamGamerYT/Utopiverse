@@ -15,7 +15,7 @@
 > :shiny: [Survival] Fixed an issue where **Mobs** were spawning endlessly at players' bases.
 > :shiny: [Survival] Disabled **Spawner Mobs** from being labelled as **Leveled Mobs**.
 > :shiny: [Survival] Removed **Bosses Soul** requirement from **Retired Fishermen** crafting station.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Shark Statue** & **Hammer Shark Statue** in **Retired Fishermen** crafting station.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
