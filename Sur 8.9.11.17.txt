@@ -11,7 +11,7 @@
 > :shiny: [Survival] Removed **Entity Clear** for experimental purposes.
 > :shiny: [Survival] Reintroduced **Levelled Vanilla Mobs**, an abandoned system that has been brought back.
 > :shiny: [Survival] Added **Fish Fossil** in **Platinum Fishing** category.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Refined Fish Fossil** in **Refinery Station**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
