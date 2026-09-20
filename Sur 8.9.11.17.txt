@@ -9,7 +9,7 @@
 > :shiny: [Survival] Added **Guide Hologram** that shows players the way to the General Store.
 > 
 > :shiny: [Survival] Removed **Entity Clear** for experimental purposes.
-> :shiny: [Survival] 
+> :shiny: [Survival] Reintroduced **Levelled Vanilla Mobs**, an abandoned system that has been brought back.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
