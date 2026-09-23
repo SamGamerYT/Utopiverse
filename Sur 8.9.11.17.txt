@@ -28,7 +28,7 @@
 > :shiny: [Survival] Removed **Vote Wand** from **Exchanger NPC**.
 > :shiny: [Survival] Added a **75% Personal Skill Multiplier Booster** to the **Exchanger NPC Station**.
 > :shiny: [Survival] Removed **Bombs** & **Radioactive Armour** from the **Volcanic Gear Crafter** NPC at **"/warp volcano"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Disabled **Clans System** temporally.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
