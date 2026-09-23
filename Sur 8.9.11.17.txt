@@ -22,7 +22,7 @@
 > :shiny: [Survival] Disabled **"/trade"** in **Dungeon Worlds** & **Arena Zones**.
 > :shiny: [Survival] Fixed a **Death Chest** duplication glitch involving ores.
 > :shiny: [Survival] Added **Gravesurge Runestones** to the **Walice Trading** interface.
-> :shiny: [Survival] 
+> :shiny: [Survival] **"/pets"** has been re-enabled and fixed.
 > 
 > **ENTITY CHANGES**
 > :shiny: [Survival] 
