@@ -19,7 +19,7 @@
 > :shiny: [Survival] Reduced **Fishing Tournament** time from **8 Hours** to **4 Hours**.
 > :shiny: [Survival] Switched **"/trade"** system to a more lightweight system.
 
-> :shiny: [Survival] Fixed **Death Chest** duplication glitch that happens with ores.
+> :shiny: [Survival] Fixed a **Death Chest** duplication glitch involving ores.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
