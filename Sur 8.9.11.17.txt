@@ -24,7 +24,7 @@
 > :shiny: [Survival] Added **Gravesurge Runestones** to the **Walice Trading** interface.
 > :shiny: [Survival] **"/pets"** has been re-enabled and fixed.
 > :shiny: [Survival] **Exchanger NPC** will now trade **3x Enchanted Golden Apples** for the same price as **1x Enchanted Golden Apple**.
-> :shiny: [Survival] 
+> :shiny: [Survival] **Exchanger NPC** will now trade **8x Hotfixer** instead of **4x Hotfixer** for **20x Vote Points**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
