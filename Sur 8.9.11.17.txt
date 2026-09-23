@@ -80,7 +80,7 @@
 > :shiny: [Survival] 
 >  
 > **NETWORK**
-> :spaceheart1: [Network] 
+> :spaceheart1: [Network] Server now supports **26.3** Version.
 > 
 > **WEBSITE**
 > :computer: [Website] 
