@@ -3,9 +3,9 @@
 > :grass: Players will have to log in at least once a year to ensure their island data is retained.
 > :grass: Updated **Dependencies 01-Sep-26**.
 > :grass: Disabled **Dialogs** for certain **OneBlock Island** action commands.
-> :grass: Fixed an issue with **Phases** not working as intended, which caused them to become messed up.
-> :grass: Updated the **Furniture Interaction** system to a more modern one, similar to Survival.
-> :grass: 
+> :grass: Fixed an issue with **Phases** not working as intended, causing them to become messed up.
+> :grass: Updated the **Furniture Interaction** system to a more modern system, similar to Survival.
+> :grass: Fixed **Refined Miner Gear** not upgrading to **Level 8**.
 > :grass: 
 > :grass: 
 > :grass: 
