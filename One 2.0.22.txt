@@ -6,7 +6,7 @@
 > :grass: Fixed an issue with **Phases** not working as intended, causing them to become messed up.
 > :grass: Updated the **Furniture Interaction** system to a more modern system, similar to Survival.
 > :grass: Fixed **Refined Miner Gear** not upgrading to **Level 8**.
-> :grass: 
+> :grass: Added **"/afk"** as a quick navigation to **"/warp afk"**.
 > :grass: 
 > :grass: 
 > :grass: 
