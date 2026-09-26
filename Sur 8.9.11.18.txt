@@ -76,6 +76,9 @@
 > **DUNGEON**
 > :shiny: [Survival] 
 > 
+> **DUNGEON FROST CHANGES**
+> :shiny: [Survival] Disabled **Yeti Boss Summoning** announcement in chat.
+> 
 > **DUNGEON VOLCANO CHANGES**
 > :shiny: [Survival] Relocated the **Scorpion [Level 28]** spawning location from the walls of the boss room to a more appropriate location.
 > :shiny: [Survival] 
