@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.11.17** *(Network Changes)*
 > :shiny: [Survival] Fixed **75% Personal Skill Multiplier Booster** not accepting **Wither Rose** in the recipe.
 > :shiny: [Survival] Fixed **"/alchemist"** & **"/tinkerer"** for **Java Edition**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Necromancer Set Bonus** not working for players.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
