@@ -76,7 +76,8 @@
 > **DUNGEON**
 > :shiny: [Survival] 
 > 
-> **DUNGEON MINE CHANGES**
+> **DUNGEON VOLCANO CHANGES**
+> :shiny: [Survival] Relocated the **Scorpion [Level 28]** spawning location from the walls of the boss room to a more appropriate location.
 > :shiny: [Survival] 
 >  
 > **NETWORK**
