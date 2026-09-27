@@ -81,8 +81,8 @@
 > 
 > **DUNGEON VOLCANO CHANGES**
 > :shiny: [Survival] Relocated the **Scorpion [Level 28]** spawning location from the walls of the boss room to a more appropriate location.
-> :shiny: [Survival] Added **Summoning Altar** infront of the **Boss Room Entrance**.
-> :shiny: [Survival] **VULKHOUND, ASHMAW & VEYRATH** are now spawnable at the **Altar**.
+> :shiny: [Survival] Added a **Summoning Altar** in front of the **Boss Room Entrance**.
+> :shiny: [Survival] **VULKHOUND, ASHMAW & VEYRATH** can now be spawned at the **Altar**.
 >  
 > **NETWORK**
 > :spaceheart1: [Network] 
