@@ -2,12 +2,12 @@
 > :shiny: [Survival] Fixed **75% Personal Skill Multiplier Booster** not accepting **Wither Rose** in the recipe.
 > :shiny: [Survival] Fixed **"/alchemist"** & **"/tinkerer"** for **Java Edition**.
 > :shiny: [Survival] Fixed **Necromancer Set Bonus** not working for players.
-> :shiny: [Survival] **Alphabet Letters** are no longer static, they can now be placed sideways.
+> :shiny: [Survival] **Alphabet Letters** are no longer static; they can now be placed sideways.
 > :shiny: [Survival] **Molten's Quest Scroll** is now craftable at **Volcano's Crafting Station**.
-> :shiny: [Survival] Added **Refined Eternal Fire** recipe in **Refinery Station**.
+> :shiny: [Survival] Added **Refined Eternal Fire** recipe to **Refinery Station**.
 > :shiny: [Survival] Removed **Summer 2026** Monthlycrate from **"/spawn"**.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Halloween 2026** Monthlycrate at **"/spawn"**.
+> :shiny: [Survival] All **Bosses Soul** related craftable items are now re-enabled.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
