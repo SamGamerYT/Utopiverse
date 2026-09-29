@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.11.19** *(Network Changes)*
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **"/pets"** system, however they lost their old data.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
