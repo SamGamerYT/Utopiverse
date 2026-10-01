@@ -80,12 +80,12 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON VOLCANO CHANGES**
-> :shiny: [Survival] **Molten's Quest Scroll** now require's **Skmasykw's Respect** to craft.
+> :shiny: [Survival] **Molten's Quest Scroll** now requires **Skmasykw's Respect** to craft.
 > :shiny: [Survival] 
 >  
 > **NETWORK**
-> :spaceheart1: [Network] Re-Enabled support for **Vibrant Visuals**
-> :spaceheart1: [Network] 
+> :spaceheart1: [Network] Re-enabled support for **Vibrant Visuals**.
+> :spaceheart1: [Network] Fixed **7 UI Pack Errors** that were causing minor issues.
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
