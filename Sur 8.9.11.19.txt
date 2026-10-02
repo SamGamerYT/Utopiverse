@@ -86,6 +86,7 @@
 > **NETWORK**
 > :spaceheart1: [Network] Re-enabled support for **Vibrant Visuals**.
 > :spaceheart1: [Network] Fixed **7 UI Pack Errors** that were causing minor issues.
+> :spaceheart1: [Network] Disabled **Old Escape Menu** as it was accidentally fixed and is not controller friendly.
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
