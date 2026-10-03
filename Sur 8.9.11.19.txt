@@ -82,6 +82,7 @@
 > **DUNGEON VOLCANO CHANGES**
 > :shiny: [Survival] **Molten's Quest Scroll** now requires **Skmasykw's Respect** to craft.
 > :shiny: [Survival] Added information about **Three New Bosses** to **"/codex"** under the **Bosses Category**.
+> :shiny: [Survival] **Volcano Marketplace** area has been modified by _DrxR3fl3x_3 for a new look.
 > :shiny: [Survival] 
 >  
 > **NETWORK**
