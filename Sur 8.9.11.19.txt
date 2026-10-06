@@ -11,7 +11,7 @@
 > :shiny: [Survival] Added information about **"/tutorial"**, **"/sellg"**, **"/blacksmith"**, **"/rankup"**, and **"/codex"** to the **Guide Books**.
 > 
 > :shiny: [Survival] **"/tutorial"** will no longer open the **Community Menu** instead it will point towards **"/warp tutorial"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Removed **"/clans help"** old interface.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
