@@ -5,7 +5,7 @@
 > :shiny: [Survival] Relocated **"/tutorial"** location from the **Old Spawn** to the **New Spawn**.
 > :shiny: [Survival] Relocated **Guide Book Merchant** from **General Store** to **"/tutorial"**.
 > :shiny: [Survival] Increased **Legendary CE** magic dust drop rate by **5%**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Tutorial NPC** at **"/spawn"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
