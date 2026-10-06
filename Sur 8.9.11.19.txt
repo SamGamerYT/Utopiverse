@@ -7,8 +7,8 @@
 > :shiny: [Survival] Increased the **Legendary CE** magic dust drop rate by **5%**.
 > :shiny: [Survival] Added a **Tutorial NPC** at **"/spawn"**.
 > :shiny: [Survival] Fixed the **Aquamarine Gear Set** recipe, as it was showing **Jade** instead of **Opal** in the description, and added **8 Jade** as a requirement.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Updated the **Guide Books** with more information, and including progression tips.
+> :shiny: [Survival] Added information about **"/tutorial"**, **"/sellg"**, **"/blacksmith"**, **"/rankup"**, and **"/codex"** to the **Guide Books**.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
