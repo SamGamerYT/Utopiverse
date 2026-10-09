@@ -15,7 +15,7 @@
 > :shiny: [Survival] Increased the maximum **Clan Member** upgrade limit from **48** to **54**.
 > :shiny: [Survival] Introducing a brand new **Clan System** with achievements, contributions, events & much more!
 > :shiny: [Survival] **"/clan"** will now open the **Clan Dashboard**.
-> :shiny: [Survival] 
+> :shiny: [Survival] **"/c"** will now point towards clan chat.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
