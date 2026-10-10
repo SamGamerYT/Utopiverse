@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.11.20** *(Network Changes)*
 > :shiny: [Survival] **"/clan"** will now open the **Clan Dashboard**, while commands like **"/clan create"** will continue to work as normal.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Hypogeum Arena** related achievements & Monthly Joint Effort in **"/clans"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
