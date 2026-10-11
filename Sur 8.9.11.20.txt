@@ -7,7 +7,7 @@
 > :shiny: [Survival] Added a **Clan Tutorial** to **Clan Browsing**.
 > :shiny: [Survival] Added **More Clan Achievements** for players to earn **Clan XP**.
 > :shiny: [Survival] Increased **Clan Bonus XP** for clan level progression.
-> :shiny: [Survival] 
+> :shiny: [Survival] Lowered the **Clan Banner Showcase** as it was previously a bit too high.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
