@@ -5,7 +5,7 @@
 > :shiny: [Survival] The commands **"/c"**, **"/clanchat"**, and **"/clan chat"** are now allowed in **Arenas**.
 > :shiny: [Survival] Fixed a bug where **Clan Descriptions** were going off-screen.
 > :shiny: [Survival] Added a **Clan Tutorial** to **Clan Browsing**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **More Clan Achievements** for players to earn **Clan XP**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
