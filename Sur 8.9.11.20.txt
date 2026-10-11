@@ -6,7 +6,7 @@
 > :shiny: [Survival] Fixed a bug where **Clan Descriptions** were going off-screen.
 > :shiny: [Survival] Added a **Clan Tutorial** to **Clan Browsing**.
 > :shiny: [Survival] Added **More Clan Achievements** for players to earn **Clan XP**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Increased **Clan Bonus XP** for clan level progression.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
