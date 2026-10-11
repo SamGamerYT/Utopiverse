@@ -11,7 +11,7 @@
 > :shiny: [Survival] Fixed the **Clan Achievements** hierarchy, as the achievements were not following the correct sequence.
 > 
 > :shiny: [Survival] Improved the **Clan Settings** tab with a better-looking design.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Fishing Related** Monthly Joint Effort & Achievements for clans.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
