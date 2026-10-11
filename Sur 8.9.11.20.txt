@@ -3,7 +3,7 @@
 > :shiny: [Survival] Added **Hypogeum Arena** achievements & Monthly Joint Effort to **"/clans"**.
 > :shiny: [Survival] **Clan XP Boost** will now work properly for Monthly Joint Effort & Achievements.
 > :shiny: [Survival] The commands **"/c"**, **"/clanchat"**, and **"/clan chat"** are now allowed in **Arenas**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed a bug where **Clan Descriptions** were going off-screen.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
