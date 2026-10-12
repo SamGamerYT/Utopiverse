@@ -15,7 +15,7 @@
 > :shiny: [Survival] Fixed **Tenkara Rod**, **Mysteval Rod** & **Aerial Wings** in **Medal Trader**.
 > :shiny: [Survival] Fixed an issue where player's could do **"/back"** in **Parkour Zone**.
 > :shiny: [Survival] Fixed an issue where **Canvas** & **Easel** were not being given to players from the **Uncommon Crate**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed a bug where **Runestones** weren't stacking properly. Drop and pick them up to update them.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
