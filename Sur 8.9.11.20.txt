@@ -74,6 +74,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON**
+> :shiny: [Survival] Fixed an issue where players were able to teleport each other.
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**
