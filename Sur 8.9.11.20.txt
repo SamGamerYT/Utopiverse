@@ -42,6 +42,7 @@
 > :shiny: [Survival] 
 > 
 > **FARMING**
+> :shiny: [Survival] Added **Silver Custom Crop Tier** recipes to the **Farming Station**.
 > :shiny: [Survival] 
 > 
 > **FISHING**
