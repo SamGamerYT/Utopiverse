@@ -62,6 +62,7 @@
 > :shiny: [Necromancy Arena] 
 > 
 > **BLACKSMITH**
+> :shiny: [Survival] Added **Flame Sword** in **Weaponsmith** at the **"/blacksmith"**.
 > :shiny: [Survival] 
 > 
 > **CODEX**
