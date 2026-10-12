@@ -10,9 +10,9 @@
 > :shiny: [Survival] Lowered the **Clan Banner Showcase** as it was previously a bit too high.
 > :shiny: [Survival] Fixed the **Clan Achievements** hierarchy, as the achievements were not following the correct sequence.
 > 
-> :shiny: [Survival] Improved the **Clan Settings** tab with a better-looking design.
+> :shiny: [Survival] Improved the **Clan Settings** tab with a better looking design.
 > :shiny: [Survival] Added **Fishing Related** Monthly Joint Effort & Achievements for clans.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Tenkara Rod**, **Mysteval Rod** & **Aerial Wings** in **Medal Trader**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
