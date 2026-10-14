@@ -56,6 +56,7 @@
 > :shiny: [Watchtower Arena] 
 > 
 > :shiny: [Hypogeum Arena] Increased **Hypogeum Key** rarity from **1 Star** to **2 Stars**.
+> :shiny: [Hypogeum Arena] Buffed **Hypogeum Crate** with higher tier items & **Defense Skill Orb**.
 > :shiny: [Hypogeum Arena] 
 > 
 > :shiny: [Underground Arena] 
