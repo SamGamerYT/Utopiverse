@@ -55,6 +55,7 @@
 > 
 > :shiny: [Watchtower Arena] 
 > 
+> :shiny: [Hypogeum Arena] Increased **Hypogeum Key** rarity from **1 Star** to **2 Stars**.
 > :shiny: [Hypogeum Arena] 
 > 
 > :shiny: [Underground Arena] 
