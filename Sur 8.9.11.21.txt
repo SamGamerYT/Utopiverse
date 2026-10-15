@@ -59,9 +59,11 @@
 > :shiny: [Hypogeum Arena] Buffed **Hypogeum Crate** with higher tier items & **Defense Skill Orb**.
 > :shiny: [Hypogeum Arena] Increased loot drops from **Hypogeum Bosses**.
 > :shiny: [Hypogeum Arena] **Skill Combined Power** requirement raised from **30** to **60**.
+> :shiny: [Hypogeum Arena] Fixed a bug where **Arena Mob Names** weren't displaying correctly when an Elite Mob appeared.
 > :shiny: [Hypogeum Arena] 
 > 
 > :shiny: [Underground Arena] **Skill Combined Power** requirement raised from **60** to **200**.
+> :shiny: [Underground Arena] Fixed a bug where **Arena Mob Names** weren't displaying correctly when an Enraged Mob appeared.
 > :shiny: [Underground Arena] 
 > 
 > :shiny: [Necromancy Arena] 
