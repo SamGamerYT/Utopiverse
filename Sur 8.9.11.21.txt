@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.11.21** *(Network Changes)*
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Clans Vault** not working properly.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
@@ -61,8 +61,8 @@
 > :shiny: [Hypogeum Arena] **Skill Combined Power** requirement raised from **30** to **60**.
 > :shiny: [Hypogeum Arena] 
 > 
-> :shiny: [Underground Arena] 
 > :shiny: [Underground Arena] **Skill Combined Power** requirement raised from **60** to **200**.
+> :shiny: [Underground Arena] 
 > 
 > :shiny: [Necromancy Arena] 
 > 
