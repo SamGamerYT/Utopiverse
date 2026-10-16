@@ -1,7 +1,7 @@
 **Patch/Changes 8.9.11.21** *(Network Changes)*
 > :shiny: [Survival] Fixed **Clan Vault** not working properly.
 > :shiny: [Survival] Added **Clan Activity Logs** to help you keep track of your most valuable clan members.
-> :shiny: [Survival] 
+> :shiny: [Survival] Increased **Clan XP Boost** to help players level up their clans more easily.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
