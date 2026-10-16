@@ -3,7 +3,7 @@
 > :shiny: [Survival] Added **Clan Activity Logs** to help you keep track of your most valuable clan members.
 > :shiny: [Survival] Increased **Clan XP Boost** to help players level up their clans more easily.
 > :shiny: [Survival] Increased **Clan Max Level** from **30** to **40**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Nerfed **Draconic & Gravesurge** Runestone recipes at **"/walice"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
