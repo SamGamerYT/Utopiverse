@@ -62,10 +62,8 @@
 > :shiny: [Hypogeum Arena] Fixed a bug where **Arena Mob Names** weren't displaying correctly when an Elite Mob appeared.
 > :shiny: [Hypogeum Arena] **Iridium Ore** will no longer appear as **Elite Mob**.
 > :shiny: [Hypogeum Arena] 
-> :shiny: [Hypogeum Arena] 
 > 
 > :shiny: [Underground Arena] **Skill Combined Power** requirement raised from **60** to **200**.
-> :shiny: [Underground Arena] 
 > :shiny: [Underground Arena] 
 > 
 > :shiny: [Necromancy Arena] 
