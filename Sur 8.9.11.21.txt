@@ -6,7 +6,7 @@
 > :shiny: [Survival] Nerfed **Draconic & Gravesurge** Runestone recipes at **"/walice"**.
 > :shiny: [Survival] Increased the drop chances of **Icicle Dino Crystal, Fin & Scales** from **Icicle Dino** to **50%**.
 > :shiny: [Survival] Added **Three Frost Spawnable Bosses** in **Clans Codex**
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **ATM** at **Cemetery Zone**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
@@ -62,8 +62,10 @@
 > :shiny: [Hypogeum Arena] Fixed a bug where **Arena Mob Names** weren't displaying correctly when an Elite Mob appeared.
 > :shiny: [Hypogeum Arena] **Iridium Ore** will no longer appear as **Elite Mob**.
 > :shiny: [Hypogeum Arena] 
+> :shiny: [Hypogeum Arena] 
 > 
 > :shiny: [Underground Arena] **Skill Combined Power** requirement raised from **60** to **200**.
+> :shiny: [Underground Arena] 
 > :shiny: [Underground Arena] 
 > 
 > :shiny: [Necromancy Arena] 
