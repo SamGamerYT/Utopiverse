@@ -1,9 +1,9 @@
 **Patch/Changes 8.9.11.22** *(Network Changes)*
 > :shiny: [Survival] Minor **Optimizations** for **Levelled Mobs** spawning requirement.
 > :shiny: [Survival] **Kingslayers** Achievement XP has increased from **12,500** to **15,000**.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] **Hound Tamers** Achievement XP has increased from **15,000** to **20,000**.
+> :shiny: [Survival] **Ashes To Ashes** Achievement XP has increased from **17,500** to **25,000**.
+> :shiny: [Survival] **The Wrath of Volcanic** Achievement XP has increased from **20,000** to **50,000**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
