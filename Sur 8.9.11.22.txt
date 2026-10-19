@@ -1,12 +1,12 @@
 **Patch/Changes 8.9.11.22** *(Network Changes)*
-> :shiny: [Survival] Minor **Optimizations** for **Levelled Mobs** spawning requirement.
-> :shiny: [Survival] **Kingslayers** Achievement XP has increased from **12,500** to **15,000**.
-> :shiny: [Survival] **Hound Tamers** Achievement XP has increased from **15,000** to **20,000**.
-> :shiny: [Survival] **Ashes To Ashes** Achievement XP has increased from **17,500** to **25,000**.
-> :shiny: [Survival] **The Wrath of Volcanic** Achievement XP has increased from **20,000** to **50,000**.
+> :shiny: [Survival] Made minor **Optimizations** to **Levelled Mobs** spawning requirements.
+> :shiny: [Survival] Increased **Kingslayers** Achievement XP from **12,500** to **15,000**.
+> :shiny: [Survival] Increased **Hound Tamers** Achievement XP from **15,000** to **20,000**.
+> :shiny: [Survival] Increased **Ashes To Ashes** Achievement XP from **17,500** to **25,000**.
+> :shiny: [Survival] Increased **The Wrath of Volcanic** Achievement XP from **20,000** to **50,000**.
 > :shiny: [Survival] Added **Abominable Hunters**, **Sentinel Breakers**, and **Frozen Predator** Clan Achievements.
-> :shiny: [Survival] Added **Dragon Beast's** pity system information hologram at **"/warp mine"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added a **Dragon Beast** Pity System information hologram at **"/warp mine"**.
+> :shiny: [Survival] Added **Pity System**, a new area where players can earn guaranteed rewards after a certain number of kills.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
