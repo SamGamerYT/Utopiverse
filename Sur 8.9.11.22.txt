@@ -4,7 +4,7 @@
 > :shiny: [Survival] **Hound Tamers** Achievement XP has increased from **15,000** to **20,000**.
 > :shiny: [Survival] **Ashes To Ashes** Achievement XP has increased from **17,500** to **25,000**.
 > :shiny: [Survival] **The Wrath of Volcanic** Achievement XP has increased from **20,000** to **50,000**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Abominable Hunters**, **Sentinel Breakers**, and **Frozen Predator** Clan Achievements.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
