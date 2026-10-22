@@ -7,7 +7,7 @@
 > :shiny: [Survival] Added **Abominable Hunters**, **Sentinel Breakers**, and **Frozen Predator** Clan Achievements.
 > :shiny: [Survival] Added a **Dragon Beast** Pity System information hologram at **"/warp mine"**.
 > :shiny: [Survival] Added **Pity System**, a new area where players can earn guaranteed rewards after a certain number of kills.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Animal Boosted Prices** category information at **"/farms"**.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
