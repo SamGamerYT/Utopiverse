@@ -10,7 +10,7 @@
 > :shiny: [Survival] Added **Animal Boosted Prices** category information at **"/farms"**.
 > :shiny: [Survival] Updated **"/shop"** buy confirmation interface
 > 
-> :shiny: [Survival] 
+> :shiny: [Survival] Updated **"/shop"** bulk buy interface
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
