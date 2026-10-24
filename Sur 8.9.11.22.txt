@@ -13,7 +13,7 @@
 > :shiny: [Survival] Updated the **"/shop"** bulk buy interface.
 > :shiny: [Survival] Reduced **Wraith Revenant Gear Set** requirements from **Defense 33** & **Fighting 14** to **Defense 24** & **Fighting 11**.
 > :shiny: [Survival] Fixed **Wraith Revenant Gear Set** not displaying the correct icon & armour.
-> :shiny: [Survival] 
+> :shiny: [Survival] Improved the **Submission** interface with a better design & more information.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
