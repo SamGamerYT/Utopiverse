@@ -17,7 +17,7 @@
 > :shiny: [Survival] Added **5** new **Monthly Clan Effort** challenges to complete.
 > :shiny: [Survival] The **Clan Vaults** now can be locked behind a certain clan role.
 > :shiny: [Survival] Added **15 New Achievements** in clans for players to complete.
-> :shiny: [Survival] 
+> :shiny: [Survival] Reenabled **Bombs** in **Volcanic Crafting Station**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
