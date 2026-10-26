@@ -18,7 +18,7 @@
 > :shiny: [Survival] The **Clan Vaults** now can be locked behind a certain clan role.
 > :shiny: [Survival] Added **15 New Achievements** in clans for players to complete.
 > :shiny: [Survival] Reenabled **Bombs** in **Volcanic Crafting Station**.
-> :shiny: [Survival] Improved **"/dsb"** system, 
+> :shiny: [Survival] Improved **"/dsb"** system.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
