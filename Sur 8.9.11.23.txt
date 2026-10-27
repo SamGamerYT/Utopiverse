@@ -51,7 +51,7 @@
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **High Stakes**, **Downpour**, **Frostbite**, and **Cursed Ground** Modifiers in all **active** arenas.
 > 
 > :shiny: [Watchtower Arena] 
 > 
