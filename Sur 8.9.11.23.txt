@@ -51,9 +51,10 @@
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
-> :shiny: [Survival] Added **High Stakes**, **Downpour**, **Frostbite**, and **Cursed Ground** Modifiers in all **active** arenas.
-> :shiny: [Survival] Removed **Item Bombs** from **Lara Craft** Station.
-> :shiny: [Survival] Removed **Aztec Access Pass** from **Lara Craft** Station.
+> :shiny: [Survival] Added **High Stakes**, **Downpour**, **Frostbite**, and **Cursed Ground** modifiers to all **active** arenas.
+> :shiny: [Survival] Removed **Item Bombs** from the **Lara Craft** Station.
+> :shiny: [Survival] Removed **Aztec Access Pass** from the **Lara Craft** Station.
+> :shiny: [Survival] Added **Watchtower Access Pass** to the **Lara Craft** Station.
 > :shiny: [Survival] 
 > 
 > :shiny: [Watchtower Arena] 
