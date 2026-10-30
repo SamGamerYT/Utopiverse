@@ -3,54 +3,12 @@
 > :grass: Players will have to log in at least once a year to ensure their island data is retained.
 > :grass: Updated **Dependencies 01-Sep-26**.
 > :grass: Disabled **Dialogs** for certain **OneBlock Island** action commands.
-> :grass: Fixed an issue with **Phases** not working as intended, causing them to become messed up.
+> :grass: Fixed an issue with **Phases** not working as intended.
 > :grass: Updated the **Furniture Interaction** system to a more modern system, similar to Survival.
 > :grass: Fixed **Refined Miner Gear** not upgrading to **Level 8**.
-> :grass: Added **"/afk"** as a quick way to navigate to **"/warp afk"**.
-> :grass: Fixed the **Art Map** feature, as it wasn't allowing players to place their canvases.
-> :grass: Fixed **"/wb"** showing hex code in chat instead of colours.
+> :grass: Added **"/afk"** as a shortcut to **"/warp afk"**.
+> :grass: Fixed the **Art Map** feature not allowing players to place their canvases.
+> :grass: Fixed **"/wb"** showing hex codes in chat instead of colours.
 > :grass: Added **Halloween 2026** Monthlycrate.
-> 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> 
-> **FARMING**
-> :grass: 
-> 
-> :Sparkles: [Store] 
-> 
-> **DUNGEON**
-> :grass: 
-> 
-> **COAL DUNGEON**
-> :grass: 
-> 
-> **CAVE DUNGEON**
-> :grass: 
-> 
-> **HOLOGRAMS**
-> :grass: 
-> 
-> **ISLAND**
-> :grass: 
-> 
-> **BANK**
-> :grass: 
-> 
-> **BLACKSMITH**
-> :grass: 
-> :grass: 
-> 
-> **REFINESHOP**
-> :grass: 
 >  
 > **[ @Changelogs ]**
