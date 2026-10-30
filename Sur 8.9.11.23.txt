@@ -56,7 +56,9 @@
 > :shiny: [Survival] Removed **Aztec Access Pass** from the **Lara Craft** Station.
 > :shiny: [Survival] Added **Watchtower Access Pass** to the **Lara Craft** Station.
 > :shiny: [Survival] Added **Watchtower Arena** crate.
-> :shiny: [Survival] Modified **Arena Interface**, Added more information & **Watchtower Arena**.
+> :shiny: [Survival] Updated the **Arena Interface** with more information & added **Watchtower Arena**.
+> :shiny: [Survival] Updated the **Hypogeum and Underground Interfaces** with a Restricted Item Preview page.
+> :shiny: [Survival] Added a **Watchtower Arena** queue button to the **Arena Interface**.
 > :shiny: [Survival] 
 > 
 > :shiny: [Watchtower Arena] 
