@@ -9,7 +9,7 @@
 > :grass: Added **"/afk"** as a quick way to navigate to **"/warp afk"**.
 > :grass: Fixed the **Art Map** feature, as it wasn't allowing players to place their canvases.
 > :grass: Fixed **"/wb"** showing hex code in chat instead of colours.
-> :grass: 
+> :grass: Added **Halloween 2026** Monthlycrate.
 > 
 > :grass: 
 > :grass: 
