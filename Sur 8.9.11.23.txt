@@ -55,6 +55,7 @@
 > :shiny: [Survival] Removed **Item Bombs** from the **Lara Craft** Station.
 > :shiny: [Survival] Removed **Aztec Access Pass** from the **Lara Craft** Station.
 > :shiny: [Survival] Added **Watchtower Access Pass** to the **Lara Craft** Station.
+> :shiny: [Survival] Added **Watchtower Arena** crate.
 > :shiny: [Survival] 
 > 
 > :shiny: [Watchtower Arena] 
