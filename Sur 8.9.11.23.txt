@@ -6,7 +6,7 @@
 > :shiny: [Survival] Added **Six Clan Achievements** related to **Watchtower Arena**.
 > :shiny: [Survival] Added rotating **Trapped EXP Bottles**, **Copper Coins**, **Silver Coins**, and **Gold Coins** to the **Frostbound Shop**.
 > :shiny: [Survival] Added **Unstable Rune of Vitality I** and **Unstable Rune of Combat I** to the **Frostbound Shop**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Reduced the price of **Menders Repairstone** in the **Frostbound Shop**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
