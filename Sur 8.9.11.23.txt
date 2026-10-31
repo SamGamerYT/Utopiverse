@@ -3,7 +3,7 @@
 > :shiny: [Survival] Fixed **Starter Milestone #7** not registering the visit to **"/tutorial"**.
 > :shiny: [Survival] Added **Spoody The Spider, and Broodmother** in **Clan Codex**.
 > :shiny: [Survival] Added **Watchtower, Hypogeum, and Underground Arena** in **Clan Codex**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Six Clan Achievements** related to **Watchtower Arena**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
