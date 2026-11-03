@@ -61,6 +61,7 @@
 > :shiny: [Survival] Added a **Watchtower Arena** queue button to the **Arena Interface**.
 > :shiny: [Survival] 
 > 
+> :shiny: [Watchtower Arena] Removed **Stone** from the loot pool of **Sapphire Ore**.
 > :shiny: [Watchtower Arena] 
 > 
 > :shiny: [Hypogeum Arena] 
