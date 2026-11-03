@@ -7,7 +7,7 @@
 > :shiny: [Survival] Added rotating **Trapped EXP Bottles**, **Copper Coins**, **Silver Coins**, and **Gold Coins** to the **Frostbound Shop**.
 > :shiny: [Survival] Added **Unstable Rune of Vitality I** and **Unstable Rune of Combat I** to the **Frostbound Shop**.
 > :shiny: [Survival] Reduced the price of **Menders Repairstone** in the **Frostbound Shop**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Draconic Gear** not displaying properly on players & armor stands.
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
