@@ -10,9 +10,9 @@
 > :shiny: [Survival] Fixed **Draconic Gear** not displaying properly on players & armor stands.
 > :shiny: [Survival] Fixed outdated, incorrect, ambiguous, and misspelled **Chat Games Trivia Questions**.
 > 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **20 New Trivia Questions**, increasing the total to **160 Questions**.
+> :shiny: [Survival] Added new trivia covering **Sulfur Cubes, Sulfur Caves, Potent Sulfur, Cinnabar, Golden Dandelions, and more**.
+> :shiny: [Survival] Added **15 New Chat Game Rewards**, increasing the reward pool to **48 Outcomes**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
