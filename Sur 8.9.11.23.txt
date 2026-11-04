@@ -8,7 +8,7 @@
 > :shiny: [Survival] Added **Unstable Rune of Vitality I** and **Unstable Rune of Combat I** to the **Frostbound Shop**.
 > :shiny: [Survival] Reduced the price of **Menders Repairstone** in the **Frostbound Shop**.
 > :shiny: [Survival] Fixed **Draconic Gear** not displaying properly on players & armor stands.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed outdated, incorrect, ambiguous, and misspelled **Chat Games Trivia Questions**.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
