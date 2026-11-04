@@ -51,6 +51,7 @@
 > :shiny: [Survival] Fixed **29 Shop Prices** that could be exploited using the **Sellwand Multiplier**.
 > :shiny: [Survival] Updated shop pricing to account for the maximum **25% Rank Discount**.
 > :shiny: [Survival] Fixed economy exploits involving unpacking and reselling **Hay Bales** and **Honey Blocks**.
+> :shiny: [Survival] Added **Pink Petals** to the Flowers Shop.
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
