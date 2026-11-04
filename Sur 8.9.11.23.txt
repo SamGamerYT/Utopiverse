@@ -54,6 +54,7 @@
 > :shiny: [Survival] Added **Pink Petals** to the Flowers Shop.
 > :shiny: [Survival] Added **Copper Bulbs** for **$300**.
 > :shiny: [Survival] Added **Copper Blocks** for **$200** and **Chiseled Copper** for **$225**.
+> :shiny: [Survival] Removed duplicate items **Cherry Button, Howl Pottery Sherd, and Cauldron**.
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
