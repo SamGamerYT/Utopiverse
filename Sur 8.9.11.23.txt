@@ -16,7 +16,7 @@
 > :shiny: [Survival] Added additional **Resources, Experience Bottles, Golden Apples, Diamonds, Emeralds, and Crate Keys** to Chat Game rewards.
 > :shiny: [Survival] Fixed incorrect **Reward Quantities and Reward Messages**.
 > :shiny: [Survival] Fixed broken **Chat Game Message Formatting and Color Codes**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Corrected the inaccurate **Chat Games Server Win Total**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
