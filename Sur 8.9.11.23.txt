@@ -48,6 +48,7 @@
 > :shiny: [Survival] 
 > 
 > **SHOP CHANGES**
+> :shiny: [Survival] Fixed **29 Shop Prices** that could be exploited using the **Sellwand Multiplier**.
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
