@@ -52,6 +52,8 @@
 > :shiny: [Survival] Updated shop pricing to account for the maximum **25% Rank Discount**.
 > :shiny: [Survival] Fixed economy exploits involving unpacking and reselling **Hay Bales** and **Honey Blocks**.
 > :shiny: [Survival] Added **Pink Petals** to the Flowers Shop.
+> :shiny: [Survival] Added **Copper Bulbs** for **$300**.
+> :shiny: [Survival] Added **Copper Blocks** for **$200** and **Chiseled Copper** for **$225**.
 > :shiny: [Survival] 
 > 
 > **ARENA CHANGES**
