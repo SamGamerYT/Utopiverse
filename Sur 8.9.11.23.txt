@@ -56,8 +56,12 @@
 > :shiny: [Survival] Added **Copper Blocks** for **$200** and **Chiseled Copper** for **$225**.
 > :shiny: [Survival] Removed duplicate items **Cherry Button, Howl Pottery Sherd, and Cauldron**.
 > :shiny: [Survival] Added a new Copper Blocks Subcategory to the Blocks Shop.
-> :shiny: [Survival] Reduced the sell prices of Feathers, Leather, and Rabbit Feet.
+> :shiny: [Survival] Reduced the sell prices of **Feathers, Leather, and Rabbit Feet**.
 > :shiny: [Survival] Added **Golden Dandelion** in **Flowers Subcategory**.
+> :shiny: [Survival] Added separate **Lightning Rods, Chains, Lanterns, and Shelves Subcategories** to the **Decorations Shop**.
+> :shiny: [Survival] Added all oxidized and waxed **Lightning Rod** variants.
+> :shiny: [Survival] Added **Copper Golem Statues Subcategory** oxidized and waxed variants to the **Decorations Shop**.
+> :shiny: [Survival] Added **Shelf Wood Variant Subcategory** to the **Decorations Shop**.
 > 
 > **ARENA CHANGES**
 > :shiny: [Survival] Added **High Stakes**, **Downpour**, **Frostbite**, and **Cursed Ground** modifiers to all **active** arenas.
