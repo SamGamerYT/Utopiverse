@@ -18,10 +18,10 @@
 > :shiny: [Survival] Fixed broken **Chat Game Message Formatting and Color Codes**.
 > :shiny: [Survival] Corrected the inaccurate **Chat Games Server Win Total**.
 > :shiny: [Survival] Modified **Dungeon Extermination** Monthhly Joint Effort xp from **500** to **5000**.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Brothers in Arms** Monthhly Joint Effort xp from **2500** to **7500**.
+> :shiny: [Survival] Modified **United Front** Monthhly Joint Effort xp from **5000** to **10000**.
 > 
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Clan Army** Monthhly Joint Effort xp from **7500** to **15000**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
