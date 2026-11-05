@@ -17,7 +17,7 @@
 > :shiny: [Survival] Fixed incorrect **Reward Quantities and Reward Messages**.
 > :shiny: [Survival] Fixed broken **Chat Game Message Formatting and Color Codes**.
 > :shiny: [Survival] Corrected the inaccurate **Chat Games Server Win Total**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Modified **Dungeon Extermination** Monthhly Joint Effort xp from **500** to **5000**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
