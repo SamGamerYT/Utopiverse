@@ -1,54 +1,54 @@
 **Patch/Changes 8.9.11.23** *(Network Changes)*
-> :shiny: [Survival] Fixed an issue where **Gravesurge Looting IV, V, and VI** weren't being applied to the **Gravesurge Spear**.
-> :shiny: [Survival] Fixed **Starter Milestone #7** not registering visits to **"/tutorial"**.
-> :shiny: [Survival] Added **Spoody The Spider** and **Broodmother** to the **Clan Codex**.
-> :shiny: [Survival] Added **Watchtower, Hypogeum, and Underground Arenas** to the **Clan Codex**.
-> :shiny: [Survival] Added **Six Clan Achievements** related to **Watchtower Arena**.
-> :shiny: [Survival] Added rotating **Trapped EXP Bottles**, **Copper Coins**, **Silver Coins**, and **Gold Coins** to the **Frostbound Shop**.
-> :shiny: [Survival] Added **Unstable Rune of Vitality I** and **Unstable Rune of Combat I** to the **Frostbound Shop**.
-> :shiny: [Survival] Reduced the price of **Menders Repairstone** in the **Frostbound Shop**.
-> :shiny: [Survival] Fixed **Draconic Gear** not displaying properly on players & armor stands.
-> :shiny: [Survival] Fixed outdated, incorrect, ambiguous, and misspelled **Chat Games Trivia Questions**.
+> <a:shiny:912372643582316616> [Survival] Fixed an issue where **Gravesurge Looting IV, V, and VI** weren't being applied to the **Gravesurge Spear**.
+> <a:shiny:912372643582316616> [Survival] Fixed **Starter Milestone #7** not registering visits to **"/tutorial"**.
+> <a:shiny:912372643582316616> [Survival] Added **Spoody The Spider** and **Broodmother** to the **Clan Codex**.
+> <a:shiny:912372643582316616> [Survival] Added **Watchtower, Hypogeum, and Underground Arenas** to the **Clan Codex**.
+> <a:shiny:912372643582316616> [Survival] Added **Six Clan Achievements** related to **Watchtower Arena**.
+> <a:shiny:912372643582316616> [Survival] Added rotating **Trapped EXP Bottles**, **Copper Coins**, **Silver Coins**, and **Gold Coins** to the **Frostbound Shop**.
+> <a:shiny:912372643582316616> [Survival] Added **Unstable Rune of Vitality I** and **Unstable Rune of Combat I** to the **Frostbound Shop**.
+> <a:shiny:912372643582316616> [Survival] Reduced the price of **Menders Repairstone** in the **Frostbound Shop**.
+> <a:shiny:912372643582316616> [Survival] Fixed **Draconic Gear** not displaying properly on players & armor stands.
+> <a:shiny:912372643582316616> [Survival] Fixed outdated, incorrect, ambiguous, and misspelled **Chat Games Trivia Questions**.
 > 
-> :shiny: [Survival] Added **20 New Trivia Questions**, increasing the total to **160 Questions**.
-> :shiny: [Survival] Added new trivia covering **Sulfur Cubes, Sulfur Caves, Potent Sulfur, Cinnabar, Golden Dandelions, and more**.
-> :shiny: [Survival] Added **15 New Chat Game Rewards**, increasing the reward pool to **48 Outcomes**.
-> :shiny: [Survival] Added additional **Resources, Experience Bottles, Golden Apples, Diamonds, Emeralds, and Crate Keys** to Chat Game rewards.
-> :shiny: [Survival] Fixed incorrect **Reward Quantities and Reward Messages**.
-> :shiny: [Survival] Fixed broken **Chat Game Message Formatting and Color Codes**.
-> :shiny: [Survival] Corrected the inaccurate **Chat Games Server Win Total**.
-> :shiny: [Survival] Modified **Dungeon Extermination** Monthhly Joint Effort xp from **500** to **5000**.
-> :shiny: [Survival] Modified **Brothers in Arms** Monthhly Joint Effort xp from **2500** to **7500**.
-> :shiny: [Survival] Modified **United Front** Monthhly Joint Effort xp from **5000** to **10000**.
+> <a:shiny:912372643582316616> [Survival] Added **20 New Trivia Questions**, increasing the total to **160 Questions**.
+> <a:shiny:912372643582316616> [Survival] Added new trivia covering **Sulfur Cubes, Sulfur Caves, Potent Sulfur, Cinnabar, Golden Dandelions, and more**.
+> <a:shiny:912372643582316616> [Survival] Added **15 New Chat Game Rewards**, increasing the reward pool to **48 Outcomes**.
+> <a:shiny:912372643582316616> [Survival] Added additional **Resources, Experience Bottles, Golden Apples, Diamonds, Emeralds, and Crate Keys** to Chat Game rewards.
+> <a:shiny:912372643582316616> [Survival] Fixed incorrect **Reward Quantities and Reward Messages**.
+> <a:shiny:912372643582316616> [Survival] Fixed broken **Chat Game Message Formatting and Color Codes**.
+> <a:shiny:912372643582316616> [Survival] Corrected the inaccurate **Chat Games Server Win Total**.
+> <a:shiny:912372643582316616> [Survival] Modified **Dungeon Extermination** Monthhly Joint Effort xp from **500** to **5000**.
+> <a:shiny:912372643582316616> [Survival] Modified **Brothers in Arms** Monthhly Joint Effort xp from **2500** to **7500**.
+> <a:shiny:912372643582316616> [Survival] Modified **United Front** Monthhly Joint Effort xp from **5000** to **10000**.
 > 
-> :shiny: [Survival] Modified **Clan Army** Monthhly Joint Effort xp from **7500** to **15000**.
+> <a:shiny:912372643582316616> [Survival] Modified **Clan Army** Monthhly Joint Effort xp from **7500** to **15000**.
 > 
 > **SHOP CHANGES**
-> :shiny: [Survival] Fixed **29 Shop Prices** that could be exploited using the **Sellwand Multiplier**.
-> :shiny: [Survival] Updated shop pricing to account for the maximum **25% Rank Discount**.
-> :shiny: [Survival] Fixed economy exploits involving unpacking and reselling **Hay Bales** and **Honey Blocks**.
-> :shiny: [Survival] Added **Pink Petals** to the Flowers Shop.
-> :shiny: [Survival] Added **Copper Bulbs** for **$300**.
-> :shiny: [Survival] Added **Copper Blocks** for **$200** and **Chiseled Copper** for **$225**.
-> :shiny: [Survival] Removed duplicate items **Cherry Button, Howl Pottery Sherd, Glow Lichen and Cauldron**.
-> :shiny: [Survival] Added a new Copper Blocks Subcategory to the Blocks Shop.
-> :shiny: [Survival] Reduced the sell prices of **Feathers, Leather, and Rabbit Feet**.
-> :shiny: [Survival] Added **Golden Dandelion** in **Flowers Subcategory**.
-> :shiny: [Survival] Added separate **Lightning Rods, Chains, Lanterns, and Shelves Subcategories** to the **Decorations Shop**.
-> :shiny: [Survival] Added all oxidized and waxed **Lightning Rod** variants.
-> :shiny: [Survival] Added **Copper Golem Statues Subcategory** oxidized and waxed variants to the **Decorations Shop**.
-> :shiny: [Survival] Added **Shelf Wood Variant Subcategory** to the **Decorations Shop**.
+> <a:shiny:912372643582316616> [Survival] Fixed **29 Shop Prices** that could be exploited using the **Sellwand Multiplier**.
+> <a:shiny:912372643582316616> [Survival] Updated shop pricing to account for the maximum **25% Rank Discount**.
+> <a:shiny:912372643582316616> [Survival] Fixed economy exploits involving unpacking and reselling **Hay Bales** and **Honey Blocks**.
+> <a:shiny:912372643582316616> [Survival] Added **Pink Petals** to the Flowers Shop.
+> <a:shiny:912372643582316616> [Survival] Added **Copper Bulbs** for **$300**.
+> <a:shiny:912372643582316616> [Survival] Added **Copper Blocks** for **$200** and **Chiseled Copper** for **$225**.
+> <a:shiny:912372643582316616> [Survival] Removed duplicate items **Cherry Button, Howl Pottery Sherd, Glow Lichen and Cauldron**.
+> <a:shiny:912372643582316616> [Survival] Added a new Copper Blocks Subcategory to the Blocks Shop.
+> <a:shiny:912372643582316616> [Survival] Reduced the sell prices of **Feathers, Leather, and Rabbit Feet**.
+> <a:shiny:912372643582316616> [Survival] Added **Golden Dandelion** in **Flowers Subcategory**.
+> <a:shiny:912372643582316616> [Survival] Added separate **Lightning Rods, Chains, Lanterns, and Shelves Subcategories** to the **Decorations Shop**.
+> <a:shiny:912372643582316616> [Survival] Added all oxidized and waxed **Lightning Rod** variants.
+> <a:shiny:912372643582316616> [Survival] Added **Copper Golem Statues Subcategory** oxidized and waxed variants to the **Decorations Shop**.
+> <a:shiny:912372643582316616> [Survival] Added **Shelf Wood Variant Subcategory** to the **Decorations Shop**.
 > 
 > **ARENA CHANGES**
-> :shiny: [Survival] Added **High Stakes**, **Downpour**, **Frostbite**, and **Cursed Ground** modifiers to all **active** arenas.
-> :shiny: [Survival] Removed **Item Bombs** from the **Lara Craft** Station.
-> :shiny: [Survival] Removed **Aztec Access Pass** from the **Lara Craft** Station.
-> :shiny: [Survival] Added **Watchtower Access Pass** to the **Lara Craft** Station.
-> :shiny: [Survival] Added **Watchtower Arena** crate.
-> :shiny: [Survival] Updated the **Arena Interface** with more information & added **Watchtower Arena**.
-> :shiny: [Survival] Updated the **Hypogeum and Underground Interfaces** with a Restricted Item Preview page.
-> :shiny: [Survival] Added a **Watchtower Arena** queue button to the **Arena Interface**.
+> <a:shiny:912372643582316616> [Survival] Added **High Stakes**, **Downpour**, **Frostbite**, and **Cursed Ground** modifiers to all **active** arenas.
+> <a:shiny:912372643582316616> [Survival] Removed **Item Bombs** from the **Lara Craft** Station.
+> <a:shiny:912372643582316616> [Survival] Removed **Aztec Access Pass** from the **Lara Craft** Station.
+> <a:shiny:912372643582316616> [Survival] Added **Watchtower Access Pass** to the **Lara Craft** Station.
+> <a:shiny:912372643582316616> [Survival] Added **Watchtower Arena** crate.
+> <a:shiny:912372643582316616> [Survival] Updated the **Arena Interface** with more information & added **Watchtower Arena**.
+> <a:shiny:912372643582316616> [Survival] Updated the **Hypogeum and Underground Interfaces** with a Restricted Item Preview page.
+> <a:shiny:912372643582316616> [Survival] Added a **Watchtower Arena** queue button to the **Arena Interface**.
 > 
-> :shiny: [Watchtower Arena] Removed **Stone** from the loot pool of **Sapphire Ore**.
+> <a:shiny:912372643582316616> [Watchtower Arena] Removed **Stone** from the loot pool of **Sapphire Ore**.
 > 
 > **[ @Changelogs ]**
