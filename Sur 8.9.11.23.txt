@@ -55,7 +55,7 @@
 > :shiny: [Survival] Added **Copper Bulbs** for **$300**.
 > :shiny: [Survival] Added **Copper Blocks** for **$200** and **Chiseled Copper** for **$225**.
 > :shiny: [Survival] Removed duplicate items **Cherry Button, Howl Pottery Sherd, and Cauldron**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added a new Copper Blocks Subcategory to the Blocks Shop.
 > 
 > **ARENA CHANGES**
 > :shiny: [Survival] Added **High Stakes**, **Downpour**, **Frostbite**, and **Cursed Ground** modifiers to all **active** arenas.
