@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.11.24** *(Network Changes)*
 > :shiny: [Survival] Increased the buy prices of all **Cooked Food** to **$50** to prevent exploits involving the **Sellwand Multiplier**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed **Liege Red** and **Liege Pink** not showing their respective prefix on **tablist** for **Java Edition**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
