@@ -76,6 +76,7 @@
 > :shiny: [Survival] 
 > 
 > **DUNGEON**
+> :shiny: [Survival] Added **Pity System** for **Frostmaw**, and **King in Flames** bosses.
 > :shiny: [Survival] 
 > 
 > **DUNGEON FROST CHANGES**
