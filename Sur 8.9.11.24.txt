@@ -53,7 +53,7 @@
 > **ARENA CHANGES**
 > :shiny: [Survival] 
 > 
-> :shiny: [Watchtower Arena] You can no longer sit on furnitures, players or on the ground.
+> :shiny: [Watchtower Arena] Players can no longer sit on furniture, other players, or the ground.
 > :shiny: [Watchtower Arena] 
 > :shiny: [Watchtower Arena] 
 > 
