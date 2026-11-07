@@ -5,7 +5,7 @@
 > :shiny: [Survival] Improved the **Frostbound Trader** interface with a wider design and clearer information on how it works.
 > :shiny: [Survival] **Frostbound** will now announce his restocks in chat and in the Discord alerts channel.
 > :shiny: [Survival] Temporarily disabled the **Tag** showcase above players' heads due to a bug.
-> :shiny: [Survival] 
+> :shiny: [Survival] Updated **Protection Stones** messages to look more modern, as they hadn't been changed since 2020.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
