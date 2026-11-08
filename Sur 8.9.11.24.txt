@@ -6,7 +6,7 @@
 > :shiny: [Survival] **Frostbound** will now announce his restocks in chat and in the Discord alerts channel.
 > :shiny: [Survival] Temporarily disabled the **Tag** showcase above players' heads due to a bug.
 > :shiny: [Survival] Updated **Protection Stones** messages to look more modern, as they hadn't been changed since 2020.
-> :shiny: [Survival] Modified **Mermaid, Peace Stone, Beaconator, 
+> :shiny: [Survival] Modified **Mermaid, Peace, Beaconator, and more** lore.
 > :shiny: [Survival] Added **Copper Chests and their variants** to **Protection Stone** protection.
 > :shiny: [Survival] Added a new **Protection Stone Management Menu**, allowing players to manage their protections more easily.
 
