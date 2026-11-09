@@ -10,10 +10,10 @@
 > :shiny: [Survival] Added **Copper Chests and their variants** to **Protection Stone** protection.
 > :shiny: [Survival] Added a new **Protection Stone Management Menu**, allowing players to manage their protections more easily.
 
-> :shiny: [Survival] Added **Block Access Settings**, allowing players to control who can interact with or break specific blocks inside their protection.
+> :shiny: [Survival] Added **Block Access Settings**, allowing players to control who can interact with or break specific blocks inside their protected areas.
 > :shiny: [Survival] Players can now customize block permissions for **Visitors, Guests, and Co-Owners** with a simple click.
-> :shiny: [Survival] Improved the **Members** and **Protection Flags** menus with easier navigation and management.
-> :shiny: [Survival] 
+> :shiny: [Survival] Improved the **Members** and **Protection Flags** menus for easier navigation and management.
+> :shiny: [Survival] Added **"/ps limits"** to check how many more Protection Stones you can place.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
