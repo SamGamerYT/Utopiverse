@@ -86,6 +86,7 @@
 > :shiny: [Survival] 
 >  
 > **NETWORK**
+> :spaceheart1: [Network] Fixed an issue where **Bedrock Players** were seeing duplicate X buttons in the interface.
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
