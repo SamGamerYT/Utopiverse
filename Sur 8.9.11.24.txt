@@ -88,7 +88,7 @@
 > **NETWORK**
 > :spaceheart1: [Network] Fixed an issue where **Bedrock Players** were seeing duplicate X buttons in the interface.
 > :spaceheart1: [Network] Removed the **Smaller Fishing Rod Hook** from **Java Edition**.
-> :spaceheart1: [Network] 
+> :spaceheart1: [Network] Fixed an issue with **Bank Upgrade** interface not showing up for **Bedrock Edition**.
 > 
 > **WEBSITE**
 > :computer: [Website] 
