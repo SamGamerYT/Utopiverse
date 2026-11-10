@@ -15,8 +15,8 @@
 > :shiny: [Survival] Improved the **Members** and **Protection Flags** menus for easier navigation and management.
 > :shiny: [Survival] Added **"/ps limits"** to check how many more Protection Stones you can place.
 > :shiny: [Survival] Fixed the **Mass Vote Crate Opening** perk at **"/warp crates"**.
-> :shiny: [Survival] 
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Trash tier** in **Dungeon Loot**.
+> :shiny: [Survival] Fixed **Intrigue, Gravesurge & 4 other crossbows** having **Bow** rating instead of **Crossbow**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
