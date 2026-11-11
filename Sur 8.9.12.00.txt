@@ -83,6 +83,7 @@
 > :shiny: [Survival] 
 >  
 > **NETWORK**
+> :spaceheart1: [Network] Added **Voice Chat** in **Lobby, Survival & Oneblock** for both **Java Edition** & **Bedrock Edition**.
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
