@@ -23,6 +23,10 @@
 > :grass: 
 > :grass: 
 > 
+> **SERVER SHOP**
+> :grass: Added **20+ Stair Blocks** to **"/shop"**.
+> :grass: 
+> 
 > **FARMING**
 > :grass: 
 > 
