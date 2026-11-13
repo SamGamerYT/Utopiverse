@@ -1,6 +1,8 @@
 **Patch/Changes 2.0.23** *[Oneblock]*
 > :grass: Fixed **"/warp tinkerer"**, **"/tinker"** & **"/refineshop"** not working properly.
 > :grass: Fixed **Island Upgrade 250x250** not allowing players to upgrade their island at the required rank.
+> :grass: Added **Voice Chat** tutorial information near **"/spawn"**.
+> :grass: 
 > :grass: 
 > :grass: 
 > :grass: 
