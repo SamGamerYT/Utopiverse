@@ -1,9 +1,9 @@
 **Patch/Changes 8.9.12.00** *(Network Changes)*
-> :shiny: [Survival] Fixed an issue where **Auto Reel** Star wasn't being applied properly above level 5.
+> :shiny: [Survival] Fixed an issue where **Auto Reel** Stars weren't being applied properly above Level 5.
 > :shiny: [Survival] Added **Voice Chat** tutorial information near **"/spawn"**.
-> :shiny: [Survival] Added **Tempfly Reminder** notification.
-> :shiny: [Survival] Added **Protection Stone Filter** button in **"/ps locations"**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added a **Tempfly Reminder** notification.
+> :shiny: [Survival] Added a **Protection Stone Filter** button to **"/ps locations"**.
+> :shiny: [Survival] Fixed an exploit where players could skip **Shearing Sheep Scroll Quests** by shearing sheep inside someone else's Protection Stone.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
