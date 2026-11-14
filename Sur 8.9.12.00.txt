@@ -2,7 +2,7 @@
 > :shiny: [Survival] Fixed an issue where **Auto Reel** Star wasn't being applied properly above level 5.
 > :shiny: [Survival] Added **Voice Chat** tutorial information near **"/spawn"**.
 > :shiny: [Survival] Added **Tempfly Reminder** notification.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Protection Stone Filter** button in **"/ps locations"**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
