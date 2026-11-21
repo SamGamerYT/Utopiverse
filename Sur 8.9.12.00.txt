@@ -84,6 +84,7 @@
 >  
 > **NETWORK**
 > :spaceheart1: [Network] Added **Voice Chat** in **Lobby, Survival & Oneblock** for both **Java Edition** & **Bedrock Edition**.
+> :spaceheart1: [Network] The server resource pack now only supports versions **1.21.6+**.
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
