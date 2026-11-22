@@ -3,7 +3,7 @@
 > :grass: Fixed **Island Upgrade 250x250** not allowing players to upgrade their island at the required rank.
 > :grass: Added **Voice Chat** tutorial information near **"/spawn"**.
 > :grass: Interacting with **Oneblock Start** block at **"/spawn"** will now teleport players to their **oneblock**.
-> :grass: 
+> :grass: Updated the **OneBlock Announcements** with the new **ANNOUNCER** format and updated information for Ranks, Rewards, Teams, Dungeons, Bank, Blacksmith, Refine Shop & Tinkerer.
 > :grass: 
 > :grass: 
 > :grass: 
