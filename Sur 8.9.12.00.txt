@@ -8,7 +8,7 @@
 > :shiny: [Survival] Updated the **Survival Announcements** with information for **Farms**, **Protection Stones**, **Daily Rewards**, **Challenges**, **Submissions** & more.
 > :shiny: [Survival] Added **Spawn World**[https://map.utopiverse.net/spawn] & **Survival World**[https://map.utopiverse.net/survival] Online Map preview.
 > :shiny: [Survival] Added the **"/psmap"** command, allowing players to show or hide specific Protection Stones and toggle their name visibility on the map!
-> :shiny: [Survival] Players can now **Right Click** the **Repair Stones** to open an interface for repairing items.
+> :shiny: [Survival] Players can now **Right Click** or **L2** the **Repair Stones** to open an interface for repairing items.
 > 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
