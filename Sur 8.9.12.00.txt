@@ -7,7 +7,7 @@
 > :shiny: [Survival] Added a **Spawn Map** poster near **"/warp bank"**.
 > :shiny: [Survival] Updated the **Survival Announcements** with information for **Farms**, **Protection Stones**, **Daily Rewards**, **Challenges**, **Submissions** & more.
 > :shiny: [Survival] Added **Spawn World**[https://map.utopiverse.net/spawn] & **Survival World**[https://map.utopiverse.net/survival] Online Map preview.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added the **"/psmap"** command, allowing players to show or hide specific Protection Stones and toggle their name visibility on the map!
 > :shiny: [Survival] 
 > 
 > :shiny: [Survival] 
