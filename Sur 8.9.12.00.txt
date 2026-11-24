@@ -6,7 +6,7 @@
 > :shiny: [Survival] Fixed an exploit where players could skip **Shearing Sheep Scroll Quests** by shearing sheep inside someone else's Protection Stone.
 > :shiny: [Survival] Added a **Spawn Map** poster near **"/warp bank"**.
 > :shiny: [Survival] Updated the **Survival Announcements** with information for **Farms**, **Protection Stones**, **Daily Rewards**, **Challenges**, **Submissions** & more.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Spawn World**[https://map.utopiverse.net/spawn] & **Survival World**[https://map.utopiverse.net/survival] Online Map preview.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > 
