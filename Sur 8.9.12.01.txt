@@ -83,6 +83,7 @@
 > :shiny: [Survival] 
 >  
 > **NETWORK**
+> :spaceheart1: [Network] Fixed **744 models**, significantly improving resource pack loading speeds for **Java Edition** players.
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
