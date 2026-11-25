@@ -1,5 +1,5 @@
 **Patch/Changes 8.9.12.01** *(Network Changes)*
-> :shiny: [Survival] 
+> :shiny: [Survival] Updated the **Furniture Shop** layout & design.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
