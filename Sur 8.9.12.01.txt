@@ -1,6 +1,6 @@
 **Patch/Changes 8.9.12.01** *(Network Changes)*
 > :shiny: [Survival] Updated the **Furniture Shop** layout & design.
-> :shiny: [Survival] 
+> :shiny: [Survival] Fixed a bug with the **[i] Perk** where **Shulker Boxes** weren't displaying properly in **Discord chat**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
