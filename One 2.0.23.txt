@@ -26,8 +26,7 @@
 > :grass: 
 > 
 > **SERVER SHOP**
-> :grass: Added **20+ Stair Blocks** to **"/shop"**.
-> :grass: 
+> :grass: Added **20 Stair Blocks** to **"/shop"**.
 > 
 > **FARMING**
 > :grass: 
