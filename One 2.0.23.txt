@@ -10,7 +10,7 @@
 > :grass: Updated **Monthly Crate** & **Lootboxes** messages.
 > :grass: Fixed an issue where **Vote, Spawner, Lavender, Orchid & Cherry** crates were displaying random feathers.
 > :grass: Updated the guaranteed reward system for **"/cherry"**.
-> :grass: 
+> :grass: Added **10 New Rewards** to the **Cherry Crate**, including **Cherry Equipments, Upgrade Stones, Skill Orbs & Sell Wands**.
 > :grass: 
 > 
 > :grass: 
