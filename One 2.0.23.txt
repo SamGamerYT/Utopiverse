@@ -13,18 +13,6 @@
 > :grass: Added **10 New Rewards** to the **Cherry Crate**, including **Cherry Equipments, Upgrade Stones, Skill Orbs & Sell Wands**.
 > :grass: Updated the **"/trade"** interface with a more modern and Bedrock friendly design.
 > 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> :grass: 
-> 
 > **SERVER SHOP**
 > :grass: Added **20 Stair Blocks** to **"/shop"**.
 > :grass: Added **45 Slab Variants** to **"/shop"**.
@@ -34,9 +22,6 @@
 > :grass: Added **Pink Petals, Golden Dandelion, Bush, Leaf Litter, Wildflowers & Cactus Flower**.
 > :grass: Added **Tuff, Tuff Wall & Cherry Door** and fixed **Mangrove Button, Heartbreak Pottery Sherd & Turtle Scute** not showing up.
 > :grass: Updated the **"/shop"** GUI to match **Survival**, including **Buy Full Inventory**, the **Balance Display** & direct access to the **Black Market Shop**.
-> 
-> **FARMING**
-> :grass: 
 > 
 > **PHASES**
 > :grass: Added the **Sulfur Caves** phase after **Trials Chamber** at **33,000 blocks**. The phase loop now resets at **34,000 blocks**.
@@ -48,32 +33,5 @@
 > :grass: Added **Bowls** to all **Common Mooshrooms Chests** so players can make **Mushroom Stew**.
 > :grass: Added small stacks of **Golden Carrots** to select **Uncommon Desert, Winter & Excavation Chests**.
 > :grass: Updated the **Oneblock Phase Display** colors & shortened the **Block Count** and **Progress** text.
-> 
-> :Sparkles: [Store] 
-> 
-> **DUNGEON**
-> :grass: 
-> 
-> **COAL DUNGEON**
-> :grass: 
-> 
-> **CAVE DUNGEON**
-> :grass: 
-> 
-> **HOLOGRAMS**
-> :grass: 
-> 
-> **ISLAND**
-> :grass: 
-> 
-> **BANK**
-> :grass: 
-> 
-> **BLACKSMITH**
-> :grass: 
-> :grass: 
-> 
-> **REFINESHOP**
-> :grass: 
 >  
 > **[ @Changelogs ]**
