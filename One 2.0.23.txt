@@ -41,6 +41,7 @@
 > :grass: Moved one **Water Bucket** reward to **Uncommon Ocean Chests** and added **Cooked Salmon** to all **Common Ocean Chests**.
 > :grass: Added **Bowls** to all **Common Mooshrooms Chests** so players can make **Mushroom Stew**.
 > :grass: Added small stacks of **Golden Carrots** to select **Uncommon Desert, Winter & Excavation Chests**.
+> :grass: Updated the **Oneblock Phase Display** colors & shortened the **Block Count** and **Progress** text.
 > 
 > :Sparkles: [Store] 
 > 
