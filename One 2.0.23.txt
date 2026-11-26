@@ -29,6 +29,7 @@
 > :grass: Added **20 Stair Blocks** to **"/shop"**.
 > :grass: Added **45 Slab Variants** to **"/shop"**.
 > :grass: Added **Quartz** & **Copper Blocks** subcategories, including **Chiseled Copper** and all **Copper Bulb** variants.
+> :grass: Added **Copper Golem Statues, Lightning Rods, Chains, Lanterns & Shelves** subcategories to **Decorations**.
 > 
 > **FARMING**
 > :grass: 
