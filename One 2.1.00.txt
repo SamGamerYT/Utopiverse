@@ -1,7 +1,7 @@
 **Patch/Changes 2.1.00** *[Oneblock]*
 > :grass: Updated the **Envoy Events** broadcasts & chat messages.
 > :grass: Updated the **Chat Games** broadcasts & chat messages.
-> :grass: 
+> :grass: Fixed an issue where some **Rank Roles** had extra spaces in chat. Rankup messages now have tier-specific colors.
 > :grass: 
 > :grass: 
 > :grass: 
