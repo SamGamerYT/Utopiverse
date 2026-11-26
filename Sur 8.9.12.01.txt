@@ -84,6 +84,7 @@
 >  
 > **NETWORK**
 > :spaceheart1: [Network] Fixed **744 models**, significantly improving resource pack loading speeds for **Java Edition** players.
+> :spaceheart1: [Network] Updated the **Utopiverse Survival Live Map** design. Clicking on a Protection Stone now opens a cleaner, more visually appealing info card.
 > :spaceheart1: [Network] 
 > 
 > **WEBSITE**
