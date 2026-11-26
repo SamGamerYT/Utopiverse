@@ -11,7 +11,7 @@
 > :grass: Fixed an issue where **Vote, Spawner, Lavender, Orchid & Cherry** crates were displaying random feathers.
 > :grass: Updated the guaranteed reward system for **"/cherry"**.
 > :grass: Added **10 New Rewards** to the **Cherry Crate**, including **Cherry Equipments, Upgrade Stones, Skill Orbs & Sell Wands**.
-> :grass: 
+> :grass: Updated the **"/trade"** interface with a more modern and Bedrock friendly design.
 > 
 > :grass: 
 > :grass: 
