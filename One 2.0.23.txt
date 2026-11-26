@@ -27,6 +27,7 @@
 > 
 > **SERVER SHOP**
 > :grass: Added **20 Stair Blocks** to **"/shop"**.
+> :grass: Added **45 Slab Variants** to **"/shop"**.
 > 
 > **FARMING**
 > :grass: 
