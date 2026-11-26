@@ -2,10 +2,10 @@
 > :grass: Fixed **"/warp tinkerer"**, **"/tinker"** & **"/refineshop"** not working properly.
 > :grass: Fixed **Island Upgrade 250x250** not allowing players to upgrade their island at the required rank.
 > :grass: Added **Voice Chat** tutorial information near **"/spawn"**.
-> :grass: Interacting with **Oneblock Start** block at **"/spawn"** will now teleport players to their **oneblock**.
-> :grass: Updated the **OneBlock Announcements** with the new **ANNOUNCER** format and updated information for **Ranks**, **Rewards**, **Teams**, **Dungeons**, **Bank**, **Blacksmith**, **Refine Shop** & **Tinkerer**.
-> :grass: **Blast Furnace** island value has been reduced from **150** to **2**
-> :grass: 
+> :grass: Interacting with the **Oneblock Start** block at **"/spawn"** will now teleport players to their **Oneblock**.
+> :grass: Updated the **OneBlock Announcements** with the new **ANNOUNCER** format and refreshed information for **Ranks**, **Rewards**, **Teams**, **Dungeons**, **Bank**, **Blacksmith**, **Refine Shop** & **Tinkerer**.
+> :grass: Reduced the **Blast Furnace** island value from **150** to **2**.
+> :grass: **Hopper Speed** now matches that of **Survival**.
 > :grass: 
 > :grass: 
 > :grass: 
