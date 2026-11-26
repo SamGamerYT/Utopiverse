@@ -34,6 +34,7 @@
 > 
 > **PHASES**
 > :grass: Added the **Sulfur Caves** phase after **Trials Chamber** at **33,000 blocks**. The phase loop now resets at **34,000 blocks**.
+> :grass: You can now select **Sulfur Caves** in **"/phases"** once your island reaches **33,000 lifetime blocks**. Switching costs **50 XP levels**.
 > 
 > :Sparkles: [Store] 
 > 
