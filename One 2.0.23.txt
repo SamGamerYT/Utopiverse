@@ -31,6 +31,7 @@
 > :grass: Added **Quartz** & **Copper Blocks** subcategories, including **Chiseled Copper** and all **Copper Bulb** variants.
 > :grass: Added **Copper Golem Statues, Lightning Rods, Chains, Lanterns & Shelves** subcategories to **Decorations**.
 > :grass: Added all **17 Candle Variants** to **Miscellaneous**.
+> :grass: Added **Pink Petals, Golden Dandelion, Bush, Leaf Litter, Wildflowers & Cactus Flower**.
 > 
 > **FARMING**
 > :grass: 
