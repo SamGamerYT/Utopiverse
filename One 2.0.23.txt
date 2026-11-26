@@ -8,7 +8,7 @@
 > :grass: **Hopper Speed** now matches that of **Survival**.
 > :grass: Added **20 New Trivia** Questions, increasing the total to **160 Questions**.
 > :grass: Updated **Monthly Crate** & **Lootboxes** messages.
-> :grass: 
+> :grass: Fixed an issue where **Vote, Spawner, Lavender, Orchid & Cherry** crates were displaying random feathers.
 > :grass: 
 > :grass: 
 > :grass: 
