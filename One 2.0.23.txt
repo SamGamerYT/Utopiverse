@@ -9,7 +9,7 @@
 > :grass: Added **20 New Trivia** Questions, increasing the total to **160 Questions**.
 > :grass: Updated **Monthly Crate** & **Lootboxes** messages.
 > :grass: Fixed an issue where **Vote, Spawner, Lavender, Orchid & Cherry** crates were displaying random feathers.
-> :grass: 
+> :grass: Updated the guaranteed reward system for **"/cherry"**.
 > :grass: 
 > :grass: 
 > 
@@ -31,6 +31,9 @@
 > 
 > **FARMING**
 > :grass: 
+> 
+> **PHASES**
+> :grass: Added the **Sulfur Caves** phase after **Trials Chamber** at **33,000 blocks**. The phase loop now resets at **34,000 blocks**.
 > 
 > :Sparkles: [Store] 
 > 
