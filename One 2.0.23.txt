@@ -6,7 +6,7 @@
 > :grass: Updated the **OneBlock Announcements** with the new **ANNOUNCER** format and refreshed information for **Ranks**, **Rewards**, **Teams**, **Dungeons**, **Bank**, **Blacksmith**, **Refine Shop** & **Tinkerer**.
 > :grass: Reduced the **Blast Furnace** island value from **150** to **2**.
 > :grass: **Hopper Speed** now matches that of **Survival**.
-> :grass: 
+> :grass: Added **20 New Trivia** Questions, increasing the total to **160 Questions**.
 > :grass: 
 > :grass: 
 > :grass: 
