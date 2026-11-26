@@ -35,6 +35,12 @@
 > **PHASES**
 > :grass: Added the **Sulfur Caves** phase after **Trials Chamber** at **33,000 blocks**. The phase loop now resets at **34,000 blocks**.
 > :grass: You can now select **Sulfur Caves** in **"/phases"** once your island reaches **33,000 lifetime blocks**. Switching costs **50 XP levels**.
+> :grass: Added five **Sulfur Caves** chest layouts with **Sulfur**, **Cinnabar**, and supplies. The **Rarer Chest** includes the **Bounce Music Disc**.
+> :grass: Fixed **Trials Chamber** showing **Ancient City** in the phase.
+> :grass: Added food and torches to all **Common Plains Chests**. **Totems of Undying** are still available in **Epic Plains Chests**.
+> :grass: Moved one **Water Bucket** reward to **Uncommon Ocean Chests** and added **Cooked Salmon** to all **Common Ocean Chests**.
+> :grass: Added **Bowls** to all **Common Mooshrooms Chests** so players can make **Mushroom Stew**.
+> :grass: Added small stacks of **Golden Carrots** to select **Uncommon Desert, Winter & Excavation Chests**.
 > 
 > :Sparkles: [Store] 
 > 
