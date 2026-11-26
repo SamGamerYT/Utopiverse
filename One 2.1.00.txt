@@ -1,6 +1,6 @@
 **Patch/Changes 2.1.00** *[Oneblock]*
 > :grass: Updated the **Envoy Events** broadcasts & chat messages.
-> :grass: 
+> :grass: Updated the **Chat Games** broadcasts & chat messages.
 > :grass: 
 > :grass: 
 > :grass: 
