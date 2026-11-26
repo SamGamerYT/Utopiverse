@@ -7,7 +7,7 @@
 > :grass: Reduced the **Blast Furnace** island value from **150** to **2**.
 > :grass: **Hopper Speed** now matches that of **Survival**.
 > :grass: Added **20 New Trivia** Questions, increasing the total to **160 Questions**.
-> :grass: 
+> :grass: Updated **Monthly Crate** & **Lootboxes** messages.
 > :grass: 
 > :grass: 
 > :grass: 
