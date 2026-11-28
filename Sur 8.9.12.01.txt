@@ -2,7 +2,7 @@
 > :shiny: [Survival] Updated the **Furniture Shop** layout & design.
 > :shiny: [Survival] Fixed a bug with the **[i] Perk** where **Shulker Boxes** weren't displaying properly in **Discord chat**.
 > :shiny: [Survival] Fixed **Clan Information** not displaying properly on the **Scoreboard**.
-> :shiny: [Survival] 
+> :shiny: [Survival] Added **Live World Map** information in front of the **Bank Zone**.
 > :shiny: [Survival] 
 > :shiny: [Survival] 
 > :shiny: [Survival] 
